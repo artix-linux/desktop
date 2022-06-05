@@ -2161,6 +2161,11 @@
       "branch": "master",
       "revision": "73cd6ecb0580ca6f790306f4c4ec043469543e53"
     },
+    "libdwarf": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdwarf.git",
+      "branch": "master",
+      "revision": "d4c23da7ff62168c6595598da5c4fc797b307369"
+    },
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
       "branch": "master",
