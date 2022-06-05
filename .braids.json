@@ -376,6 +376,11 @@
       "branch": "master",
       "revision": "4d3dd99c741320b6eb543c068f285af149d615d1"
     },
+    "evolution": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/evolution.git",
+      "branch": "master",
+      "revision": "554fd3e8bc9c1b910571cfdaa94b7fb2a8418035"
+    },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
