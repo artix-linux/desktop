@@ -3186,6 +3186,11 @@
       "branch": "master",
       "revision": "8a87157e64bef478ffc1dd7d08c0951f699c8289"
     },
+    "mate-user-share": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-user-share.git",
+      "branch": "master",
+      "revision": "13dc24d3777ed6361ea1c6371bdca37910d0a4bb"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
