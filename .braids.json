@@ -2756,6 +2756,11 @@
       "branch": "master",
       "revision": "d2e1d58d9686b00ef5efc01009b54b096e5b665d"
     },
+    "neovim-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/neovim-qt.git",
+      "branch": "master",
+      "revision": "02485c85f113f63be6e9b37b8a8b789b8ad77bc3"
+    },
     "network-manager-applet": {
       "url": "gitea@gitea.artixlinux.org:packagesN/network-manager-applet.git",
       "branch": "master",
