@@ -1826,6 +1826,11 @@
       "branch": "master",
       "revision": "27fa27755a50e91f7b8456a4904d6b2365d32305"
     },
+    "picmi": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/picmi.git",
+      "branch": "master",
+      "revision": "5dadd54f387eeb45c8aef20c81fca201937c1749"
+    },
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
