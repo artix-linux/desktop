@@ -276,6 +276,11 @@
       "branch": "master",
       "revision": "c9c519d24f67d4b49c8839c7769ae4bb79eaabb0"
     },
+    "cinnamon-desktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-desktop.git",
+      "branch": "master",
+      "revision": "8a622ffb430825914b2d3f4a34a61de04daf1971"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
