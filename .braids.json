@@ -3211,6 +3211,11 @@
       "branch": "master",
       "revision": "f2f00757a497e24b7e3c1a3703f2d3e8b806b68d"
     },
+    "signon-plugin-oauth2": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/signon-plugin-oauth2.git",
+      "branch": "master",
+      "revision": "721550332563236381498eb4047e4b91969ff050"
+    },
     "signond": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signond.git",
       "branch": "master",
