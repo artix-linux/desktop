@@ -4756,6 +4756,11 @@
       "branch": "master",
       "revision": "c066bb5e5df39d3a6669d007e0ce3b88b5549ae3"
     },
+    "xfce4-terminal": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-terminal.git",
+      "branch": "master",
+      "revision": "b81708e4d1408eec21eb237803fd1fe37c4a33e5"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
