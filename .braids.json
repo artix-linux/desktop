@@ -4616,6 +4616,11 @@
       "branch": "master",
       "revision": "e000e51f8e1d9ba4c266c54f78a766943734ffd0"
     },
+    "xfce4-battery-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-battery-plugin.git",
+      "branch": "master",
+      "revision": "c2776b12be14b6988feeef44e0b40c984ee1209f"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
