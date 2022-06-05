@@ -946,6 +946,11 @@
       "branch": "master",
       "revision": "17918da0eb3567cc81de7f285807f267d0895816"
     },
+    "gpicview": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gpicview.git",
+      "branch": "master",
+      "revision": "242103d94ca2cce0b6176785e740543e73b19ee9"
+    },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
