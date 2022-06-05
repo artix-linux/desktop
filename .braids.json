@@ -226,6 +226,11 @@
       "branch": "master",
       "revision": "09c890a0530542f3715a9315a7ca5aee579d36bb"
     },
+    "gdal": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
+      "branch": "master",
+      "revision": "54053310604b4bc78734a655b8e78f2491d5efef"
+    },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
