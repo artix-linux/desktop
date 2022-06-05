@@ -2871,6 +2871,11 @@
       "branch": "master",
       "revision": "56ccf3bde1f2378c5c51d56346b2382aa398ad6b"
     },
+    "lxqt-powermanagement": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-powermanagement.git",
+      "branch": "master",
+      "revision": "40d5b9d0c5111fe121850adf724f6e0e92022d4e"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
