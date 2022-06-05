@@ -2146,6 +2146,11 @@
       "branch": "master",
       "revision": "b4ac3691f612bffb20f911adb20fdee5807acfe9"
     },
+    "libcloudproviders": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libcloudproviders.git",
+      "branch": "master",
+      "revision": "6693966872d791651b16f6402c5bac58063db5e8"
+    },
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
       "branch": "master",
