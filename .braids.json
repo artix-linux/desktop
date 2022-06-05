@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "8e66b4aa43ed6f54688b0532aaf0003c61e9f35d"
     },
+    "gnome-robots": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-robots.git",
+      "branch": "master",
+      "revision": "eff7941eb90d889df23bc48bcd76158f2d5d25fe"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
