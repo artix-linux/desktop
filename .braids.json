@@ -6,6 +6,11 @@
       "branch": "master",
       "revision": "aa7342c90e0d5052b8aa57c0ae2842fd3a6cb7b9"
     },
+    "akonadi": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akonadi.git",
+      "branch": "master",
+      "revision": "4430a16964e0f1809db4d4eba3e90d7cd16effa0"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
