@@ -2131,6 +2131,11 @@
       "branch": "master",
       "revision": "b7579bf1ee1de49c584d7904d9722a40ea94044b"
     },
+    "libadwaita": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libadwaita.git",
+      "branch": "master",
+      "revision": "b54ed5be5fccc67cf33096a4830806ccc330891c"
+    },
     "libchewing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libchewing.git",
       "branch": "master",
