@@ -306,6 +306,11 @@
       "branch": "master",
       "revision": "01c6b6e9b0d3ade39f19f229dffe00ab7b6437b6"
     },
+    "chrono-date": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/chrono-date.git",
+      "branch": "master",
+      "revision": "ad727ec39bd538c850d54986bbf93bb652720d32"
+    },
     "cinnamon": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon.git",
       "branch": "master",
