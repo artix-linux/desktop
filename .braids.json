@@ -15,6 +15,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesB/bluez-qt.git",
       "branch": "master",
       "revision": "261a230fa336e21117df61146b1cbfd18e184729"
+    },
+    "breeze-icons": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/breeze-icons.git",
+      "branch": "master",
+      "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
     }
   }
 }
