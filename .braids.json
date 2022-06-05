@@ -4001,6 +4001,11 @@
       "branch": "master",
       "revision": "bf07d2a5fe7d6c09a4093fa7114cad390baa8a69"
     },
+    "seatd": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/seatd.git",
+      "branch": "master",
+      "revision": "04b346322ccaa0fbea6bed370cbd38b9187c327d"
+    },
     "shapelib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/shapelib.git",
       "branch": "master",

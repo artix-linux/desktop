@@ -1,0 +1,46 @@
+# Maintainer: Brett Cornwall <ainola@archlinux.org>
+
+pkgname=seatd
+pkgver=0.6.4
+pkgrel=2
+pkgdesc="A minimal seat management daemon, and a universal seat management library"
+arch=(x86_64)
+url="https://sr.ht/~kennylevinsen/seatd/"
+license=('MIT')
+provides=("libseat.so")
+replaces=("libseat")
+makedepends=(
+    'meson'
+    'ninja'
+    'scdoc'
+    'elogind'
+)
+depends=('libelogind')
+source=("$pkgname-$pkgver.tar.gz::https://git.sr.ht/~kennylevinsen/seatd/archive/$pkgver.tar.gz"
+        "seatd.conf")
+options=(debug)
+sha256sums=('3d4ac288114219ba7721239cafee7bfbeb7cf8e1e7fd653602a369e4ad050bd8'
+            '65f5b50e0f1bf51e5d6ad763a399c87499bf697d0373ebd990164d0cda0a2dd4')
+
+build() {
+    mkdir build
+    meson --prefix=/usr \
+          --buildtype=plain \
+          -Dexamples="disabled" \
+          -Dserver="enabled" \
+          -Dlibseat-logind="elogind" \
+          -Dman-pages="enabled" \
+          "seatd-$pkgver" \
+          build
+    ninja -C build
+}
+
+check() {
+    ninja -C build test
+}
+
+package() {
+    DESTDIR="$pkgdir/" ninja -C build install
+    install -Dm644 "seatd-$pkgver/LICENSE" -t "$pkgdir/usr/share/licenses/$pkgname/"
+    install -Dm644 "$srcdir"/seatd.conf -t "$pkgdir"/usr/lib/sysusers.d
+}
