@@ -666,6 +666,11 @@
       "branch": "master",
       "revision": "5bf6582bcfcf023109f293d85a0e0079d1c0a23e"
     },
+    "gnome-klotski": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-klotski.git",
+      "branch": "master",
+      "revision": "dde0e3b2d9e605e4075bf3ce1c3e4d879749dde4"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
