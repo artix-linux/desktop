@@ -716,6 +716,11 @@
       "branch": "master",
       "revision": "24909e32b41cafad710bf19b0335fcb02d560e9e"
     },
+    "gnome-online-miners": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-miners.git",
+      "branch": "master",
+      "revision": "447c6929621c5fcc8a675d483c2f0711eaa3f30f"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
