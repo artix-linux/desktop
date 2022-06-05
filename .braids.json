@@ -136,6 +136,11 @@
       "branch": "master",
       "revision": "261a230fa336e21117df61146b1cbfd18e184729"
     },
+    "bomber": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bomber.git",
+      "branch": "master",
+      "revision": "57f2b9f4340c479ec3a25b8ae4de5d7622e238c4"
+    },
     "breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze.git",
       "branch": "master",
