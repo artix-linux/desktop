@@ -136,6 +136,11 @@
       "branch": "master",
       "revision": "5a3c39a2a7d8316c7b455d3521b37839293ae720"
     },
+    "kbackup": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kbackup.git",
+      "branch": "master",
+      "revision": "9243e86456e296636e661b40b40f40831875e41f"
+    },
     "kbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
       "branch": "master",
