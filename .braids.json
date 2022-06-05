@@ -3106,6 +3106,11 @@
       "branch": "master",
       "revision": "213b17fb9c8095c51c0b5b24574362497ca949d0"
     },
+    "qpdfview": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qpdfview.git",
+      "branch": "master",
+      "revision": "a6b3b62915b88185dc5b20502f1f9a0b8977d0de"
+    },
     "qqc2-desktop-style": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qqc2-desktop-style.git",
       "branch": "master",
