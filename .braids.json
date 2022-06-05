@@ -156,6 +156,11 @@
       "branch": "master",
       "revision": "2f5ccf3bbd5d98fad10af8395379b6bd36ccb0a6"
     },
+    "artix-dark-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-dark-theme.git",
+      "branch": "master",
+      "revision": "9608a1126aef01f7b6a5d559e077fab313ea7613"
+    },
     "artix-i3-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-i3-presets.git",
       "branch": "master",
