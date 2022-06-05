@@ -1,0 +1,75 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Contributor: Ionut Biru <ibiru@archlinux.org>
+
+pkgbase=colord-gtk
+pkgname=(colord-gtk-common colord-gtk colord-gtk4)
+pkgver=0.3.0
+pkgrel=2
+pkgdesc="Additional GTK support code for colord"
+url="https://www.freedesktop.org/software/colord/"
+arch=(x86_64)
+license=(GPL2)
+makedepends=(gobject-introspection vala gtk-doc git docbook-utils docbook-xsl
+             meson lcms2 colord gtk3 gtk4)
+options=(debug)
+_commit=9a2c7f7cb168cd46cb1e163df35e734c7beb3b70  # tags/0.3.0^0
+source=("git+https://github.com/hughsie/colord-gtk#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd $pkgbase
+  git describe --tags | sed 's/^COLORD_GTK_//;s/_/./g;s/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd $pkgbase
+}
+
+build() {
+  artix-meson $pkgbase build -D vapi=true
+  meson compile -C build
+}
+
+_pick() {
+  local p="$1" f d; shift
+  for f; do
+    d="$srcdir/$p/${f#$pkgdir/}"
+    mkdir -p "$(dirname "$d")"
+    mv "$f" "$d"
+    rmdir -p --ignore-fail-on-non-empty "$(dirname "$f")"
+  done
+}
+
+package_colord-gtk-common() {
+  pkgdesc+=" (common files)"
+  depends=(lcms2 colord)
+
+  meson install -C build --destdir "$pkgdir"
+
+  cd "$pkgdir"
+
+  _pick gtk3 usr/bin/cd-convert
+  _pick gtk3 usr/lib/libcolord-gtk.so*
+  _pick gtk3 usr/lib/pkgconfig/colord-gtk.pc
+
+  _pick gtk4 usr/lib/libcolord-gtk4.so*
+  _pick gtk4 usr/lib/pkgconfig/colord-gtk4.pc
+}
+
+package_colord-gtk() {
+  pkgdesc="${pkgdesc/GTK/GTK3}"
+  depends=(colord-gtk-common="$pkgver-$pkgrel" gtk3)
+  provides=(libcolord-gtk.so)
+
+  mv gtk3/* "$pkgdir"
+}
+
+package_colord-gtk4() {
+  pkgdesc="${pkgdesc/GTK/GTK4}"
+  depends=(colord-gtk-common="$pkgver-$pkgrel" gtk4)
+  provides=(libcolord-gtk4.so)
+
+  mv gtk4/* "$pkgdir"
+}
+
+# vim:set sw=2 et:

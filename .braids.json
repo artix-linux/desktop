@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "de062e5ec5b0c0622057cbf2a530b8f4f467273f"
     },
+    "colord-gtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/colord-gtk.git",
+      "branch": "master",
+      "revision": "95644e191ce73f0d32fbad596bef136502b9a8cb"
+    },
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
