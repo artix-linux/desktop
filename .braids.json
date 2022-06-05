@@ -3141,6 +3141,11 @@
       "branch": "master",
       "revision": "3a2343ad20e2d0b959188190919883a5a49d5559"
     },
+    "mate-power-manager": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-power-manager.git",
+      "branch": "master",
+      "revision": "0418150c878f579eaa5dcc12d5eb06fb218a715d"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
