@@ -2726,6 +2726,11 @@
       "branch": "master",
       "revision": "76d02963806b1bb1ea6915d3de4552d39cd23147"
     },
+    "lxappearance": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxappearance.git",
+      "branch": "master",
+      "revision": "b2fb373c3f75ecfcabc87b16553c3331a57efac0"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
