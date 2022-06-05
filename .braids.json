@@ -786,6 +786,11 @@
       "branch": "master",
       "revision": "e2340d203b185827278c59c232c62fc543b601d0"
     },
+    "gnome-system-monitor": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-system-monitor.git",
+      "branch": "master",
+      "revision": "f7ccc6442794cfb0ca211d66db17a5dc9f5ecd81"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
