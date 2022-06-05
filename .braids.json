@@ -80,6 +80,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kcodecs.git",
       "branch": "master",
       "revision": "b3595cac0034262369c664b8171796ce8eacdb44"
+    },
+    "kcompletion": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kcompletion.git",
+      "branch": "master",
+      "revision": "952ab8eae6096b661a6a03dd9adadaf7c80c37b9"
     }
   }
 }
