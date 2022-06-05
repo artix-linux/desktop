@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "4b39fbc9e0e70cebf9be78871a08bb4818f8d94d"
     },
+    "hexer-hobu": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
+      "branch": "master",
+      "revision": "f51b60572292b0a54d8c7ba07a5793faa2b597f9"
+    },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
