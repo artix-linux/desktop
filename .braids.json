@@ -916,6 +916,11 @@
       "branch": "master",
       "revision": "4bcd5fb549258cd9ad89e3acad5c6ab542eb7e22"
     },
+    "gsmartcontrol": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gsmartcontrol.git",
+      "branch": "master",
+      "revision": "514aa012bb11c15a9e6051a49c048e4a7edafa71"
+    },
     "gsound": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gsound.git",
       "branch": "master",
