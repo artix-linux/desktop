@@ -1,0 +1,2 @@
+# lxde-icon-theme
+

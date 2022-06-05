@@ -2746,6 +2746,11 @@
       "branch": "master",
       "revision": "7c3788afedea3b62744a6789654a005335e187d8"
     },
+    "lxde-icon-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxde-icon-theme.git",
+      "branch": "master",
+      "revision": "a03d5c7f96aeb82f2d4947037fd436cc7abb5df4"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
