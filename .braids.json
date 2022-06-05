@@ -2246,6 +2246,11 @@
       "branch": "master",
       "revision": "a5979de7f2edf336483f5e14327fd24c25f3e131"
     },
+    "libaccounts-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libaccounts-qt.git",
+      "branch": "master",
+      "revision": "919601dca3cc82262b049ab04d19d126e46e19d7"
+    },
     "libadwaita": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libadwaita.git",
       "branch": "master",
