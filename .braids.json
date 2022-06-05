@@ -4621,6 +4621,11 @@
       "branch": "master",
       "revision": "c2776b12be14b6988feeef44e0b40c984ee1209f"
     },
+    "xfce4-clipman-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-clipman-plugin.git",
+      "branch": "master",
+      "revision": "ea50980dbfb150272779d07686934adbab67b8fd"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
