@@ -1141,6 +1141,11 @@
       "branch": "master",
       "revision": "eae59437a70da4c6de0fead153d088bc0f234169"
     },
+    "libgeotiff": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgeotiff.git",
+      "branch": "master",
+      "revision": "152616e96c80bfb9d6267a2d1317ce49e630c554"
+    },
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
