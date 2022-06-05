@@ -1,0 +1,2 @@
+# libreoffice-extension-texmaths
+
