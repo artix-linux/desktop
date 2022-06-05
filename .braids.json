@@ -2861,6 +2861,11 @@
       "branch": "master",
       "revision": "546c6b7ec67a7b25918ec7dbd4b96aa5efd2d40b"
     },
+    "lxqt-panel": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-panel.git",
+      "branch": "master",
+      "revision": "58e0b8ab13ee2c6066866874344ff4995b725e00"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
