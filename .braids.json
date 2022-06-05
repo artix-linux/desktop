@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "74de32b5983f00be4cf850547483220b36e34fd4"
     },
+    "akregator": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akregator.git",
+      "branch": "master",
+      "revision": "a2e16806820ca1bd7abf96c6e692d6d3a915783f"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
