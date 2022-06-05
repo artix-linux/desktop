@@ -806,6 +806,11 @@
       "branch": "master",
       "revision": "5ee1fc9f8ab601de47cc6e407fe90e39f8d3726f"
     },
+    "kipi-plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kipi-plugins.git",
+      "branch": "master",
+      "revision": "296547286938129966e4949902a37f3b700f2f73"
+    },
     "kirigami-gallery": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami-gallery.git",
       "branch": "master",
