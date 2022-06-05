@@ -2491,6 +2491,11 @@
       "branch": "master",
       "revision": "afcf7526899d07d9bca819e17ea10c9ca02e3c8d"
     },
+    "luaexpat": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/luaexpat.git",
+      "branch": "master",
+      "revision": "b90ed88a38af688d22cddf8134f6b250a6e504b1"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
