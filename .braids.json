@@ -2681,6 +2681,11 @@
       "branch": "master",
       "revision": "3b330ce32d0c91d8cfdeacb28225e114059a0164"
     },
+    "pam_wrapper": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pam_wrapper.git",
+      "branch": "master",
+      "revision": "e2cee77854f12e99100896479facca952bd85461"
+    },
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
       "branch": "master",
