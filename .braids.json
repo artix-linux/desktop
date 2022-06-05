@@ -1131,6 +1131,11 @@
       "branch": "master",
       "revision": "14298380ab6b7c1fed491af8103d0350413bb4ba"
     },
+    "iso-flag-png": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/iso-flag-png.git",
+      "branch": "master",
+      "revision": "2be8c0a01c3215e9c2facae757d2f1d598671353"
+    },
     "itinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
       "branch": "master",
