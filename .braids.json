@@ -311,6 +311,11 @@
       "branch": "master",
       "revision": "fe5995a4218200f7e02568c821d18210ce763ea1"
     },
+    "kfind": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kfind.git",
+      "branch": "master",
+      "revision": "00ef771ad5a6406fe70943a0b49e16af6ca1448a"
+    },
     "kgamma5": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgamma5.git",
       "branch": "master",
