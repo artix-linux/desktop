@@ -175,6 +175,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kglobalaccel.git",
       "branch": "master",
       "revision": "606eb54bf488832bc76baaa6ab22cf6e3a7e8577"
+    },
+    "kguiaddons": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kguiaddons.git",
+      "branch": "master",
+      "revision": "4edc4ec38d98814549c00af12d4ac8c53805a79a"
     }
   }
 }
