@@ -286,6 +286,11 @@
       "branch": "master",
       "revision": "9aa3e80d5896c0a9e5ba832fd36e12466c1ac5c6"
     },
+    "cinnamon-screensaver": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-screensaver.git",
+      "branch": "master",
+      "revision": "6f0ce70d26302833c8328681b8c08326e2d40e90"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
