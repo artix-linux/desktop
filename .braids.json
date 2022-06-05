@@ -3171,6 +3171,11 @@
       "branch": "master",
       "revision": "812419c9dc5e9cb5e3110a030b805ce3dd125e2c"
     },
+    "template-glib": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
+      "branch": "master",
+      "revision": "00a4b15f9b4cf918b1621adb517fb4698f27775d"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
