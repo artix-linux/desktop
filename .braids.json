@@ -3126,6 +3126,11 @@
       "branch": "master",
       "revision": "ce74e76b28663febd7ef36777c8be82a0a83074c"
     },
+    "mate-notification-daemon": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-notification-daemon.git",
+      "branch": "master",
+      "revision": "7e76f58afec367843fe72a54f5980b77535a80eb"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",

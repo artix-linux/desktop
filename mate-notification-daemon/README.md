@@ -1,0 +1,2 @@
+# mate-notification-daemon
+
