@@ -21,6 +21,11 @@
       "branch": "master",
       "revision": "52061868eb612d8c9a28f6fd0c2e62454437f83d"
     },
+    "baloo-widgets": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/baloo-widgets.git",
+      "branch": "master",
+      "revision": "5908e4feedc06cd01ae88661c90b7735b6c2de50"
+    },
     "bluedevil": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bluedevil.git",
       "branch": "master",
