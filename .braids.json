@@ -3091,6 +3091,11 @@
       "branch": "master",
       "revision": "24c362fda60c099c092dc40c52e2352613cb77a7"
     },
+    "tali": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tali.git",
+      "branch": "master",
+      "revision": "947b1918cc53f671b1ec0c5d9a3fbc7c18b98793"
+    },
     "telepathy-kde-accounts-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-accounts-kcm.git",
       "branch": "master",

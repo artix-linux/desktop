@@ -1,0 +1,39 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Contributor: Jan de Groot <jgc@archlinux.org>
+
+pkgname=tali
+pkgver=40.7
+pkgrel=1
+pkgdesc="Beat the odds in a poker-style dice game"
+url="https://wiki.gnome.org/Apps/Tali"
+arch=(x86_64)
+license=(GPL)
+depends=(gtk3 librsvg libgnome-games-support)
+makedepends=(meson gobject-introspection yelp-tools appstream-glib git)
+groups=(gnome-extra)
+options=(debug)
+_commit=5c05e7f6f0e6c7d33c5a7136ed8174473b01693a  # tags/40.7^0
+source=("git+https://gitlab.gnome.org/GNOME/tali.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd tali
+  git describe --tags | sed 's/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd tali
+}
+
+build() {
+  artix-meson tali build
+  meson compile -C build
+}
+
+check() {
+  meson test -C build --print-errorlogs
+}
+
+package() {
+  meson install -C build --destdir "$pkgdir"
+}
