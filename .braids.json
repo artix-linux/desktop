@@ -375,6 +375,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesN/networkmanager-qt.git",
       "branch": "master",
       "revision": "3105e53375e690a500ce9228fc9301e4eec3b841"
+    },
+    "oxygen-icons": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-icons.git",
+      "branch": "master",
+      "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
     }
   }
 }
