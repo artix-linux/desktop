@@ -1,0 +1,26 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+
+pkgbase=artix-artwork
+pkgname=('artix-icons' 'artix-backgrounds')
+pkgver=0.8.6
+pkgrel=3
+arch=('any')
+url="https://gitea.artixlinux.org/artix/artwork"
+license=('GPL')
+source=("${pkgbase}-${pkgver}.tar.gz::$url/archive/${pkgver}.tar.gz")
+groups=('artix-branding')
+sha256sums=('94d4959df8345865e74cc9a7e8b63cdd4479af24339813522e03254f14d4285e')
+
+package_artix-backgrounds(){
+    pkgdesc='Artix backgrounds'
+
+    cd artwork #-${pkgver}
+    make PREFIX=/usr DESTDIR=${pkgdir} install_backgrounds
+}
+
+package_artix-icons(){
+    pkgdesc='Artix icons'
+
+    cd artwork #-${pkgver}
+    make PREFIX=/usr DESTDIR=${pkgdir} install_icons install_logo
+}
