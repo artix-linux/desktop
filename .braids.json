@@ -601,6 +601,11 @@
       "branch": "master",
       "revision": "3a543c8dc28fc67fb0f80c8f22e79620823497d1"
     },
+    "gnome-color-manager": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-color-manager.git",
+      "branch": "master",
+      "revision": "9585d39ed6a06a85e649ca26fd9d4b88ee3dd32d"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
