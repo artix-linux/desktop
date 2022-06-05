@@ -1345,6 +1345,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
       "branch": "master",
       "revision": "9b27447f319fcf81f20e534a0dcb9b90417b4e67"
+    },
+    "zxing-cpp": {
+      "url": "gitea@gitea.artixlinux.org:packagesZ/zxing-cpp.git",
+      "branch": "master",
+      "revision": "ac8e2082685ddc2c39f5702f3a0480ce8c7564f2"
     }
   }
 }
