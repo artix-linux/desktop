@@ -2446,6 +2446,11 @@
       "branch": "master",
       "revision": "09c930afa1f19bb0e4542d663b9004865f2921f0"
     },
+    "libvirt-glib": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libvirt-glib.git",
+      "branch": "master",
+      "revision": "38de4774c8ef7bd161de6527dfb87afe0d6882bc"
+    },
     "libwlocate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libwlocate.git",
       "branch": "master",
