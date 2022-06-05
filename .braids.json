@@ -4696,6 +4696,11 @@
       "branch": "master",
       "revision": "92e66efd956d4726eee674317dc4bee4fb058a2c"
     },
+    "xfce4-notifyd": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-notifyd.git",
+      "branch": "master",
+      "revision": "11df734ec60b762deee6de925c0bc662cc5c9116"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
