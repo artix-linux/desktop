@@ -2956,6 +2956,11 @@
       "branch": "master",
       "revision": "90dbe2da5c4978d8303b00391f4860836d03af89"
     },
+    "shared-color-targets": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/shared-color-targets.git",
+      "branch": "master",
+      "revision": "d291d7937a4445d450aa64d62da8a6a649e80ee2"
+    },
     "shiboken2": {
       "url": "gitea@gitea.artixlinux.org:packagesS/shiboken2.git",
       "branch": "master",
