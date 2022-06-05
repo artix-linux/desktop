@@ -20,6 +20,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-icons.git",
       "branch": "master",
       "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
+    },
+    "editorconfig-core-c": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git",
+      "branch": "master",
+      "revision": "19e434e5a28677e33f6accede2a3d112d487d049"
     }
   }
 }

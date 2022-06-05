@@ -1,0 +1,28 @@
+# Maintainer: Antonio Rojas <arojas@archlinux.org>
+# Contributor: Matt Harrison <matt@harrison.us.com>
+# Contributor: Erik van der Kolk <developer at smerik dot nl>
+# Contributor: Hong Xu
+
+pkgname=editorconfig-core-c
+pkgver=0.12.5
+pkgrel=1
+pkgdesc='EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)'
+arch=(x86_64)
+url='https://github.com/editorconfig/editorconfig-core-c'
+license=(BSD)
+depends=(pcre2)
+makedepends=(cmake doxygen)
+source=(https://github.com/editorconfig/$pkgname/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+sha256sums=('b2b212e52e7ea6245e21eaf818ee458ba1c16117811a41e4998f3f2a1df298d2')
+
+build() {
+  cmake -B build -S $pkgname-$pkgver \
+      -DCMAKE_INSTALL_PREFIX=/usr
+  cmake --build build
+}
+
+package() {
+  DESTDIR="$pkgdir" cmake --install build
+
+  install -Dm644 $pkgname-$pkgver/LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname
+}
