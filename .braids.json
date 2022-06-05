@@ -3126,6 +3126,11 @@
       "branch": "master",
       "revision": "b22d9daf6e946e3a2932d69a112da533219b7c46"
     },
+    "qtcreator": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qtcreator.git",
+      "branch": "master",
+      "revision": "dddae4065e34181d57e79d262939d64184ad7d28"
+    },
     "quadrapassel": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/quadrapassel.git",
       "branch": "master",
