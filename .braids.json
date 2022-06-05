@@ -2211,6 +2211,11 @@
       "branch": "master",
       "revision": "666112418532db0ea84b192c8b45876e292a6040"
     },
+    "libgnomekbd": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgnomekbd.git",
+      "branch": "master",
+      "revision": "1c18e67699dbb6cddc78d80897f135613cc76eb2"
+    },
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
