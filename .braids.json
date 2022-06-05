@@ -1396,6 +1396,11 @@
       "branch": "master",
       "revision": "637a1235eface233bbb07cc506aa62b8d0f10a4f"
     },
+    "ktuberling": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktuberling.git",
+      "branch": "master",
+      "revision": "7d13736ddf5a6ff03c8f771ccee154d8731b2c66"
+    },
     "kturtle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kturtle.git",
       "branch": "master",
