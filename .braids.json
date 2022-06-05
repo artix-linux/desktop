@@ -476,6 +476,11 @@
       "branch": "master",
       "revision": "e0ae779827ee3919195928731f270d87e19ab4b0"
     },
+    "colordiff": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/colordiff.git",
+      "branch": "master",
+      "revision": "ddf712e59681144755014f43e11a6600c76c1dfa"
+    },
     "conky": {
       "url": "gitea@gitea.artixlinux.org:packagesC/conky.git",
       "branch": "master",
