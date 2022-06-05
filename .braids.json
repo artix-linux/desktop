@@ -3136,6 +3136,11 @@
       "branch": "master",
       "revision": "e848d866ecb27fb60cc9bd7b57c6e16cf3fec830"
     },
+    "libtommath": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libtommath.git",
+      "branch": "master",
+      "revision": "e64a2e95d07549fd9c1e74a9b5fd35205c536cda"
+    },
     "libvirt-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvirt-glib.git",
       "branch": "master",
