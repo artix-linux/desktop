@@ -941,6 +941,11 @@
       "branch": "master",
       "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
     },
+    "iagno": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/iagno.git",
+      "branch": "master",
+      "revision": "c341d433e965fdb93dcedcedc0d613a926842ae1"
+    },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
