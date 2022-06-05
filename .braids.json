@@ -35,6 +35,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
       "revision": "09c890a0530542f3715a9315a7ca5aee579d36bb"
+    },
+    "kactivities": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
+      "branch": "master",
+      "revision": "0528824ac151c59bab63665e0061ca47827d0c62"
     }
   }
 }
