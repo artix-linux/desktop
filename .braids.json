@@ -341,6 +341,11 @@
       "branch": "master",
       "revision": "99776e658c9d7ef3279201cbf283daa015949d74"
     },
+    "kmenuedit": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmenuedit.git",
+      "branch": "master",
+      "revision": "36bffa684ae1336e3e04583198c43146a4e352e5"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
