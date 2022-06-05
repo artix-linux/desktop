@@ -4721,6 +4721,11 @@
       "branch": "master",
       "revision": "9d2c24e1f9a26ced7a023a5853eb849e5b71d399"
     },
+    "xfce4-screenshooter": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screenshooter.git",
+      "branch": "master",
+      "revision": "3900b6701fd88af25cd9b3f5eb8aa4c4057fc224"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
