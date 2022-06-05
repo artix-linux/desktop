@@ -511,6 +511,11 @@
       "branch": "master",
       "revision": "2bf3e124c0ebf6f1e313d3cc935a9223e5520fdd"
     },
+    "ghex": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/ghex.git",
+      "branch": "master",
+      "revision": "54afec510aa12a87d04ebce0197e9d3537d39e42"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
