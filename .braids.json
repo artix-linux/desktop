@@ -2151,6 +2151,11 @@
       "branch": "master",
       "revision": "6693966872d791651b16f6402c5bac58063db5e8"
     },
+    "libdazzle": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdazzle.git",
+      "branch": "master",
+      "revision": "aa17d56443cd46e08fe03c89a257020260643f57"
+    },
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
       "branch": "master",
