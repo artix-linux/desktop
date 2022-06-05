@@ -1301,6 +1301,11 @@
       "branch": "master",
       "revision": "353678e72631d1e1eacca25af3691a8aed2d9848"
     },
+    "mmtf-cpp": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mmtf-cpp.git",
+      "branch": "master",
+      "revision": "513da6408e9575af3d26bdf419c9dd477c93f40a"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
