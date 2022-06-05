@@ -1906,6 +1906,11 @@
       "branch": "master",
       "revision": "bb3b19a7dbd1b8cafc3457a78c3aa102d235cda6"
     },
+    "telepathy-kde-desktop-applets": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-desktop-applets.git",
+      "branch": "master",
+      "revision": "de29eebfe2ce93fe48ecf3c05834f37dd89d835c"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
