@@ -4451,6 +4451,11 @@
       "branch": "master",
       "revision": "69510e5e0bc346c5ce1b0ff4c4ed868b0288de1b"
     },
+    "tumbler": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tumbler.git",
+      "branch": "master",
+      "revision": "6d690d4aa18769b0012c6d0afe5147e3b8ecd492"
+    },
     "udftools": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udftools.git",
       "branch": "master",
