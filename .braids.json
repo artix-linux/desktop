@@ -3641,6 +3641,11 @@
       "branch": "master",
       "revision": "5dadd54f387eeb45c8aef20c81fca201937c1749"
     },
+    "picom": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/picom.git",
+      "branch": "master",
+      "revision": "02f9f51866424ddeb27c3947ee17a46fe89d065f"
+    },
     "pidgin": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pidgin.git",
       "branch": "master",
