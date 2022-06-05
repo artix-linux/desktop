@@ -3471,6 +3471,11 @@
       "branch": "master",
       "revision": "f935abaea1541be6a45d70a64f119dbe79622f75"
     },
+    "notify-osd": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/notify-osd.git",
+      "branch": "master",
+      "revision": "3e9604fdb40ad75377bf83f0d9f516bb7a1a876d"
+    },
     "nuspell": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nuspell.git",
       "branch": "master",
