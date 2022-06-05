@@ -431,6 +431,11 @@
       "branch": "master",
       "revision": "a80df42497de7e550ac7b6ed111e2b5f96879824"
     },
+    "kmag": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
+      "branch": "master",
+      "revision": "25a23dd71c40d020f4a5fa4ea6489cd095fbf483"
+    },
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
