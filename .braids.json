@@ -295,6 +295,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
       "branch": "master",
       "revision": "99ab3ab97cbd4b348bca1a2e98ac32a6e49307cb"
+    },
+    "kpty": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpty.git",
+      "branch": "master",
+      "revision": "0f75f32502e8f7292f6d466987b8e58d9af1ce4c"
     }
   }
 }
