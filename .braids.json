@@ -871,6 +871,11 @@
       "branch": "master",
       "revision": "655d7d87a69643009f8e6c2fe71534197ce7433d"
     },
+    "ktnef": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktnef.git",
+      "branch": "master",
+      "revision": "6e3f864fe1e9f30016adc34f6262f7f00b91708c"
+    },
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
       "branch": "master",
