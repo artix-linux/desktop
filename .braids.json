@@ -4751,6 +4751,11 @@
       "branch": "master",
       "revision": "999dc12f92cb9b02e251cf93e59d008d3cda75ef"
     },
+    "xfce4-taskmanager": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-taskmanager.git",
+      "branch": "master",
+      "revision": "c066bb5e5df39d3a6669d007e0ce3b88b5549ae3"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",

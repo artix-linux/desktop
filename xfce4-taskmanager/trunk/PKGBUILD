@@ -1,0 +1,32 @@
+# Maintainer: Evangelos Foutras <evangelos@foutrelis.com>
+
+pkgname=xfce4-taskmanager
+pkgver=1.5.4
+pkgrel=1
+pkgdesc="Easy to use task manager"
+arch=('x86_64')
+url="https://docs.xfce.org/apps/xfce4-taskmanager"
+license=('GPL2')
+depends=('libxfce4ui' 'xfconf' 'libxmu' 'libwnck3')
+makedepends=('intltool')
+groups=('xfce4-goodies')
+source=(https://archive.xfce.org/src/apps/$pkgname/${pkgver%.*}/$pkgname-$pkgver.tar.bz2)
+sha256sums=('25b13e890d14ce453ece19eb6201b4a9a4f3e3b324b947db9047ce79cc3ae62a')
+
+build() {
+  cd $pkgname-$pkgver
+
+  ./configure \
+    --prefix=/usr \
+    --sysconfdir=/etc \
+    --localstatedir=/var \
+    --disable-debug
+  make
+}
+
+package() {
+  cd $pkgname-$pkgver
+  make DESTDIR="$pkgdir" install
+}
+
+# vim:set ts=2 sw=2 et:
