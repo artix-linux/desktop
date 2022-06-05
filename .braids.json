@@ -346,6 +346,11 @@
       "branch": "master",
       "revision": "19e434e5a28677e33f6accede2a3d112d487d049"
     },
+    "edk2": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/edk2.git",
+      "branch": "master",
+      "revision": "4191c2600106b6081e159a3570bbf800e4628e8f"
+    },
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
       "branch": "master",
