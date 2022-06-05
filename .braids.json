@@ -2201,6 +2201,11 @@
       "branch": "master",
       "revision": "fe97ffd4024fd5878076fcc358f15aaca904eb03"
     },
+    "libglib-testing": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libglib-testing.git",
+      "branch": "master",
+      "revision": "88660b4608e725ef4884b10b3e48f8bdd7e8b645"
+    },
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
