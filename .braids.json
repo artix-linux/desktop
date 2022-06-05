@@ -736,6 +736,11 @@
       "branch": "master",
       "revision": "8f321713338b04ad9602ddf747b3195d96c34246"
     },
+    "gnome-remote-desktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-remote-desktop.git",
+      "branch": "master",
+      "revision": "8e66b4aa43ed6f54688b0532aaf0003c61e9f35d"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
