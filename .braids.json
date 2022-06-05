@@ -866,6 +866,11 @@
       "branch": "master",
       "revision": "8ba8977a510172710502536f104ea65e9a6c6534"
     },
+    "kigo": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kigo.git",
+      "branch": "master",
+      "revision": "262ea365c88d5182621b29f7ce868f9ff9fbead2"
+    },
     "kimageannotator": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageannotator.git",
       "branch": "master",
