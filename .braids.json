@@ -766,6 +766,11 @@
       "branch": "master",
       "revision": "9558b2a24c80d78992e4038d75839584b15c6c3b"
     },
+    "kpimtextedit": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpimtextedit.git",
+      "branch": "master",
+      "revision": "aa6a9b8c29ab28863bc465594934d65040a2cf38"
+    },
     "kplotting": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
       "branch": "master",
