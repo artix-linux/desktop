@@ -1,0 +1,2 @@
+# telepathy-kde-filetransfer-handler
+

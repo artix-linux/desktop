@@ -1911,6 +1911,11 @@
       "branch": "master",
       "revision": "de29eebfe2ce93fe48ecf3c05834f37dd89d835c"
     },
+    "telepathy-kde-filetransfer-handler": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-filetransfer-handler.git",
+      "branch": "master",
+      "revision": "8ff9b0eee3c6f54ea02680a89bae67206080d1be"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
