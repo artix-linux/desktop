@@ -111,6 +111,11 @@
       "branch": "master",
       "revision": "5908e4feedc06cd01ae88661c90b7735b6c2de50"
     },
+    "bigsh0t": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bigsh0t.git",
+      "branch": "master",
+      "revision": "1d0add7d1a6dbf830782ef60b60d2ac6462c5f75"
+    },
     "blinken": {
       "url": "gitea@gitea.artixlinux.org:packagesB/blinken.git",
       "branch": "master",
