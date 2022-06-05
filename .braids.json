@@ -3166,6 +3166,11 @@
       "branch": "master",
       "revision": "686384f29ea2e92a9790a3d16d7ac0ac3d1d7f2e"
     },
+    "mate-system-monitor": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-system-monitor.git",
+      "branch": "master",
+      "revision": "b6ece8245213ca29db717e55b7104169d3ab4ff0"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
