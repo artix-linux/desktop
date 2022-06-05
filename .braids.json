@@ -446,6 +446,11 @@
       "branch": "master",
       "revision": "2b0dab497f9f824d991809418a3c6f7ef8777488"
     },
+    "kuserfeedback": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kuserfeedback.git",
+      "branch": "master",
+      "revision": "3895e643e6c3ae1872e1948691566e8a043f1500"
+    },
     "kwallet": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwallet.git",
       "branch": "master",
