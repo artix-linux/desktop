@@ -3631,6 +3631,11 @@
       "branch": "master",
       "revision": "5e200cd6bc5d4ad4fe6f3aa26d0853eaf1863e68"
     },
+    "pluma": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pluma.git",
+      "branch": "master",
+      "revision": "6d9ea4ddd53bc1387da937181c7c586a7b514700"
+    },
     "podofo": {
       "url": "gitea@gitea.artixlinux.org:packagesP/podofo.git",
       "branch": "master",
