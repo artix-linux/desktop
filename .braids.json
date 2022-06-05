@@ -641,6 +641,11 @@
       "branch": "master",
       "revision": "97125ad3c79213faf700baafff3032b66ba796c7"
     },
+    "gnome-epub-thumbnailer": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-epub-thumbnailer.git",
+      "branch": "master",
+      "revision": "b8b4410e4f55a228e6e8c74c046d8718b4005b50"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
