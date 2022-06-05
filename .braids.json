@@ -671,6 +671,11 @@
       "branch": "master",
       "revision": "b4ac3691f612bffb20f911adb20fdee5807acfe9"
     },
+    "libkipi": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
+      "branch": "master",
+      "revision": "b7c6eb0f5dd0576440c264c6a0b1e84187e725e0"
+    },
     "libkscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
       "branch": "master",
