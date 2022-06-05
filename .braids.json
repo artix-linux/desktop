@@ -3786,6 +3786,11 @@
       "branch": "master",
       "revision": "eb2d0d9bbf1197c1ad035946717feec348177e33"
     },
+    "odt2txt": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/odt2txt.git",
+      "branch": "master",
+      "revision": "f492ae57d192b3e52e1325b40d51d0b52c9a8e0e"
+    },
     "okteta": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okteta.git",
       "branch": "master",
