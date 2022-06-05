@@ -126,6 +126,11 @@
       "branch": "master",
       "revision": "c3861e3457eb6c0ab0143fb178137bd1786563a7"
     },
+    "artix-i3-presets": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-i3-presets.git",
+      "branch": "master",
+      "revision": "15d96af401ebccbad95bc3a4bfacb34d50c7b74e"
+    },
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
       "branch": "master",
