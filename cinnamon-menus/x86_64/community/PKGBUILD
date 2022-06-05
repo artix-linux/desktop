@@ -1,0 +1,28 @@
+# Maintainer: Bruno Pagani <archange@archlinux.org>
+# Contributor: Eli Schwartz <eschwartz@archlinux.org>
+# Contributor: Alexandre Filgueira <alexfilgueira@antergos.com>
+
+pkgname=cinnamon-menus
+pkgver=5.2.0
+pkgrel=1.1
+pkgdesc="Cinnamon menu specifications"
+arch=(x86_64)
+url="https://github.com/linuxmint/cinnamon-menus"
+license=(GPL LGPL)
+depends=(glib2)
+makedepends=(gobject-introspection meson samurai)
+source=(${url}/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
+sha256sums=('fb654a214b7a7291a964b0d38b89e88ffc1a3343fa0a686f61059367bfa55e76')
+b2sums=('150dbab3b5c1b1a5574c1d234ebc7978a9e517e027d3076f6e335f4c64ad1631689c5b57a9d7ca159daa7f9f832d00accd78b2f392f757552f2babbab25489d7')
+
+build() {
+  mkdir -p build
+  cd build
+  artix-meson ../${pkgname}-${pkgver}
+  samu
+}
+
+package(){
+  cd build
+  DESTDIR="${pkgdir}" samu install
+}
