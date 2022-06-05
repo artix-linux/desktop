@@ -131,6 +131,11 @@
       "branch": "master",
       "revision": "8c043d6a693147a2e507db27be5943ec2bdbaa07"
     },
+    "babl": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/babl.git",
+      "branch": "master",
+      "revision": "bc5e9be15d0e06557b6926cb64f6c81a178ef6d0"
+    },
     "baloo": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baloo.git",
       "branch": "master",
