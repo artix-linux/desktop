@@ -281,6 +281,11 @@
       "branch": "master",
       "revision": "09c890a0530542f3715a9315a7ca5aee579d36bb"
     },
+    "freecell-solver": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/freecell-solver.git",
+      "branch": "master",
+      "revision": "7ad680fe1f3185088a5615fff7092ab651707c74"
+    },
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
       "branch": "master",
