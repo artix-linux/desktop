@@ -3131,6 +3131,11 @@
       "branch": "master",
       "revision": "577f7d65eca28e966a5628c1ab240af761e905d5"
     },
+    "libtermkey": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libtermkey.git",
+      "branch": "master",
+      "revision": "e848d866ecb27fb60cc9bd7b57c6e16cf3fec830"
+    },
     "libvirt-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvirt-glib.git",
       "branch": "master",
