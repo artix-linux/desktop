@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "33d572acd958e60d86b6bc418a0b99459a017195"
     },
+    "plasma5-applets-active-window-control": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-active-window-control.git",
+      "branch": "master",
+      "revision": "bfeef21e94d55d90e15b6653abb16e85e3044470"
+    },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
