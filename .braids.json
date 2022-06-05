@@ -466,6 +466,11 @@
       "branch": "master",
       "revision": "b3595cac0034262369c664b8171796ce8eacdb44"
     },
+    "kcolorchooser": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kcolorchooser.git",
+      "branch": "master",
+      "revision": "9653bcdb5f10a75ca2f249a5efaca9e9b11313a6"
+    },
     "kcolorpicker": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcolorpicker.git",
       "branch": "master",
