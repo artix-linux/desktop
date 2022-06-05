@@ -3006,6 +3006,11 @@
       "branch": "master",
       "revision": "0b87a12a1e7d4c91230ab1050f71b6fc06d6d786"
     },
+    "libmythes": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmythes.git",
+      "branch": "master",
+      "revision": "5c4e0c440636bcd5ff77cf67450a8e7b5ab40e84"
+    },
     "libnma": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libnma.git",
       "branch": "master",
