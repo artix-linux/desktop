@@ -5201,6 +5201,11 @@
       "branch": "master",
       "revision": "80fa1c399d1c40d5cc228c1239913d5de12c30ce"
     },
+    "yaz": {
+      "url": "gitea@gitea.artixlinux.org:packagesY/yaz.git",
+      "branch": "master",
+      "revision": "7d89aea7adaf9316df9666f5a9b86dc0e2ded1f3"
+    },
     "yelp": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yelp.git",
       "branch": "master",
