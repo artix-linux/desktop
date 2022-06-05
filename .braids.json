@@ -290,6 +290,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kpeople.git",
       "branch": "master",
       "revision": "64e3243a98b5f853565c65527d69fe72c8fea0a0"
+    },
+    "kplotting": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
+      "branch": "master",
+      "revision": "99ab3ab97cbd4b348bca1a2e98ac32a6e49307cb"
     }
   }
 }
