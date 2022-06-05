@@ -1101,6 +1101,11 @@
       "branch": "master",
       "revision": "1499626e833c2c24a68e558298f2670e988a30fc"
     },
+    "pimcommon": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pimcommon.git",
+      "branch": "master",
+      "revision": "87dffb3c9523e88b279e5ad2b42e789eff73a9c1"
+    },
     "plasma-browser-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-browser-integration.git",
       "branch": "master",
