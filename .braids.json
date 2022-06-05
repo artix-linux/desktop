@@ -3111,6 +3111,11 @@
       "branch": "master",
       "revision": "8799ebd613afe3517c4fc5deb88f6fc7604cf7ec"
     },
+    "mate-media": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-media.git",
+      "branch": "master",
+      "revision": "da16befed3ae418cb91a6df3eb2de236859e10d1"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
