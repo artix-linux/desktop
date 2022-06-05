@@ -4606,6 +4606,11 @@
       "branch": "master",
       "revision": "7a73ba8ebf39bc9eca83c031cb9d480c840d50b4"
     },
+    "xfce4-appfinder": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-appfinder.git",
+      "branch": "master",
+      "revision": "7545ac8d1dde8489f6711e3d61b828344797c2b2"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
