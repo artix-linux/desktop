@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "0c0ff2b0ab229ec995be0fc07a3aa559865768d7"
     },
+    "ktimer": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktimer.git",
+      "branch": "master",
+      "revision": "655d7d87a69643009f8e6c2fe71534197ce7433d"
+    },
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
       "branch": "master",
