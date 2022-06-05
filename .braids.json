@@ -686,6 +686,11 @@
       "branch": "master",
       "revision": "3bdc8957850365404576764173dc90e085aeb7a0"
     },
+    "gnome-mines": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-mines.git",
+      "branch": "master",
+      "revision": "a4f008953d025b7d25a01ee66584180c2dfcd966"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
