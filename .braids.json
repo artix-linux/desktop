@@ -1321,6 +1321,11 @@
       "branch": "master",
       "revision": "a6d493b2fdeb1182aa656fe6a71946a4922d94e3"
     },
+    "openblas": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/openblas.git",
+      "branch": "master",
+      "revision": "6a8aac49a4afb5775b612bd1113751c9da1071d7"
+    },
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
       "branch": "master",
