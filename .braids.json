@@ -311,6 +311,11 @@
       "branch": "master",
       "revision": "1115ca4c347e67e2ec97d7e3dde231e7097e43ad"
     },
+    "granatier": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/granatier.git",
+      "branch": "master",
+      "revision": "e3b33aab70b174fa3a8588371da177adf1dfd236"
+    },
     "grantlee-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantlee-editor.git",
       "branch": "master",
