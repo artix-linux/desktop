@@ -2776,6 +2776,11 @@
       "branch": "master",
       "revision": "e8e09c8f4f85eab543eadcc21ae937dc7dcd7f88"
     },
+    "lxmusic": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxmusic.git",
+      "branch": "master",
+      "revision": "79f3fe4e6b4535d01aea476d136d5029ea8a07d0"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
