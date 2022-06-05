@@ -4776,6 +4776,11 @@
       "branch": "master",
       "revision": "51a4ba4cd05922cd0a5031dd2a4bf0e84362ea6e"
     },
+    "unoconv": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/unoconv.git",
+      "branch": "master",
+      "revision": "d99bb45965463678e9ab7af91cf6876c272442c9"
+    },
     "usbguard": {
       "url": "gitea@gitea.artixlinux.org:packagesU/usbguard.git",
       "branch": "master",
