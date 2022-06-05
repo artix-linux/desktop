@@ -446,6 +446,11 @@
       "branch": "master",
       "revision": "0605f5b79961bb5efd38cbb2fac2fa9c2058db8d"
     },
+    "fprintd": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/fprintd.git",
+      "branch": "master",
+      "revision": "a27c6ee81320dbb5e76b103f106c05b10fb16004"
+    },
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
