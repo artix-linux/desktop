@@ -606,6 +606,11 @@
       "branch": "master",
       "revision": "9585d39ed6a06a85e649ca26fd9d4b88ee3dd32d"
     },
+    "gnome-common": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-common.git",
+      "branch": "master",
+      "revision": "73e6706e89da39fa0c21016d50b2a32f5fbda3d5"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
