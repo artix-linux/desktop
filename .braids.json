@@ -216,6 +216,11 @@
       "branch": "master",
       "revision": "731bef2a9876a2657fb4e840a6cff976bad68a9e"
     },
+    "aspell-uk": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/aspell-uk.git",
+      "branch": "master",
+      "revision": "f6fe9a380c0986d2b4a86ef53789ff37341f71d2"
+    },
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
       "branch": "master",
