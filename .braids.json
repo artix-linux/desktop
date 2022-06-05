@@ -2786,6 +2786,11 @@
       "branch": "master",
       "revision": "be9920edcd4445032373653dbdfe142f473fd7c9"
     },
+    "lxpanel-gtk3": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxpanel-gtk3.git",
+      "branch": "master",
+      "revision": "18d3e42e3a40c9158ad2e64c76cb7abd10ca3521"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
