@@ -1101,6 +1101,11 @@
       "branch": "master",
       "revision": "1499626e833c2c24a68e558298f2670e988a30fc"
     },
+    "pim-data-exporter": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
+      "branch": "master",
+      "revision": "195f6880d572de2849795c655954419b931bc9e3"
+    },
     "pimcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pimcommon.git",
       "branch": "master",
