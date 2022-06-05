@@ -420,6 +420,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesS/syntax-highlighting.git",
       "branch": "master",
       "revision": "cff06b1b7457084b1f48f03819e100dd50574606"
+    },
+    "threadweaver": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
+      "branch": "master",
+      "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
     }
   }
 }
