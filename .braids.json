@@ -246,6 +246,11 @@
       "branch": "master",
       "revision": "d6695ba4a2f8eff139aedc50ad8f07f1a5cb4368"
     },
+    "ctags": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/ctags.git",
+      "branch": "master",
+      "revision": "9617a898ef1db9eb576197f0368341e063fdb434"
+    },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
