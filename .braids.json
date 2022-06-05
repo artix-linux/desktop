@@ -1896,6 +1896,11 @@
       "branch": "master",
       "revision": "a4b039cbb794a9c71979a53cafdb9783599f71d0"
     },
+    "telepathy-kde-contact-list": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-contact-list.git",
+      "branch": "master",
+      "revision": "d93289594c759d56eff8cda05f929534dec622c1"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
