@@ -606,6 +606,11 @@
       "branch": "master",
       "revision": "41c2e352cec8145d76d02a1826352d6aac1ff972"
     },
+    "kwalletmanager": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwalletmanager.git",
+      "branch": "master",
+      "revision": "561769b732b7c0790d3c59d8d7b8cc012a354326"
+    },
     "kwayland": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwayland.git",
       "branch": "master",
