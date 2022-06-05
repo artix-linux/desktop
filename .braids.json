@@ -231,6 +231,11 @@
       "branch": "master",
       "revision": "15ab5c050ce112435c69a70d8c2e83a3c0794650"
     },
+    "kalarm": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kalarm.git",
+      "branch": "master",
+      "revision": "2cdf5e710c0da45e6f6c76845f2ec4cda69a1da6"
+    },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
