@@ -1336,6 +1336,11 @@
       "branch": "master",
       "revision": "b4fa9e42587d94db7f19eda59f159275e6a7ca8c"
     },
+    "hexchat": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/hexchat.git",
+      "branch": "master",
+      "revision": "dcaafa2c4c01ef6692ed94f4df9f9f18fa16b797"
+    },
     "hexer-hobu": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
       "branch": "master",
