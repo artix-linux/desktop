@@ -2756,6 +2756,11 @@
       "branch": "master",
       "revision": "31d30c4c9c1386e66c25b8b9e12a6c55d54fd6ec"
     },
+    "lxhotkey": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxhotkey.git",
+      "branch": "master",
+      "revision": "a2d91140681657f5575f83d9564709330da94428"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
