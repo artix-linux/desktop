@@ -196,6 +196,11 @@
       "branch": "master",
       "revision": "4bd4764293db91b06dcdd0418aae3ecc567990a0"
     },
+    "itinerary": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
+      "branch": "master",
+      "revision": "22c8f8f33ac67f579f65c549b4ff6f12d4e3c156"
+    },
     "kactivities": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
       "branch": "master",
