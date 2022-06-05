@@ -2376,6 +2376,11 @@
       "branch": "master",
       "revision": "7177ed5da15dd0af3d47010bf28c6c569b4f63eb"
     },
+    "libosinfo": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libosinfo.git",
+      "branch": "master",
+      "revision": "68311301c0e1aaf05747de1c3222a3d9085ac916"
+    },
     "libphonenumber": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libphonenumber.git",
       "branch": "master",
