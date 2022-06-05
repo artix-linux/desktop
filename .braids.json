@@ -611,6 +611,11 @@
       "branch": "master",
       "revision": "73e6706e89da39fa0c21016d50b2a32f5fbda3d5"
     },
+    "gnome-connections": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-connections.git",
+      "branch": "master",
+      "revision": "0daf48c3dc0c0ea650a042e25e82f862afc1248c"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
