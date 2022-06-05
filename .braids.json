@@ -3066,6 +3066,11 @@
       "branch": "master",
       "revision": "ffb1ad8a1d9677a2f4dedd4bd29c43f38ba16806"
     },
+    "mint-x-icons": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mint-x-icons.git",
+      "branch": "master",
+      "revision": "f608906087c46cdc2b7a71cb2643bda9f624e0e1"
+    },
     "mintlocale": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mintlocale.git",
       "branch": "master",
