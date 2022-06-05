@@ -1601,6 +1601,11 @@
       "branch": "master",
       "revision": "f45efc97b43eafb0d809a7ad728dc85d8814c4d5"
     },
+    "vtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
+      "branch": "master",
+      "revision": "70b355856e2e6d9dfaab771d6953588f4e7fe587"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
