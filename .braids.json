@@ -1876,6 +1876,11 @@
       "branch": "master",
       "revision": "1b2bda953beba2cd1e8a5e7dda6049afc1f22791"
     },
+    "telepathy-kde-approver": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-approver.git",
+      "branch": "master",
+      "revision": "7f58efce4fc447257d0f9461c9d7079b651926d6"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
