@@ -1886,6 +1886,11 @@
       "branch": "master",
       "revision": "26bedb45134b54c9c50bb4c8b8a386bd26d22762"
     },
+    "telepathy-kde-call-ui": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-call-ui.git",
+      "branch": "master",
+      "revision": "5e8ccfc6df85a10a2a2929778a6a434f5071859b"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
