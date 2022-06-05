@@ -3006,6 +3006,11 @@
       "branch": "master",
       "revision": "f5f10e1e3514263b766e2a49f53dd3a8f729c0f3"
     },
+    "sound-theme-freedesktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sound-theme-freedesktop.git",
+      "branch": "master",
+      "revision": "b44dc7c9e29b56ce94c0e08606d0e09dc131f3ec"
+    },
     "spectacle": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spectacle.git",
       "branch": "master",
