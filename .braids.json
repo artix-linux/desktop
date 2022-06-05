@@ -4391,6 +4391,11 @@
       "branch": "master",
       "revision": "659d1bf174192dbc7a563d326f4348e68dc5768e"
     },
+    "thunar-volman": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/thunar-volman.git",
+      "branch": "master",
+      "revision": "115aed6f714edb23490fdc2c48ed315fc02878f5"
+    },
     "thunderbird": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
       "branch": "master",
