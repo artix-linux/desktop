@@ -691,6 +691,11 @@
       "branch": "master",
       "revision": "a4f008953d025b7d25a01ee66584180c2dfcd966"
     },
+    "gnome-multi-writer": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-multi-writer.git",
+      "branch": "master",
+      "revision": "df65aa0a4d43bea71fd47bbe955e1200667a9dc3"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
