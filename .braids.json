@@ -3121,6 +3121,11 @@
       "branch": "master",
       "revision": "4b29ce078bc5ae36f8e5820dced3cad01db7a977"
     },
+    "nemo": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/nemo.git",
+      "branch": "master",
+      "revision": "d6c603190a97b8e3e94be07d8b76209cf9d5d541"
+    },
     "neochat": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neochat.git",
       "branch": "master",
