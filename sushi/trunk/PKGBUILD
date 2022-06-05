@@ -1,0 +1,43 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Contributor: Ionut Biru <ibiru@archlinux.org>
+
+pkgname=sushi
+pkgver=41.2
+pkgrel=1
+pkgdesc="A quick previewer for Nautilus"
+url="https://gitlab.gnome.org/GNOME/sushi"
+arch=(x86_64)
+license=(GPL2)
+groups=(gnome)
+depends=(gtk3 gjs webkit2gtk-4.1 gtksourceview4 evince gst-plugins-base-libs
+        gst-plugin-gtk)
+makedepends=(gobject-introspection git meson)
+optdepends=('unoconv: OpenDocument formats')
+options=(debug)
+_commit=f7a19f7b9e77d620678fc272b245db8255f813ed  # tags/41.2^0
+source=("git+https://gitlab.gnome.org/GNOME/sushi.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd sushi
+  git describe --tags | sed 's/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd sushi
+}
+
+build() {
+  artix-meson sushi build
+  meson compile -C build
+}
+
+check() {
+  meson test -C build --print-errorlogs
+}
+
+package() {
+  meson install -C build --destdir "$pkgdir"
+}
+
+# vim:set sw=2 et:

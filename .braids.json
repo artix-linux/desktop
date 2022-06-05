@@ -3051,6 +3051,11 @@
       "branch": "master",
       "revision": "47947c03d6b2e2a4f1341ca745139f09d0734eaa"
     },
+    "sushi": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sushi.git",
+      "branch": "master",
+      "revision": "adafb1ec12e1fd092a8eb91e55292951964410cf"
+    },
     "svgpart": {
       "url": "gitea@gitea.artixlinux.org:packagesS/svgpart.git",
       "branch": "master",
