@@ -806,6 +806,11 @@
       "branch": "master",
       "revision": "661b2db34435e6c227d89f228a094835114455f4"
     },
+    "gnome-themes-extra": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-themes-extra.git",
+      "branch": "master",
+      "revision": "43b19c240dfa3ad02b9b150ed1ab0a6902494b10"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
