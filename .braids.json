@@ -1686,6 +1686,11 @@
       "branch": "master",
       "revision": "d2ace082bb6ad734b4afcbf004c07c4454875bbb"
     },
+    "recordmydesktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesR/recordmydesktop.git",
+      "branch": "master",
+      "revision": "2cc67e1d73ddad7dc71dcd03b45d8f1cc897f055"
+    },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
       "branch": "master",
