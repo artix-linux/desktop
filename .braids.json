@@ -491,6 +491,11 @@
       "branch": "master",
       "revision": "8e886aa7dfc1df74469ad028eb4edf062cd64c0e"
     },
+    "geany": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/geany.git",
+      "branch": "master",
+      "revision": "389059007c196331571e61d7190106866b85462c"
+    },
     "geary": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geary.git",
       "branch": "master",
