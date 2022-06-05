@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
     },
+    "cervisia": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cervisia.git",
+      "branch": "master",
+      "revision": "144f719bd9cd1afdea13ae7625b8c68fb3f126b4"
+    },
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
