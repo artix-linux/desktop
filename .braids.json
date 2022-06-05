@@ -2996,6 +2996,11 @@
       "branch": "master",
       "revision": "80544a9937be85f8bf87f13dd3c11343dd70aef9"
     },
+    "libmpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmpack.git",
+      "branch": "master",
+      "revision": "e2dd83de55d3c86b99b1bb445d92e1a1528d04a0"
+    },
     "libmsym": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmsym.git",
       "branch": "master",
