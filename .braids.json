@@ -686,6 +686,11 @@
       "branch": "master",
       "revision": "b8ec52c08b1996a300dd7f7fbd88c870eb742746"
     },
+    "presage": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/presage.git",
+      "branch": "master",
+      "revision": "3d92fba2159d67d00ec0f8f0abbac989138c9918"
+    },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
