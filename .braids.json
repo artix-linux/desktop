@@ -4851,6 +4851,11 @@
       "branch": "master",
       "revision": "cd4727eecc20d2f025bfc1039dafb007783ca954"
     },
+    "wkhtmltopdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/wkhtmltopdf.git",
+      "branch": "master",
+      "revision": "8bb952d21a955ad69e596b2ae2060b43e5ccfc04"
+    },
     "wl-clipboard": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wl-clipboard.git",
       "branch": "master",
