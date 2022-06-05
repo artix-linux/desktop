@@ -251,6 +251,11 @@
       "branch": "master",
       "revision": "9617a898ef1db9eb576197f0368341e063fdb434"
     },
+    "cups-pk-helper": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cups-pk-helper.git",
+      "branch": "master",
+      "revision": "a20b39bb4f655d35bb3aaf80e6d58242924a4aae"
+    },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
