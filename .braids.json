@@ -291,6 +291,11 @@
       "branch": "master",
       "revision": "4b39fbc9e0e70cebf9be78871a08bb4818f8d94d"
     },
+    "gwenview": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
+      "branch": "master",
+      "revision": "0cb5457fcc676569b871e333ddf12e1a065efa35"
+    },
     "hexer-hobu": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
       "branch": "master",
