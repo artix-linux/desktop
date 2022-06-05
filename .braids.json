@@ -300,6 +300,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kpty.git",
       "branch": "master",
       "revision": "0f75f32502e8f7292f6d466987b8e58d9af1ce4c"
+    },
+    "kquickcharts": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kquickcharts.git",
+      "branch": "master",
+      "revision": "3a5846893f087daf92dfdfde9a0fe892cad49f15"
     }
   }
 }
