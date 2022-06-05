@@ -2926,6 +2926,11 @@
       "branch": "master",
       "revision": "80795bd6ff1eecc34117611bfdd9b23a7a52db90"
     },
+    "libxfce4util": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libxfce4util.git",
+      "branch": "master",
+      "revision": "9c87ac601f8b89270cfdcb41d3a9abc28d6fa346"
+    },
     "libytnef": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libytnef.git",
       "branch": "master",
