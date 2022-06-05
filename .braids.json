@@ -3221,6 +3221,11 @@
       "branch": "master",
       "revision": "afcf7526899d07d9bca819e17ea10c9ca02e3c8d"
     },
+    "lua-mpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lua-mpack.git",
+      "branch": "master",
+      "revision": "6a8f630a25378ab8bf24a1a007ade65d9adfa3d0"
+    },
     "luaexpat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/luaexpat.git",
       "branch": "master",
