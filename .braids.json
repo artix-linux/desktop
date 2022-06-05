@@ -1216,6 +1216,11 @@
       "branch": "master",
       "revision": "5e200cd6bc5d4ad4fe6f3aa26d0853eaf1863e68"
     },
+    "podofo": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/podofo.git",
+      "branch": "master",
+      "revision": "7db25b7e84f17326c6b06959669726620b2de5e8"
+    },
     "polkit-kde-agent": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-kde-agent.git",
       "branch": "master",
