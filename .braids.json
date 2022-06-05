@@ -191,6 +191,11 @@
       "branch": "master",
       "revision": "1f1cd3fa6e728ac4baeb3873ba2c44b68eecd1d6"
     },
+    "artix-mate-presets": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-mate-presets.git",
+      "branch": "master",
+      "revision": "ae70aa1b612b89a8260edcc58ab75bbc4b35f772"
+    },
     "aspell": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell.git",
       "branch": "master",
