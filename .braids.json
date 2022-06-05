@@ -1281,6 +1281,11 @@
       "branch": "master",
       "revision": "bbc5cf0270425c5db36bf93ab3069ff349b88300"
     },
+    "libkdcraw": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkdcraw.git",
+      "branch": "master",
+      "revision": "97e4ebd91999c922c85acb668530060bf24c4d2c"
+    },
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
       "branch": "master",
