@@ -1226,6 +1226,11 @@
       "branch": "master",
       "revision": "fb9b1d9d367e0f985b35a0543fd57eb1df7d2ba1"
     },
+    "libspatialite": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libspatialite.git",
+      "branch": "master",
+      "revision": "e3ad4c38916bf63d0c72409adc7c939373caf775"
+    },
     "lokalize": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lokalize.git",
       "branch": "master",
