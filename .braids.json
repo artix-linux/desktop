@@ -65,6 +65,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
       "branch": "master",
       "revision": "b3c32e5edf205641071845bf786f1d3e801da694"
+    },
+    "kcalendarcore": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kcalendarcore.git",
+      "branch": "master",
+      "revision": "9ab0ad1d1896d3e516e5543d2836ae7f933fe05a"
     }
   }
 }
