@@ -271,6 +271,11 @@
       "branch": "master",
       "revision": "22c8f8f33ac67f579f65c549b4ff6f12d4e3c156"
     },
+    "julia": {
+      "url": "gitea@gitea.artixlinux.org:packagesJ/julia.git",
+      "branch": "master",
+      "revision": "e73322d74374a2580f768e2f800412eac505d233"
+    },
     "kaccounts-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-integration.git",
       "branch": "master",
