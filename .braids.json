@@ -1456,6 +1456,11 @@
       "branch": "master",
       "revision": "ac54017ecafd5f2142296d6fdc0b14e0a64df0a7"
     },
+    "kdsoap-ws-discovery-client": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdsoap-ws-discovery-client.git",
+      "branch": "master",
+      "revision": "1a2aa10328d0ce7a426ec10a0f26b78e5cc8daf0"
+    },
     "keditbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keditbookmarks.git",
       "branch": "master",
