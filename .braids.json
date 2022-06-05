@@ -4041,6 +4041,11 @@
       "branch": "master",
       "revision": "70b355856e2e6d9dfaab771d6953588f4e7fe587"
     },
+    "warpinator": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/warpinator.git",
+      "branch": "master",
+      "revision": "cd253214faa2bcbc5dbce1d701ffb64b114ca880"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
