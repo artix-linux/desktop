@@ -1276,6 +1276,11 @@
       "branch": "master",
       "revision": "b575ff4e5550af5db57522b0425f01706364f849"
     },
+    "libkcompactdisc": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkcompactdisc.git",
+      "branch": "master",
+      "revision": "bbc5cf0270425c5db36bf93ab3069ff349b88300"
+    },
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
       "branch": "master",
