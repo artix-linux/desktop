@@ -2841,6 +2841,11 @@
       "branch": "master",
       "revision": "7db25b7e84f17326c6b06959669726620b2de5e8"
     },
+    "polari": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/polari.git",
+      "branch": "master",
+      "revision": "2594cc3d76abc6a1e5f68add168337faeb859d30"
+    },
     "polkit-kde-agent": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-kde-agent.git",
       "branch": "master",
