@@ -561,6 +561,11 @@
       "branch": "master",
       "revision": "aea2e07f469307712d7a1d5b8e918e49866c3395"
     },
+    "gnome-boxes": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-boxes.git",
+      "branch": "master",
+      "revision": "1054f1f08d6813bd8320d44c2d1d7f6faff70e28"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
