@@ -376,6 +376,11 @@
       "branch": "master",
       "revision": "723dc6e9efb67952262fcaab2974f5d23f6adbc8"
     },
+    "kamera": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kamera.git",
+      "branch": "master",
+      "revision": "15f6a22d4367eae5c034ba3506bcb8a399fff64d"
+    },
     "kanagram": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kanagram.git",
       "branch": "master",
