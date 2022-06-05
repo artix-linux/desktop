@@ -3086,6 +3086,11 @@
       "branch": "master",
       "revision": "0247029320e8df7cb9d96920bb1d5a918f1b842a"
     },
+    "mate-common": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-common.git",
+      "branch": "master",
+      "revision": "2c1cca7a1688716af45709acf57b058f974280cf"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
