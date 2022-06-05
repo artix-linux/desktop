@@ -1531,6 +1531,11 @@
       "branch": "master",
       "revision": "cb0cade453e0d2cb20a4daee05e597bd6e84869c"
     },
+    "keybinder2": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/keybinder2.git",
+      "branch": "master",
+      "revision": "edb6ab853eeacb12c350adf7657a70ad635b6f5a"
+    },
     "kfilemetadata": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
       "branch": "master",
