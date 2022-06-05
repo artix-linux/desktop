@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "6a8aac49a4afb5775b612bd1113751c9da1071d7"
     },
+    "openlibm": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/openlibm.git",
+      "branch": "master",
+      "revision": "ad86a57dc40eb1b079cdda6e687a7b850b33ab96"
+    },
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
       "branch": "master",
