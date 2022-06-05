@@ -3176,6 +3176,11 @@
       "branch": "master",
       "revision": "82006b8deacef2597cd7ff8a7eb60e97b1018331"
     },
+    "mate-themes": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-themes.git",
+      "branch": "master",
+      "revision": "76b9d1903787cad2c029eac072a98f9e9e7ad3ce"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
