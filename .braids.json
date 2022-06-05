@@ -160,6 +160,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kdoctools.git",
       "branch": "master",
       "revision": "564969b9d0789e968c9ada71dd375d3e9a439804"
+    },
+    "kemoticons": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
+      "branch": "master",
+      "revision": "cb0cade453e0d2cb20a4daee05e597bd6e84869c"
     }
   }
 }
