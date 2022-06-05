@@ -3511,6 +3511,11 @@
       "branch": "master",
       "revision": "6a8aac49a4afb5775b612bd1113751c9da1071d7"
     },
+    "openbox": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/openbox.git",
+      "branch": "master",
+      "revision": "5bf9c93b2fa8f13049cc74c2ddf5c9dba7ac9887"
+    },
     "openlibm": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openlibm.git",
       "branch": "master",
