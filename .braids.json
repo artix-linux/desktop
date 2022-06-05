@@ -766,6 +766,11 @@
       "branch": "master",
       "revision": "0323cf5ca5fe043c3321628744d976a224e041a3"
     },
+    "gnome-shell-extensions": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-shell-extensions.git",
+      "branch": "master",
+      "revision": "8a4a4bc5cb0ddddbbc4aeb4353cb340acd66f002"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
