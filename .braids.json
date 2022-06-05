@@ -471,6 +471,11 @@
       "branch": "master",
       "revision": "8149e2d71f1c973d5ccfb6ae996175368cee5bb0"
     },
+    "engrampa": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/engrampa.git",
+      "branch": "master",
+      "revision": "627e861c1b2ac9aa20e0f23d5616c5f2eb3e4a8b"
+    },
     "eog": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eog.git",
       "branch": "master",
