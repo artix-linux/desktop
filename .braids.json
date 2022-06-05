@@ -236,6 +236,11 @@
       "branch": "master",
       "revision": "fe5995a4218200f7e02568c821d18210ce763ea1"
     },
+    "kgamma5": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kgamma5.git",
+      "branch": "master",
+      "revision": "38fb9dae4aac60c3ae47b4dab5c31599dc3e1af5"
+    },
     "kglobalaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kglobalaccel.git",
       "branch": "master",
