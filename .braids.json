@@ -551,6 +551,11 @@
       "branch": "master",
       "revision": "7cd011b9aacc5a91ba95cb8f4e1c58e026e55688"
     },
+    "milou": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
+      "branch": "master",
+      "revision": "bc322750edcbb626241c0542da146baaa3a27ccc"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
