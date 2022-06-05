@@ -876,6 +876,11 @@
       "branch": "master",
       "revision": "67becbfb5d2b760da48c6a3f853a3c2e106d0e46"
     },
+    "gparted": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gparted.git",
+      "branch": "master",
+      "revision": "17918da0eb3567cc81de7f285807f267d0895816"
+    },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
