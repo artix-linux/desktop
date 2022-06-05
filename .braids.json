@@ -56,6 +56,11 @@
       "branch": "master",
       "revision": "a2e16806820ca1bd7abf96c6e692d6d3a915783f"
     },
+    "analitza": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
+      "branch": "master",
+      "revision": "8ffb870fb2023cb520f1332557782363250edff3"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
