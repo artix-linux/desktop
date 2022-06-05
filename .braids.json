@@ -251,6 +251,11 @@
       "branch": "master",
       "revision": "01c6b6e9b0d3ade39f19f229dffe00ab7b6437b6"
     },
+    "clutter-gtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
+      "branch": "master",
+      "revision": "de062e5ec5b0c0622057cbf2a530b8f4f467273f"
+    },
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
