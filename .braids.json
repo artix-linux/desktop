@@ -276,6 +276,11 @@
       "branch": "master",
       "revision": "f69fa98134d00eb975994d77e67e82c3e3521d81"
     },
+    "kdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdf.git",
+      "branch": "master",
+      "revision": "7661d124a8005a3261a8f45a84dca2ba1c641009"
+    },
     "kdnssd": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdnssd.git",
       "branch": "master",
