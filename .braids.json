@@ -76,6 +76,11 @@
       "branch": "master",
       "revision": "763d2dff3f7e032c627fcd7eaf3f9f291be93a85"
     },
+    "dolphin-plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dolphin-plugins.git",
+      "branch": "master",
+      "revision": "8d8d81190efe4a2fd58adf60560ef2477caa6c50"
+    },
     "drkonqi": {
       "url": "gitea@gitea.artixlinux.org:packagesD/drkonqi.git",
       "branch": "master",
