@@ -4786,6 +4786,11 @@
       "branch": "master",
       "revision": "76668d73f422cf6ebe6bf9958381404d2cb37082"
     },
+    "xfce4-whiskermenu-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-whiskermenu-plugin.git",
+      "branch": "master",
+      "revision": "27e978e8eb1cb79b739e7e52c98b0aedde4539dd"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
