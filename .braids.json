@@ -661,6 +661,11 @@
       "branch": "master",
       "revision": "85fcb02ae07f41dda31152658cf176c8b2a2eb37"
     },
+    "kmailtransport": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmailtransport.git",
+      "branch": "master",
+      "revision": "ce7cd277b3912caf4e2951642c85e85e88fc439d"
+    },
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
