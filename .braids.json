@@ -4386,6 +4386,11 @@
       "branch": "master",
       "revision": "f5d2c180a147dbda117d950a5e58ecd01d1dcd53"
     },
+    "thunar-media-tags-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/thunar-media-tags-plugin.git",
+      "branch": "master",
+      "revision": "659d1bf174192dbc7a563d326f4348e68dc5768e"
+    },
     "thunderbird": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
       "branch": "master",

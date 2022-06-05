@@ -1,0 +1,2 @@
+# thunar-media-tags-plugin
+
