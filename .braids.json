@@ -390,6 +390,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
       "revision": "11e904e836a6aaa585993369dc48e2babe53b53f"
+    },
+    "purpose": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/purpose.git",
+      "branch": "master",
+      "revision": "915805fd9f226409713ca4a9082010764fd06cba"
     }
   }
 }
