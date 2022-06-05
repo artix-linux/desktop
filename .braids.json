@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "4e5ae9869e135e50852360597d48b60fc3a31500"
     },
+    "drkonqi": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/drkonqi.git",
+      "branch": "master",
+      "revision": "ef47f8b8ef2f6807d9c84425896a1c7f0d8d73b1"
+    },
     "editorconfig-core-c": {
       "url": "gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git",
       "branch": "master",
