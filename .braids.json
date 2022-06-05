@@ -1071,6 +1071,11 @@
       "branch": "master",
       "revision": "4bd4764293db91b06dcdd0418aae3ecc567990a0"
     },
+    "inkscape": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/inkscape.git",
+      "branch": "master",
+      "revision": "14298380ab6b7c1fed491af8103d0350413bb4ba"
+    },
     "itinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
       "branch": "master",
