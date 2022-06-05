@@ -201,6 +201,11 @@
       "branch": "master",
       "revision": "22c8f8f33ac67f579f65c549b4ff6f12d4e3c156"
     },
+    "kaccounts-integration": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-integration.git",
+      "branch": "master",
+      "revision": "437342dfb27bc161d0942055c840e0e599156a9b"
+    },
     "kactivities": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
       "branch": "master",
