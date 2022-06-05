@@ -821,6 +821,11 @@
       "branch": "master",
       "revision": "024a473c3c2faaeea637c5559b357124bb8e827a"
     },
+    "kmplot": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmplot.git",
+      "branch": "master",
+      "revision": "629a015a22d3f9bc19f6304ef2f4395d10f35748"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
