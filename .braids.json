@@ -956,6 +956,11 @@
       "branch": "master",
       "revision": "22c8f8f33ac67f579f65c549b4ff6f12d4e3c156"
     },
+    "jedi-language-server": {
+      "url": "gitea@gitea.artixlinux.org:packagesJ/jedi-language-server.git",
+      "branch": "master",
+      "revision": "be6be0cb5bca3b32ecee2f8808f6314a885690c0"
+    },
     "juk": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/juk.git",
       "branch": "master",
