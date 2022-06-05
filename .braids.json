@@ -330,6 +330,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/ktextwidgets.git",
       "branch": "master",
       "revision": "0c0ff2b0ab229ec995be0fc07a3aa559865768d7"
+    },
+    "kunitconversion": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
+      "branch": "master",
+      "revision": "2b0dab497f9f824d991809418a3c6f7ef8777488"
     }
   }
 }
