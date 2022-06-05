@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "a20b39bb4f655d35bb3aaf80e6d58242924a4aae"
     },
+    "dconf-editor": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dconf-editor.git",
+      "branch": "master",
+      "revision": "5e960d54571b4eeb4ef2f1d614bbaf881f2df450"
+    },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
