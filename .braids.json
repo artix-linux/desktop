@@ -2166,6 +2166,11 @@
       "branch": "master",
       "revision": "b7579bf1ee1de49c584d7904d9722a40ea94044b"
     },
+    "leafpad": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/leafpad.git",
+      "branch": "master",
+      "revision": "a5979de7f2edf336483f5e14327fd24c25f3e131"
+    },
     "libadwaita": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libadwaita.git",
       "branch": "master",
