@@ -2501,6 +2501,11 @@
       "branch": "master",
       "revision": "fc63079c909a29c1d4617d797feb6fbafd8d4f9f"
     },
+    "luasocket": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/luasocket.git",
+      "branch": "master",
+      "revision": "76d02963806b1bb1ea6915d3de4552d39cd23147"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
