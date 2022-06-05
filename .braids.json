@@ -4776,6 +4776,11 @@
       "branch": "master",
       "revision": "8a2175eac12a6aa863210b8c2a6e759179dfdb28"
     },
+    "xfce4-wavelan-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-wavelan-plugin.git",
+      "branch": "master",
+      "revision": "62fd1d82d47057d68bb017236e6c0b646f6ed939"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
