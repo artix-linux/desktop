@@ -1996,6 +1996,11 @@
       "branch": "master",
       "revision": "2cc67e1d73ddad7dc71dcd03b45d8f1cc897f055"
     },
+    "rinutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesR/rinutils.git",
+      "branch": "master",
+      "revision": "c09674e389490db674ac3da5388f16cc9381156f"
+    },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
       "branch": "master",
