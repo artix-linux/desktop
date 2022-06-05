@@ -1546,6 +1546,11 @@
       "branch": "master",
       "revision": "97e4ebd91999c922c85acb668530060bf24c4d2c"
     },
+    "libkdegames": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkdegames.git",
+      "branch": "master",
+      "revision": "2d71c5cf6b227a8d2cc8378b642f7ff889e467a7"
+    },
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
       "branch": "master",
