@@ -3181,6 +3181,11 @@
       "branch": "master",
       "revision": "76b9d1903787cad2c029eac072a98f9e9e7ad3ce"
     },
+    "mate-user-guide": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-user-guide.git",
+      "branch": "master",
+      "revision": "8a87157e64bef478ffc1dd7d08c0951f699c8289"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
