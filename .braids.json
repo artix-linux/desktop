@@ -2806,6 +2806,11 @@
       "branch": "master",
       "revision": "ffc2425f445331fd528222395b0d790c33aa136a"
     },
+    "lxterminal": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxterminal.git",
+      "branch": "master",
+      "revision": "32d1ff2d77b261f496b5f5db5d8b899e90cc05c5"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
