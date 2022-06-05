@@ -2181,6 +2181,11 @@
       "branch": "master",
       "revision": "eae59437a70da4c6de0fead153d088bc0f234169"
     },
+    "libgee": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgee.git",
+      "branch": "master",
+      "revision": "693a2c7c8fa1e1d3096f45333eee160412183075"
+    },
     "libgeotiff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgeotiff.git",
       "branch": "master",
