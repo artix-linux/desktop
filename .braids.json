@@ -1006,6 +1006,11 @@
       "branch": "master",
       "revision": "f797df4be3fcc72b98648a1d1f2022a47070911d"
     },
+    "gutenprint": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gutenprint.git",
+      "branch": "master",
+      "revision": "dee046af67ccf2ed834b6e4354776b61dfb37bbf"
+    },
     "gvfs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gvfs.git",
       "branch": "master",
