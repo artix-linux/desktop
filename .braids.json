@@ -471,6 +471,11 @@
       "branch": "master",
       "revision": "e8b7339a958d5a72f4043ef27903e6c27da224e2"
     },
+    "kwayland-server": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwayland-server.git",
+      "branch": "master",
+      "revision": "f5717d4f77aa3b7d08ddef19408480ace8925d6a"
+    },
     "kwidgetsaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
       "branch": "master",
