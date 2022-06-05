@@ -1416,6 +1416,11 @@
       "branch": "master",
       "revision": "329c07a377e9719e7f0ce27f640eb94051ea194d"
     },
+    "libmediawiki": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmediawiki.git",
+      "branch": "master",
+      "revision": "80544a9937be85f8bf87f13dd3c11343dd70aef9"
+    },
     "libmsym": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmsym.git",
       "branch": "master",
