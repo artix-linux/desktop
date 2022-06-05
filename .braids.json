@@ -241,6 +241,11 @@
       "branch": "master",
       "revision": "bf9d0148f7c6d6852e99baa12854bb67413eeca9"
     },
+    "caja-extensions": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/caja-extensions.git",
+      "branch": "master",
+      "revision": "5e359982652b8085121a52aff6810005b5243b90"
+    },
     "calendarsupport": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calendarsupport.git",
       "branch": "master",
