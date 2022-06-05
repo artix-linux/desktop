@@ -706,6 +706,11 @@
       "branch": "master",
       "revision": "764eab9c93197dde252ca99b5db7789e58cedc19"
     },
+    "gnome-nibbles": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-nibbles.git",
+      "branch": "master",
+      "revision": "203b7ac1518239f0f49419eda7d921db39f2ba08"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
