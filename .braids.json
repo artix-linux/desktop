@@ -2226,6 +2226,11 @@
       "branch": "master",
       "revision": "f979703ef149057305dc3b6f299f8ac345ebc4e2"
     },
+    "libgrss": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgrss.git",
+      "branch": "master",
+      "revision": "f2560d4edd53a479b6b4240f5e5d6d03124f43fe"
+    },
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
