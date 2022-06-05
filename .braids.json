@@ -2911,6 +2911,11 @@
       "branch": "master",
       "revision": "1499626e833c2c24a68e558298f2670e988a30fc"
     },
+    "pavucontrol": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pavucontrol.git",
+      "branch": "master",
+      "revision": "21f0bd0c58e98db59c96e62f0b68e062fe76e6b7"
+    },
     "pdal": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdal.git",
       "branch": "master",
