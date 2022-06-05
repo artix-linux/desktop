@@ -1,0 +1,31 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+# Contributor: nous <nous@artixlinux.org>
+
+pkgbase=grub-theme
+pkgname=('artix-grub-theme' 'artix-grub-live')
+pkgver=2022.05
+pkgrel=3
+pkgdesc='Artix grub theme'
+arch=('any')
+url="https://gitea.artixlinux.org/artix/grub-theme"
+license=('GPL')
+depends=('grub')
+makedepends=('git')
+groups=('artix-branding')
+_commit=491f78ce3083f6af083a9acf8742a8f4eb48687a
+source=("git+$url.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+    date +%Y.%m
+}
+
+package_artix-grub-live() {
+    cd ${pkgbase}
+    make PREFIX=/usr DESTDIR=${pkgdir} install_live_cfg
+}
+
+package_artix-grub-theme() {
+    cd ${pkgbase}
+    make PREFIX=/usr DESTDIR=${pkgdir} install_theme
+}
