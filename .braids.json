@@ -746,6 +746,11 @@
       "branch": "master",
       "revision": "eff7941eb90d889df23bc48bcd76158f2d5d25fe"
     },
+    "gnome-screenshot": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-screenshot.git",
+      "branch": "master",
+      "revision": "74049f6da9c2e7f2cec09145f6183ebb1e21b2fd"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
