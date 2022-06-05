@@ -681,6 +681,11 @@
       "branch": "master",
       "revision": "be4272f632727d1859f812287d124de9e48c2a24"
     },
+    "gnome-menus": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-menus.git",
+      "branch": "master",
+      "revision": "3bdc8957850365404576764173dc90e085aeb7a0"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
