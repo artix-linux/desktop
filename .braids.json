@@ -1431,6 +1431,11 @@
       "branch": "master",
       "revision": "20ca29499c5b453f51d400c3a9714f6fd84cd03e"
     },
+    "img2pdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/img2pdf.git",
+      "branch": "master",
+      "revision": "db597b4bf435865d4bbf7eb3b963d75db3c8f2d9"
+    },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
