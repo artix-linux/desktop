@@ -2496,6 +2496,11 @@
       "branch": "master",
       "revision": "b90ed88a38af688d22cddf8134f6b250a6e504b1"
     },
+    "luajson": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/luajson.git",
+      "branch": "master",
+      "revision": "fc63079c909a29c1d4617d797feb6fbafd8d4f9f"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
