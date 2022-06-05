@@ -81,6 +81,11 @@
       "branch": "master",
       "revision": "37183957156c00377b1e420c2c73e3b8f1f82cd6"
     },
+    "audiocd-kio": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/audiocd-kio.git",
+      "branch": "master",
+      "revision": "21fc20597c57e8c43334e608a4e8cc4f5f3e8585"
+    },
     "avogadro-crystals": {
       "url": "gitea@gitea.artixlinux.org:packagesA/avogadro-crystals.git",
       "branch": "master",
