@@ -1,0 +1,44 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+pkgname=xdg-desktop-portal-gnome
+pkgver=42.1
+pkgrel=1
+pkgdesc="A backend implementation for xdg-desktop-portal for the GNOME desktop environment"
+url="https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome"
+arch=(x86_64)
+license=(LGPL)
+depends=('xdg-desktop-portal-gtk>=1.10.0-2' libadwaita gnome-keyring
+         gnome-desktop-4)
+makedepends=(xdg-desktop-portal meson git)
+optdepends=('evince: Print previews')
+provides=(xdg-desktop-portal-impl)
+conflicts=('xdg-desktop-portal-gtk<1.10.0-2')
+replaces=('xdg-desktop-portal-gtk<1.10.0-2')
+options=(debug)
+_commit=ae3fbacff87def4c5e22b05bb5df1715728cc6fa  # tags/42.1^0
+source=("git+https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd $pkgname
+  git describe --tags | sed 's/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd $pkgname
+}
+
+build() {
+  # Set dummy dir to avoid systemd dep.
+  artix-meson $pkgname build -Dsystemduserunitdir=/usr/lib/systemd
+  meson compile -C build
+}
+
+check() {
+  meson test -C build --print-errorlogs
+}
+
+package() {
+  meson install -C build --destdir "$pkgdir"
+  rm -r $pkgdir/usr/lib/systemd
+}
