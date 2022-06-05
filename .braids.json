@@ -1066,6 +1066,11 @@
       "branch": "master",
       "revision": "1bfa4ee10ac5d738199db0bcd01e3fd695df16ac"
     },
+    "kruler": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kruler.git",
+      "branch": "master",
+      "revision": "99d8181003dbaa0a47bed22bc5d4791a64e59b17"
+    },
     "krunner": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krunner.git",
       "branch": "master",
