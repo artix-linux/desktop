@@ -365,6 +365,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlrpcclient.git",
       "branch": "master",
       "revision": "601d36d20e86b110cb63dbc05e1045e1f35b0f62"
+    },
+    "modemmanager-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
+      "branch": "master",
+      "revision": "40257f9c4799fa0f528c09016f31197c798b1864"
     }
   }
 }
