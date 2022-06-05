@@ -531,6 +531,11 @@
       "branch": "master",
       "revision": "e42af3fb59d6e7d7f725bc14ee41297b217b79fc"
     },
+    "gnome-applets": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-applets.git",
+      "branch": "master",
+      "revision": "a5a505ead05e1f617c7b0cdfe2e49329e21a3447"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
