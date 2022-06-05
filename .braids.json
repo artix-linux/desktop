@@ -2741,6 +2741,11 @@
       "branch": "master",
       "revision": "dcd28bf86277fb2b80f2c30d229bcfe770012627"
     },
+    "lxde-common": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxde-common.git",
+      "branch": "master",
+      "revision": "7c3788afedea3b62744a6789654a005335e187d8"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
