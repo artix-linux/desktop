@@ -556,6 +556,11 @@
       "branch": "master",
       "revision": "8ea82e73a60f8cbfe9d4f8c34971c1a4d24c55d8"
     },
+    "gnome-books": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-books.git",
+      "branch": "master",
+      "revision": "aea2e07f469307712d7a1d5b8e918e49866c3395"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
