@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "anthy": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
+      "branch": "master",
+      "revision": "1867b90d7b907e293dfc214b976f9d1eab34b0fe"
+    },
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
