@@ -1911,6 +1911,11 @@
       "branch": "master",
       "revision": "edb6ab853eeacb12c350adf7657a70ad635b6f5a"
     },
+    "keychain": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/keychain.git",
+      "branch": "master",
+      "revision": "b33a469daf0eae8642952e19414de3dd3b95558e"
+    },
     "kfilemetadata": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
       "branch": "master",
