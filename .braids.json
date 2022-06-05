@@ -3201,6 +3201,11 @@
       "branch": "master",
       "revision": "7cd011b9aacc5a91ba95cb8f4e1c58e026e55688"
     },
+    "mathjax2": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mathjax2.git",
+      "branch": "master",
+      "revision": "afa5ab6f30b335d5eb6e62fca30eb74175c60966"
+    },
     "mbox-importer": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mbox-importer.git",
       "branch": "master",
