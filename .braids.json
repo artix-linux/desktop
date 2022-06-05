@@ -941,6 +941,11 @@
       "branch": "master",
       "revision": "2adec6e24a3e10ebcdb4bb9959740bb332b450b9"
     },
+    "kiriki": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kiriki.git",
+      "branch": "master",
+      "revision": "e633e8adcabe553350b4faae6cf7ce44b8e6aa69"
+    },
     "kitemmodels": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitemmodels.git",
       "branch": "master",
