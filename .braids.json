@@ -2396,6 +2396,11 @@
       "branch": "master",
       "revision": "595cc55cb923b33df175ff14c6585e44c462673b"
     },
+    "libportal": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libportal.git",
+      "branch": "master",
+      "revision": "c25b833c4a938114e000093acc500ce867a9a630"
+    },
     "libqalculate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqalculate.git",
       "branch": "master",
