@@ -976,6 +976,11 @@
       "branch": "master",
       "revision": "1143e3164d488557faa56f4381bdee78873c4b52"
     },
+    "libkgapi": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkgapi.git",
+      "branch": "master",
+      "revision": "8d3039e8ef56c7d183d42c66857489d14dcea81a"
+    },
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
       "branch": "master",
