@@ -231,6 +231,11 @@
       "branch": "master",
       "revision": "4a8cc9887d93cc6909261c9f497d6b707a9f5acc"
     },
+    "cheese": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cheese.git",
+      "branch": "master",
+      "revision": "01c6b6e9b0d3ade39f19f229dffe00ab7b6437b6"
+    },
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
