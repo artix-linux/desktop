@@ -111,6 +111,11 @@
       "branch": "master",
       "revision": "1115ca4c347e67e2ec97d7e3dde231e7097e43ad"
     },
+    "grantleetheme": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/grantleetheme.git",
+      "branch": "master",
+      "revision": "4b39fbc9e0e70cebf9be78871a08bb4818f8d94d"
+    },
     "kactivities": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
       "branch": "master",
