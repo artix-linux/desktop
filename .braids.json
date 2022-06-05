@@ -896,6 +896,11 @@
       "branch": "master",
       "revision": "ab1d5e1b90b0d5a3d2004cbabec4488a9b1330ee"
     },
+    "gspell": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gspell.git",
+      "branch": "master",
+      "revision": "d09ff24ce4cd3681a57afbb090c86c52b260a81a"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
