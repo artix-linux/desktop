@@ -4761,6 +4761,11 @@
       "branch": "master",
       "revision": "b81708e4d1408eec21eb237803fd1fe37c4a33e5"
     },
+    "xfce4-time-out-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-time-out-plugin.git",
+      "branch": "master",
+      "revision": "f44e5a87c87b6a044082580cf1263041b93aa627"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
