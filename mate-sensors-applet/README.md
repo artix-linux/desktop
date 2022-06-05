@@ -1,0 +1,2 @@
+# mate-sensors-applet
+

@@ -3151,6 +3151,11 @@
       "branch": "master",
       "revision": "cadc6e21624eed99fcbf818f069ce634685d8c30"
     },
+    "mate-sensors-applet": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-sensors-applet.git",
+      "branch": "master",
+      "revision": "866de22581d4b1e6c13e4755cd9a1726deb3b140"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
