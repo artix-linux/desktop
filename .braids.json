@@ -176,6 +176,11 @@
       "branch": "master",
       "revision": "261a230fa336e21117df61146b1cbfd18e184729"
     },
+    "bogofilter": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bogofilter.git",
+      "branch": "master",
+      "revision": "2beade135d38dbcaeab6bf00046c0456af634f7a"
+    },
     "bomber": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bomber.git",
       "branch": "master",
