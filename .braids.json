@@ -1091,6 +1091,11 @@
       "branch": "master",
       "revision": "f67aca40636335a40a51a1e2c882d3c8d1586680"
     },
+    "kwordquiz": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwordquiz.git",
+      "branch": "master",
+      "revision": "831268a8a962829bbf999e5ba531dace1904e652"
+    },
     "kwrited": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwrited.git",
       "branch": "master",
