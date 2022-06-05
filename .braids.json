@@ -4726,6 +4726,11 @@
       "branch": "master",
       "revision": "3900b6701fd88af25cd9b3f5eb8aa4c4057fc224"
     },
+    "xfce4-sensors-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-sensors-plugin.git",
+      "branch": "master",
+      "revision": "deb58253b1aa72860973f558d259d80d8b343f91"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
