@@ -2901,6 +2901,11 @@
       "branch": "master",
       "revision": "d2ace082bb6ad734b4afcbf004c07c4454875bbb"
     },
+    "qqwing": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qqwing.git",
+      "branch": "master",
+      "revision": "062e105a49c561a70946360e645b66d0d8e55ba4"
+    },
     "recordmydesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesR/recordmydesktop.git",
       "branch": "master",
