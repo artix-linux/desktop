@@ -711,6 +711,11 @@
       "branch": "master",
       "revision": "203b7ac1518239f0f49419eda7d921db39f2ba08"
     },
+    "gnome-online-accounts": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-accounts.git",
+      "branch": "master",
+      "revision": "24909e32b41cafad710bf19b0335fcb02d560e9e"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
