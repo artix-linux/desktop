@@ -1296,6 +1296,11 @@
       "branch": "master",
       "revision": "bc322750edcbb626241c0542da146baaa3a27ccc"
     },
+    "minuet": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/minuet.git",
+      "branch": "master",
+      "revision": "353678e72631d1e1eacca25af3691a8aed2d9848"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
