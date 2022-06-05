@@ -3456,6 +3456,11 @@
       "branch": "master",
       "revision": "dddae4065e34181d57e79d262939d64184ad7d28"
     },
+    "qterminal": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qterminal.git",
+      "branch": "master",
+      "revision": "cdb6ac77dc73cb36516229d946e4181104fcd16d"
+    },
     "qtox": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtox.git",
       "branch": "master",
