@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "a232e3d9b4faec4c2e916902c77bd4b2734f692f"
     },
+    "kde-dev-utils": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-utils.git",
+      "branch": "master",
+      "revision": "78e859782d910a29b3fe42c6a4f58b1aa85f3718"
+    },
     "kde-gtk-config": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-gtk-config.git",
       "branch": "master",
