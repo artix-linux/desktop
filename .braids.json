@@ -586,6 +586,11 @@
       "branch": "master",
       "revision": "2513872402cb7dbe2c7f489a97c8aa0d35e0159c"
     },
+    "gnome-chess": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-chess.git",
+      "branch": "master",
+      "revision": "80eb8c572fa58876f33652b19b682d3ef2cf7ce5"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
