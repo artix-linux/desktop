@@ -2851,6 +2851,11 @@
       "branch": "master",
       "revision": "2b9fecd531592cfeec43f8373235861d1096f3d3"
     },
+    "lxqt-notificationd": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-notificationd.git",
+      "branch": "master",
+      "revision": "c1ccdbcbf44553329d9d1b394d070e92f25adaa5"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
