@@ -2371,6 +2371,11 @@
       "branch": "master",
       "revision": "28d386cd09f35e10aa039995d47b4c8fa4c49ad0"
     },
+    "libidl2": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libidl2.git",
+      "branch": "master",
+      "revision": "3160fd463264244fdc118e271de9024a203428f2"
+    },
     "libiptcdata": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libiptcdata.git",
       "branch": "master",
