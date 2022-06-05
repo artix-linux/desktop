@@ -3496,6 +3496,11 @@
       "branch": "master",
       "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
     },
+    "thunderbird": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
+      "branch": "master",
+      "revision": "33cd7c5884a1be854b8f0fb93037e10e5c17b510"
+    },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
       "branch": "master",
