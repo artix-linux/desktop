@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "a2ps": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/a2ps.git",
+      "branch": "master",
+      "revision": "41f74af650ace7011a85a16a0fa9c6bd9ccdced8"
+    },
     "accerciser": {
       "url": "gitea@gitea.artixlinux.org:packagesA/accerciser.git",
       "branch": "master",

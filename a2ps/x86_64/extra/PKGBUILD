@@ -1,0 +1,67 @@
+# Maintainer: Eric Bélanger <eric@archlinux.org>
+
+pkgname=a2ps
+pkgver=4.14
+pkgrel=12
+pkgdesc="An Any to PostScript filter"
+arch=('x86_64')
+url="https://www.gnu.org/software/a2ps/"
+license=('GPL3')
+depends=('psutils' 'imagemagick' 'perl')
+makedepends=('gperf')
+backup=('etc/a2ps/a2ps.cfg' 'etc/a2ps/a2ps-site.cfg')
+source=(https://ftp.gnu.org/gnu/a2ps/${pkgname}-${pkgver}.tar.gz
+        a2ps-4.13c-fnmatch-replacement.patch a2ps-4.13c-emacs.patch
+	a2ps-4.13-manpage-chmod.patch a2ps-4.14-check-mempcpy.patch
+	a2ps-4.14-fix-stpcpy-proto.patch a2ps-texinfo5.patch
+	a2ps-4.13-security.patch
+	CVE-2014-0466.patch
+	CVE-2015-8107.patch
+	a2ps-texinfo67.patch
+        a2ps-adhere-source-date-epoch.patch)
+validpgpkeys=('6EB39358D8328FE3CDC903A8CB6FA340E7075A54')
+
+prepare() {
+  cd ${pkgname}-${pkgver}
+  sed -i -e '/^AM_C_PROTOTYPES/d' -e '/^AUTOMAKE_OPTIONS.*ansi2knr/d' \
+    -e 's:AM_CONFIG_HEADER:AC_CONFIG_HEADERS:' -e 's:AM_PROG_CC_STDC:AC_PROG_CC:' \
+    configure.in {contrib/sample,lib,src}/Makefile.am m4/protos.m4
+  sed -i "s:^countdictstack: \0:" contrib/psset.in
+  patch -p1 -i "${srcdir}/a2ps-4.13c-fnmatch-replacement.patch"
+  patch -p1 -i "${srcdir}/a2ps-4.13c-emacs.patch"
+  patch -p1 -i "${srcdir}/a2ps-4.13-manpage-chmod.patch"
+  patch -p1 -i "${srcdir}/a2ps-4.14-check-mempcpy.patch"
+  patch -p0 -i "${srcdir}/a2ps-4.14-fix-stpcpy-proto.patch"
+  patch -p1 -i "${srcdir}/a2ps-texinfo5.patch"
+  patch -p1 -i "${srcdir}/a2ps-4.13-security.patch"
+  patch -p1 -i "${srcdir}/CVE-2014-0466.patch"
+  patch -p1 -i "${srcdir}/CVE-2015-8107.patch"
+  patch -p1 -i "${srcdir}/a2ps-texinfo67.patch"
+  patch -p1 -i "${srcdir}/a2ps-adhere-source-date-epoch.patch"
+}
+
+build() {
+  cd ${pkgname}-${pkgver}
+  libtoolize --force --copy
+  autoreconf --force --install -I m4 
+  LIBS+="-lm" ./configure --prefix=/usr --sysconfdir=/etc/a2ps \
+    --includedir=/usr/include --enable-shared --enable-nls
+  make
+}
+
+package() {
+  cd ${pkgname}-${pkgver}
+  make DESTDIR="${pkgdir}" install
+}
+sha512sums=('fd6ac8ab47d789114c283e8ca508f7f56feabd1a189f4ac772cad9e6be7e3791e210892cfffd04ad1d39efe4b15386b2e61bf4cd56b70ed581c0554f36bfe06f'
+            '5509ae1277ff1f1f487fb106ed6673eb67fa7d1531a35bfa087f78a0bdb4dc0bf38c69b7fab95161a19406fc1acaef09b22b8a05ef603c6d43a8d7a8c3077b56'
+            '0ef1a215ecb757e249c4d4bdf9a789419c6cd433f7e330783fef13a0158c57c5c5e6a22526d8abcca0919bdb1dc08337869fdd3f0fe192284ca087eafad322a3'
+            'f3dc2698ee989928b3179b65b01bf12d828f4428bd860f6f1a3811daaa9d6256b353c2acb5cd4bf392dd89b040f8e9c15420ab4373f3d54b8b60652aaf23f864'
+            '6835f5e9205cb549da52c4a3c13aad601c9e9d294f0f35ebe4d8cc6f8bd8b5f6fe77b857f8c92f552a43c02eb6de812021c078ce597c319bde176f0e91cd167b'
+            '439af060da55d93e8fa6962f7b77c292e47b1a39d987c35010edd52f0ebf360337b5bd29fd134d4d4ab8333187672e7ae97c2d0259c706e38a2cf9d719dcf7bb'
+            '6a63e63eb7a94f731a69bb7ffef72e768fade785efc883a8942bcc507aed19ff11e50e321b459648f05ce74de344acdcff6b5bfcbf318c165c4e03d20320f0c0'
+            '22b9e23d74a914a3332615b911c655cf5e63ce445073e2cd7faa353c16b3e9c813cc4f3b20db68795f09da8b5a8952effe4727e6d1a429699ad66487bd2cab32'
+            'c09a02b7d43839405f22d039ebf776215b9b31c73a49ab955a60bfa4f9a26362ac0d4321f92666fbcf7320ff7fa103ac4c44a1fecf8d51d2588c86d51473d754'
+            '901f0b2eac7ec36793b0181f5973a228712a6ca73c2f23b4686e32c8ca29c44e99c98db2f0587a81871d1288c348770cd8f49fc98d47d20f446e1d8e3d9a9756'
+            'b0e5730173629148d67714c29a3fc04c846e22affe18ae8bdc770e68dc7c53ab2667c6bce90900dfddfd3a985623940a642d4c5d03c979b5aa38d8f8a1f78467'
+            'd674624bb935f98c6175ef94c32744f0c502ceaea0c6c9711f0a030929e3c2c7af804eef459d890f9778d7097169e6e9affa002d29d76c1f47d93b5930902215')
