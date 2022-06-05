@@ -1,0 +1,27 @@
+# Maintainer: Antonio Rojas <arojas@archlinux.org>
+
+pkgname=coordgen
+pkgver=3.0.0
+pkgrel=1
+pkgdesc='Schrodinger-developed 2D Coordinate Generation'
+arch=(x86_64)
+url='https://github.com/schrodinger/coordgenlibs'
+license=(BSD)
+depends=(maeparser)
+makedepends=(cmake boost)
+source=(https://github.com/schrodinger/coordgenlibs/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+sha256sums=('1efabb1bb98cb7dbaa90339f90783fa6109853db3c63932b07ca394f948068d9')
+
+build() {
+  cmake -B build -S coordgenlibs-$pkgver \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DCOORDGEN_USE_MAEPARSER=ON
+  cmake --build build
+}
+
+package() {
+  DESTDIR="$pkgdir" cmake --install build
+
+  install -Dm644 coordgenlibs-$pkgver/templates.mae -t "$pkgdir"/usr/share/coordgen
+  install -Dm644 coordgenlibs-$pkgver/LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname
+}

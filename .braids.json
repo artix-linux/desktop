@@ -161,6 +161,11 @@
       "branch": "master",
       "revision": "e0ae779827ee3919195928731f270d87e19ab4b0"
     },
+    "coordgen": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/coordgen.git",
+      "branch": "master",
+      "revision": "d6695ba4a2f8eff139aedc50ad8f07f1a5cb4368"
+    },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
