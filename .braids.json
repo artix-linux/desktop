@@ -3171,6 +3171,11 @@
       "branch": "master",
       "revision": "b6ece8245213ca29db717e55b7104169d3ab4ff0"
     },
+    "mate-terminal": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-terminal.git",
+      "branch": "master",
+      "revision": "82006b8deacef2597cd7ff8a7eb60e97b1018331"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
