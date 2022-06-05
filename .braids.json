@@ -10,6 +10,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesB/baloo.git",
       "branch": "master",
       "revision": "52061868eb612d8c9a28f6fd0c2e62454437f83d"
+    },
+    "bluez-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bluez-qt.git",
+      "branch": "master",
+      "revision": "261a230fa336e21117df61146b1cbfd18e184729"
     }
   }
 }
