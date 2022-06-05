@@ -506,6 +506,11 @@
       "branch": "master",
       "revision": "601d36d20e86b110cb63dbc05e1045e1f35b0f62"
     },
+    "kyotocabinet": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kyotocabinet.git",
+      "branch": "master",
+      "revision": "928c75c6824ddd8f46d4dbda80257e8f444c521c"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
