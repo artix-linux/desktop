@@ -1,0 +1,2 @@
+# lxqt-openssh-askpass
+

@@ -2856,6 +2856,11 @@
       "branch": "master",
       "revision": "c1ccdbcbf44553329d9d1b394d070e92f25adaa5"
     },
+    "lxqt-openssh-askpass": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-openssh-askpass.git",
+      "branch": "master",
+      "revision": "546c6b7ec67a7b25918ec7dbd4b96aa5efd2d40b"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
