@@ -4891,6 +4891,11 @@
       "branch": "master",
       "revision": "6d2d1e6f0d05765f2ab25e82708ea1ec302b1a58"
     },
+    "xaw3d": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xaw3d.git",
+      "branch": "master",
+      "revision": "11e445e2e9bbb3555d62f720971f5fe23578e736"
+    },
     "xcursor-breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xcursor-breeze.git",
       "branch": "master",
