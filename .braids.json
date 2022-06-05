@@ -751,6 +751,11 @@
       "branch": "master",
       "revision": "74049f6da9c2e7f2cec09145f6183ebb1e21b2fd"
     },
+    "gnome-session": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-session.git",
+      "branch": "master",
+      "revision": "aa48e1a31421eb6a2433591ec34ffa28f2415b68"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",

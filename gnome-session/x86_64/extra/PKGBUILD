@@ -1,0 +1,47 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+pkgname=gnome-session
+pkgver=42.0
+pkgrel=1
+pkgdesc="The GNOME Session Handler"
+url="https://gitlab.gnome.org/GNOME/gnome-session"
+arch=(x86_64)
+license=(GPL)
+depends=(elogind dconf gsettings-desktop-schemas gnome-desktop json-glib libgl
+         libsm libxtst)
+makedepends=(mesa gtk-doc xtrans git python xmlto docbook-xsl meson)
+groups=(gnome)
+options=(debug)
+_commit=7040e3e595040698fc67ddffaa5be499958237ff  # tags/42.0^0
+source=("git+https://gitlab.gnome.org/GNOME/gnome-session.git#commit=$_commit"
+        "0001-meson-add-elogind-support.patch")
+sha256sums=('SKIP'
+            '7b6303fcd544984b3612d4813145cde30c45c235522c13c8db95673476416eef')
+
+pkgver() {
+  cd $pkgname
+  git describe --tags | sed 's/\.beta/beta/;s/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd $pkgname
+
+  # enable buidling with elogind
+  git apply -3 ../0001-meson-add-elogind-support.patch
+}
+ 
+build() {
+  artix-meson $pkgname build \
+    -Delogind=true \
+    -Dsystemd=false \
+    -Dsystemd_journal=false
+  meson compile -C build
+}
+
+check() {
+  meson test -C build --print-errorlogs
+}
+
+package() {
+  meson install -C build --destdir "$pkgdir"
+}
