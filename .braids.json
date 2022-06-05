@@ -296,6 +296,11 @@
       "branch": "master",
       "revision": "724baf9085e55f377d38d084ac4a94e8d4f588a4"
     },
+    "kdesdk-kioslaves": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-kioslaves.git",
+      "branch": "master",
+      "revision": "7f2cde5f53a80bf506a9d728c06ad668c8ca3491"
+    },
     "kdesignerplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesignerplugin.git",
       "branch": "master",
