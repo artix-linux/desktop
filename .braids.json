@@ -3026,6 +3026,11 @@
       "branch": "master",
       "revision": "0c7a038001069c1f1f4f67b31169543aa8789aa3"
     },
+    "spice-protocol": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/spice-protocol.git",
+      "branch": "master",
+      "revision": "0d889130fc7b4abc285da4f768b8a0f93ab86176"
+    },
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
       "branch": "master",
