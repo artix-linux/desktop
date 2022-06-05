@@ -1811,6 +1811,11 @@
       "branch": "master",
       "revision": "45a755c8b4ad66bd37031bbd7d5dfa73a25c7a1b"
     },
+    "socat": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/socat.git",
+      "branch": "master",
+      "revision": "79f2e2cb058e7ffbec141396f7acf3395f11eece"
+    },
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
       "branch": "master",
