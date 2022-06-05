@@ -3071,6 +3071,11 @@
       "branch": "master",
       "revision": "11e904e836a6aaa585993369dc48e2babe53b53f"
     },
+    "pulseaudio-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pulseaudio-qt.git",
+      "branch": "master",
+      "revision": "60b517d7b50901570769449b83229777324c861e"
+    },
     "purpose": {
       "url": "gitea@gitea.artixlinux.org:packagesP/purpose.git",
       "branch": "master",
