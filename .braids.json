@@ -2731,6 +2731,11 @@
       "branch": "master",
       "revision": "b2fb373c3f75ecfcabc87b16553c3331a57efac0"
     },
+    "lxappearance-obconf": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxappearance-obconf.git",
+      "branch": "master",
+      "revision": "b3641b6a5036945bf412178927ac68ce3cd77a25"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
