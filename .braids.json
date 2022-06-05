@@ -1926,6 +1926,11 @@
       "branch": "master",
       "revision": "34fbf5fd69aaca16cf95f7e4cb2088e525eb2456"
     },
+    "telepathy-kde-text-ui": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-text-ui.git",
+      "branch": "master",
+      "revision": "812419c9dc5e9cb5e3110a030b805ce3dd125e2c"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
