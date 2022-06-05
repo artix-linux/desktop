@@ -796,6 +796,11 @@
       "branch": "master",
       "revision": "fd27a4acbd03bf133de129ade3b602bd48336614"
     },
+    "gnome-terminal": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-terminal.git",
+      "branch": "master",
+      "revision": "5b8878c72b705d34916d15b388b78a8a496c5a55"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
