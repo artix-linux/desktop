@@ -2171,6 +2171,11 @@
       "branch": "master",
       "revision": "1557a3e956ed90bc87d53b65eb4d53c47df9b439"
     },
+    "libfprint": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libfprint.git",
+      "branch": "master",
+      "revision": "e8884f5f08ea93fde8c7b13cd1079e734193c3d0"
+    },
     "libfreexl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfreexl.git",
       "branch": "master",
