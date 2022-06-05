@@ -26,6 +26,11 @@
       "branch": "master",
       "revision": "67457a1dfdc715e6c1b56a1d4f160caef6f226a8"
     },
+    "akonadi-import-wizard": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-import-wizard.git",
+      "branch": "master",
+      "revision": "c3ccdd3abfe2a2aecccec4fa60633c8e33695dea"
+    },
     "akonadiconsole": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadiconsole.git",
       "branch": "master",
