@@ -1516,6 +1516,11 @@
       "branch": "master",
       "revision": "124a2ed29f367dcf7ad92caab21fa96b467fed67"
     },
+    "phonon": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/phonon.git",
+      "branch": "master",
+      "revision": "11795066121c5062b8be87fc2b4e17abdb54a768"
+    },
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
