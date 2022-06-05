@@ -446,6 +446,11 @@
       "branch": "master",
       "revision": "36bffa684ae1336e3e04583198c43146a4e352e5"
     },
+    "kmousetool": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmousetool.git",
+      "branch": "master",
+      "revision": "bccd8c69b623ced0fcf01da377580e6cc51ce3d0"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
