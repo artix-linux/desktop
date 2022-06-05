@@ -1101,6 +1101,11 @@
       "branch": "master",
       "revision": "3a5846893f087daf92dfdfde9a0fe892cad49f15"
     },
+    "krdc": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/krdc.git",
+      "branch": "master",
+      "revision": "37a6506ad4692be25aebd0d2c0b7ef1cc46ddd3b"
+    },
     "krename": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
       "branch": "master",
