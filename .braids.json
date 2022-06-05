@@ -1986,6 +1986,11 @@
       "branch": "master",
       "revision": "3a5846893f087daf92dfdfde9a0fe892cad49f15"
     },
+    "kquickimageeditor": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kquickimageeditor.git",
+      "branch": "master",
+      "revision": "7f20a6e39f2632a6052e844d3c3ae839d03f0ab0"
+    },
     "krdc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krdc.git",
       "branch": "master",
