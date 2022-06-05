@@ -51,6 +51,11 @@
       "branch": "master",
       "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
     },
+    "colord-kde": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
+      "branch": "master",
+      "revision": "e0ae779827ee3919195928731f270d87e19ab4b0"
+    },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
