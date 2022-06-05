@@ -2751,6 +2751,11 @@
       "branch": "master",
       "revision": "a03d5c7f96aeb82f2d4947037fd436cc7abb5df4"
     },
+    "lxdm": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxdm.git",
+      "branch": "master",
+      "revision": "31d30c4c9c1386e66c25b8b9e12a6c55d54fd6ec"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
