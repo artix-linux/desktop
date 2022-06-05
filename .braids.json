@@ -101,6 +101,11 @@
       "branch": "master",
       "revision": "25361c03507c43a25f5466fb931fc9b54226df35"
     },
+    "arc-icon-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/arc-icon-theme.git",
+      "branch": "master",
+      "revision": "223b4bb73c9649129767f5f5d05b56efaec4957f"
+    },
     "archlinux-appstream-data": {
       "url": "gitea@gitea.artixlinux.org:packagesA/archlinux-appstream-data.git",
       "branch": "master",
