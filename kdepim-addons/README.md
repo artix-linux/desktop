@@ -1,0 +1,2 @@
+# kdepim-addons
+

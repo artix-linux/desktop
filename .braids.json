@@ -406,6 +406,11 @@
       "branch": "master",
       "revision": "16ea071571d023e6b45b3d1cfb812136a1691500"
     },
+    "kdepim-addons": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdepim-addons.git",
+      "branch": "master",
+      "revision": "ff7f91d10a590fbcfe8bc113e202b5404576b105"
+    },
     "kdeplasma-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeplasma-addons.git",
       "branch": "master",
