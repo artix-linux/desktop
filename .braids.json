@@ -226,6 +226,11 @@
       "branch": "master",
       "revision": "19e434e5a28677e33f6accede2a3d112d487d049"
     },
+    "elisa": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
+      "branch": "master",
+      "revision": "8149e2d71f1c973d5ccfb6ae996175368cee5bb0"
+    },
     "eventviews": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eventviews.git",
       "branch": "master",
