@@ -265,6 +265,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
       "revision": "bd4850e2c4a5a2ce4a813c052cd128e6a76b93dd"
+    },
+    "knotifications": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/knotifications.git",
+      "branch": "master",
+      "revision": "7b8533984cd5c1d0e931e5a17483b9464cd1176b"
     }
   }
 }
