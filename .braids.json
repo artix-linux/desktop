@@ -521,6 +521,11 @@
       "branch": "master",
       "revision": "b4ac3691f612bffb20f911adb20fdee5807acfe9"
     },
+    "libkscreen": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
+      "branch": "master",
+      "revision": "2f0f0c572524a42915d1b851b58bf8f0d490d3f5"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
