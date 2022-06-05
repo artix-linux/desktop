@@ -566,6 +566,11 @@
       "branch": "master",
       "revision": "1054f1f08d6813bd8320d44c2d1d7f6faff70e28"
     },
+    "gnome-builder": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-builder.git",
+      "branch": "master",
+      "revision": "f51ef2a084733b7627ca0da8257b1f9aa02efaa9"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
