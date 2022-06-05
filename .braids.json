@@ -2456,6 +2456,11 @@
       "branch": "master",
       "revision": "020c2c4483011c96d3aa815981df2310e85dfe07"
     },
+    "libytnef": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libytnef.git",
+      "branch": "master",
+      "revision": "ef587c65d00d92c0921333f2347168befa9a0819"
+    },
     "lokalize": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lokalize.git",
       "branch": "master",
