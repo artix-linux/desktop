@@ -110,6 +110,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kcrash.git",
       "branch": "master",
       "revision": "4de6aad552e65348a352fb3a87eef1e83ccf9ff1"
+    },
+    "kdav": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdav.git",
+      "branch": "master",
+      "revision": "f7fc7645db771af34521c3d820b409ff12e4d59e"
     }
   }
 }
