@@ -3821,6 +3821,11 @@
       "branch": "master",
       "revision": "fc141269a7179f47af1a905f5b68f97a3e44864d"
     },
+    "xmms2": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
+      "branch": "master",
+      "revision": "09be613acbf2ee2b2a34b000078bcbbd43b2f852"
+    },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
