@@ -126,6 +126,11 @@
       "branch": "master",
       "revision": "9aedf4611955f0c3b9a3c87b9065933ca914a22d"
     },
+    "kate": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kate.git",
+      "branch": "master",
+      "revision": "b2dc14cdc3e9adb171b7454e37d1a2bf9d266c04"
+    },
     "kauth": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kauth.git",
       "branch": "master",
