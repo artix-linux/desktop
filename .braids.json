@@ -4666,6 +4666,11 @@
       "branch": "master",
       "revision": "bd3e0d3a6b8cc51c1d90f66239a5ac8031f7062e"
     },
+    "xfce4-genmon-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-genmon-plugin.git",
+      "branch": "master",
+      "revision": "fdc27eb002bf0eb2d9e80cb64135a08c972e624e"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
