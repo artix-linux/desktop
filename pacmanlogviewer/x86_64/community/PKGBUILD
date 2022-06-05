@@ -1,0 +1,25 @@
+# Maintainer: Muflone http://www.muflone.com/contacts/english/
+# Contributor: Giuseppe Calà <jiveaxe@gmail.com>
+ 
+pkgname=pacmanlogviewer
+pkgver=1.4.3
+pkgrel=2
+pkgdesc="Inspect pacman log files"
+arch=('x86_64')
+url='https://opendesktop.org/content/show.php?content=150484'
+license=('GPL')
+depends=('qt5-base' 'hicolor-icon-theme')
+makedepends=('cmake' 'qt5-tools')
+source=("${pkgname}-${pkgver}.tar.gz"::"https://github.com/gcala/${pkgname}/archive/v${pkgver}.tar.gz")
+sha512sums=('79020a89317a94cc47985562f9cfbeb460be7b04ecb383c8880b14d329e7d36906ea6820b6a52a5aea5d77ae12eb5e4bb2a4fa0f1290e93a39d05e6eb9cca216')
+ 
+build() {
+  cd "${pkgname}-${pkgver}"
+  cmake -DCMAKE_INSTALL_PREFIX=/usr -DBUILD_WITH_QT5=ON .
+  make
+}
+
+package() {
+  cd "${pkgname}-${pkgver}"
+  make DESTDIR="${pkgdir}" install
+} 
