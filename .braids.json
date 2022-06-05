@@ -766,6 +766,11 @@
       "branch": "master",
       "revision": "8ba8977a510172710502536f104ea65e9a6c6534"
     },
+    "kimageannotator": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kimageannotator.git",
+      "branch": "master",
+      "revision": "56492f47a6c6161e9e11e51dff199a488ee0c4de"
+    },
     "kimageformats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageformats.git",
       "branch": "master",
