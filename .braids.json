@@ -3226,6 +3226,11 @@
       "branch": "master",
       "revision": "1e72293023a7d0d2f8194bfd2a06f00512db2105"
     },
+    "usbredir": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/usbredir.git",
+      "branch": "master",
+      "revision": "2b3c838fddea34c6b6a51d2c6ba97a08550250c2"
+    },
     "vtk": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
       "branch": "master",
