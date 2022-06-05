@@ -731,6 +731,11 @@
       "branch": "master",
       "revision": "0a17edca57b760c407b6aff1ba470a1e694accbc"
     },
+    "gnome-recipes": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-recipes.git",
+      "branch": "master",
+      "revision": "8f321713338b04ad9602ddf747b3195d96c34246"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
