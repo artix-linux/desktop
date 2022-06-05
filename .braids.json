@@ -3461,6 +3461,11 @@
       "branch": "master",
       "revision": "f8dbc25c3e8783bf59b5b16724799b43a0388f28"
     },
+    "telepathy-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-qt.git",
+      "branch": "master",
+      "revision": "a75c9f194418073fea34e15259ada53ad6851d4b"
+    },
     "template-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
       "branch": "master",
