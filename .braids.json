@@ -4376,6 +4376,11 @@
       "branch": "master",
       "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
     },
+    "thunar": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/thunar.git",
+      "branch": "master",
+      "revision": "97dfe32117627d31bf4a76abbc9396a0484690c1"
+    },
     "thunderbird": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
       "branch": "master",
