@@ -60,6 +60,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kauth.git",
       "branch": "master",
       "revision": "5a3c39a2a7d8316c7b455d3521b37839293ae720"
+    },
+    "kbookmarks": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
+      "branch": "master",
+      "revision": "b3c32e5edf205641071845bf786f1d3e801da694"
     }
   }
 }
