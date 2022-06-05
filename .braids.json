@@ -2441,6 +2441,11 @@
       "branch": "master",
       "revision": "e3ad4c38916bf63d0c72409adc7c939373caf775"
     },
+    "libspiro": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libspiro.git",
+      "branch": "master",
+      "revision": "09c930afa1f19bb0e4542d663b9004865f2921f0"
+    },
     "libwlocate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libwlocate.git",
       "branch": "master",
