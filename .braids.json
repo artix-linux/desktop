@@ -3341,6 +3341,11 @@
       "branch": "master",
       "revision": "b14f4ac053638cfe4534b1a534f49d6a6ccfe0e4"
     },
+    "menumaker": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/menumaker.git",
+      "branch": "master",
+      "revision": "6be3d74cceb9b88a52dca3acffd5d1b6f23ffd9e"
+    },
     "messagelib": {
       "url": "gitea@gitea.artixlinux.org:packagesM/messagelib.git",
       "branch": "master",
