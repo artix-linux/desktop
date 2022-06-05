@@ -4781,6 +4781,11 @@
       "branch": "master",
       "revision": "62fd1d82d47057d68bb017236e6c0b646f6ed939"
     },
+    "xfce4-weather-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-weather-plugin.git",
+      "branch": "master",
+      "revision": "76668d73f422cf6ebe6bf9958381404d2cb37082"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
