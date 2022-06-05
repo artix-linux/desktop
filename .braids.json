@@ -641,6 +641,11 @@
       "branch": "master",
       "revision": "fe2fcf869a2dfcefa90fa0b9a856f8dfcf19e30b"
     },
+    "kleopatra": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kleopatra.git",
+      "branch": "master",
+      "revision": "b7c598b40c8499ce64194058ec6546bb9eb22fb1"
+    },
     "kmag": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
       "branch": "master",
