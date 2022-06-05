@@ -271,6 +271,11 @@
       "branch": "master",
       "revision": "52856bc3c22fbc410d87dea10599fd6f07843de0"
     },
+    "cinnamon-control-center": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-control-center.git",
+      "branch": "master",
+      "revision": "c9c519d24f67d4b49c8839c7769ae4bb79eaabb0"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
