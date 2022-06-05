@@ -1086,6 +1086,11 @@
       "branch": "master",
       "revision": "dcfe1398ec1c4a7d2c658441432565988366baf6"
     },
+    "knetwalk": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/knetwalk.git",
+      "branch": "master",
+      "revision": "d88f6b336db17303363cd5f59e0745d30636b2e7"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
