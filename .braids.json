@@ -3096,6 +3096,11 @@
       "branch": "master",
       "revision": "947b1918cc53f671b1ec0c5d9a3fbc7c18b98793"
     },
+    "telepathy-farstream": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-farstream.git",
+      "branch": "master",
+      "revision": "660220c9e7af9db7c5fd481e8246d7c51780b90c"
+    },
     "telepathy-kde-accounts-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-accounts-kcm.git",
       "branch": "master",
