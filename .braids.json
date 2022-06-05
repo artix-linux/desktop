@@ -1066,6 +1066,11 @@
       "branch": "master",
       "revision": "e9c96514d6947d5a64aec90f9bce47b516dc1ad4"
     },
+    "messagelib": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/messagelib.git",
+      "branch": "master",
+      "revision": "b7cb3faf4942508c84f8bdbde2a636f6131c8104"
+    },
     "milou": {
       "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
       "branch": "master",
