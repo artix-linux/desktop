@@ -1,0 +1,100 @@
+# Maintainer: David Runge <dvzrv@archlinux.org>
+# Contributor: Alexander Epaneshnikov <aarnaarn2@gmail.com>
+# Contributor: Tom Gundersen <teg@jklm.no>
+# Contributor: Jan de Groot <jgc@archlinux.org>
+# Contributor: Giovanni Scafora <giovanni@archlinux.org>
+
+pkgname=brltty
+pkgver=6.4
+pkgrel=10.1
+pkgdesc="Braille display driver for Linux/Unix"
+arch=(x86_64)
+url="https://brltty.app"
+license=(LGPL2.1)
+depends=(bluez-libs gcc-libs glibc liblouis libspeechd pcre2 polkit)
+makedepends=(alsa-lib at-spi2-atk at-spi2-core atk cython dbus dracut espeak-ng
+expat festival glib2 gpm icu java-environment libxaw ncurses ocaml-ctypes
+ocaml-findlib speech-dispatcher strip-nondeterminism elogind tcl)
+optdepends=(
+  'at-spi2-core: X11/GNOME Apps accessibility'
+  'atk: ATK bridge for X11/GNOME accessibility'
+  'espeak-ng: espeak-ng driver'
+  'java-runtime: Java support'
+  'libxaw: X11 support'
+  'libxt: X11 support'
+  'libx11: for xbrlapi'
+  'libxfixes: for xbrlapi'
+  'libxtst: for xbrlapi'
+  'ocaml: OCaml support'
+  'python: Python support'
+  'speech-dispatcher: speech-dispatcher driver'
+  'tcl: tcl support'
+)
+provides=(libbrlapi.so)
+backup=(
+  etc/brltty.conf
+  etc/X11/xinit/xinitrc.d/90xbrlapi
+)
+options=(debug !emptydirs)
+install=brltty.install
+source=("https://brltty.app/archive/${pkgname}-${pkgver}.tar.bz2"
+        "${pkgname}-6.4-x11_autostart.patch"
+        "${pkgname}.tmpfiles"
+        "${pkgname}.sysusers"
+        "0001-brlapi-use-elogind-instead-of-systemd.patch")
+sha512sums=('58394c18d56a2a93a44be1c5dcfd02613581820ea2d2dbd945372ea11e066a18a75832ea04f09cf7f411e6dd1cd4ec78574f317dafcbc5c431dcf0db21b93690'
+            '4871512affefbc178f4204a1b285fc2b5a05ea2d181163195d695b760e9729b3d2d00b5f052abd71379df609c3859d7cbd64128bdefd16e898bbc4368500a9a0'
+            'a530fe66983768f9dc544af01c586abc101dfa2ed76885b4f1fd78c483b59e8445f2c0dbbfb865dd1cf2874342c346bd35ce978ab246e9cdd31d2d489a14e770'
+            'cc2e2d5f33d4e11d6ff828aefc0773ccdc02127ce2f00649c1e3f8d4b39b90789f4a0e41385b344f850c38bd4a1df36d3d9d413a59144d431defdd343633f800'
+            'bd51db03848cf109e7e4f424cbfce9372de17db552446256c4a012359f42f2ab4156ee2d8600dd330307cc19b05e166a1dbbbc5b21a62df6b84d5bc2622a150a')
+b2sums=('2c31b8282f0bc4730e406772c8b5aa72b1650e3290cfe967ec668394627440f84afe936bfbdbdab9ee0e7ba93ef466950295dbd7d979b639605fe619b5c170bd'
+        '4ebc07a725ef8362233a83118e93901e78943e8dae08f9358b668ff13ab88a65eb9e87c49d106a8c3d87eb62007b230e199107eacb01f92dc683335076c01309'
+        '59f50e367d2e6c6704902ebbd254232aa17c741c9a43ba27d0ebaa5fd4a86f62bc8bdd08e8e4562437dea0efa9d49845e40c022b8c4d7110675d81bf63ac4df4'
+        'e6b7453360ef92254ff1049b387c9ee45f3be0e0259c9c3670154938f61ec4142b2de330401d09e1290ed9ffe8e390ede3472dab0e2f4c69b497f9ac19795aad'
+        '868431b3a0d0d2e97647fa99d2bc43c1412f512c92f3ba25ca4a5ec7080bcd476c5486f3a7a66127ebd68f0bd4e59dff563954ffa9ea56e5ad32dcb24650ebb5')
+
+prepare() {
+  cd "${pkgname}-${pkgver}"
+  patch -Np1 -i ../0001-brlapi-use-elogind-instead-of-systemd.patch
+  patch -Np1 -i ../"${pkgname}-6.4-x11_autostart.patch"
+  ./autogen
+}
+
+build() {
+  # fat-lto-objects is required for non-mangled static libs
+  CFLAGS+=" -ffat-lto-objects"
+  cd "${pkgname}-${pkgver}"
+  ./configure --prefix=/usr \
+              --sysconfdir=/etc \
+              --localstatedir=/var \
+              --mandir=/usr/share/man \
+              --with-scripts-directory=/usr/lib/brltty \
+              --with-tables-directory=/usr/share/brltty \
+              --with-writable-directory=/run/brltty \
+              --enable-gpm \
+              --disable-stripping \
+              --without-service-package
+  make -j 1
+  # make brlapi.jar deterministic
+  find . -type f -iname "*.jar" -exec strip-nondeterminism {} \;
+}
+
+package() {
+  depends+=(libasound.so libdbus-1.so libexpat.so libgio-2.0.so libglib-2.0.so
+  libgobject-2.0.so libicuuc.so libgpm.so libncursesw.so libelogind.so)
+
+  cd "${pkgname}-${pkgver}"
+  # installation does not work reliably with many cores, so set jobs to 1
+  make -j1 INSTALL_ROOT="${pkgdir}" install
+  make -j1 INSTALL_ROOT="${pkgdir}" install-udev
+  make -j1 INSTALL_ROOT="${pkgdir}" install-dracut
+  make -j1 INSTALL_ROOT="${pkgdir}" install-polkit
+  install -vDm 644 "Documents/${pkgname}.conf" -t "${pkgdir}/etc/"
+  install -vDm 644 "../${pkgname}.sysusers" \
+    "${pkgdir}/usr/lib/sysusers.d/${pkgname}.conf"
+  install -vDm 644 "../${pkgname}.tmpfiles" \
+    "${pkgdir}/usr/lib/tmpfiles.d/${pkgname}.conf"
+
+  # fix directory permission and ownership
+  install -vdm 750 -o root -g 102 "$pkgdir/usr/share/polkit-1/rules.d"
+}

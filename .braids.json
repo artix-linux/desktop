@@ -206,6 +206,11 @@
       "branch": "master",
       "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
     },
+    "brltty": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/brltty.git",
+      "branch": "master",
+      "revision": "a853ed1f61971e1090f8a69b57e7c34ea7ed1d13"
+    },
     "calendarsupport": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calendarsupport.git",
       "branch": "master",
