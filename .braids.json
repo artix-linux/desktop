@@ -526,6 +526,11 @@
       "branch": "master",
       "revision": "2f0f0c572524a42915d1b851b58bf8f0d490d3f5"
     },
+    "libksysguard": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libksysguard.git",
+      "branch": "master",
+      "revision": "ea953056d9e22f59174f6828f42f0118dc1bca87"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
