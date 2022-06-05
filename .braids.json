@@ -3971,6 +3971,11 @@
       "branch": "master",
       "revision": "09be613acbf2ee2b2a34b000078bcbbd43b2f852"
     },
+    "xpdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xpdf.git",
+      "branch": "master",
+      "revision": "24b1d91de67078b4488176602142cd8f910b2983"
+    },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
