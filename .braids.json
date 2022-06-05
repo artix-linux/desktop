@@ -3256,6 +3256,11 @@
       "branch": "master",
       "revision": "8db9ae5ffab5ef172f5bf3728acd7cff20bac4c9"
     },
+    "snowball": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/snowball.git",
+      "branch": "master",
+      "revision": "2a50d7b8400a53cde0d4d7b3428451737901c9dd"
+    },
     "socat": {
       "url": "gitea@gitea.artixlinux.org:packagesS/socat.git",
       "branch": "master",
