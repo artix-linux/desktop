@@ -326,6 +326,11 @@
       "branch": "master",
       "revision": "ef47f8b8ef2f6807d9c84425896a1c7f0d8d73b1"
     },
+    "dtc": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dtc.git",
+      "branch": "master",
+      "revision": "47bb32d0c75348f90e375df9d62280dccc8cf958"
+    },
     "ebook-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesE/ebook-tools.git",
       "branch": "master",
