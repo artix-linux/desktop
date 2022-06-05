@@ -1321,6 +1321,11 @@
       "branch": "master",
       "revision": "67d23fd6132e51064ef29aac371480796df16770"
     },
+    "ksnakeduel": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ksnakeduel.git",
+      "branch": "master",
+      "revision": "a006ad991f38b9d3ba79a72691fc9348e47fda97"
+    },
     "ksshaskpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksshaskpass.git",
       "branch": "master",
