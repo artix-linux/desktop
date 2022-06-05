@@ -2621,6 +2621,11 @@
       "branch": "master",
       "revision": "f935abaea1541be6a45d70a64f119dbe79622f75"
     },
+    "nuspell": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/nuspell.git",
+      "branch": "master",
+      "revision": "5898f276b02e32f1d81f961b0d1e4729071d9007"
+    },
     "okular": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okular.git",
       "branch": "master",
