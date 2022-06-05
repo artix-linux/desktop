@@ -566,6 +566,11 @@
       "branch": "master",
       "revision": "c327af32e3ed6a93dfcee5ca7d7829ca7d7ff3f9"
     },
+    "kdegraphics-mobipocket": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-mobipocket.git",
+      "branch": "master",
+      "revision": "2a39b8e0ce8abd5d11721eabdd861966cff24e01"
+    },
     "kdelibs4support": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdelibs4support.git",
       "branch": "master",
