@@ -740,6 +740,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
       "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
+    },
+    "xdg-desktop-portal-kde": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
+      "branch": "master",
+      "revision": "c3e9bb4403b96ce36ea7357bd46d1ad7fabd5722"
     }
   }
 }
