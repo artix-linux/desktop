@@ -5,6 +5,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
       "revision": "37183957156c00377b1e420c2c73e3b8f1f82cd6"
+    },
+    "baloo": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/baloo.git",
+      "branch": "master",
+      "revision": "52061868eb612d8c9a28f6fd0c2e62454437f83d"
     }
   }
 }
