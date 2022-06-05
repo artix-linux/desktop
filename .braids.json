@@ -576,6 +576,11 @@
       "branch": "master",
       "revision": "314570da9822fa7c800a707813cb9dfad0ab2fe8"
     },
+    "gnome-calendar": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-calendar.git",
+      "branch": "master",
+      "revision": "31e457e9e3a8e5244d8a605702ef01feeb1817f5"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
