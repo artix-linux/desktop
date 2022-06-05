@@ -2821,6 +2821,11 @@
       "branch": "master",
       "revision": "5898f276b02e32f1d81f961b0d1e4729071d9007"
     },
+    "obs-studio": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/obs-studio.git",
+      "branch": "master",
+      "revision": "eb2d0d9bbf1197c1ad035946717feec348177e33"
+    },
     "okteta": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okteta.git",
       "branch": "master",
