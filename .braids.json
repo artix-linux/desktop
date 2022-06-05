@@ -621,6 +621,11 @@
       "branch": "master",
       "revision": "3563c168308e76b8111df8d41b1d74fdec3fe9b8"
     },
+    "gnome-control-center": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-control-center.git",
+      "branch": "master",
+      "revision": "7bc58979f4215fd2e4cacc799dab49516a668e01"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
