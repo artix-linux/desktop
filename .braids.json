@@ -456,6 +456,11 @@
       "branch": "master",
       "revision": "20d27413d0c2c101b24b4e647b90ede7a7c47fca"
     },
+    "clucene": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/clucene.git",
+      "branch": "master",
+      "revision": "88587c85e92136f7b5f1cc6c3e5f16bfdffaa1ea"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
