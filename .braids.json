@@ -891,6 +891,11 @@
       "branch": "master",
       "revision": "4bcd5fb549258cd9ad89e3acad5c6ab542eb7e22"
     },
+    "gsound": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gsound.git",
+      "branch": "master",
+      "revision": "ab1d5e1b90b0d5a3d2004cbabec4488a9b1330ee"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
