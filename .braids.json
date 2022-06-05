@@ -11,6 +11,11 @@
       "branch": "master",
       "revision": "aa7342c90e0d5052b8aa57c0ae2842fd3a6cb7b9"
     },
+    "adobe-source-code-pro-fonts": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/adobe-source-code-pro-fonts.git",
+      "branch": "master",
+      "revision": "7c07a03f7a293322984370c1906c5c7b0acb5145"
+    },
     "akonadi": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi.git",
       "branch": "master",
