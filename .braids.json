@@ -1111,6 +1111,11 @@
       "branch": "master",
       "revision": "562cbd12065046c9ce95f76818129726e45261cb"
     },
+    "grim": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/grim.git",
+      "branch": "master",
+      "revision": "a5c49c16b51eba2b6ef0f15852aa206f4be3657f"
+    },
     "gsettings-desktop-schemas": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gsettings-desktop-schemas.git",
       "branch": "master",

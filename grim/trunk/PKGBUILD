@@ -1,0 +1,25 @@
+# Maintainer: Alexander F. Rødseth <xyproto@archlinux.org>
+# Contributor: emersion <contact@emersion.fr>
+
+pkgname=grim
+pkgver=1.4.0
+pkgrel=2
+pkgdesc='Screenshot utility for Wayland'
+arch=(x86_64)
+url='https://github.com/emersion/grim'
+license=(MIT)
+depends=(cairo libjpeg-turbo wayland)
+makedepends=(fish git meson ninja pango scdoc wayland-protocols)
+source=("git+$url#commit=275e8c61381f43a31241c48d53243b655424faf8") # tag: v1.4.0
+b2sums=('SKIP')
+
+build() {
+  artix-meson build $pkgname
+  ninja -C build
+}
+
+package() {
+  DESTDIR="$pkgdir" ninja -C build install
+  install -Dm644 $pkgname/LICENSE \
+    "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+}
