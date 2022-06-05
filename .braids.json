@@ -1891,6 +1891,11 @@
       "branch": "master",
       "revision": "5e8ccfc6df85a10a2a2929778a6a434f5071859b"
     },
+    "telepathy-kde-common-internals": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-common-internals.git",
+      "branch": "master",
+      "revision": "a4b039cbb794a9c71979a53cafdb9783599f71d0"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
