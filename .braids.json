@@ -3946,6 +3946,11 @@
       "branch": "master",
       "revision": "33cd7c5884a1be854b8f0fb93037e10e5c17b510"
     },
+    "timezonemap": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/timezonemap.git",
+      "branch": "master",
+      "revision": "bc75f30d45dfa32c73099bf2a64d35642c83a6e9"
+    },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
       "branch": "master",
