@@ -2846,6 +2846,11 @@
       "branch": "master",
       "revision": "2594cc3d76abc6a1e5f68add168337faeb859d30"
     },
+    "polkit-gnome": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/polkit-gnome.git",
+      "branch": "master",
+      "revision": "e93298637da0186ea8b9f34e7c8d84cf5dd7e77d"
+    },
     "polkit-kde-agent": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-kde-agent.git",
       "branch": "master",
