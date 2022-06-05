@@ -1466,6 +1466,11 @@
       "branch": "master",
       "revision": "7c1fb388cae37fad8b1e75f07fea61473c8a5b06"
     },
+    "keepassxc": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/keepassxc.git",
+      "branch": "master",
+      "revision": "413c20fe3b209fbebea09c605baa0dfee2534766"
+    },
     "kemoticons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
       "branch": "master",
