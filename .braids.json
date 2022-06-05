@@ -1731,6 +1731,11 @@
       "branch": "master",
       "revision": "f5f10e1e3514263b766e2a49f53dd3a8f729c0f3"
     },
+    "spectacle": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/spectacle.git",
+      "branch": "master",
+      "revision": "e3b3e8ad178f678db9ee4d702a3e2e36e227667f"
+    },
     "spglib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
       "branch": "master",
