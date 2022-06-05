@@ -246,6 +246,11 @@
       "branch": "master",
       "revision": "72b0668c41485130c2477c39fc6d2cd1c898e6f2"
     },
+    "caribou": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/caribou.git",
+      "branch": "master",
+      "revision": "2046b7ba8a3be76d6d0e20b8a84884fbd90adb04"
+    },
     "cervisia": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cervisia.git",
       "branch": "master",
