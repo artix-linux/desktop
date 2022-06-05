@@ -66,6 +66,11 @@
       "branch": "master",
       "revision": "a2e16806820ca1bd7abf96c6e692d6d3a915783f"
     },
+    "alacarte": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/alacarte.git",
+      "branch": "master",
+      "revision": "15cf804114cf3245ece00ad24f3021f41b235bc6"
+    },
     "analitza": {
       "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
       "branch": "master",
