@@ -2476,6 +2476,11 @@
       "branch": "master",
       "revision": "e54214767decb6257782359f7548664c5c781fc7"
     },
+    "lpeg": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lpeg.git",
+      "branch": "master",
+      "revision": "c82415a959085e979e70060b82cb8f5bc2658190"
+    },
     "lskat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lskat.git",
       "branch": "master",
