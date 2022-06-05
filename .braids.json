@@ -16,6 +16,11 @@
       "branch": "master",
       "revision": "74b8a52da3555860c324d2367282ac9ff79781cc"
     },
+    "akonadi-calendar-tools": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-calendar-tools.git",
+      "branch": "master",
+      "revision": "c90e7523e629bb6726631f1435e16dcbc62e1b6a"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
