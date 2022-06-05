@@ -36,6 +36,11 @@
       "branch": "master",
       "revision": "878d2928d3085e9f8f1e1b1f1cf060635b703b93"
     },
+    "akonadi-notes": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-notes.git",
+      "branch": "master",
+      "revision": "c8e1712eb300205f327cff28a5648da091179d7c"
+    },
     "akonadiconsole": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadiconsole.git",
       "branch": "master",
