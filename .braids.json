@@ -126,6 +126,11 @@
       "branch": "master",
       "revision": "fbbdf2e5b6f51e750bef95e7c912980501193144"
     },
+    "discount": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/discount.git",
+      "branch": "master",
+      "revision": "64f705b4d927e35bea446446d7340529332581ff"
+    },
     "discover": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discover.git",
       "branch": "master",
