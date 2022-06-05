@@ -1201,6 +1201,11 @@
       "branch": "master",
       "revision": "55618e34e9c2cdf2b38faef926d355c0d55ed81a"
     },
+    "hddtemp": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/hddtemp.git",
+      "branch": "master",
+      "revision": "a24ee9e16240d7284b6c4f3d1754579803bfe058"
+    },
     "herbstluftwm": {
       "url": "gitea@gitea.artixlinux.org:packagesH/herbstluftwm.git",
       "branch": "master",
