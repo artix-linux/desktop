@@ -4731,6 +4731,11 @@
       "branch": "master",
       "revision": "deb58253b1aa72860973f558d259d80d8b343f91"
     },
+    "xfce4-session": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-session.git",
+      "branch": "master",
+      "revision": "52fd0519bc3b2669b1679ece90d38c035d17a95a"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
