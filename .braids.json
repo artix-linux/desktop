@@ -1191,6 +1191,11 @@
       "branch": "master",
       "revision": "55618e34e9c2cdf2b38faef926d355c0d55ed81a"
     },
+    "herbstluftwm": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/herbstluftwm.git",
+      "branch": "master",
+      "revision": "b4fa9e42587d94db7f19eda59f159275e6a7ca8c"
+    },
     "hexer-hobu": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
       "branch": "master",
