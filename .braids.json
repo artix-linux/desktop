@@ -296,6 +296,11 @@
       "branch": "master",
       "revision": "564969b9d0789e968c9ada71dd375d3e9a439804"
     },
+    "keditbookmarks": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/keditbookmarks.git",
+      "branch": "master",
+      "revision": "7c1fb388cae37fad8b1e75f07fea61473c8a5b06"
+    },
     "kemoticons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
       "branch": "master",
