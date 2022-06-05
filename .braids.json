@@ -2136,6 +2136,11 @@
       "branch": "master",
       "revision": "b54ed5be5fccc67cf33096a4830806ccc330891c"
     },
+    "libchamplain": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libchamplain.git",
+      "branch": "master",
+      "revision": "2d5566f7406a7212c12d6cf661d60618570397c9"
+    },
     "libchewing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libchewing.git",
       "branch": "master",
