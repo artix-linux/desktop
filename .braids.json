@@ -961,6 +961,11 @@
       "branch": "master",
       "revision": "b4ac3691f612bffb20f911adb20fdee5807acfe9"
     },
+    "libetebase": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
+      "branch": "master",
+      "revision": "1557a3e956ed90bc87d53b65eb4d53c47df9b439"
+    },
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
       "branch": "master",
