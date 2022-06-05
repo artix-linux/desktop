@@ -491,6 +491,11 @@
       "branch": "master",
       "revision": "f67aca40636335a40a51a1e2c882d3c8d1586680"
     },
+    "kwrited": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwrited.git",
+      "branch": "master",
+      "revision": "7ec667187c4286a061c929dd8feec4331b633ec7"
+    },
     "kxmlgui": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlgui.git",
       "branch": "master",
