@@ -3131,6 +3131,11 @@
       "branch": "master",
       "revision": "7e76f58afec367843fe72a54f5980b77535a80eb"
     },
+    "mate-panel": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-panel.git",
+      "branch": "master",
+      "revision": "f2aec642460037cab81f5e525e2712f8174fcb60"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
