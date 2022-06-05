@@ -371,6 +371,11 @@
       "branch": "master",
       "revision": "c1af05c57560a322ac4dd4d1716d25bebf02de79"
     },
+    "evince": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/evince.git",
+      "branch": "master",
+      "revision": "4d3dd99c741320b6eb543c068f285af149d615d1"
+    },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
