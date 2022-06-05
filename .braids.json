@@ -1026,6 +1026,11 @@
       "branch": "master",
       "revision": "6e3f864fe1e9f30016adc34f6262f7f00b91708c"
     },
+    "ktouch": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktouch.git",
+      "branch": "master",
+      "revision": "637a1235eface233bbb07cc506aa62b8d0f10a4f"
+    },
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
       "branch": "master",
