@@ -426,6 +426,11 @@
       "branch": "master",
       "revision": "b19234df96a47ce0fc705dd50229347f4bcc3c9c"
     },
+    "flatpak": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/flatpak.git",
+      "branch": "master",
+      "revision": "fec462be1c0d7489780a5155baa434efa1d7d528"
+    },
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
