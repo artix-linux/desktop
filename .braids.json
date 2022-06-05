@@ -1486,6 +1486,11 @@
       "branch": "master",
       "revision": "00ef771ad5a6406fe70943a0b49e16af6ca1448a"
     },
+    "kfiredragonhelper": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kfiredragonhelper.git",
+      "branch": "master",
+      "revision": "4dc6a481aa9cb443d9861d6c1b007e72d10d51cf"
+    },
     "kfloppy": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfloppy.git",
       "branch": "master",
