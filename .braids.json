@@ -291,6 +291,11 @@
       "branch": "master",
       "revision": "ebfaefb951511b0ae3545456d213e1e4eeb25446"
     },
+    "dleyna-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-core.git",
+      "branch": "master",
+      "revision": "983a0e0827f59187da5a5ea551cd23629943920a"
+    },
     "dolphin": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin.git",
       "branch": "master",
