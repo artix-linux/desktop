@@ -226,6 +226,11 @@
       "branch": "master",
       "revision": "01cbb3731dfa52a2cfe465cd5670830a097634d4"
     },
+    "kaddressbook": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kaddressbook.git",
+      "branch": "master",
+      "revision": "15ab5c050ce112435c69a70d8c2e83a3c0794650"
+    },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
