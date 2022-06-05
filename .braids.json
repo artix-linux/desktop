@@ -696,6 +696,11 @@
       "branch": "master",
       "revision": "df65aa0a4d43bea71fd47bbe955e1200667a9dc3"
     },
+    "gnome-music": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-music.git",
+      "branch": "master",
+      "revision": "2c3c5a1518e53882571f32754110d6e60b39872a"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
