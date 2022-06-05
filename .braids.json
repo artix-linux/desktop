@@ -536,6 +536,11 @@
       "branch": "master",
       "revision": "a5a505ead05e1f617c7b0cdfe2e49329e21a3447"
     },
+    "gnome-autoar": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-autoar.git",
+      "branch": "master",
+      "revision": "37035ba13ad8b42c7c6fe8108ad30a154d22b687"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
