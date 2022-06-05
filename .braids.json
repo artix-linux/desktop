@@ -3106,6 +3106,11 @@
       "branch": "master",
       "revision": "1f5946f50252be3d33df3dedc6a50b8393de875d"
     },
+    "telepathy-idle": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-idle.git",
+      "branch": "master",
+      "revision": "a37db80525ab3473e87db5810dab84e7e771966e"
+    },
     "telepathy-kde-accounts-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-accounts-kcm.git",
       "branch": "master",
