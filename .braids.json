@@ -3456,6 +3456,11 @@
       "branch": "master",
       "revision": "812419c9dc5e9cb5e3110a030b805ce3dd125e2c"
     },
+    "telepathy-logger-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-logger-qt.git",
+      "branch": "master",
+      "revision": "f8dbc25c3e8783bf59b5b16724799b43a0388f28"
+    },
     "template-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
       "branch": "master",
