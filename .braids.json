@@ -3986,6 +3986,11 @@
       "branch": "master",
       "revision": "6a2083f8deebd67883a303ab86e073397b093c1f"
     },
+    "ttf-ubuntu-font-family": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/ttf-ubuntu-font-family.git",
+      "branch": "master",
+      "revision": "69510e5e0bc346c5ce1b0ff4c4ed868b0288de1b"
+    },
     "udftools": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udftools.git",
       "branch": "master",
