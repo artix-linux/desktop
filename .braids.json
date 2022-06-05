@@ -1671,6 +1671,11 @@
       "branch": "master",
       "revision": "e54214767decb6257782359f7548664c5c781fc7"
     },
+    "lskat": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lskat.git",
+      "branch": "master",
+      "revision": "5ef7bb6d179016ee319741a6760f9b48f5826ef2"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
