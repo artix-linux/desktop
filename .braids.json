@@ -350,6 +350,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
       "branch": "master",
       "revision": "4cc4f2995137068fdeef00e070d50dcc83dfcb11"
+    },
+    "kwindowsystem": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwindowsystem.git",
+      "branch": "master",
+      "revision": "f67aca40636335a40a51a1e2c882d3c8d1586680"
     }
   }
 }
