@@ -4466,6 +4466,11 @@
       "branch": "master",
       "revision": "cd4727eecc20d2f025bfc1039dafb007783ca954"
     },
+    "wl-clipboard": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/wl-clipboard.git",
+      "branch": "master",
+      "revision": "32cea585109d2af6d13cf541201aeed402707479"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
