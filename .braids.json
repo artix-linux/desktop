@@ -4166,6 +4166,11 @@
       "branch": "master",
       "revision": "473c5451321c4431108097f18f19444fcfe81511"
     },
+    "swaybg": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/swaybg.git",
+      "branch": "master",
+      "revision": "98c85f5cdd30f911c32d89501a25893b0fffa830"
+    },
     "sweeper": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sweeper.git",
       "branch": "master",
