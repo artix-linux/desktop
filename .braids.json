@@ -150,6 +150,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kdewebkit.git",
       "branch": "master",
       "revision": "f69fa98134d00eb975994d77e67e82c3e3521d81"
+    },
+    "kdnssd": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdnssd.git",
+      "branch": "master",
+      "revision": "43895b6f3fff69390a43f795090211c7255a3291"
     }
   }
 }
