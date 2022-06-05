@@ -1340,6 +1340,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
       "revision": "80fa1c399d1c40d5cc228c1239913d5de12c30ce"
+    },
+    "zanshin": {
+      "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
+      "branch": "master",
+      "revision": "9b27447f319fcf81f20e534a0dcb9b90417b4e67"
     }
   }
 }
