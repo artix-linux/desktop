@@ -176,6 +176,11 @@
       "branch": "master",
       "revision": "eca560354f67dea630874c608d0a02778c1ebf92"
     },
+    "aspell-fr": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/aspell-fr.git",
+      "branch": "master",
+      "revision": "beeb7f4046e91281a573b9e14cf83906b519b929"
+    },
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
       "branch": "master",
