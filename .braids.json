@@ -1341,6 +1341,11 @@
       "branch": "master",
       "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
     },
+    "parley": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
+      "branch": "master",
+      "revision": "97758bc1603c9eea6dbf70403aaf523fc9501c68"
+    },
     "partitionmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/partitionmanager.git",
       "branch": "master",
