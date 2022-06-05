@@ -3036,6 +3036,11 @@
       "branch": "master",
       "revision": "e137c8122a58a774daa17a2652e9bf3820516dfb"
     },
+    "splint": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/splint.git",
+      "branch": "master",
+      "revision": "6ff7151d911f15f5fe93c06db66898a281c5bf99"
+    },
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
       "branch": "master",
