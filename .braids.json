@@ -3201,6 +3201,11 @@
       "branch": "master",
       "revision": "d4ab954cb1a3a61e732bdb173662d0a4feb03973"
     },
+    "tracker3": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tracker3.git",
+      "branch": "master",
+      "revision": "76061c63ef7b4a9357fb0b39eb126748e6d4c2e1"
+    },
     "umbrello": {
       "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
       "branch": "master",
