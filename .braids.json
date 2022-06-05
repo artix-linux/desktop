@@ -4611,6 +4611,11 @@
       "branch": "master",
       "revision": "7545ac8d1dde8489f6711e3d61b828344797c2b2"
     },
+    "xfce4-artwork": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-artwork.git",
+      "branch": "master",
+      "revision": "e000e51f8e1d9ba4c266c54f78a766943734ffd0"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
