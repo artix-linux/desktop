@@ -2356,6 +2356,11 @@
       "branch": "master",
       "revision": "eff55a42d3b6b372e2a090a6dc168fe7b40e0a35"
     },
+    "libmediaart": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmediaart.git",
+      "branch": "master",
+      "revision": "6cc6b5b855a1c1400ceba9f9083a6ab9c7cc520d"
+    },
     "libmediawiki": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediawiki.git",
       "branch": "master",
