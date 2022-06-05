@@ -385,6 +385,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
       "branch": "master",
       "revision": "33d572acd958e60d86b6bc418a0b99459a017195"
+    },
+    "prison": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
+      "branch": "master",
+      "revision": "11e904e836a6aaa585993369dc48e2babe53b53f"
     }
   }
 }
