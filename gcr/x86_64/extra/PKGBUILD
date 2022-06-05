@@ -1,0 +1,56 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Contributor: Ionut Biru <ibiru@archlinux.org>
+
+pkgname=gcr
+pkgver=3.41.0
+pkgrel=2
+pkgdesc="A library for bits of crypto UI and parsing"
+url="https://gitlab.gnome.org/GNOME/gcr"
+arch=(x86_64)
+license=(GPL2)
+depends=(gtk3 libgcrypt p11-kit openssh libsecret)
+makedepends=(gobject-introspection vala libxslt git gtk-doc meson)
+provides=(libgck-1.so libgcr-{base,ui}-3.so)
+backup=(etc/security/limits.d/10-gcr.conf)
+options=(debug)
+_commit=f5026a8c9c7d78372b3efeca3412b0e40011ce11  # tags/3.41.0^0
+source=("git+https://gitlab.gnome.org/GNOME/gcr.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd gcr
+  git describe --tags | sed 's/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd gcr
+
+  # Fixes buidling without systemd
+  git cherry-pick -n 96e76ee482dad2a0d71f9a5a5a6558d272d538ca
+
+  # Fix build
+  git cherry-pick -n b3ca1d02bb0148ca787ac4aead164d7c8ce2c4d8
+}
+
+build() {
+  artix-meson gcr build -Dsystemd=disabled
+  meson compile -C build
+}
+
+check() {
+  # Secure memory tests fail
+  dbus-run-session meson test -C build --print-errorlogs || :
+}
+
+package() {
+  meson install -C build --destdir "$pkgdir"
+
+  # gcr wants to lock some memory to prevent swapping out private keys
+  # https://bugs.archlinux.org/task/32616
+  # https://bugzilla.gnome.org/show_bug.cgi?id=688161
+  install -Dm644 /dev/stdin "$pkgdir/etc/security/limits.d/10-gcr.conf" <<END
+@users - memlock 1024
+END
+}
+
+# vim:set ts=2 sw=2 et:
