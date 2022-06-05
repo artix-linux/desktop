@@ -1,0 +1,33 @@
+# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Contributor: Deon Spengler <deon@spengler.co.za>
+
+pkgname=ddcutil
+pkgver=1.2.2
+pkgrel=2
+pkgdesc='Query and change Linux monitor settings using DDC/CI and USB.'
+url='http://ddcutil.com/'
+arch=('x86_64')
+license=('GPL2')
+depends=('glib2' 'i2c-tools' 'libusb' 'libdrm' 'libxrandr' 'kmod')
+#makedepends=('systemd')
+makedepends=('udev')
+source=(https://github.com/rockowitz/ddcutil/archive/v$pkgver/$pkgname-$pkgver.tar.gz)
+sha512sums=('0329711e536cbcaee2efe6cf981a17181ab318846e9c6a82f2ceacc42691ba49c06df44a52d1f079568e9ccec588cc85d4de4adf19b6db83bebe4bb90ae29207')
+
+prepare() {
+  cd $pkgname-$pkgver
+  NOCONFIGURE=1 ./autogen.sh
+}
+
+build() {
+  cd $pkgname-$pkgver
+  ./configure --prefix=/usr
+  make
+}
+
+package() {
+  cd $pkgname-$pkgver
+  make DESTDIR="$pkgdir" install
+}
+
+# vim: ft=sh ts=2 sw=2 et

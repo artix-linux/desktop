@@ -41,6 +41,11 @@
       "branch": "master",
       "revision": "517dbe23803608464679eed5da57a48bdf1c1bbb"
     },
+    "ddcutil": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
+      "branch": "master",
+      "revision": "fbbdf2e5b6f51e750bef95e7c912980501193144"
+    },
     "editorconfig-core-c": {
       "url": "gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git",
       "branch": "master",
