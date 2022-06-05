@@ -2591,6 +2591,11 @@
       "branch": "master",
       "revision": "f55bff48cc75afeb32be08388d986b648f61b5b9"
     },
+    "mutter6": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mutter6.git",
+      "branch": "master",
+      "revision": "75c47bb6f71dd92cfd8b37d42fcfd552c69580ea"
+    },
     "neochat": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neochat.git",
       "branch": "master",
