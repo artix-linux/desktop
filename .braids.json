@@ -1211,6 +1211,11 @@
       "branch": "master",
       "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
     },
+    "i3blocks": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/i3blocks.git",
+      "branch": "master",
+      "revision": "9518b83663d806aeb480226d954a61eb903bdd2b"
+    },
     "iagno": {
       "url": "gitea@gitea.artixlinux.org:packagesI/iagno.git",
       "branch": "master",
