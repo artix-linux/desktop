@@ -3461,6 +3461,11 @@
       "branch": "master",
       "revision": "cdb6ac77dc73cb36516229d946e4181104fcd16d"
     },
+    "qtermwidget": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qtermwidget.git",
+      "branch": "master",
+      "revision": "83c68c431cad87e1358ae4262486956b9b4a6e2e"
+    },
     "qtox": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtox.git",
       "branch": "master",
