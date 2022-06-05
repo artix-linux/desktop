@@ -456,6 +456,11 @@
       "branch": "master",
       "revision": "10130e5aff90fb251c582bb719dd1ee32c5cb7c5"
     },
+    "kwallet-pam": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kwallet-pam.git",
+      "branch": "master",
+      "revision": "41c2e352cec8145d76d02a1826352d6aac1ff972"
+    },
     "kwayland": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwayland.git",
       "branch": "master",
