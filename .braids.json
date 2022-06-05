@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "attica": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
+      "branch": "master",
+      "revision": "37183957156c00377b1e420c2c73e3b8f1f82cd6"
+    }
+  }
+}
