@@ -216,6 +216,11 @@
       "branch": "master",
       "revision": "ef47f8b8ef2f6807d9c84425896a1c7f0d8d73b1"
     },
+    "ebook-tools": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/ebook-tools.git",
+      "branch": "master",
+      "revision": "91f0fc26dfe4eac1b6a2036d3658ee614f1fc30a"
+    },
     "editorconfig-core-c": {
       "url": "gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git",
       "branch": "master",
