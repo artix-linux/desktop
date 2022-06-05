@@ -3056,6 +3056,11 @@
       "branch": "master",
       "revision": "bc322750edcbb626241c0542da146baaa3a27ccc"
     },
+    "mintlocale": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mintlocale.git",
+      "branch": "master",
+      "revision": "796be10a169efbb142eeb0fca859502cdc4e79a2"
+    },
     "minuet": {
       "url": "gitea@gitea.artixlinux.org:packagesM/minuet.git",
       "branch": "master",
