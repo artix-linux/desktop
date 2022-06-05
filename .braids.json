@@ -3821,6 +3821,11 @@
       "branch": "master",
       "revision": "ad86a57dc40eb1b079cdda6e687a7b850b33ab96"
     },
+    "openscenegraph": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/openscenegraph.git",
+      "branch": "master",
+      "revision": "6f5ab3440cd327b8b35aaed956519d74325f6a8e"
+    },
     "orca": {
       "url": "gitea@gitea.artixlinux.org:packagesO/orca.git",
       "branch": "master",
