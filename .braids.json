@@ -2536,6 +2536,11 @@
       "branch": "master",
       "revision": "0088685c00a7a3ae286e1735afaded79a56f4581"
     },
+    "libqaccessibilityclient": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libqaccessibilityclient.git",
+      "branch": "master",
+      "revision": "c44581beafc6e19aba8caf0db3b0ef46e67544a2"
+    },
     "libqalculate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqalculate.git",
       "branch": "master",
