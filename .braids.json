@@ -451,6 +451,11 @@
       "branch": "master",
       "revision": "0d44124cf642ef988645d12d89de9314f5e9057d"
     },
+    "dmenu": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dmenu.git",
+      "branch": "master",
+      "revision": "0b06339f6f0c34e151246bfd188ae7d940c9fd14"
+    },
     "dolphin": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin.git",
       "branch": "master",
