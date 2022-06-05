@@ -3221,6 +3221,11 @@
       "branch": "master",
       "revision": "f45efc97b43eafb0d809a7ad728dc85d8814c4d5"
     },
+    "usbguard": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/usbguard.git",
+      "branch": "master",
+      "revision": "1e72293023a7d0d2f8194bfd2a06f00512db2105"
+    },
     "vtk": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
       "branch": "master",
