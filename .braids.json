@@ -3191,6 +3191,11 @@
       "branch": "master",
       "revision": "678f3d79330ddcb42b0a16827f25081a834ae4af"
     },
+    "totem-pl-parser": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/totem-pl-parser.git",
+      "branch": "master",
+      "revision": "e51e9ddbedecc714f2924fe25ae0e4c5b516f209"
+    },
     "umbrello": {
       "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
       "branch": "master",
