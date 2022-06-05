@@ -2651,6 +2651,11 @@
       "branch": "master",
       "revision": "beeb42ffc75dd1c8cf60df99abcf61febc0adc55"
     },
+    "osinfo-db": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/osinfo-db.git",
+      "branch": "master",
+      "revision": "33d449ecf681841e45de69e7571167cc0c2ff360"
+    },
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
       "branch": "master",
