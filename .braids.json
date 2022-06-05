@@ -355,6 +355,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kwindowsystem.git",
       "branch": "master",
       "revision": "f67aca40636335a40a51a1e2c882d3c8d1586680"
+    },
+    "kxmlgui": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kxmlgui.git",
+      "branch": "master",
+      "revision": "d3621b637774caf637346b8ab023845fc8f2cba9"
     }
   }
 }
