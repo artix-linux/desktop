@@ -3101,6 +3101,11 @@
       "branch": "master",
       "revision": "c0d52a8fe2d09aaa362bb60122d148aa38f68960"
     },
+    "muffin": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/muffin.git",
+      "branch": "master",
+      "revision": "56a7dd4a988490ea6aab9b1eef5aa3a02b7e801e"
+    },
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
       "branch": "master",
