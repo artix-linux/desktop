@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "b7579bf1ee1de49c584d7904d9722a40ea94044b"
     },
+    "libchewing": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libchewing.git",
+      "branch": "master",
+      "revision": "b4ac3691f612bffb20f911adb20fdee5807acfe9"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
