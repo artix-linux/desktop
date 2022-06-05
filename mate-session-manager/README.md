@@ -1,0 +1,2 @@
+# mate-session-manager
+

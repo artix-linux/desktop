@@ -3156,6 +3156,11 @@
       "branch": "master",
       "revision": "866de22581d4b1e6c13e4755cd9a1726deb3b140"
     },
+    "mate-session-manager": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-session-manager.git",
+      "branch": "master",
+      "revision": "bc887050c8c5d0e1d8d2ff86848e29c410112497"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
