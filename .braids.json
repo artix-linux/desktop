@@ -626,6 +626,11 @@
       "branch": "master",
       "revision": "7bc58979f4215fd2e4cacc799dab49516a668e01"
     },
+    "gnome-desktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-desktop.git",
+      "branch": "master",
+      "revision": "2145f97d087b4bbb78bcc424a4b9d925c1fa9ac9"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
