@@ -3976,6 +3976,11 @@
       "branch": "master",
       "revision": "24b1d91de67078b4488176602142cd8f910b2983"
     },
+    "xsettingsd": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xsettingsd.git",
+      "branch": "master",
+      "revision": "f139f1fc1cc98ee9a9cf88d6d325f42f4d795833"
+    },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
