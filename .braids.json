@@ -3876,6 +3876,11 @@
       "branch": "master",
       "revision": "e2cee77854f12e99100896479facca952bd85461"
     },
+    "pandoc-bin": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pandoc-bin.git",
+      "branch": "master",
+      "revision": "396cdb57fc592cd000748e4dbbfb148d9dc30704"
+    },
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
       "branch": "master",
