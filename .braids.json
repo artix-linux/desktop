@@ -185,6 +185,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kholidays.git",
       "branch": "master",
       "revision": "5bb89a4c0eb666ddfc8bb2ad864f0ef8aa81df1c"
+    },
+    "khtml": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/khtml.git",
+      "branch": "master",
+      "revision": "31b594519aea4615e6fa64feed61dddab7c0b559"
     }
   }
 }
