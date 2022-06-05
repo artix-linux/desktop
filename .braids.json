@@ -6,6 +6,11 @@
       "branch": "master",
       "revision": "1867b90d7b907e293dfc214b976f9d1eab34b0fe"
     },
+    "ark": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/ark.git",
+      "branch": "master",
+      "revision": "61c633253deaa41c7813779ff2fc373050efb01f"
+    },
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
