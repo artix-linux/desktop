@@ -441,6 +441,11 @@
       "branch": "master",
       "revision": "15e9ef35ce3901d52651e6d67666098060ec9ae2"
     },
+    "four-in-a-row": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/four-in-a-row.git",
+      "branch": "master",
+      "revision": "0605f5b79961bb5efd38cbb2fac2fa9c2058db8d"
+    },
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
