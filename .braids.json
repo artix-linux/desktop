@@ -286,6 +286,11 @@
       "branch": "master",
       "revision": "4e5ae9869e135e50852360597d48b60fc3a31500"
     },
+    "dleyna-connector-dbus": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-connector-dbus.git",
+      "branch": "master",
+      "revision": "ebfaefb951511b0ae3545456d213e1e4eeb25446"
+    },
     "dolphin": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin.git",
       "branch": "master",
