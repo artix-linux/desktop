@@ -2916,6 +2916,11 @@
       "branch": "master",
       "revision": "2cc67e1d73ddad7dc71dcd03b45d8f1cc897f055"
     },
+    "retro-gtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesR/retro-gtk.git",
+      "branch": "master",
+      "revision": "f75fd452ed59e1a291fec9514c87294834b7508c"
+    },
     "rinutils": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rinutils.git",
       "branch": "master",
