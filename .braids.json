@@ -4551,6 +4551,11 @@
       "branch": "master",
       "revision": "d1b4208dd1a0e60a6731916076cc688e0b9ea17d"
     },
+    "xarchiver": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xarchiver.git",
+      "branch": "master",
+      "revision": "6d2d1e6f0d05765f2ab25e82708ea1ec302b1a58"
+    },
     "xcursor-breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xcursor-breeze.git",
       "branch": "master",
