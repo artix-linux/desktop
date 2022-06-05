@@ -256,6 +256,11 @@
       "branch": "master",
       "revision": "a853ed1f61971e1090f8a69b57e7c34ea7ed1d13"
     },
+    "bspwm": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bspwm.git",
+      "branch": "master",
+      "revision": "3550449115a0c04b0f49a6b2bbda60060fab9cfa"
+    },
     "caja": {
       "url": "gitea@gitea.artixlinux.org:packagesC/caja.git",
       "branch": "master",
