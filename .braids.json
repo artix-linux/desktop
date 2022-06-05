@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "54afec510aa12a87d04ebce0197e9d3537d39e42"
     },
+    "gjs": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
+      "branch": "master",
+      "revision": "ee9fdee5149e61803b13c9496371d9dd21b401d5"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
