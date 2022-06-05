@@ -501,6 +501,11 @@
       "branch": "master",
       "revision": "9617a898ef1db9eb576197f0368341e063fdb434"
     },
+    "cups-pdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cups-pdf.git",
+      "branch": "master",
+      "revision": "9ee5caaae4aafc4b5845ca1d8ec271e0c01ef288"
+    },
     "cups-pk-helper": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cups-pk-helper.git",
       "branch": "master",
