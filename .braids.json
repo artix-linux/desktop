@@ -4686,6 +4686,11 @@
       "branch": "master",
       "revision": "5b25c37eb8963b4e24a2a7f7f23d5d4cc1960793"
     },
+    "xfce4-netload-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-netload-plugin.git",
+      "branch": "master",
+      "revision": "e48f793241686fccca73bf1f3d856e371cb219a5"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
