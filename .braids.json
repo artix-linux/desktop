@@ -4771,6 +4771,11 @@
       "branch": "master",
       "revision": "b4d902caa7e29ecd6224782339144ec9e501a60d"
     },
+    "xfce4-verve-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-verve-plugin.git",
+      "branch": "master",
+      "revision": "8a2175eac12a6aa863210b8c2a6e759179dfdb28"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
