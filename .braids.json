@@ -971,6 +971,11 @@
       "branch": "master",
       "revision": "f979703ef149057305dc3b6f299f8ac345ebc4e2"
     },
+    "libkdepim": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
+      "branch": "master",
+      "revision": "1143e3164d488557faa56f4381bdee78873c4b52"
+    },
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
       "branch": "master",
