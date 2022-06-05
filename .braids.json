@@ -2731,6 +2731,11 @@
       "branch": "master",
       "revision": "40257f9c4799fa0f528c09016f31197c798b1864"
     },
+    "molequeue": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/molequeue.git",
+      "branch": "master",
+      "revision": "c0d52a8fe2d09aaa362bb60122d148aa38f68960"
+    },
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
       "branch": "master",
