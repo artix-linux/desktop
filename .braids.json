@@ -4796,6 +4796,11 @@
       "branch": "master",
       "revision": "ee826f9c9d7407b2b391dd11bc779785274d6d4a"
     },
+    "xfconf": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfconf.git",
+      "branch": "master",
+      "revision": "cf44df2ced8eb47dec9209fc403ddc29c7d44d22"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
