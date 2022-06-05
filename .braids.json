@@ -3521,6 +3521,11 @@
       "branch": "master",
       "revision": "6a2083f8deebd67883a303ab86e073397b093c1f"
     },
+    "udftools": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/udftools.git",
+      "branch": "master",
+      "revision": "1a58082142b05314fdc7dc5f50d1dfce85d45124"
+    },
     "udiskie": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udiskie.git",
       "branch": "master",
