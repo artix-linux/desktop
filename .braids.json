@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "8c6039af21fb169c818e6983cf4a652a155a5684"
     },
+    "avogadrolibs": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/avogadrolibs.git",
+      "branch": "master",
+      "revision": "8c043d6a693147a2e507db27be5943ec2bdbaa07"
+    },
     "baloo": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baloo.git",
       "branch": "master",
