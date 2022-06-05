@@ -991,6 +991,11 @@
       "branch": "master",
       "revision": "a1409b229ab7c15121ef14c7064e2e0cd290196e"
     },
+    "konqueror": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/konqueror.git",
+      "branch": "master",
+      "revision": "bec2761a77660e47e2832187003008d03e215d29"
+    },
     "konsole": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konsole.git",
       "branch": "master",
