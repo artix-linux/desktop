@@ -1,0 +1,2 @@
+# cinnamon-settings-daemon
+
