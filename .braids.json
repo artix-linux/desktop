@@ -1266,6 +1266,11 @@
       "branch": "master",
       "revision": "7c1d420deda7435625dbbc325b9011d92a6a9f33"
     },
+    "marble": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/marble.git",
+      "branch": "master",
+      "revision": "76854ae4737595eeb01ee9f59d4591a563a97a13"
+    },
     "markdownpart": {
       "url": "gitea@gitea.artixlinux.org:packagesM/markdownpart.git",
       "branch": "master",
