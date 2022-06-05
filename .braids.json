@@ -1136,6 +1136,11 @@
       "branch": "master",
       "revision": "1557a3e956ed90bc87d53b65eb4d53c47df9b439"
     },
+    "libfreexl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libfreexl.git",
+      "branch": "master",
+      "revision": "eae59437a70da4c6de0fead153d088bc0f234169"
+    },
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
