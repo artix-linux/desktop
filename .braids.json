@@ -4191,6 +4191,11 @@
       "branch": "master",
       "revision": "804a369cef3f8a302f921341d9a812a1524a3908"
     },
+    "sxhkd": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sxhkd.git",
+      "branch": "master",
+      "revision": "858add8b40b9cbd2a75c5360f895b46609569ba6"
+    },
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
