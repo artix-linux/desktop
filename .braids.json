@@ -3091,6 +3091,11 @@
       "branch": "master",
       "revision": "2c1cca7a1688716af45709acf57b058f974280cf"
     },
+    "mate-control-center": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-control-center.git",
+      "branch": "master",
+      "revision": "8a5381831f101ebfcbc642e09cee8f60102069ff"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
