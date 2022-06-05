@@ -426,6 +426,11 @@
       "branch": "master",
       "revision": "6b561af1cbcf085452a72697884c1cf314a75f1b"
     },
+    "calamares-branding": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/calamares-branding.git",
+      "branch": "master",
+      "revision": "a540108634d2bfa4b683d77dbc3971ac886154fa"
+    },
     "calc": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calc.git",
       "branch": "master",

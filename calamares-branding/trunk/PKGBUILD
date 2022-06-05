@@ -1,0 +1,22 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: nous <nous@artixlinux.org>
+# Maintainer: linuxer <linuxer@artixlinux.org>
+
+pkgname=calamares-branding
+pkgver=1.1
+pkgrel=1
+pkgdesc='Distribution-independent installer framework artix branding'
+arch=('any')
+license=(GPL)
+url="https://gitea.artixlinux.org/artix/calamares-branding"
+license=('LGPL')
+depends=('calamares')
+makedepends=('git')
+_commit=ed47b68461b33f46cf044a469a5302dd5591f292
+source=("git+${url}.git#commit=${_commit}")
+sha256sums=('SKIP')
+
+package() {
+    cd ${pkgname}/artix
+    make DESTDIR="$pkgdir" install
+}
