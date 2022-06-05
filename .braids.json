@@ -676,6 +676,11 @@
       "branch": "master",
       "revision": "5e200cd6bc5d4ad4fe6f3aa26d0853eaf1863e68"
     },
+    "polkit-kde-agent": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/polkit-kde-agent.git",
+      "branch": "master",
+      "revision": "dfcc163948ac0bfa704f90c7d226cc377240b06c"
+    },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
