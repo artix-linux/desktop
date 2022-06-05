@@ -3986,6 +3986,11 @@
       "branch": "master",
       "revision": "87dffb3c9523e88b279e5ad2b42e789eff73a9c1"
     },
+    "pinfo": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pinfo.git",
+      "branch": "master",
+      "revision": "b0dea7b89e5573005cc47c36edb3b495d8aff220"
+    },
     "pix": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pix.git",
       "branch": "master",
