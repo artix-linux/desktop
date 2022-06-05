@@ -631,6 +631,11 @@
       "branch": "master",
       "revision": "2145f97d087b4bbb78bcc424a4b9d925c1fa9ac9"
     },
+    "gnome-devel-docs": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-devel-docs.git",
+      "branch": "master",
+      "revision": "15f99b05c19b81783a09d9af9fc0e9dca4bd19b1"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
