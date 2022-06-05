@@ -165,6 +165,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
       "branch": "master",
       "revision": "cb0cade453e0d2cb20a4daee05e597bd6e84869c"
+    },
+    "kfilemetadata": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
+      "branch": "master",
+      "revision": "fe5995a4218200f7e02568c821d18210ce763ea1"
     }
   }
 }
