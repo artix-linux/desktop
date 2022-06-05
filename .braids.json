@@ -315,6 +315,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/krunner.git",
       "branch": "master",
       "revision": "926169543c53d2e120c018317bb32860ad74b2c4"
+    },
+    "kservice": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kservice.git",
+      "branch": "master",
+      "revision": "f372adcc4898fa65f0e416548bc6c2bffe097bae"
     }
   }
 }
