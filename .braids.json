@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "fd57811d35edcc631f1e5ed2d9a0ee2f21cbbca5"
     },
+    "korganizer": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/korganizer.git",
+      "branch": "master",
+      "revision": "ca6eb016f17929f538d87de5798e0ad04241b668"
+    },
     "kpackage": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpackage.git",
       "branch": "master",
