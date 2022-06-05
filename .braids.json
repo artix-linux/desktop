@@ -656,6 +656,11 @@
       "branch": "master",
       "revision": "491e028290d8d7483fc5e69e76c0afe72730d3f2"
     },
+    "gnome-initial-setup": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-initial-setup.git",
+      "branch": "master",
+      "revision": "75244c040d9c299d969ba85db77086db705ecb37"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
