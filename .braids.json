@@ -121,6 +121,11 @@
       "branch": "master",
       "revision": "61c633253deaa41c7813779ff2fc373050efb01f"
     },
+    "armagetronad": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/armagetronad.git",
+      "branch": "master",
+      "revision": "30f3626d90c5b80723404433594c54b9c41d3405"
+    },
     "artikulate": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artikulate.git",
       "branch": "master",
