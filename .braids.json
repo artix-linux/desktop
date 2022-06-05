@@ -2856,6 +2856,11 @@
       "branch": "master",
       "revision": "dfcc163948ac0bfa704f90c7d226cc377240b06c"
     },
+    "power-profiles-daemon": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/power-profiles-daemon.git",
+      "branch": "master",
+      "revision": "fe8e4498cc9e422dd09747b3c1772e88f5a3cdf1"
+    },
     "powerdevil": {
       "url": "gitea@gitea.artixlinux.org:packagesP/powerdevil.git",
       "branch": "master",
