@@ -726,6 +726,11 @@
       "branch": "master",
       "revision": "df86f9c17a3db0537e4f2880968a4164e6c9c7f5"
     },
+    "gnome-photos": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-photos.git",
+      "branch": "master",
+      "revision": "0a17edca57b760c407b6aff1ba470a1e694accbc"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
