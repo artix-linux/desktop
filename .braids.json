@@ -3801,6 +3801,11 @@
       "branch": "master",
       "revision": "7bada0c19af7b5182e8eca6c9f89896353e86121"
     },
+    "polybar": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/polybar.git",
+      "branch": "master",
+      "revision": "4faab4e2b82f09b8aec3b456c4786feb29f04a1f"
+    },
     "power-profiles-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/power-profiles-daemon.git",
       "branch": "master",
