@@ -1211,6 +1211,11 @@
       "branch": "master",
       "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
     },
+    "i3-gaps": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/i3-gaps.git",
+      "branch": "master",
+      "revision": "510b75464dc32bc9b617c398f83521c178befa7b"
+    },
     "i3blocks": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3blocks.git",
       "branch": "master",
