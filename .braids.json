@@ -676,6 +676,11 @@
       "branch": "master",
       "revision": "b7c6eb0f5dd0576440c264c6a0b1e84187e725e0"
     },
+    "libkomparediff2": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkomparediff2.git",
+      "branch": "master",
+      "revision": "178757ce613ec56ea29fdc9e4f7005e1285d3601"
+    },
     "libkscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
       "branch": "master",

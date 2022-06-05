@@ -1,0 +1,2 @@
+# libkomparediff2
+
