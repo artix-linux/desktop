@@ -596,6 +596,11 @@
       "branch": "master",
       "revision": "bd7a6d1a31ae2fd6442093d029efc8453daaea04"
     },
+    "gnome-code-assistance": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-code-assistance.git",
+      "branch": "master",
+      "revision": "3a543c8dc28fc67fb0f80c8f22e79620823497d1"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
