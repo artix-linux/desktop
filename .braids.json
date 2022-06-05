@@ -1021,6 +1021,11 @@
       "branch": "master",
       "revision": "c3e9bb4403b96ce36ea7357bd46d1ad7fabd5722"
     },
+    "xdg-utils-cxx": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xdg-utils-cxx.git",
+      "branch": "master",
+      "revision": "fc141269a7179f47af1a905f5b68f97a3e44864d"
+    },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
