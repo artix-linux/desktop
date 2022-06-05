@@ -2656,6 +2656,11 @@
       "branch": "master",
       "revision": "acd4fb61406c19342336734c63b045494b302948"
     },
+    "libmatekbd": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmatekbd.git",
+      "branch": "master",
+      "revision": "781cb8ae8bec2d1812890e0190f11f5094273a05"
+    },
     "libmediaart": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediaart.git",
       "branch": "master",
