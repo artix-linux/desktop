@@ -4471,6 +4471,11 @@
       "branch": "master",
       "revision": "32cea585109d2af6d13cf541201aeed402707479"
     },
+    "wlroots": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/wlroots.git",
+      "branch": "master",
+      "revision": "5621f869e8b06d860982a7021b4abb2fbb89e983"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
