@@ -3446,6 +3446,11 @@
       "branch": "master",
       "revision": "d2e1d58d9686b00ef5efc01009b54b096e5b665d"
     },
+    "neofetch": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/neofetch.git",
+      "branch": "master",
+      "revision": "1eb660b6cf8ecc80ca8b8f404dc5579c1e06024d"
+    },
     "neovim-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neovim-qt.git",
       "branch": "master",
