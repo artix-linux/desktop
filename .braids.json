@@ -125,6 +125,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeclarative.git",
       "branch": "master",
       "revision": "bac5008ddb7d4ce5e7e02ce2d8753686407da59d"
+    },
+    "kded": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kded.git",
+      "branch": "master",
+      "revision": "8d5b3f68dea4f51d6ba4829966c7baf9f5c6fda7"
     }
   }
 }
