@@ -2846,6 +2846,11 @@
       "branch": "master",
       "revision": "ae16d4d02e015c9a47699508240f3f19626989c7"
     },
+    "lxqt-globalkeys": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-globalkeys.git",
+      "branch": "master",
+      "revision": "2b9fecd531592cfeec43f8373235861d1096f3d3"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
