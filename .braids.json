@@ -4866,6 +4866,11 @@
       "branch": "master",
       "revision": "5621f869e8b06d860982a7021b4abb2fbb89e983"
     },
+    "words": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/words.git",
+      "branch": "master",
+      "revision": "15b357b637117deb99ecc661d41955d6d5c49fd7"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
