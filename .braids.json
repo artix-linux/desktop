@@ -1201,6 +1201,11 @@
       "branch": "master",
       "revision": "2597016e3fb9f5b9dec6302df6b435eaaee7629d"
     },
+    "kpat": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpat.git",
+      "branch": "master",
+      "revision": "03510d78c77dd323143209e60261ae83dc55bc56"
+    },
     "kpeople": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpeople.git",
       "branch": "master",
