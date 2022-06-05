@@ -2881,6 +2881,11 @@
       "branch": "master",
       "revision": "53c7bbedad49bd5059f6862b1e8247d2deb8a65d"
     },
+    "lxqt-runner": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-runner.git",
+      "branch": "master",
+      "revision": "24a3b82836cb0d026d06212fb228accd61094ea6"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
