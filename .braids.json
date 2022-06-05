@@ -386,6 +386,11 @@
       "branch": "master",
       "revision": "1eaaa05a97e29cad9397acd17236a305481ba4dd"
     },
+    "exempi": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/exempi.git",
+      "branch": "master",
+      "revision": "1b6589de0c4692168f528fa66ddaea9f977fe43e"
+    },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
