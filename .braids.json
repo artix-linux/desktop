@@ -2236,6 +2236,11 @@
       "branch": "master",
       "revision": "fce340727825deed34fad7e445da7b989b36adf5"
     },
+    "libgweather": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgweather.git",
+      "branch": "master",
+      "revision": "43bc3e39051e4f96e0692d44f72829bdd32a2161"
+    },
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
