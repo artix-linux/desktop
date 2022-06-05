@@ -2676,6 +2676,11 @@
       "branch": "master",
       "revision": "149c1f1639640401a162f3f300332e211325d3bc"
     },
+    "libsysstat": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libsysstat.git",
+      "branch": "master",
+      "revision": "577f7d65eca28e966a5628c1ab240af761e905d5"
+    },
     "libvirt-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvirt-glib.git",
       "branch": "master",
