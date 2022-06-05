@@ -3606,6 +3606,11 @@
       "branch": "master",
       "revision": "97758bc1603c9eea6dbf70403aaf523fc9501c68"
     },
+    "parole": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/parole.git",
+      "branch": "master",
+      "revision": "250e75c5e4008fed2c1b5c0bf2089ce39caf15a5"
+    },
     "partitionmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/partitionmanager.git",
       "branch": "master",
