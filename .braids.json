@@ -3281,6 +3281,11 @@
       "branch": "master",
       "revision": "c3e9bb4403b96ce36ea7357bd46d1ad7fabd5722"
     },
+    "xdg-user-dirs-gtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xdg-user-dirs-gtk.git",
+      "branch": "master",
+      "revision": "70ca73a269c39f61f6383bbf3fde2887a92617bb"
+    },
     "xdg-utils-cxx": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-utils-cxx.git",
       "branch": "master",
