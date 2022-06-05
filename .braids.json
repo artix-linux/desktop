@@ -621,6 +621,11 @@
       "branch": "master",
       "revision": "be88ba61c29ff770490e13d76ce8dbc123beb14a"
     },
+    "plasma-pass": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-pass.git",
+      "branch": "master",
+      "revision": "efdd5759d50ea586a68fb06f272ac02ece9b4a65"
+    },
     "plasma5-applets-active-window-control": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-active-window-control.git",
       "branch": "master",
