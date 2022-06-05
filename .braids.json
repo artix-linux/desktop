@@ -586,6 +586,11 @@
       "branch": "master",
       "revision": "9629b1b0d97853c7a017571aee6b614c21472bbf"
     },
+    "plasma-disks": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-disks.git",
+      "branch": "master",
+      "revision": "356f81e7b09872f896fa950793164b4168dde9e9"
+    },
     "plasma-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
       "branch": "master",
