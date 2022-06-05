@@ -3256,6 +3256,11 @@
       "branch": "master",
       "revision": "f9e447a9ae18f6c89bdc1c98e31ef09cbb399304"
     },
+    "xdg-dbus-proxy": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xdg-dbus-proxy.git",
+      "branch": "master",
+      "revision": "2a8d9530491d42d52cd9712d00eb8648d85506fb"
+    },
     "xdg-desktop-portal-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
