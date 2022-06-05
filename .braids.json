@@ -381,6 +381,11 @@
       "branch": "master",
       "revision": "554fd3e8bc9c1b910571cfdaa94b7fb2a8418035"
     },
+    "evolution-data-server": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/evolution-data-server.git",
+      "branch": "master",
+      "revision": "1eaaa05a97e29cad9397acd17236a305481ba4dd"
+    },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
