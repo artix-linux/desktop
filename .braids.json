@@ -3976,6 +3976,11 @@
       "branch": "master",
       "revision": "e6ea16c74ecd00ad79f100019ccd3850d55323c4"
     },
+    "screen": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/screen.git",
+      "branch": "master",
+      "revision": "c5d7f28ee7eddd157a18cba43624ef650042562a"
+    },
     "screengrab": {
       "url": "gitea@gitea.artixlinux.org:packagesS/screengrab.git",
       "branch": "master",
