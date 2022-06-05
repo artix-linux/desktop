@@ -3146,6 +3146,11 @@
       "branch": "master",
       "revision": "0418150c878f579eaa5dcc12d5eb06fb218a715d"
     },
+    "mate-screensaver": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-screensaver.git",
+      "branch": "master",
+      "revision": "cadc6e21624eed99fcbf818f069ce634685d8c30"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
