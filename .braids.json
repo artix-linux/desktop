@@ -4486,6 +4486,11 @@
       "branch": "master",
       "revision": "d1b4208dd1a0e60a6731916076cc688e0b9ea17d"
     },
+    "xcursor-breeze": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xcursor-breeze.git",
+      "branch": "master",
+      "revision": "1454292923510b4c28e0baa5b3ca395b7d093975"
+    },
     "xdg-dbus-proxy": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-dbus-proxy.git",
       "branch": "master",
