@@ -116,6 +116,11 @@
       "branch": "master",
       "revision": "1d0add7d1a6dbf830782ef60b60d2ac6462c5f75"
     },
+    "black-hole-solver": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/black-hole-solver.git",
+      "branch": "master",
+      "revision": "f0cef784876976017935dae4e1f3da8d9ae5ae02"
+    },
     "blinken": {
       "url": "gitea@gitea.artixlinux.org:packagesB/blinken.git",
       "branch": "master",
