@@ -2251,6 +2251,11 @@
       "branch": "master",
       "revision": "80450882b2cb3171e470e0ee7f7bedae21b459d9"
     },
+    "libiscsi": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libiscsi.git",
+      "branch": "master",
+      "revision": "9a07815ad52a49641b2d2dad9189b127701a5957"
+    },
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
