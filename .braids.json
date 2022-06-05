@@ -1016,6 +1016,11 @@
       "branch": "master",
       "revision": "ea953056d9e22f59174f6828f42f0118dc1bca87"
     },
+    "libphonenumber": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libphonenumber.git",
+      "branch": "master",
+      "revision": "0db000468cef1886c71ea4c2205bfbb194fa13eb"
+    },
     "libpinyin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpinyin.git",
       "branch": "master",
