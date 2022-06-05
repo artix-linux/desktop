@@ -130,6 +130,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kded.git",
       "branch": "master",
       "revision": "8d5b3f68dea4f51d6ba4829966c7baf9f5c6fda7"
+    },
+    "kdelibs4support": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdelibs4support.git",
+      "branch": "master",
+      "revision": "16ea071571d023e6b45b3d1cfb812136a1691500"
     }
   }
 }
