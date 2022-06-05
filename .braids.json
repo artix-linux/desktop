@@ -2906,6 +2906,11 @@
       "branch": "master",
       "revision": "062e105a49c561a70946360e645b66d0d8e55ba4"
     },
+    "quadrapassel": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/quadrapassel.git",
+      "branch": "master",
+      "revision": "d1a32f31290c19619564411a0ad723bb38311571"
+    },
     "recordmydesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesR/recordmydesktop.git",
       "branch": "master",
