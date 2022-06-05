@@ -45,6 +45,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities-stats.git",
       "branch": "master",
       "revision": "eb202b79a2ca063c6b6fbad7ae4328c184de92a7"
+    },
+    "kapidox": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
+      "branch": "master",
+      "revision": "ecaa47c077ff5e3880b37d7f9c6e05775a625e13"
     }
   }
 }
