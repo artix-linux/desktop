@@ -421,6 +421,11 @@
       "branch": "master",
       "revision": "5e359982652b8085121a52aff6810005b5243b90"
     },
+    "calamares": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/calamares.git",
+      "branch": "master",
+      "revision": "6b561af1cbcf085452a72697884c1cf314a75f1b"
+    },
     "calc": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calc.git",
       "branch": "master",
