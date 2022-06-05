@@ -791,6 +791,11 @@
       "branch": "master",
       "revision": "f7ccc6442794cfb0ca211d66db17a5dc9f5ecd81"
     },
+    "gnome-taquin": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-taquin.git",
+      "branch": "master",
+      "revision": "fd27a4acbd03bf133de129ade3b602bd48336614"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
