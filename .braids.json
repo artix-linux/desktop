@@ -761,6 +761,11 @@
       "branch": "master",
       "revision": "64e3243a98b5f853565c65527d69fe72c8fea0a0"
     },
+    "kpeoplevcard": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpeoplevcard.git",
+      "branch": "master",
+      "revision": "9558b2a24c80d78992e4038d75839584b15c6c3b"
+    },
     "kplotting": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
       "branch": "master",
