@@ -266,6 +266,11 @@
       "branch": "master",
       "revision": "fbbdf2e5b6f51e750bef95e7c912980501193144"
     },
+    "devhelp": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/devhelp.git",
+      "branch": "master",
+      "revision": "0cdc6006013848cc36bbb662e24647d1ff13d5c0"
+    },
     "digikam": {
       "url": "gitea@gitea.artixlinux.org:packagesD/digikam.git",
       "branch": "master",
