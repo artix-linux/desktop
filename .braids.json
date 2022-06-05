@@ -1806,6 +1806,11 @@
       "branch": "master",
       "revision": "5970a5b18d451309eda5bd970da62c91c43d3699"
     },
+    "smb4k": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/smb4k.git",
+      "branch": "master",
+      "revision": "45a755c8b4ad66bd37031bbd7d5dfa73a25c7a1b"
+    },
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
       "branch": "master",
