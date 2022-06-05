@@ -3106,6 +3106,11 @@
       "branch": "master",
       "revision": "a23539b93aa028f33a70495d06c16b46f306a5ab"
     },
+    "mate-icon-theme-faenza": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-icon-theme-faenza.git",
+      "branch": "master",
+      "revision": "8799ebd613afe3517c4fc5deb88f6fc7604cf7ec"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",

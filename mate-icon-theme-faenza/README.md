@@ -1,0 +1,2 @@
+# mate-icon-theme-faenza
+
