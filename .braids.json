@@ -2901,6 +2901,11 @@
       "branch": "master",
       "revision": "020c2c4483011c96d3aa815981df2310e85dfe07"
     },
+    "libxdg-basedir": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libxdg-basedir.git",
+      "branch": "master",
+      "revision": "318f575f135de4ddebf9a41d5e5a2e7f73e48519"
+    },
     "libytnef": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libytnef.git",
       "branch": "master",
