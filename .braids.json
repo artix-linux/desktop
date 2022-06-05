@@ -201,6 +201,11 @@
       "branch": "master",
       "revision": "f0cef784876976017935dae4e1f3da8d9ae5ae02"
     },
+    "blackbox": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/blackbox.git",
+      "branch": "master",
+      "revision": "975b3b555a661361118f2aee1a872bc201599562"
+    },
     "blinken": {
       "url": "gitea@gitea.artixlinux.org:packagesB/blinken.git",
       "branch": "master",
