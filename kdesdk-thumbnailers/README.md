@@ -1,0 +1,2 @@
+# kdesdk-thumbnailers
+

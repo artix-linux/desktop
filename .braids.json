@@ -301,6 +301,11 @@
       "branch": "master",
       "revision": "7f2cde5f53a80bf506a9d728c06ad668c8ca3491"
     },
+    "kdesdk-thumbnailers": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-thumbnailers.git",
+      "branch": "master",
+      "revision": "84e8e80c2cb303e33c4575b5bd45733427963493"
+    },
     "kdesignerplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesignerplugin.git",
       "branch": "master",
