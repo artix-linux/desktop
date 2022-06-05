@@ -4766,6 +4766,11 @@
       "branch": "master",
       "revision": "f44e5a87c87b6a044082580cf1263041b93aa627"
     },
+    "xfce4-timer-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-timer-plugin.git",
+      "branch": "master",
+      "revision": "b4d902caa7e29ecd6224782339144ec9e501a60d"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
