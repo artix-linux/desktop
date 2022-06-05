@@ -2391,6 +2391,11 @@
       "branch": "master",
       "revision": "6693966872d791651b16f6402c5bac58063db5e8"
     },
+    "libcryptui": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libcryptui.git",
+      "branch": "master",
+      "revision": "b1910c90f09a5a4e2ae3eb6636edeafbf1a52561"
+    },
     "libdazzle": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdazzle.git",
       "branch": "master",
