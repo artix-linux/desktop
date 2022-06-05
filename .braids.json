@@ -676,6 +676,11 @@
       "branch": "master",
       "revision": "d9a4783a9c2f6dc7210e4a4723040093189164ea"
     },
+    "gnome-maps": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-maps.git",
+      "branch": "master",
+      "revision": "be4272f632727d1859f812287d124de9e48c2a24"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
