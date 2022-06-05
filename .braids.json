@@ -71,6 +71,11 @@
       "branch": "master",
       "revision": "15cf804114cf3245ece00ad24f3021f41b235bc6"
     },
+    "amtk": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/amtk.git",
+      "branch": "master",
+      "revision": "9f15966c8af03b1c2a690f8c25f38393cd219d41"
+    },
     "analitza": {
       "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
       "branch": "master",
