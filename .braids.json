@@ -721,6 +721,11 @@
       "branch": "master",
       "revision": "447c6929621c5fcc8a675d483c2f0711eaa3f30f"
     },
+    "gnome-panel": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-panel.git",
+      "branch": "master",
+      "revision": "df86f9c17a3db0537e4f2880968a4164e6c9c7f5"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
