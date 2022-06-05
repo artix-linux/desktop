@@ -2486,6 +2486,11 @@
       "branch": "master",
       "revision": "5ef7bb6d179016ee319741a6760f9b48f5826ef2"
     },
+    "lua-bitop": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lua-bitop.git",
+      "branch": "master",
+      "revision": "afcf7526899d07d9bca819e17ea10c9ca02e3c8d"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
