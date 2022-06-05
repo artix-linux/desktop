@@ -2351,6 +2351,11 @@
       "branch": "master",
       "revision": "329c07a377e9719e7f0ce27f640eb94051ea194d"
     },
+    "liblouis": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/liblouis.git",
+      "branch": "master",
+      "revision": "eff55a42d3b6b372e2a090a6dc168fe7b40e0a35"
+    },
     "libmediawiki": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediawiki.git",
       "branch": "master",
