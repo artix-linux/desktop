@@ -1451,6 +1451,11 @@
       "branch": "master",
       "revision": "564969b9d0789e968c9ada71dd375d3e9a439804"
     },
+    "kdsoap": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdsoap.git",
+      "branch": "master",
+      "revision": "ac54017ecafd5f2142296d6fdc0b14e0a64df0a7"
+    },
     "keditbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keditbookmarks.git",
       "branch": "master",
