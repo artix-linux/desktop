@@ -4781,6 +4781,11 @@
       "branch": "master",
       "revision": "d99bb45965463678e9ab7af91cf6876c272442c9"
     },
+    "unrtf": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/unrtf.git",
+      "branch": "master",
+      "revision": "cfd2313bb630d03a1e51be469d75ef845ef064bd"
+    },
     "usbguard": {
       "url": "gitea@gitea.artixlinux.org:packagesU/usbguard.git",
       "branch": "master",
