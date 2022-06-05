@@ -471,6 +471,11 @@
       "branch": "master",
       "revision": "083324369f283142e9ed80009c1e8f591058ce08"
     },
+    "konsole": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/konsole.git",
+      "branch": "master",
+      "revision": "45330d5c5698312b03756184253d11674e01fb65"
+    },
     "kpackage": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpackage.git",
       "branch": "master",
