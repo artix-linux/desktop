@@ -30,6 +30,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
       "revision": "1de48b5f63f6e2cb072f8bcbc8373e7813897be3"
+    },
+    "frameworkintegration": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
+      "branch": "master",
+      "revision": "09c890a0530542f3715a9315a7ca5aee579d36bb"
     }
   }
 }
