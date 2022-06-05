@@ -401,6 +401,11 @@
       "branch": "master",
       "revision": "926169543c53d2e120c018317bb32860ad74b2c4"
     },
+    "kscreen": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kscreen.git",
+      "branch": "master",
+      "revision": "d44554f0adf8fd5faee3e71a35a5879c1c7edaed"
+    },
     "kservice": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kservice.git",
       "branch": "master",
