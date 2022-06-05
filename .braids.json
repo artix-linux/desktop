@@ -541,6 +541,11 @@
       "branch": "master",
       "revision": "56cfa7892f81a4bf9943766f9cd9b0495fa5f479"
     },
+    "maliit-keyboard": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/maliit-keyboard.git",
+      "branch": "master",
+      "revision": "7c1d420deda7435625dbbc325b9011d92a6a9f33"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
