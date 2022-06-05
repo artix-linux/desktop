@@ -966,6 +966,11 @@
       "branch": "master",
       "revision": "1557a3e956ed90bc87d53b65eb4d53c47df9b439"
     },
+    "libgravatar": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
+      "branch": "master",
+      "revision": "f979703ef149057305dc3b6f299f8ac345ebc4e2"
+    },
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
       "branch": "master",
