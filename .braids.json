@@ -2961,6 +2961,11 @@
       "branch": "master",
       "revision": "eff55a42d3b6b372e2a090a6dc168fe7b40e0a35"
     },
+    "libluv": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libluv.git",
+      "branch": "master",
+      "revision": "a08609036851c42b441e6f704ceeb4fc54ef7e02"
+    },
     "liblxqt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblxqt.git",
       "branch": "master",
