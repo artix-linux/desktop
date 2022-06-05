@@ -4681,6 +4681,11 @@
       "branch": "master",
       "revision": "d3f58971a2021ea496004f4e0d3df9733e486c28"
     },
+    "xfce4-mpc-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mpc-plugin.git",
+      "branch": "master",
+      "revision": "5b25c37eb8963b4e24a2a7f7f23d5d4cc1960793"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
