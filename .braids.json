@@ -4661,6 +4661,11 @@
       "branch": "master",
       "revision": "3c49857b68a90307cac8be14734514544839e4e1"
     },
+    "xfce4-fsguard-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-fsguard-plugin.git",
+      "branch": "master",
+      "revision": "bd3e0d3a6b8cc51c1d90f66239a5ac8031f7062e"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
