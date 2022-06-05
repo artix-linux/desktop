@@ -141,6 +141,11 @@
       "branch": "master",
       "revision": "35f7aa55bde74a9ecadcb087c3552694ab2cc46f"
     },
+    "cantor": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cantor.git",
+      "branch": "master",
+      "revision": "72b0668c41485130c2477c39fc6d2cd1c898e6f2"
+    },
     "cervisia": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cervisia.git",
       "branch": "master",
