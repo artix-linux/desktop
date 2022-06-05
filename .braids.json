@@ -2916,6 +2916,11 @@
       "branch": "master",
       "revision": "5dadd54f387eeb45c8aef20c81fca201937c1749"
     },
+    "pidgin": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pidgin.git",
+      "branch": "master",
+      "revision": "fb7c7f7579be097aa4322387ae53b1c426cd2383"
+    },
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
