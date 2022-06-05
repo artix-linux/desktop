@@ -2231,6 +2231,11 @@
       "branch": "master",
       "revision": "f2560d4edd53a479b6b4240f5e5d6d03124f43fe"
     },
+    "libgtop": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgtop.git",
+      "branch": "master",
+      "revision": "fce340727825deed34fad7e445da7b989b36adf5"
+    },
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
