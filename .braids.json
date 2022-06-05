@@ -1031,6 +1031,11 @@
       "branch": "master",
       "revision": "637a1235eface233bbb07cc506aa62b8d0f10a4f"
     },
+    "kturtle": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kturtle.git",
+      "branch": "master",
+      "revision": "7b21eb751ce1f4b808437783eedce4cefc8cfa48"
+    },
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
       "branch": "master",
