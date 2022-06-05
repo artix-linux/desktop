@@ -771,6 +771,11 @@
       "branch": "master",
       "revision": "8a4a4bc5cb0ddddbbc4aeb4353cb340acd66f002"
     },
+    "gnome-software": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-software.git",
+      "branch": "master",
+      "revision": "d90a74b2d5c5f7efb453861f70677c123987c7da"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
