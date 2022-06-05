@@ -461,6 +461,11 @@
       "branch": "master",
       "revision": "7ad680fe1f3185088a5615fff7092ab651707c74"
     },
+    "gcab": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gcab.git",
+      "branch": "master",
+      "revision": "45ae284649c13b2886615bdf7a951ffebbe4aa02"
+    },
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
       "branch": "master",
