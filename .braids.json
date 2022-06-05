@@ -781,6 +781,11 @@
       "branch": "master",
       "revision": "bda1aaffb1797586aaea131de6b504b548dde2c4"
     },
+    "gnome-sudoku": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sudoku.git",
+      "branch": "master",
+      "revision": "e2340d203b185827278c59c232c62fc543b601d0"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
