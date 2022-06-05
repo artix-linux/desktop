@@ -766,6 +766,11 @@
       "branch": "master",
       "revision": "b7c598b40c8499ce64194058ec6546bb9eb22fb1"
     },
+    "klettres": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/klettres.git",
+      "branch": "master",
+      "revision": "c47c39c77d09b8d6a78e24d503f0365412b269e6"
+    },
     "kmag": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
       "branch": "master",
