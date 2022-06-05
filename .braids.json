@@ -586,6 +586,11 @@
       "branch": "master",
       "revision": "bfeef21e94d55d90e15b6653abb16e85e3044470"
     },
+    "plasma5-applets-thermal-monitor": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-thermal-monitor.git",
+      "branch": "master",
+      "revision": "b4762173b7fa9579c2d33616596aea5fd82c860d"
+    },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
