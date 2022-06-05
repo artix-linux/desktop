@@ -1791,6 +1791,11 @@
       "branch": "master",
       "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
     },
+    "palapeli": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/palapeli.git",
+      "branch": "master",
+      "revision": "3b330ce32d0c91d8cfdeacb28225e114059a0164"
+    },
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
       "branch": "master",
