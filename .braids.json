@@ -821,6 +821,11 @@
       "branch": "master",
       "revision": "6f6ef11aad1921f111052c93f79154ff34396a96"
     },
+    "kio-extras": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kio-extras.git",
+      "branch": "master",
+      "revision": "908d04b11a37a10fd35b431d3dfce76a9f75a0d7"
+    },
     "kio-fuse": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-fuse.git",
       "branch": "master",
