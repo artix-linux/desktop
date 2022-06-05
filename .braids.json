@@ -4601,6 +4601,11 @@
       "branch": "master",
       "revision": "a329e939a1de0e3e643d8b8451490390468c03b5"
     },
+    "xfburn": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfburn.git",
+      "branch": "master",
+      "revision": "7a73ba8ebf39bc9eca83c031cb9d480c840d50b4"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
