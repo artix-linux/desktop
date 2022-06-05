@@ -3216,6 +3216,11 @@
       "branch": "master",
       "revision": "721550332563236381498eb4047e4b91969ff050"
     },
+    "signon-ui": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/signon-ui.git",
+      "branch": "master",
+      "revision": "2c35c8a33adcc8c25021e9c82f23f6c8a1242672"
+    },
     "signond": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signond.git",
       "branch": "master",
