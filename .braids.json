@@ -4706,6 +4706,11 @@
       "branch": "master",
       "revision": "cc6fd95f45bca9dec20c9cbbc27a0f6fde09a98e"
     },
+    "xfce4-power-manager": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-power-manager.git",
+      "branch": "master",
+      "revision": "6a1212c68f0dac8b8c4930d1722fd0e5c136aab6"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
