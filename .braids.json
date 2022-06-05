@@ -3151,6 +3151,11 @@
       "branch": "master",
       "revision": "49cb63eaeeaff751c9f0d741b3ad17945289468e"
     },
+    "mako": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mako.git",
+      "branch": "master",
+      "revision": "3549cb07aa50c0cbbb42df31d19ce43c14396345"
+    },
     "malcontent": {
       "url": "gitea@gitea.artixlinux.org:packagesM/malcontent.git",
       "branch": "master",
