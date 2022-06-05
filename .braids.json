@@ -486,6 +486,11 @@
       "branch": "master",
       "revision": "b3c32e5edf205641071845bf786f1d3e801da694"
     },
+    "kbounce": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kbounce.git",
+      "branch": "master",
+      "revision": "a7cd0fb8f4a95dda4396f8019b7fe416cd982d01"
+    },
     "kbruch": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbruch.git",
       "branch": "master",
