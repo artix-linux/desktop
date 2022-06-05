@@ -1356,6 +1356,11 @@
       "branch": "master",
       "revision": "441038dd4e32680e911b3de34b80675c4d412041"
     },
+    "pegtl": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pegtl.git",
+      "branch": "master",
+      "revision": "124a2ed29f367dcf7ad92caab21fa96b467fed67"
+    },
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
