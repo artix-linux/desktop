@@ -370,6 +370,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
       "revision": "40257f9c4799fa0f528c09016f31197c798b1864"
+    },
+    "networkmanager-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/networkmanager-qt.git",
+      "branch": "master",
+      "revision": "3105e53375e690a500ce9228fc9301e4eec3b841"
     }
   }
 }
