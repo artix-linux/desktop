@@ -2786,6 +2786,11 @@
       "branch": "master",
       "revision": "a2d91140681657f5575f83d9564709330da94428"
     },
+    "lximage-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lximage-qt.git",
+      "branch": "master",
+      "revision": "42110ce790670c7feb205b55a94da68ccc89cc35"
+    },
     "lxinput": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxinput.git",
       "branch": "master",
