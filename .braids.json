@@ -236,6 +236,11 @@
       "branch": "master",
       "revision": "2cdf5e710c0da45e6f6c76845f2ec4cda69a1da6"
     },
+    "kalendar": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kalendar.git",
+      "branch": "master",
+      "revision": "ef094665b807a626ee73416d45bc985273c2b79e"
+    },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
