@@ -436,6 +436,11 @@
       "branch": "master",
       "revision": "4654c94f34e1f0f9c968408c928e63a2b7345343"
     },
+    "folks": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/folks.git",
+      "branch": "master",
+      "revision": "15e9ef35ce3901d52651e6d67666098060ec9ae2"
+    },
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
