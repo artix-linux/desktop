@@ -2891,6 +2891,11 @@
       "branch": "master",
       "revision": "915805fd9f226409713ca4a9082010764fd06cba"
     },
+    "qemu": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qemu.git",
+      "branch": "master",
+      "revision": "27ffe8f79faa19c07eb20505da22e5c1adeec210"
+    },
     "qqc2-desktop-style": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qqc2-desktop-style.git",
       "branch": "master",
