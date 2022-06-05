@@ -190,6 +190,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/khtml.git",
       "branch": "master",
       "revision": "31b594519aea4615e6fa64feed61dddab7c0b559"
+    },
+    "ki18n": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ki18n.git",
+      "branch": "master",
+      "revision": "2b28dbb7762b4d03a803f4a0479861343a263374"
     }
   }
 }
