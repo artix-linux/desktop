@@ -211,6 +211,11 @@
       "branch": "master",
       "revision": "1de48b5f63f6e2cb072f8bcbc8373e7813897be3"
     },
+    "facile": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/facile.git",
+      "branch": "master",
+      "revision": "3bc8aa7dd5231290c7640b9950636afe690be509"
+    },
     "filelight": {
       "url": "gitea@gitea.artixlinux.org:packagesF/filelight.git",
       "branch": "master",

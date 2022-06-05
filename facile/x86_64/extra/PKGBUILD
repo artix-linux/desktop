@@ -1,0 +1,23 @@
+# Maintainer: Tobias Powalowski <tpowa@archlinux.org>
+
+pkgname=facile
+pkgver=1.1.4
+pkgrel=1
+pkgdesc="A Functional Constraint Library"
+arch=(x86_64)
+url="http://www.recherche.enac.fr/opti/facile/"
+license=("LGPL")
+makedepends=('ocaml-compiler-libs')
+depends=()
+source=(https://github.com/Emmanuel-PLF/facile/archive/$pkgver/$pkgname-$pkgver.tar.gz)
+md5sums=('f68b81b7eeb0105ffa82f53b5d8ef025')
+
+build() {
+  cd $pkgname-$pkgver/lib
+  make
+}
+
+package() {
+  cd $pkgname-$pkgver/lib
+  install -Dm644 facile.cmxa facile.cmi facile.cma facile.a -t "$pkgdir/usr/lib/ocaml/facile"
+}
