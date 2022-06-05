@@ -501,6 +501,11 @@
       "branch": "master",
       "revision": "99ab3ab97cbd4b348bca1a2e98ac32a6e49307cb"
     },
+    "kpmcore": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpmcore.git",
+      "branch": "master",
+      "revision": "f95bc5ed43137ce459a613528f0fc092e6358a68"
+    },
     "kpty": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpty.git",
       "branch": "master",
