@@ -1271,6 +1271,11 @@
       "branch": "master",
       "revision": "f979703ef149057305dc3b6f299f8ac345ebc4e2"
     },
+    "libkcddb": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
+      "branch": "master",
+      "revision": "b575ff4e5550af5db57522b0425f01706364f849"
+    },
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
       "branch": "master",
