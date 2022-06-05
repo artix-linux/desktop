@@ -1556,6 +1556,11 @@
       "branch": "master",
       "revision": "f5f10e1e3514263b766e2a49f53dd3a8f729c0f3"
     },
+    "spglib": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
+      "branch": "master",
+      "revision": "697095d650adaf1dbe0729acf9460fb93c835ced"
+    },
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
       "branch": "master",
