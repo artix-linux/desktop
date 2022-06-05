@@ -410,6 +410,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesS/sonnet.git",
       "branch": "master",
       "revision": "f5f10e1e3514263b766e2a49f53dd3a8f729c0f3"
+    },
+    "syndication": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
+      "branch": "master",
+      "revision": "f673d68cce42d4d18677bb072cd4592130f82b41"
     }
   }
 }
