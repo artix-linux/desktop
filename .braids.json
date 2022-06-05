@@ -3121,6 +3121,11 @@
       "branch": "master",
       "revision": "fca44eabde0ec28d9ea41e67cbe9dfe9a2fb6a09"
     },
+    "mate-netbook": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-netbook.git",
+      "branch": "master",
+      "revision": "ce74e76b28663febd7ef36777c8be82a0a83074c"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
