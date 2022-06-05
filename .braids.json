@@ -921,6 +921,11 @@
       "branch": "master",
       "revision": "80877d923b27ea946bcf1642d26b1927a63dac3f"
     },
+    "gupnp-dlna": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gupnp-dlna.git",
+      "branch": "master",
+      "revision": "f797df4be3fcc72b98648a1d1f2022a47070911d"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
