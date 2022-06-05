@@ -400,6 +400,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesQ/qqc2-desktop-style.git",
       "branch": "master",
       "revision": "d2ace082bb6ad734b4afcbf004c07c4454875bbb"
+    },
+    "solid": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
+      "branch": "master",
+      "revision": "1a963af91e00c247f01e3c56f745c02defb7d295"
     }
   }
 }
