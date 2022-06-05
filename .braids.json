@@ -2971,6 +2971,11 @@
       "branch": "master",
       "revision": "f2f00757a497e24b7e3c1a3703f2d3e8b806b68d"
     },
+    "simple-scan": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/simple-scan.git",
+      "branch": "master",
+      "revision": "924f75e77c992edf709f39d9e6f158ab11a2567d"
+    },
     "skanlite": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanlite.git",
       "branch": "master",
