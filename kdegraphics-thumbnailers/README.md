@@ -1,0 +1,2 @@
+# kdegraphics-thumbnailers
+

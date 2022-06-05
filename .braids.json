@@ -571,6 +571,11 @@
       "branch": "master",
       "revision": "2a39b8e0ce8abd5d11721eabdd861966cff24e01"
     },
+    "kdegraphics-thumbnailers": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-thumbnailers.git",
+      "branch": "master",
+      "revision": "ba2151f922696230ee5545439c61f297f35e94af"
+    },
     "kdelibs4support": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdelibs4support.git",
       "branch": "master",
