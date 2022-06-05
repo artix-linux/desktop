@@ -601,6 +601,11 @@
       "branch": "master",
       "revision": "33d572acd958e60d86b6bc418a0b99459a017195"
     },
+    "plasma-integration": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-integration.git",
+      "branch": "master",
+      "revision": "73ca6c1767537b0afc200949a654081d2a350807"
+    },
     "plasma5-applets-active-window-control": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-active-window-control.git",
       "branch": "master",
