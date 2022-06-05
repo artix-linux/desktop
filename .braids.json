@@ -646,6 +646,11 @@
       "branch": "master",
       "revision": "f027e8ef85f4f25fced382d798c26b2e89640385"
     },
+    "plasma-wayland-protocols": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-wayland-protocols.git",
+      "branch": "master",
+      "revision": "ce2cfab1458dc6655509bad8d6b11b76da0be133"
+    },
     "plasma5-applets-active-window-control": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-active-window-control.git",
       "branch": "master",
