@@ -1056,6 +1056,11 @@
       "branch": "master",
       "revision": "2e6f6f43c51432239a60aed5755bdac1a70eb869"
     },
+    "kmines": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmines.git",
+      "branch": "master",
+      "revision": "f2f80b3f19045924312411b6a80e9414952d82d3"
+    },
     "kmix": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmix.git",
       "branch": "master",
