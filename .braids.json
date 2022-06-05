@@ -1531,6 +1531,11 @@
       "branch": "master",
       "revision": "40257f9c4799fa0f528c09016f31197c798b1864"
     },
+    "neochat": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/neochat.git",
+      "branch": "master",
+      "revision": "d2e1d58d9686b00ef5efc01009b54b096e5b665d"
+    },
     "networkmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/networkmanager-qt.git",
       "branch": "master",
