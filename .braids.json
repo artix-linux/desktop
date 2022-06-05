@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "0c7158e9d8b8d7e9b08274836d85e69db5544ec5"
     },
+    "plasma-desktop": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-desktop.git",
+      "branch": "master",
+      "revision": "9629b1b0d97853c7a017571aee6b614c21472bbf"
+    },
     "plasma-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
       "branch": "master",
