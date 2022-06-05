@@ -4456,6 +4456,11 @@
       "branch": "master",
       "revision": "6a56950b5afa2fa7f84850c81b3994016f04a615"
     },
+    "weston": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
+      "branch": "master",
+      "revision": "740677f5afbb92a0ee53f168df18f4e5c93fb889"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
