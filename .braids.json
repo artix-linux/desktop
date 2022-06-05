@@ -1116,6 +1116,11 @@
       "branch": "master",
       "revision": "083324369f283142e9ed80009c1e8f591058ce08"
     },
+    "kolf": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kolf.git",
+      "branch": "master",
+      "revision": "cf0207f4c0088f53aae6d3c7a80109074fbae839"
+    },
     "kolourpaint": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolourpaint.git",
       "branch": "master",
