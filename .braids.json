@@ -901,6 +901,11 @@
       "branch": "master",
       "revision": "f5f10e1e3514263b766e2a49f53dd3a8f729c0f3"
     },
+    "squashfuse": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
+      "branch": "master",
+      "revision": "db40063791581062af7f076771817291236a1591"
+    },
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
