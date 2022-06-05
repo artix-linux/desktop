@@ -1011,6 +1011,11 @@
       "branch": "master",
       "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
     },
+    "umbrello": {
+      "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
+      "branch": "master",
+      "revision": "f45efc97b43eafb0d809a7ad728dc85d8814c4d5"
+    },
     "xdg-desktop-portal-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
