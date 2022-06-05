@@ -366,6 +366,11 @@
       "branch": "master",
       "revision": "23dff10b888c92a66751c909a6d266ec9c06e293"
     },
+    "calcurse": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/calcurse.git",
+      "branch": "master",
+      "revision": "6233cb630aceaf00bd719f1fc56c49623e1b2402"
+    },
     "calendarsupport": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calendarsupport.git",
       "branch": "master",
