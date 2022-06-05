@@ -461,6 +461,11 @@
       "branch": "master",
       "revision": "7ad680fe1f3185088a5615fff7092ab651707c74"
     },
+    "galculator": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/galculator.git",
+      "branch": "master",
+      "revision": "a6829a498a09dd8634ea022e6fe717e947d43e17"
+    },
     "gcab": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcab.git",
       "branch": "master",
