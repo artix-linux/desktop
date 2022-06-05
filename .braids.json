@@ -4656,6 +4656,11 @@
       "branch": "master",
       "revision": "54f92c833b1d7ef5e491583cd3f2be0c939d467c"
     },
+    "xfce4-eyes-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-eyes-plugin.git",
+      "branch": "master",
+      "revision": "3c49857b68a90307cac8be14734514544839e4e1"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
