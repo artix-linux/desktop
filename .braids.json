@@ -731,6 +731,11 @@
       "branch": "master",
       "revision": "cff06b1b7457084b1f48f03819e100dd50574606"
     },
+    "systemsettings": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/systemsettings.git",
+      "branch": "master",
+      "revision": "24c362fda60c099c092dc40c52e2352613cb77a7"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
