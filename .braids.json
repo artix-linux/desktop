@@ -911,6 +911,11 @@
       "branch": "master",
       "revision": "1cfc8002a31d4d80918addc4dd8106467491be92"
     },
+    "gucharmap": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gucharmap.git",
+      "branch": "master",
+      "revision": "3a2c13b954061ee9722f3a0c4d460bbe07ea4dc9"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
