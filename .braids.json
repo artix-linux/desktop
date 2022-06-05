@@ -1031,6 +1031,11 @@
       "branch": "master",
       "revision": "e54214767decb6257782359f7548664c5c781fc7"
     },
+    "mailcommon": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mailcommon.git",
+      "branch": "master",
+      "revision": "bae898818aef28c50999bf4d0fac5e7b7d3637eb"
+    },
     "maliit-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
       "branch": "master",
