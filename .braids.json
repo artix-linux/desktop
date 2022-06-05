@@ -186,6 +186,11 @@
       "branch": "master",
       "revision": "b6f0bc5bb2576a194eaebf67cd4091549365b429"
     },
+    "bemenu": {
+      "url": "gitea@gitea.artixlinux.org:packagesB/bemenu.git",
+      "branch": "master",
+      "revision": "ac366fa29696e8de4ebf5dbbf799938ad455c1a6"
+    },
     "bigsh0t": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bigsh0t.git",
       "branch": "master",
