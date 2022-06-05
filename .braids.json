@@ -636,6 +636,11 @@
       "branch": "master",
       "revision": "15f99b05c19b81783a09d9af9fc0e9dca4bd19b1"
     },
+    "gnome-disk-utility": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-disk-utility.git",
+      "branch": "master",
+      "revision": "97125ad3c79213faf700baafff3032b66ba796c7"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
