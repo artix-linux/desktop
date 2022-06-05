@@ -151,6 +151,11 @@
       "branch": "master",
       "revision": "f77e681e8a7f33544c7250c6fb513e44b4d01e39"
     },
+    "artix-community-presets": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-community-presets.git",
+      "branch": "master",
+      "revision": "2f5ccf3bbd5d98fad10af8395379b6bd36ccb0a6"
+    },
     "artix-i3-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-i3-presets.git",
       "branch": "master",

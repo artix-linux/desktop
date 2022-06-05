@@ -1,0 +1,51 @@
+# Maintainer: nous <nous@artixlinux.org>
+
+_pkgbase=desktop-presets
+
+pkgname=artix-community-presets
+pkgver=20220123
+pkgrel=1
+pkgdesc='Application settings and presets for the community ISOs'
+arch=('any')
+url="https://gitea.artixlinux.org/artix/desktop-presets"
+license=('GPL')
+depends=('artix-gtk-presets' 'artix-qt-presets')
+conflicts=('artix-lxqt-presets' 'artix-lxde-presets' 'artix-mate-presets' 'artix-cinnamon-presets')
+replaces=('artix-lxqt-presets' 'artix-lxde-presets' 'artix-mate-presets' 'artix-cinnamon-presets')
+optdepends=('qt5ct')
+makedepends=('git')
+groups=('artix-branding')
+#_commit=7e34832631eb1b2653628e9799e58207bac6f021
+#source=("git+$url.git#commit=${_commit}")
+#_branch='master'
+#source=("git+$url.git#branch=${_branch}")
+source=("git+$url.git")
+sha256sums=('SKIP')
+
+#pkgver() {
+#    cd ${_pkgbase}
+#    git describe --tags | sed 's/-/+/g'
+#}
+
+_inst_dir(){
+    cd ${_pkgbase} #-${pkgver}
+    git checkout ${_branch}
+    local profile="$1"
+
+    install -d ${pkgdir}/etc
+    cp -vr $profile/skel ${pkgdir}/etc
+
+    if [[ -d $profile/schemas ]];then
+        install -d ${pkgdir}/usr/share/glib-2.0/schemas
+        cp -v $profile/schemas/* ${pkgdir}/usr/share/glib-2.0/schemas
+    fi
+
+    if [[ -d $profile/scripts ]];then
+        install -d ${pkgdir}/usr/bin
+        cp -v $profile/scripts/* ${pkgdir}/usr/bin
+    fi
+}
+
+package() {
+    _inst_dir 'community'
+}
