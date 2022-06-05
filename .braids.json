@@ -156,6 +156,11 @@
       "branch": "master",
       "revision": "19e434e5a28677e33f6accede2a3d112d487d049"
     },
+    "eventviews": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/eventviews.git",
+      "branch": "master",
+      "revision": "c1af05c57560a322ac4dd4d1716d25bebf02de79"
+    },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
