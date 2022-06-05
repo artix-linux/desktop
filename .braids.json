@@ -2421,6 +2421,11 @@
       "branch": "master",
       "revision": "e6962825b4dce25c0888d0a404c0ed5a8ebf9ef3"
     },
+    "libquvi-scripts": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libquvi-scripts.git",
+      "branch": "master",
+      "revision": "dacaa94e55b3b371741eb568b43078d5db707ba6"
+    },
     "librttopo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librttopo.git",
       "branch": "master",
