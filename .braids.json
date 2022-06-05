@@ -1921,6 +1921,11 @@
       "branch": "master",
       "revision": "d4dd6aca4caea6cf513fbcbe643e41feed7d89cd"
     },
+    "telepathy-kde-send-file": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-send-file.git",
+      "branch": "master",
+      "revision": "34fbf5fd69aaca16cf95f7e4cb2088e525eb2456"
+    },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
