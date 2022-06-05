@@ -260,6 +260,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
       "revision": "99776e658c9d7ef3279201cbf283daa015949d74"
+    },
+    "knewstuff": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
+      "branch": "master",
+      "revision": "bd4850e2c4a5a2ce4a813c052cd128e6a76b93dd"
     }
   }
 }
