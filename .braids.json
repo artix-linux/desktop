@@ -200,6 +200,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kiconthemes.git",
       "branch": "master",
       "revision": "e82c35516338d76a2720d4955a4e396d30db6b89"
+    },
+    "kidletime": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kidletime.git",
+      "branch": "master",
+      "revision": "4cec6a08e56f22a7a0aa0765a714cd9d4a08ba02"
     }
   }
 }
