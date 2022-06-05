@@ -3176,6 +3176,11 @@
       "branch": "master",
       "revision": "78d212fa7715d098867f5e4e511b62d7a556265b"
     },
+    "pcmanfm-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pcmanfm-qt.git",
+      "branch": "master",
+      "revision": "1c47c27a90a50bef047706fe677c91a17b6f86e1"
+    },
     "pdal": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdal.git",
       "branch": "master",
