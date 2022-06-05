@@ -1,0 +1,25 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: nous <nous@artixlinux.org>
+
+_repo=documentation
+
+pkgname=artix-docs
+pkgver=20211222
+pkgrel=1
+arch=('any')
+url="https://gitea.artixlinux.org/artix/documentation"
+license=('GPL')
+makedepends=('git')
+source=("git+$url.git")
+sha256sums=('SKIP')
+
+# pkgver() {
+#     cd ${_repo}
+#     date +%Y%m%d
+# }
+
+package(){
+    cd ${_repo}
+    install -d ${pkgdir}/usr/share/doc/artix
+    cp ${srcdir}/${_repo}/wiki_articles/*.pdf ${pkgdir}/usr/share/doc/artix
+}
