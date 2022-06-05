@@ -1036,6 +1036,11 @@
       "branch": "master",
       "revision": "bae898818aef28c50999bf4d0fac5e7b7d3637eb"
     },
+    "mailimporter": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mailimporter.git",
+      "branch": "master",
+      "revision": "49cb63eaeeaff751c9f0d741b3ad17945289468e"
+    },
     "maliit-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
       "branch": "master",
