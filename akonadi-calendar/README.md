@@ -1,0 +1,2 @@
+# akonadi-calendar
+
