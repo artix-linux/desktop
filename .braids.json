@@ -2276,6 +2276,11 @@
       "branch": "master",
       "revision": "aa17d56443cd46e08fe03c89a257020260643f57"
     },
+    "libdbusmenu-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdbusmenu-qt.git",
+      "branch": "master",
+      "revision": "2ad5ee3395c0382471dcca150f335f1f1a93ccc4"
+    },
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
       "branch": "master",
