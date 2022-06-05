@@ -126,6 +126,11 @@
       "branch": "master",
       "revision": "c3861e3457eb6c0ab0143fb178137bd1786563a7"
     },
+    "atril": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
+      "branch": "master",
+      "revision": "9b12afa5f995399ad4702b7fb2cf0deceaf4b5f1"
+    },
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
