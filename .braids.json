@@ -571,6 +571,11 @@
       "branch": "master",
       "revision": "74145495b0e55b70ebcadab0374aa3032788f502"
     },
+    "kimap": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kimap.git",
+      "branch": "master",
+      "revision": "5032a24f585bec63f879e3458db02b23890bf42c"
+    },
     "kinfocenter": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kinfocenter.git",
       "branch": "master",
