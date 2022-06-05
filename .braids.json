@@ -4381,6 +4381,11 @@
       "branch": "master",
       "revision": "97dfe32117627d31bf4a76abbc9396a0484690c1"
     },
+    "thunar-archive-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/thunar-archive-plugin.git",
+      "branch": "master",
+      "revision": "f5d2c180a147dbda117d950a5e58ecd01d1dcd53"
+    },
     "thunderbird": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
       "branch": "master",
