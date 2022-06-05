@@ -591,6 +591,11 @@
       "branch": "master",
       "revision": "80eb8c572fa58876f33652b19b682d3ef2cf7ce5"
     },
+    "gnome-clocks": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-clocks.git",
+      "branch": "master",
+      "revision": "bd7a6d1a31ae2fd6442093d029efc8453daaea04"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
