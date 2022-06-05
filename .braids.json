@@ -3121,6 +3121,11 @@
       "branch": "master",
       "revision": "062e105a49c561a70946360e645b66d0d8e55ba4"
     },
+    "qt-gstreamer": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qt-gstreamer.git",
+      "branch": "master",
+      "revision": "d4b2cdc79d14a93bdbd28c08903a02d5dc8b6eca"
+    },
     "qtav": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtav.git",
       "branch": "master",
