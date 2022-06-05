@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "1867b90d7b907e293dfc214b976f9d1eab34b0fe"
     },
+    "appmenu-gtk-module": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/appmenu-gtk-module.git",
+      "branch": "master",
+      "revision": "d290e433ffb2acce08fce367f8d81785a190ed0b"
+    },
     "appstream-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesA/appstream-glib.git",
       "branch": "master",
