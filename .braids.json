@@ -2801,6 +2801,11 @@
       "branch": "master",
       "revision": "ba49363e5ecb982506539a36ca73fcddeb4f1ea9"
     },
+    "lxtask": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxtask.git",
+      "branch": "master",
+      "revision": "ffc2425f445331fd528222395b0d790c33aa136a"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
