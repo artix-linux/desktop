@@ -1,0 +1,193 @@
+# Maintainer: Chris Cromer <cromer@artixlinux.org>
+# Contributor: Bruno Pagani <archange@archlinux.org>
+# Contributor: Eli Schwartz <eschwartz@archlinux.org>
+# Contributor: Alexandre Filgueira <alexfilgueira@antergos.com>
+
+pkgbase=nemo-extensions
+pkgname=(nemo-audio-tab
+         nemo-emblems
+         nemo-fileroller
+         nemo-image-converter
+         nemo-pastebin
+         nemo-preview
+         nemo-python
+         nemo-seahorse
+         nemo-share
+         nemo-terminal)
+        #nemo-compare
+        #nemo-dropbox dropbox in AUR
+        #nemo-media-columns pypdf2 in AUR but mostly unmaintained
+        #nemo-repairer
+pkgver=5.2.0
+pkgrel=2
+pkgdesc="Various extensions for Nemo"
+arch=(x86_64)
+license=(GPL2)
+url="https://github.com/linuxmint/nemo-extensions"
+depends=(nemo)
+_preview_deps=(cjs clutter-gtk clutter-gst libmusicbrainz5 gtksourceview4 xreader)
+_python_deps=(python-gobject)
+_seahorse_deps=(libcryptui)
+makedepends=(intltool gobject-introspection meson samurai)
+makedepends+=("${_preview_deps[@]}" "${_python_deps[@]}" "${_seahorse_deps[@]}")
+options=(!emptydirs)
+source=(${url}/archive/${pkgver}/${pkgbase}-${pkgver}.tar.gz
+        https://github.com/linuxmint/nemo-extensions/commit/5880e6e6.patch)
+sha256sums=('92364ac03be3458d3cdfa39ebd4061babd3926c280459e66f8814a6acc42a6a5'
+            '5337e48adff2c41df71c4486449e7182c3481123e089ccf4b8382353aa776f46')
+b2sums=('0c9ca96e2ac57a42765f3b598d4681e1f8a00b7804edd0ae500e80ce8d013f3fcdfafdd1ccba7d13d33639e6128aed54b5909baa463c040fd88d64d56d14dcdd'
+        '78aa9f105df3f14d80e6eccca95eb32fb74b1266607cfad0c57159e0957eba7cf858b690f934ae8e31e7765afd48cccf7e9fd6d7e3e4cafb8cf17cc4cb86fac0')
+
+prepare() {
+  patch -d $pkgbase-$pkgver -p1 < 5880e6e6.patch # Fix nemo-preview import
+}
+
+build() {
+  cd ${pkgbase}-${pkgver}
+
+  for _dir in "${pkgname[@]}"; do
+    if [[ -f ${_dir}/meson.build ]]; then
+      mkdir -p ${_dir}/build
+      pushd ${_dir}/build
+      artix-meson --libexecdir=lib/${_dir} ..
+      samu
+      popd
+    fi
+  done
+
+  cd nemo-audio-tab
+  python setup.py build
+  cd ..
+
+  cd nemo-emblems
+  python setup.py build
+  cd ..
+
+  cd nemo-pastebin
+  python setup.py build
+  cd ..
+}
+
+package_nemo-audio-tab(){
+  pkgdesc="View audio tag information in Nemo properties tab"
+  depends+=(nemo-python python-mutagen)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}
+  python setup.py install --prefix=/usr --root="${pkgdir}" --skip-build --optimize=1
+}
+
+package_nemo-emblems(){
+  pkgdesc="Change a folder or file emblem in Nemo"
+  depends+=(nemo-python)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}
+  python setup.py install --prefix=/usr --root="${pkgdir}" --skip-build --optimize=1
+}
+
+package_nemo-fileroller(){
+  pkgdesc="File archiver extension for Nemo"
+  depends+=(file-roller)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-image-converter(){
+  pkgdesc="Nemo extension to rotate/resize image files"
+  depends+=(imagemagick)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-preview(){
+  pkgdesc="Quick file previewer for Nemo"
+  depends+=("${_preview_deps[@]}")
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-pastebin(){
+  pkgdesc="Nemo extension to send files to a pastebin"
+  depends+=(nemo-python pastebinit)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}
+  python setup.py install --prefix=/usr --root="${pkgdir}" --skip-build --optimize=1
+}
+
+package_nemo-python() {
+  pkgdesc="Python3 binding for Nemo components"
+  depends+=("${_python_deps[@]}")
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-seahorse(){
+  pkgdesc="PGP encryption and signing extension for Nemo"
+  depends+=("${_seahorse_deps[@]}")
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-share(){
+  pkgdesc="Samba extension for Nemo"
+  depends+=(samba)
+  optdepends=('cinnamon-translations: i18n')
+
+  cd ${pkgbase}-${pkgver}/${pkgname}/build
+  DESTDIR="${pkgdir}" samu install
+}
+
+package_nemo-terminal(){
+  pkgdesc="Embedded terminal window for Nemo"
+  depends=(nemo-python vte3)
+
+  cd ${pkgbase}-${pkgver}/${pkgname}
+  install -Dm644 src/nemo_terminal.py -t "${pkgdir}"/usr/share/nemo-python/extensions/
+  install -Dm755 src/nemo-terminal-prefs.py "${pkgdir}"/usr/bin/nemo-terminal-prefs
+  install -Dm644 src/org.nemo.extensions.nemo-terminal.gschema.xml -t "${pkgdir}"/usr/share/glib-2.0/schemas/
+  install -Dm644 pixmap/logo_120x120.png -t "${pkgdir}"/usr/share/nemo-terminal/
+}
+
+## missing kaa-base in the repos
+#package_nemo-media-columns(){
+#    pkgdesc=("A Nemo extension to display music/EXIF and PDF metadata info in the Nemo List View")
+#    depends=('nemo-python' 'mutagen' 'python2-exiv2' 'python2-kaa-base' 'python2-pillow' 'python2-pypdf')
+#
+#    cd "${srcdir}"/${pkgbase}-${pkgver}/${pkgname}
+#    install -Dm644 nemo-media-columns.py \
+#        "${pkgdir}"/usr/share/nemo-python/extensions/nemo-media-columns.py
+#}
+
+## no clue what any of this does
+# package_nemo-compare() {
+#   cd ${pkgbase}-${pkgver}/nemo-compare
+
+#   pkgdesc="Context menu comparison extension for Nemo file manager"
+#   depends=(python2 python2-xdg meld nemo-python)
+
+#   install -d ${pkgdir}/usr/share/applications/
+#   install -d ${pkgdir}/usr/share/nemo-compare/
+
+#   install -Dm755 ${srcdir}/data/nemo-compare-preferences.desktop \
+#                   /usr/share/applications/nemo-compare-preferences.desktop
+#   install -Dm755 ${srcdir}/data/nemo-compare-notification \
+#                   /usr/share/nemo-compare/nemo-compare-notification
+#   install -Dm755 ${srcdir}/src/nemo-compare.py \
+#                   /usr/share/nemo-compare/nemo-compare.py
+#   install -Dm755 ${srcdir}/src/utils.py \
+#                   /usr/share/nemo-compare/utils.py
+#   install -Dm755 ${srcdir}/src/nemo-compare-preferences.py \
+#                   /usr/share/nemo-compare/nemo-compare-preferences.py
+
+# }
