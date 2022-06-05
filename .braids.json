@@ -2631,6 +2631,11 @@
       "branch": "master",
       "revision": "f7e87149633688051a4bd6c81a1f0ae105c7fa5b"
     },
+    "libqtxdg": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libqtxdg.git",
+      "branch": "master",
+      "revision": "74f5bc819721f50c0abeaa5a579e9783c15288be"
+    },
     "libquotient": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquotient.git",
       "branch": "master",
