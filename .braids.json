@@ -4626,6 +4626,11 @@
       "branch": "master",
       "revision": "ea50980dbfb150272779d07686934adbab67b8fd"
     },
+    "xfce4-cpufreq-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-cpufreq-plugin.git",
+      "branch": "master",
+      "revision": "31302a9f0d28f7e5e4bbad838a294ac7d0af112a"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
