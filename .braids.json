@@ -4451,6 +4451,11 @@
       "branch": "master",
       "revision": "cd253214faa2bcbc5dbce1d701ffb64b114ca880"
     },
+    "waybar": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/waybar.git",
+      "branch": "master",
+      "revision": "6a56950b5afa2fa7f84850c81b3994016f04a615"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
