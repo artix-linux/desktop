@@ -3476,6 +3476,11 @@
       "branch": "master",
       "revision": "6c3aaaff7860585de2eec33ab293d9c3a8d16bba"
     },
+    "qtxdg-tools": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qtxdg-tools.git",
+      "branch": "master",
+      "revision": "987a4a049b67e57bb3ca9a971957533df916d123"
+    },
     "quadrapassel": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/quadrapassel.git",
       "branch": "master",
