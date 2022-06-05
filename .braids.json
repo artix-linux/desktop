@@ -71,6 +71,11 @@
       "branch": "master",
       "revision": "61c633253deaa41c7813779ff2fc373050efb01f"
     },
+    "artikulate": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artikulate.git",
+      "branch": "master",
+      "revision": "c3861e3457eb6c0ab0143fb178137bd1786563a7"
+    },
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
