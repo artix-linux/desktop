@@ -2866,6 +2866,11 @@
       "branch": "master",
       "revision": "58e0b8ab13ee2c6066866874344ff4995b725e00"
     },
+    "lxqt-policykit": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-policykit.git",
+      "branch": "master",
+      "revision": "56ccf3bde1f2378c5c51d56346b2382aa398ad6b"
+    },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
