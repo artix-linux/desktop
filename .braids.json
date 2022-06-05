@@ -936,6 +936,11 @@
       "branch": "master",
       "revision": "96778e3dd7f6b70e59a9657ec7458735872b4692"
     },
+    "kqtquickcharts": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kqtquickcharts.git",
+      "branch": "master",
+      "revision": "af53d715c662ee9d5f93434f1e30487a68f8e479"
+    },
     "kquickcharts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kquickcharts.git",
       "branch": "master",
