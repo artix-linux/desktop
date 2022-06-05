@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "178757ce613ec56ea29fdc9e4f7005e1285d3601"
     },
+    "libksane": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libksane.git",
+      "branch": "master",
+      "revision": "e5aa49c2cab9d83a59eb28ab7023f6a9e3fd401f"
+    },
     "libkscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
       "branch": "master",
