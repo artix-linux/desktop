@@ -331,6 +331,11 @@
       "branch": "master",
       "revision": "47bb32d0c75348f90e375df9d62280dccc8cf958"
     },
+    "easytag": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/easytag.git",
+      "branch": "master",
+      "revision": "43f713f449ef92e14d9b85161e4a9df62e786a4d"
+    },
     "ebook-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesE/ebook-tools.git",
       "branch": "master",
