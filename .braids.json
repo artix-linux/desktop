@@ -4676,6 +4676,11 @@
       "branch": "master",
       "revision": "a7d6ff51530cfc7a9c7168b18046d0b069fba503"
     },
+    "xfce4-mount-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mount-plugin.git",
+      "branch": "master",
+      "revision": "d3f58971a2021ea496004f4e0d3df9733e486c28"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
