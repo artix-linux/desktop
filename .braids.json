@@ -741,6 +741,11 @@
       "branch": "master",
       "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
     },
+    "partitionmanager": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/partitionmanager.git",
+      "branch": "master",
+      "revision": "1499626e833c2c24a68e558298f2670e988a30fc"
+    },
     "plasma-browser-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-browser-integration.git",
       "branch": "master",
