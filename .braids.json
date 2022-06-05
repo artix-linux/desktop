@@ -2156,6 +2156,11 @@
       "branch": "master",
       "revision": "aa17d56443cd46e08fe03c89a257020260643f57"
     },
+    "libdmapsharing": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
+      "branch": "master",
+      "revision": "73cd6ecb0580ca6f790306f4c4ec043469543e53"
+    },
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
       "branch": "master",
