@@ -2196,6 +2196,11 @@
       "branch": "master",
       "revision": "77705f2c6351adc705943aef7e9ed23d74b55e05"
     },
+    "libgit2-glib": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgit2-glib.git",
+      "branch": "master",
+      "revision": "fe97ffd4024fd5878076fcc358f15aaca904eb03"
+    },
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
