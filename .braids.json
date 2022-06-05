@@ -395,6 +395,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesP/purpose.git",
       "branch": "master",
       "revision": "915805fd9f226409713ca4a9082010764fd06cba"
+    },
+    "qqc2-desktop-style": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qqc2-desktop-style.git",
+      "branch": "master",
+      "revision": "d2ace082bb6ad734b4afcbf004c07c4454875bbb"
     }
   }
 }
