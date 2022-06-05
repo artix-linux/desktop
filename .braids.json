@@ -3236,6 +3236,11 @@
       "branch": "master",
       "revision": "ed7385ce68281ba1b5b1d2ff50950f986f52e58a"
     },
+    "vino": {
+      "url": "gitea@gitea.artixlinux.org:packagesV/vino.git",
+      "branch": "master",
+      "revision": "bdad12e7b6c9fdd053efb63bada0fdbcdd28c8b8"
+    },
     "vtk": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
       "branch": "master",
