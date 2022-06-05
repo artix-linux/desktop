@@ -166,6 +166,11 @@
       "branch": "master",
       "revision": "7b7742fd850a5c855214e9bf1f24b3a94152d48b"
     },
+    "kde-cli-tools": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kde-cli-tools.git",
+      "branch": "master",
+      "revision": "d46f657910051374b5f004d26d633fc652ed1c8d"
+    },
     "kdeclarative": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeclarative.git",
       "branch": "master",
