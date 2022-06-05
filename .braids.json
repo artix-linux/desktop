@@ -506,6 +506,11 @@
       "branch": "master",
       "revision": "76d4f8987001bd5056ee7b41ce6e04cf50f8a4f6"
     },
+    "gfbgraph": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gfbgraph.git",
+      "branch": "master",
+      "revision": "2bf3e124c0ebf6f1e313d3cc935a9223e5520fdd"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
