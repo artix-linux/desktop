@@ -3061,6 +3061,11 @@
       "branch": "master",
       "revision": "88237c5407daf105c8ca024c91d92821d6237cde"
     },
+    "mint-themes-legacy": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes-legacy.git",
+      "branch": "master",
+      "revision": "ffb1ad8a1d9677a2f4dedd4bd29c43f38ba16806"
+    },
     "mintlocale": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mintlocale.git",
       "branch": "master",
