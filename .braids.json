@@ -606,6 +606,11 @@
       "branch": "master",
       "revision": "38fb9dae4aac60c3ae47b4dab5c31599dc3e1af5"
     },
+    "kgeography": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kgeography.git",
+      "branch": "master",
+      "revision": "182d8128f3d33ef3e24c184cc5a68c6420d7052a"
+    },
     "kglobalaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kglobalaccel.git",
       "branch": "master",
