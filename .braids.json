@@ -4636,6 +4636,11 @@
       "branch": "master",
       "revision": "2193d96e99ff8d1af579f9628639da4ceeabeaa5"
     },
+    "xfce4-datetime-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-datetime-plugin.git",
+      "branch": "master",
+      "revision": "ed5db438d85448667bb70022ed941003fe2c8ce1"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
