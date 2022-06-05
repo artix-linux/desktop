@@ -2836,6 +2836,11 @@
       "branch": "master",
       "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
     },
+    "packagekit-qt5": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/packagekit-qt5.git",
+      "branch": "master",
+      "revision": "1a81859d8c873484638304f2196b805d5ce447c0"
+    },
     "palapeli": {
       "url": "gitea@gitea.artixlinux.org:packagesP/palapeli.git",
       "branch": "master",
