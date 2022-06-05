@@ -1146,6 +1146,11 @@
       "branch": "master",
       "revision": "c341d433e965fdb93dcedcedc0d613a926842ae1"
     },
+    "icon-naming-utils": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/icon-naming-utils.git",
+      "branch": "master",
+      "revision": "20ca29499c5b453f51d400c3a9714f6fd84cd03e"
+    },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
