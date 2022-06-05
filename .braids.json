@@ -4461,6 +4461,11 @@
       "branch": "master",
       "revision": "740677f5afbb92a0ee53f168df18f4e5c93fb889"
     },
+    "wf-recorder": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/wf-recorder.git",
+      "branch": "master",
+      "revision": "cd4727eecc20d2f025bfc1039dafb007783ca954"
+    },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
