@@ -656,6 +656,11 @@
       "branch": "master",
       "revision": "8109da4e10b38f57441ebf1f6dca8745a05be601"
     },
+    "kmail-account-wizard": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmail-account-wizard.git",
+      "branch": "master",
+      "revision": "85fcb02ae07f41dda31152658cf176c8b2a2eb37"
+    },
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
