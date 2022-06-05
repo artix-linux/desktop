@@ -3031,6 +3031,11 @@
       "branch": "master",
       "revision": "0d889130fc7b4abc285da4f768b8a0f93ab86176"
     },
+    "spice-vdagent": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/spice-vdagent.git",
+      "branch": "master",
+      "revision": "e137c8122a58a774daa17a2652e9bf3820516dfb"
+    },
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
       "branch": "master",
