@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "eb202b79a2ca063c6b6fbad7ae4328c184de92a7"
     },
+    "kactivitymanagerd": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kactivitymanagerd.git",
+      "branch": "master",
+      "revision": "01cbb3731dfa52a2cfe465cd5670830a097634d4"
+    },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
