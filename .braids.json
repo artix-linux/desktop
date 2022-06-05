@@ -871,6 +871,11 @@
       "branch": "master",
       "revision": "fd57811d35edcc631f1e5ed2d9a0ee2f21cbbca5"
     },
+    "kopeninghours": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kopeninghours.git",
+      "branch": "master",
+      "revision": "1121119b735e67c316dd3e9ed9cbdb15da93dc52"
+    },
     "korganizer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/korganizer.git",
       "branch": "master",
