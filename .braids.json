@@ -3186,6 +3186,11 @@
       "branch": "master",
       "revision": "1f5d304886baf949362b79f87eb56e0233edb803"
     },
+    "totem": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
+      "branch": "master",
+      "revision": "678f3d79330ddcb42b0a16827f25081a834ae4af"
+    },
     "umbrello": {
       "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
       "branch": "master",
