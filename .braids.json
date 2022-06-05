@@ -21,6 +21,11 @@
       "branch": "master",
       "revision": "c90e7523e629bb6726631f1435e16dcbc62e1b6a"
     },
+    "akonadiconsole": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/akonadiconsole.git",
+      "branch": "master",
+      "revision": "74de32b5983f00be4cf850547483220b36e34fd4"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
