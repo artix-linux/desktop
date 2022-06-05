@@ -1406,6 +1406,11 @@
       "branch": "master",
       "revision": "ea953056d9e22f59174f6828f42f0118dc1bca87"
     },
+    "libktorrent": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libktorrent.git",
+      "branch": "master",
+      "revision": "0d8fc83ba31b45e86d95ec71b3fa243cf44d07ce"
+    },
     "libmsym": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmsym.git",
       "branch": "master",
