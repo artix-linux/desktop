@@ -4396,6 +4396,11 @@
       "branch": "master",
       "revision": "823c48ca615291e1b900a8af43cf22483b5ae624"
     },
+    "sddm-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sddm-theme.git",
+      "branch": "master",
+      "revision": "819a693362737c4dd82324ae0969fbcd53720fe9"
+    },
     "seabios": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seabios.git",
       "branch": "master",
