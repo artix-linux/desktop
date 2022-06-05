@@ -3081,6 +3081,11 @@
       "branch": "master",
       "revision": "915805fd9f226409713ca4a9082010764fd06cba"
     },
+    "pyside2": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pyside2.git",
+      "branch": "master",
+      "revision": "9ac4df57b88e7ed558274d635e7ebb3b2442273d"
+    },
     "qemu": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qemu.git",
       "branch": "master",
