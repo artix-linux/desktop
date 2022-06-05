@@ -3161,6 +3161,11 @@
       "branch": "master",
       "revision": "bc887050c8c5d0e1d8d2ff86848e29c410112497"
     },
+    "mate-settings-daemon": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mate-settings-daemon.git",
+      "branch": "master",
+      "revision": "686384f29ea2e92a9790a3d16d7ac0ac3d1d7f2e"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
