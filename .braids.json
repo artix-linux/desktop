@@ -1451,6 +1451,11 @@
       "branch": "master",
       "revision": "2be8c0a01c3215e9c2facae757d2f1d598671353"
     },
+    "ispell": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/ispell.git",
+      "branch": "master",
+      "revision": "01d94d5d2b6373fb1b22ab3aec74e9f4badafae9"
+    },
     "itinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
       "branch": "master",
