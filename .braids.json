@@ -411,6 +411,11 @@
       "branch": "master",
       "revision": "79639d218935e57bbe6d682ea944927d147a06e6"
     },
+    "file-roller": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/file-roller.git",
+      "branch": "master",
+      "revision": "59167b18bbfb97021cba1d9e36fcc5ee0acd65f0"
+    },
     "filelight": {
       "url": "gitea@gitea.artixlinux.org:packagesF/filelight.git",
       "branch": "master",
