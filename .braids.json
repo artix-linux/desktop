@@ -826,6 +826,11 @@
       "branch": "master",
       "revision": "dbe250359533063efc2183e413876bb0df23af07"
     },
+    "gnome-user-docs": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-docs.git",
+      "branch": "master",
+      "revision": "8d217ab8856468f70695289c5bd292bce97ce02c"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
