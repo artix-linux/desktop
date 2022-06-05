@@ -145,6 +145,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesu.git",
       "branch": "master",
       "revision": "7ff92bc4ba8accc8d132a77f1ac2bde99595ec5f"
+    },
+    "kdewebkit": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdewebkit.git",
+      "branch": "master",
+      "revision": "f69fa98134d00eb975994d77e67e82c3e3521d81"
     }
   }
 }
