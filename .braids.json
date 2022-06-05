@@ -1521,6 +1521,11 @@
       "branch": "master",
       "revision": "11795066121c5062b8be87fc2b4e17abdb54a768"
     },
+    "phonon-gstreamer": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/phonon-gstreamer.git",
+      "branch": "master",
+      "revision": "27fa27755a50e91f7b8456a4904d6b2365d32305"
+    },
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
