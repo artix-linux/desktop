@@ -141,6 +141,11 @@
       "branch": "master",
       "revision": "adf40cecab03434cf86b977f11bf743369c54c5c"
     },
+    "artix-branding-base": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-branding-base.git",
+      "branch": "master",
+      "revision": "59c0e58e4995f71a03f4544a04b6ae70d9b20b36"
+    },
     "artix-i3-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-i3-presets.git",
       "branch": "master",

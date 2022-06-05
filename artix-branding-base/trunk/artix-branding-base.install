@@ -1,0 +1,11 @@
+pre_upgrade() {
+  if [[ $(vercmp 20200702-1 $2) < 1 ]]; then
+    cp -vf /etc/rc.local /etc/rc.local.pacsave-latest
+    echo "  The original Artix /etc/rc.local contents"
+    echo "  have moved into /etc/local.d/branding.start"
+    echo "  Your local /etc/rc.local, if present and"
+    echo "  not protected by NoUpgrade or NoExtract,"
+    echo "  has been backed-up to /etc/rc.local.pacsave-latest."
+    echo "  Please, review any changes and merge/delete accordingly."
+  fi
+}
