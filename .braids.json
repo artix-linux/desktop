@@ -935,6 +935,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
       "revision": "c3e9bb4403b96ce36ea7357bd46d1ad7fabd5722"
+    },
+    "yakuake": {
+      "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
+      "branch": "master",
+      "revision": "80fa1c399d1c40d5cc228c1239913d5de12c30ce"
     }
   }
 }
