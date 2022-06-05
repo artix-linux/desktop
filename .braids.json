@@ -3091,6 +3091,11 @@
       "branch": "master",
       "revision": "1468276b6eb5aeba940285f3bfa7db75f92d4834"
     },
+    "qca": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qca.git",
+      "branch": "master",
+      "revision": "80579e67c47667c83c293bea30d81dcff45dec72"
+    },
     "qemu": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qemu.git",
       "branch": "master",
