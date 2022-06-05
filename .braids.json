@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "accerciser": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/accerciser.git",
+      "branch": "master",
+      "revision": "aa8e0b9cc4ad714d9a39a2bc1058bf64d9d68d8e"
+    },
     "accounts-qml-module": {
       "url": "gitea@gitea.artixlinux.org:packagesA/accounts-qml-module.git",
       "branch": "master",
