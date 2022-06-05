@@ -1,0 +1,57 @@
+# Maintainer: nous <nous@artixlinux.org>
+# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: Chris Cromer <cromer@artixlinux.org>
+
+_pkgbase=desktop-presets
+
+pkgname=artix-gtk-presets
+pkgver=20220525
+pkgrel=1
+pkgdesc='Artix GTK presets (MATE, LXDE, XFCE and Cinnamon)'
+arch=('any')
+url="https://gitea.artixlinux.org/artix/desktop-presets"
+license=('GPL')
+provides=('desktop-presets')
+depends=('artix-desktop-presets' 'mate-icon-theme-faenza' 'qt5-styleplugins')
+optdepends=('qt5ct')
+conflicts=('artix-lxde-presets' 'artix-mate-presets' 'artix-cinnamon-presets')
+replaces=('artix-lxde-presets' 'artix-mate-presets' 'artix-cinnamon-presets') # when refactor merges into master
+groups=('artix-branding')
+makedepends=('git')
+#_commit=eb2382d9452c33833245b8ddf7216f68f9f35740
+_branch='master'
+source=("git+$url.git#branch=${_branch}")
+sha256sums=('SKIP')
+
+#pkgver() {
+#    cd ${_pkgbase}
+#    printf '%s+%s' "$(git describe --tags | sed 's/-/+/g')" "$(git rev-parse --short HEAD)"
+#}
+
+_inst_dir(){
+    cd ${_pkgbase} #-${pkgver}
+    git checkout ${_branch}
+    local profile="$1"
+
+    install -d ${pkgdir}/etc
+    cp -vr $profile/skel ${pkgdir}/etc
+
+    if [[ -d $profile/schemas ]];then
+        install -d ${pkgdir}/usr/share/glib-2.0/schemas
+        cp -v $profile/schemas/* ${pkgdir}/usr/share/glib-2.0/schemas
+    fi
+
+    if [[ -d $profile/dconf ]];then
+        install -d ${pkgdir}/etc/dconf
+        cp -vr $profile/dconf/* ${pkgdir}/etc/dconf
+    fi
+
+    if [[ -d $profile/scripts ]];then
+        install -d ${pkgdir}/usr/bin
+        cp -v $profile/scripts/* ${pkgdir}/usr/bin
+    fi
+}
+
+package() {
+    _inst_dir 'gtk'
+}
