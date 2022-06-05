@@ -511,6 +511,11 @@
       "branch": "master",
       "revision": "928c75c6824ddd8f46d4dbda80257e8f444c521c"
     },
+    "layer-shell-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/layer-shell-qt.git",
+      "branch": "master",
+      "revision": "b7579bf1ee1de49c584d7904d9722a40ea94044b"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
