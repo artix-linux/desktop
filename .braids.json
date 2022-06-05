@@ -356,6 +356,11 @@
       "branch": "master",
       "revision": "8149e2d71f1c973d5ccfb6ae996175368cee5bb0"
     },
+    "eog": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/eog.git",
+      "branch": "master",
+      "revision": "ecea96ab7670b868bfcd40ac2054625264af5792"
+    },
     "eventviews": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eventviews.git",
       "branch": "master",
