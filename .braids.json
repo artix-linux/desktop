@@ -876,6 +876,11 @@
       "branch": "master",
       "revision": "4b39fbc9e0e70cebf9be78871a08bb4818f8d94d"
     },
+    "grilo": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/grilo.git",
+      "branch": "master",
+      "revision": "0829ea00b8a1943ae7bd12dc2916f73c9e72c316"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
