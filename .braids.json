@@ -1201,6 +1201,11 @@
       "branch": "master",
       "revision": "ea953056d9e22f59174f6828f42f0118dc1bca87"
     },
+    "libmsym": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libmsym.git",
+      "branch": "master",
+      "revision": "0b87a12a1e7d4c91230ab1050f71b6fc06d6d786"
+    },
     "libphonenumber": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libphonenumber.git",
       "branch": "master",
