@@ -4746,6 +4746,11 @@
       "branch": "master",
       "revision": "532f095cf4da58d7e22ab3f170eba9998bf8f7f6"
     },
+    "xfce4-systemload-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-systemload-plugin.git",
+      "branch": "master",
+      "revision": "999dc12f92cb9b02e251cf93e59d008d3cda75ef"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
