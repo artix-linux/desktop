@@ -1,0 +1,2 @@
+# pim-sieve-editor
+
