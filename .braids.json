@@ -546,6 +546,11 @@
       "branch": "master",
       "revision": "7c1d420deda7435625dbbc325b9011d92a6a9f33"
     },
+    "materia-kde": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
+      "branch": "master",
+      "revision": "7cd011b9aacc5a91ba95cb8f4e1c58e026e55688"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
