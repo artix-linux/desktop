@@ -936,6 +936,11 @@
       "branch": "master",
       "revision": "f51b60572292b0a54d8c7ba07a5793faa2b597f9"
     },
+    "hitori": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/hitori.git",
+      "branch": "master",
+      "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
+    },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
