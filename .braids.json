@@ -2761,6 +2761,11 @@
       "branch": "master",
       "revision": "a2d91140681657f5575f83d9564709330da94428"
     },
+    "lxinput": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxinput.git",
+      "branch": "master",
+      "revision": "82feb45cba7bf4f82c317018f8c3118012d95536"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
