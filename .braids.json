@@ -3081,6 +3081,11 @@
       "branch": "master",
       "revision": "cff06b1b7457084b1f48f03819e100dd50574606"
     },
+    "sysprof": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sysprof.git",
+      "branch": "master",
+      "revision": "3f1e69bbd2f04bcf3d7daf6ceba57acc456e30d1"
+    },
     "systemsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesS/systemsettings.git",
       "branch": "master",
