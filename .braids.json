@@ -1461,6 +1461,11 @@
       "branch": "master",
       "revision": "3105e53375e690a500ce9228fc9301e4eec3b841"
     },
+    "noise-suppression-for-voice": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/noise-suppression-for-voice.git",
+      "branch": "master",
+      "revision": "f935abaea1541be6a45d70a64f119dbe79622f75"
+    },
     "openbabel": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbabel.git",
       "branch": "master",
