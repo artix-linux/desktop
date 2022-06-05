@@ -1,0 +1,55 @@
+# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+pkgbase=libpeas
+pkgname=(libpeas libpeas-docs)
+pkgver=1.32.0
+pkgrel=1
+pkgdesc="A GObject plugins library"
+url="https://wiki.gnome.org/Projects/Libpeas"
+arch=(x86_64)
+license=(LGPL)
+depends=(gtk3 gobject-introspection-runtime)
+makedepends=(python-gobject glade gobject-introspection git meson vala gi-docgen)
+checkdepends=(xorg-server-xvfb)
+optdepends=('python-gobject: Python loader')
+options=(debug)
+_commit=41335bc31cb3e5ec75196e621bb244ca4d96f151  # tags/libpeas-1.32.0^0
+source=("git+https://gitlab.gnome.org/GNOME/libpeas.git#commit=$_commit")
+sha256sums=('SKIP')
+
+pkgver() {
+  cd libpeas
+  git describe --tags | sed 's/^libpeas-//;s/[^-]*-g/r&/;s/-/+/g'
+}
+
+prepare() {
+  cd libpeas
+}
+
+build() {
+  artix-meson libpeas build -D vapi=true -D gtk_doc=true
+  meson compile -C build
+}
+
+check() {
+  xvfb-run -s '-nolisten local' \
+    meson test -C build --print-errorlogs
+}
+
+package_libpeas() {
+  provides=(libpeas{,-gtk}-1.0.so)
+
+  meson install -C build --destdir "$pkgdir"
+
+  mkdir -p doc/usr/share
+  mv {"$pkgdir",doc}/usr/share/doc
+}
+
+package_libpeas-docs() {
+  pkgdesc+=" (documentation)"
+  depends=()
+
+  mv doc/* "$pkgdir"
+}
+
+# vim:set sw=2 et:
