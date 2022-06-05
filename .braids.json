@@ -4716,6 +4716,11 @@
       "branch": "master",
       "revision": "7d61adb85d13941228dafa3c345cb3890df12087"
     },
+    "xfce4-screensaver": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screensaver.git",
+      "branch": "master",
+      "revision": "9d2c24e1f9a26ced7a023a5853eb849e5b71d399"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
