@@ -161,6 +161,11 @@
       "branch": "master",
       "revision": "8c043d6a693147a2e507db27be5943ec2bdbaa07"
     },
+    "awesome": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/awesome.git",
+      "branch": "master",
+      "revision": "17b94440bd2b638cd63af1e8a17f58020e6123f5"
+    },
     "babl": {
       "url": "gitea@gitea.artixlinux.org:packagesB/babl.git",
       "branch": "master",
