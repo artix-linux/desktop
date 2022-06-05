@@ -581,6 +581,11 @@
       "branch": "master",
       "revision": "31e457e9e3a8e5244d8a605702ef01feeb1817f5"
     },
+    "gnome-characters": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-characters.git",
+      "branch": "master",
+      "revision": "2513872402cb7dbe2c7f489a97c8aa0d35e0159c"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
