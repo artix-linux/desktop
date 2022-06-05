@@ -421,6 +421,11 @@
       "branch": "master",
       "revision": "074e614087a2bf17394be192f1e08fb8f5cad9a2"
     },
+    "ksysguard": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ksysguard.git",
+      "branch": "master",
+      "revision": "37eca8dc4581983bda31f5cf86a07ae19410ee0c"
+    },
     "ktexteditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktexteditor.git",
       "branch": "master",
