@@ -2401,6 +2401,11 @@
       "branch": "master",
       "revision": "c25b833c4a938114e000093acc500ce867a9a630"
     },
+    "libpst": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libpst.git",
+      "branch": "master",
+      "revision": "0088685c00a7a3ae286e1735afaded79a56f4581"
+    },
     "libqalculate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqalculate.git",
       "branch": "master",
