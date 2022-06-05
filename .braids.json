@@ -3991,6 +3991,11 @@
       "branch": "master",
       "revision": "c09674e389490db674ac3da5388f16cc9381156f"
     },
+    "ristretto": {
+      "url": "gitea@gitea.artixlinux.org:packagesR/ristretto.git",
+      "branch": "master",
+      "revision": "9d992f55505e0399ec8a22527bb7ea1b3d4f42f1"
+    },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
       "branch": "master",
