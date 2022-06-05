@@ -2661,6 +2661,11 @@
       "branch": "master",
       "revision": "97596e777df2815b17b17bf8345dd148c52e00b0"
     },
+    "ostree": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/ostree.git",
+      "branch": "master",
+      "revision": "426bb9834c0022d4fa9ba89e740f005b2239cba6"
+    },
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
       "branch": "master",
