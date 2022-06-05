@@ -471,6 +471,11 @@
       "branch": "master",
       "revision": "9243e86456e296636e661b40b40f40831875e41f"
     },
+    "kblackbox": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kblackbox.git",
+      "branch": "master",
+      "revision": "d04a53a2badebd9be32b04f37c3018f5f2312965"
+    },
     "kbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
       "branch": "master",
