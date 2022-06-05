@@ -2781,6 +2781,11 @@
       "branch": "master",
       "revision": "5898f276b02e32f1d81f961b0d1e4729071d9007"
     },
+    "okteta": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/okteta.git",
+      "branch": "master",
+      "revision": "3dc66e414b54c1c804172b9dbf047ed6111935f0"
+    },
     "okular": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okular.git",
       "branch": "master",
