@@ -171,6 +171,11 @@
       "branch": "master",
       "revision": "b3595cac0034262369c664b8171796ce8eacdb44"
     },
+    "kcolorpicker": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kcolorpicker.git",
+      "branch": "master",
+      "revision": "b3f68ef260406ca8e761f64c91a87a579fd071a0"
+    },
     "kcompletion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcompletion.git",
       "branch": "master",
