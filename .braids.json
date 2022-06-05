@@ -756,6 +756,11 @@
       "branch": "master",
       "revision": "aa48e1a31421eb6a2433591ec34ffa28f2415b68"
     },
+    "gnome-settings-daemon": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-settings-daemon.git",
+      "branch": "master",
+      "revision": "8ee5380532178dc797088ec8e2d2f887ad4f6719"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
