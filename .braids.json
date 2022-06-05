@@ -811,6 +811,11 @@
       "branch": "master",
       "revision": "43b19c240dfa3ad02b9b150ed1ab0a6902494b10"
     },
+    "gnome-todo": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-todo.git",
+      "branch": "master",
+      "revision": "2e2fcf9a24e54063789c6de7b500c4cedf1ac884"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
