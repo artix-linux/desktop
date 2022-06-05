@@ -661,6 +661,11 @@
       "branch": "master",
       "revision": "75244c040d9c299d969ba85db77086db705ecb37"
     },
+    "gnome-keyring": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-keyring.git",
+      "branch": "master",
+      "revision": "5bf6582bcfcf023109f293d85a0e0079d1c0a23e"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
