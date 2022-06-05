@@ -2771,6 +2771,11 @@
       "branch": "master",
       "revision": "bc31df7a1bdef5da43029031c6539404379ed7d1"
     },
+    "lxmenu-data": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxmenu-data.git",
+      "branch": "master",
+      "revision": "e8e09c8f4f85eab543eadcc21ae937dc7dcd7f88"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
