@@ -451,6 +451,11 @@
       "branch": "master",
       "revision": "bccd8c69b623ced0fcf01da377580e6cc51ce3d0"
     },
+    "kmouth": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmouth.git",
+      "branch": "master",
+      "revision": "024a473c3c2faaeea637c5559b357124bb8e827a"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
