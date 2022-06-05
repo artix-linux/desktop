@@ -4091,6 +4091,11 @@
       "branch": "master",
       "revision": "fc141269a7179f47af1a905f5b68f97a3e44864d"
     },
+    "xed": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xed.git",
+      "branch": "master",
+      "revision": "a329e939a1de0e3e643d8b8451490390468c03b5"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
