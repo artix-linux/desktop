@@ -831,6 +831,11 @@
       "branch": "master",
       "revision": "8d217ab8856468f70695289c5bd292bce97ce02c"
     },
+    "gnome-user-share": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-share.git",
+      "branch": "master",
+      "revision": "abca752ed17cc64ae705721a1f33a2cd0b5d1b9f"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
