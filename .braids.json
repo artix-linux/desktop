@@ -681,6 +681,11 @@
       "branch": "master",
       "revision": "dfcc163948ac0bfa704f90c7d226cc377240b06c"
     },
+    "powerdevil": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/powerdevil.git",
+      "branch": "master",
+      "revision": "b8ec52c08b1996a300dd7f7fbd88c870eb742746"
+    },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
