@@ -1111,6 +1111,11 @@
       "branch": "master",
       "revision": "74814da04b939f4d34a51337109e5b06b065555a"
     },
+    "krfb": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/krfb.git",
+      "branch": "master",
+      "revision": "20bf9c417ebac80bc468758c2ecc3b415b38d243"
+    },
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
       "branch": "master",
