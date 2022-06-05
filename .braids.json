@@ -1321,6 +1321,11 @@
       "branch": "master",
       "revision": "f45efc97b43eafb0d809a7ad728dc85d8814c4d5"
     },
+    "xapian-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
+      "branch": "master",
+      "revision": "f9e447a9ae18f6c89bdc1c98e31ef09cbb399304"
+    },
     "xdg-desktop-portal-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
