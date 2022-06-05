@@ -4346,6 +4346,11 @@
       "branch": "master",
       "revision": "bc75f30d45dfa32c73099bf2a64d35642c83a6e9"
     },
+    "tmux": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tmux.git",
+      "branch": "master",
+      "revision": "a5867170277b03231da2e650a2ca10249baacc84"
+    },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
       "branch": "master",
