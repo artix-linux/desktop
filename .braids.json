@@ -2551,6 +2551,11 @@
       "branch": "master",
       "revision": "f7e87149633688051a4bd6c81a1f0ae105c7fa5b"
     },
+    "libquotient": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libquotient.git",
+      "branch": "master",
+      "revision": "d878778e7dc9149a93a1c230a822ef7618bdfa22"
+    },
     "libquvi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquvi.git",
       "branch": "master",
