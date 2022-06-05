@@ -3271,6 +3271,11 @@
       "branch": "master",
       "revision": "513da6408e9575af3d26bdf419c9dd477c93f40a"
     },
+    "mod_dnssd": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mod_dnssd.git",
+      "branch": "master",
+      "revision": "ed55dba34c49bf86c670b1cec586a95c7cbdd2d4"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
