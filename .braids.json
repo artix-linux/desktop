@@ -886,6 +886,11 @@
       "branch": "master",
       "revision": "562cbd12065046c9ce95f76818129726e45261cb"
     },
+    "gsettings-desktop-schemas": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gsettings-desktop-schemas.git",
+      "branch": "master",
+      "revision": "4bcd5fb549258cd9ad89e3acad5c6ab542eb7e22"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
