@@ -3066,6 +3066,11 @@
       "branch": "master",
       "revision": "e773fd3f0a6f64d1f76f1527b7787a9bc70d2046"
     },
+    "swell-foop": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/swell-foop.git",
+      "branch": "master",
+      "revision": "804a369cef3f8a302f921341d9a812a1524a3908"
+    },
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
