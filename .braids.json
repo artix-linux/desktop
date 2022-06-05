@@ -4651,6 +4651,11 @@
       "branch": "master",
       "revision": "597b7bc1a2d04d15d4af84b15108870a31e1bfb4"
     },
+    "xfce4-diskperf-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-diskperf-plugin.git",
+      "branch": "master",
+      "revision": "54f92c833b1d7ef5e491583cd3f2be0c939d467c"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
