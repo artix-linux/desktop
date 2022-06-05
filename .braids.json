@@ -1006,6 +1006,11 @@
       "branch": "master",
       "revision": "f51b60572292b0a54d8c7ba07a5793faa2b597f9"
     },
+    "highlight": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/highlight.git",
+      "branch": "master",
+      "revision": "e928913c5a351884830785dc06067c3335ba80f4"
+    },
     "hitori": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hitori.git",
       "branch": "master",
