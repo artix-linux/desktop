@@ -761,6 +761,11 @@
       "branch": "master",
       "revision": "595cc55cb923b33df175ff14c6585e44c462673b"
     },
+    "lokalize": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lokalize.git",
+      "branch": "master",
+      "revision": "e54214767decb6257782359f7548664c5c781fc7"
+    },
     "maliit-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
       "branch": "master",
