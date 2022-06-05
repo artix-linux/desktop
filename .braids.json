@@ -3136,6 +3136,11 @@
       "branch": "master",
       "revision": "dddae4065e34181d57e79d262939d64184ad7d28"
     },
+    "qtqr": {
+      "url": "gitea@gitea.artixlinux.org:packagesQ/qtqr.git",
+      "branch": "master",
+      "revision": "6c3aaaff7860585de2eec33ab293d9c3a8d16bba"
+    },
     "quadrapassel": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/quadrapassel.git",
       "branch": "master",
