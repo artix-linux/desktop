@@ -1351,6 +1351,11 @@
       "branch": "master",
       "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
     },
+    "hunspell": {
+      "url": "gitea@gitea.artixlinux.org:packagesH/hunspell.git",
+      "branch": "master",
+      "revision": "523cda824fae5275ea25c19181dbf79bbabd6fee"
+    },
     "i3-gaps": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3-gaps.git",
       "branch": "master",
