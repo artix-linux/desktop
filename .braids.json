@@ -651,6 +651,11 @@
       "branch": "master",
       "revision": "4901f7ca77d0a19450926903f538c0852f60da5f"
     },
+    "gnome-games": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-games.git",
+      "branch": "master",
+      "revision": "491e028290d8d7483fc5e69e76c0afe72730d3f2"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
