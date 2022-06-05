@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "1de48b5f63f6e2cb072f8bcbc8373e7813897be3"
     },
+    "filelight": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/filelight.git",
+      "branch": "master",
+      "revision": "b815ec6d5971d08813a0d39a333f562b16f23d75"
+    },
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
