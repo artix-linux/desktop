@@ -306,6 +306,11 @@
       "branch": "master",
       "revision": "7174494e5d845a5a44a20c69c71952c2aa371abb"
     },
+    "cjs": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cjs.git",
+      "branch": "master",
+      "revision": "20d27413d0c2c101b24b4e647b90ede7a7c47fca"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
