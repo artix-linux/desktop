@@ -906,6 +906,11 @@
       "branch": "master",
       "revision": "db40063791581062af7f076771817291236a1591"
     },
+    "sweeper": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sweeper.git",
+      "branch": "master",
+      "revision": "e773fd3f0a6f64d1f76f1527b7787a9bc70d2046"
+    },
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
