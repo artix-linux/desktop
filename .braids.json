@@ -521,6 +521,11 @@
       "branch": "master",
       "revision": "ee9fdee5149e61803b13c9496371d9dd21b401d5"
     },
+    "gmime": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gmime.git",
+      "branch": "master",
+      "revision": "ac533100527391278346844a40074829edec246f"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
