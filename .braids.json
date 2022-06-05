@@ -886,6 +886,11 @@
       "branch": "master",
       "revision": "823c48ca615291e1b900a8af43cf22483b5ae624"
     },
+    "skanpage": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/skanpage.git",
+      "branch": "master",
+      "revision": "5970a5b18d451309eda5bd970da62c91c43d3699"
+    },
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
       "branch": "master",
