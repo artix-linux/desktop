@@ -181,6 +181,11 @@
       "branch": "master",
       "revision": "15d96af401ebccbad95bc3a4bfacb34d50c7b74e"
     },
+    "artix-lxde-presets": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxde-presets.git",
+      "branch": "master",
+      "revision": "5f7cfc1215458058a3edcf9fc0e6e98f8b704394"
+    },
     "aspell": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell.git",
       "branch": "master",
