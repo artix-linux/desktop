@@ -706,6 +706,11 @@
       "branch": "master",
       "revision": "d2ace082bb6ad734b4afcbf004c07c4454875bbb"
     },
+    "sddm-kcm": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/sddm-kcm.git",
+      "branch": "master",
+      "revision": "823c48ca615291e1b900a8af43cf22483b5ae624"
+    },
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
       "branch": "master",
