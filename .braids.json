@@ -301,6 +301,11 @@
       "branch": "master",
       "revision": "76d4f8987001bd5056ee7b41ce6e04cf50f8a4f6"
     },
+    "gnugo": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
+      "branch": "master",
+      "revision": "411df980867a7859ab9c63fdec5b2b20e3db2b79"
+    },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
