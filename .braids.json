@@ -151,6 +151,11 @@
       "branch": "master",
       "revision": "144f719bd9cd1afdea13ae7625b8c68fb3f126b4"
     },
+    "cfitsio": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cfitsio.git",
+      "branch": "master",
+      "revision": "4a8cc9887d93cc6909261c9f497d6b707a9f5acc"
+    },
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
