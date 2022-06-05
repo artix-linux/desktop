@@ -586,6 +586,11 @@
       "branch": "master",
       "revision": "54afec510aa12a87d04ebce0197e9d3537d39e42"
     },
+    "gimp": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gimp.git",
+      "branch": "master",
+      "revision": "501f0b2c30e97b0443389989f11041072aa6b318"
+    },
     "gjs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
       "branch": "master",
