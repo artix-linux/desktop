@@ -1,0 +1,187 @@
+From eb1ba7dbd77b7513dcd16b1d7a653352101b8bdc Mon Sep 17 00:00:00 2001
+From: Nathan <ndowens@artixlinux.org>
+Date: Wed, 26 Jan 2022 18:35:17 -0600
+Subject: [PATCH] vice-ffmpeg
+
+---
+ src/gfxoutputdrv/ffmpegdrv.c | 39 +++++++++++++++++++-----------------
+ src/gfxoutputdrv/ffmpeglib.h |  9 ++++-----
+ 2 files changed, 25 insertions(+), 23 deletions(-)
+
+diff --git a/src/gfxoutputdrv/ffmpegdrv.c b/src/gfxoutputdrv/ffmpegdrv.c
+index c558266..3df6659 100644
+--- a/src/gfxoutputdrv/ffmpegdrv.c
++++ b/src/gfxoutputdrv/ffmpegdrv.c
+@@ -56,8 +56,8 @@
+ #if (LIBAVCODEC_VERSION_MAJOR >= 58) && (LIBAVCODEC_VERSION_MINOR >= 18)
+ # define HAVE_FFMPEG4
+ #endif
+-
+-
++#include <libavcodec/avcodec.h>
++#include <libavformat/avformat.h>
+ static gfxoutputdrv_codec_t avi_audio_codeclist[] = {
+     { AV_CODEC_ID_MP2, "MP2" },
+     { AV_CODEC_ID_MP3, "MP3" },
+@@ -120,11 +120,12 @@ gfxoutputdrv_format_t formats_to_test[] =
+ };
+ 
+ typedef struct OutputStream {
+-    AVStream *st;
++    AVCodecContext *st;
+     int64_t next_pts;
+     int samples_count;
+     AVFrame *frame;
+     AVFrame *tmp_frame;
++    char filename[1024];
+ } OutputStream;
+ 
+ /* general */
+@@ -297,11 +298,12 @@ static int ffmpegdrv_cmdline_options_init(void)
+ 
+ /*---------------------------------------------------------------------*/
+ 
+-static int write_frame(AVFormatContext *fmt_ctx, const AVRational *time_base, AVStream *st, AVPacket *pkt)
++static int write_frame(AVFormatContext *fmt_ctx, const AVRational *time_base, AVCodecContext *st, AVPacket *pkt)
+ {
++    AVStream *sts;
+     /* rescale output packet timestamp values from codec to stream timebase */
+     VICE_P_AV_PACKET_RESCALE_TS(pkt, *time_base, st->time_base);
+-    pkt->stream_index = st->index;
++    pkt->stream_index = sts->index;
+ 
+     /* Write the compressed frame to the media file. */
+     return VICE_P_AV_INTERLEAVED_WRITE_FRAME(fmt_ctx, pkt);
+@@ -346,7 +348,7 @@ static AVFrame *alloc_audio_frame(enum AVSampleFormat sample_fmt,
+     return frame;
+ }
+ 
+-static int ffmpegdrv_open_audio(AVFormatContext *oc, AVStream *st)
++static int ffmpegdrv_open_audio(AVFormatContext *oc, AVCodecContext *st)
+ {
+     AVCodecContext *c;
+     int audio_inbuf_samples;
+@@ -410,8 +412,7 @@ static void ffmpegdrv_close_audio(void)
+ 
+ static int ffmpegmovie_init_audio(int speed, int channels, soundmovie_buffer_t ** audio_in)
+ {
+-    AVCodecContext *c;
+-    AVStream *st;
++    AVCodecContext *c, *st;
+     int i;
+ 
+     if (ffmpegdrv_oc == NULL || ffmpegdrv_fmt == NULL) {
+@@ -644,7 +645,7 @@ static AVFrame* ffmpegdrv_alloc_picture(enum AVPixelFormat pix_fmt, int width, i
+     return picture;
+ }
+ 
+-static int ffmpegdrv_open_video(AVFormatContext *oc, AVStream *st)
++static int ffmpegdrv_open_video(AVFormatContext *oc, AVCodecContext *st)
+ {
+     AVCodecContext *c;
+     int ret;
+@@ -712,7 +713,7 @@ static void ffmpegdrv_close_video(void)
+ static void ffmpegdrv_init_video(screenshot_t *screenshot)
+ {
+     AVCodecContext *c;
+-    AVStream *st;
++    AVCodecContext *st;
+ 
+     if (ffmpegdrv_oc == NULL || ffmpegdrv_fmt == NULL) {
+         return;
+@@ -805,24 +806,25 @@ static int ffmpegdrv_init_file(void)
+         return 0;
+     }
+ 
+-    VICE_P_AV_DUMP_FORMAT(ffmpegdrv_oc, 0, ffmpegdrv_oc->filename, 1);
++    OutputStream *ffmpegdrv_foc;
++    VICE_P_AV_DUMP_FORMAT(ffmpegdrv_oc, 0, ffmpegdrv_foc->filename, 1);
+ 
+-    if (video_st.st && (ffmpegdrv_open_video(ffmpegdrv_oc, video_st.st) < 0)) {
++    if (video_st.st && (ffmpegdrv_open_video(ffmpegdrv_foc, video_st.st) < 0)) {
+         ui_error("ffmpegdrv: Cannot open video stream");
+         screenshot_stop_recording();
+         return -1;
+     }
+-    if (audio_st.st && (ffmpegdrv_open_audio(ffmpegdrv_oc, audio_st.st) < 0)) {
++    if (audio_st.st && (ffmpegdrv_open_audio(ffmpegdrv_foc, audio_st.st) < 0)) {
+         ui_error("ffmpegdrv: Cannot open audio stream");
+         screenshot_stop_recording();
+         return -1;
+     }
+ 
+     if (!(ffmpegdrv_fmt->flags & AVFMT_NOFILE)) {
+-        if (VICE_P_AVIO_OPEN(&ffmpegdrv_oc->pb, ffmpegdrv_oc->filename,
++        if (VICE_P_AVIO_OPEN(&ffmpegdrv_oc->pb, ffmpegdrv_foc->filename,
+                             AVIO_FLAG_WRITE) < 0) {
+ 
+-            ui_error("ffmpegdrv: Cannot open %s", ffmpegdrv_oc->filename);
++            ui_error("ffmpegdrv: Cannot open %s", ffmpegdrv_foc->filename);
+             screenshot_stop_recording();
+             return -1;
+         }
+@@ -877,9 +879,10 @@ static int ffmpegdrv_save(screenshot_t *screenshot, const char *filename)
+         log_debug("ffmpegdrv: Cannot allocate format context");
+         return -1;
+     }
+-
+-    ffmpegdrv_oc->oformat = ffmpegdrv_fmt;
+-    snprintf(ffmpegdrv_oc->filename, sizeof(ffmpegdrv_oc->filename), "%s", filename);
++    AVFormatContext *ffmpegdrv_foc;
++    OutputStream *ffmpegdrv_focs;
++    ffmpegdrv_foc->oformat = ffmpegdrv_fmt;
++    snprintf(ffmpegdrv_focs->filename, sizeof(ffmpegdrv_focs->filename), "%s", filename);
+ 
+     ffmpegdrv_init_video(screenshot);
+ 
+diff --git a/src/gfxoutputdrv/ffmpeglib.h b/src/gfxoutputdrv/ffmpeglib.h
+index a12085e..56fa3c6 100644
+--- a/src/gfxoutputdrv/ffmpeglib.h
++++ b/src/gfxoutputdrv/ffmpeglib.h
+@@ -28,7 +28,7 @@
+ #define VICE_FFMPEGLIB_H
+ 
+ #include "vice.h"
+-
++#include <libavutil/frame.h>
+ #include "archdep.h"
+ 
+ #ifdef HAVE_FFMPEG_HEADER_SUBDIRS
+@@ -50,7 +50,7 @@
+ #  include "avresample.h"
+ #endif
+ #endif
+-
++#include <libavcodec/avcodec.h>
+ /* "libavutil/opt.h" */
+ int av_opt_set_int(void*, const char*, int64_t, int);
+ int av_opt_set_sample_fmt(void*, const char*, enum AVSampleFormat, int);
+@@ -83,7 +83,6 @@ typedef unsigned (*ffmpeg_version_t)(void);
+ #define VICE_AV_PIX_FMT_RGB24 AV_PIX_FMT_RGB24
+ #define VICE_AV_PixelFormat AVPixelFormat
+ #endif
+-
+ /* avcodec fucntions */
+ typedef void(*av_init_packet_t)(AVPacket *pkt);
+ typedef int(*avcodec_open2_t)(AVCodecContext*, AVCodec*, AVDictionary **);
+@@ -91,7 +90,7 @@ typedef int (*avcodec_close_t)(AVCodecContext*);
+ typedef AVCodec* (*avcodec_find_encoder_t)(enum AVCodecID);
+ typedef int(*avcodec_encode_audio2_t)(AVCodecContext*, AVPacket*, const AVFrame*, int*);
+ typedef int(*avcodec_encode_video2_t)(AVCodecContext*, AVPacket*, const AVFrame*, int*);
+-typedef int (*avpicture_fill_t)(AVPicture*, uint8_t*, int, int, int);
++typedef int (*avpicture_fill_t)(AVFrame*, uint8_t*, int, int, int);
+ typedef int (*avpicture_get_size_t)(int, int, int);
+ typedef void(*av_packet_rescale_ts_t)(AVPacket*, AVRational, AVRational);
+ 
+@@ -106,7 +105,7 @@ typedef int (*avio_open_t) (AVIOContext**, const char*, int);
+ typedef int (*avio_close_t) (AVIOContext*);
+ typedef void (*av_dump_format_t) (AVFormatContext *, int, const char*, int);
+ typedef AVOutputFormat* (*av_guess_format_t)(const char*, const char*, const char*);
+-typedef int (*img_convert_t)(AVPicture*, int, AVPicture*, int, int, int);
++typedef int (*img_convert_t)(AVFrame*, int, AVFrame*, int, int, int);
+ 
+ /* avutil functions */
+ typedef void (*av_free_t)(void**);
+-- 
+2.35.0
+

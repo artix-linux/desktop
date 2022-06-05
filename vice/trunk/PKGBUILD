@@ -1,0 +1,46 @@
+# Maintainer: Alexander F. Rødseth <xyproto@archlinux.org>
+# Contributor: Giovanni Scafora <giovanni@archlinux.org>
+# Contributor: Tom Newsom <Jeepster@gmx.co.uk>
+
+pkgname=vice
+pkgver=3.6.1
+pkgrel=2
+pkgdesc='Versatile Commodore 8-bit Emulator'
+arch=(x86_64)
+license=(GPL)
+url='https://vice-emu.sourceforge.io/'
+depends=(alsa-lib giflib glew gtk3 libjpeg-turbo libpng libpulse python sdl2 sdl2_image)
+makedepends=(dos2unix ffmpeg libpcap libxaw texlive-bin texlive-core xa xorg-bdftopcf xorg-mkfontdir)
+source=("https://downloads.sourceforge.net/project/vice-emu/releases/$pkgname-${pkgver%.0}.tar.gz"
+        disable-fc-cache.patch
+        0001-vice-ffmpeg.patch)
+b2sums=('129171380f3bd23d579dc29a96419446169cf9a98d2fec82951fa192914846053d213a19b395c9ca30596859cce35bcfea0de0c0a7461c45cb38511a546ca4b2'
+        'a27ff2a70537a57fd1c3be561181403fede8a6fd75ca8a31a4a4ed97b010cd8f8f0376a619be126ac22ad8c81bf0d1fd9c7e5e411bf94da32006c9ecdd10d32e'
+        '4ae332f83c9acd53ca672f49adae2d41d20e71d5b4198531fc39aa6640cd55b2b15f69cb6d0cc2ca3032f9e5ff22e6e16c556634a2ff6d225cceec5e39fb7822')
+
+prepare() {
+  cd $pkgname-$pkgver
+  rm -rf src/lib/{liblame,libx264,libffmpeg}
+  patch -p1 -i ../disable-fc-cache.patch
+  patch -p1 -i ../0001-vice-ffmpeg.patch
+  sed -i 's/lib64/lib/g' configure.ac
+  autoreconf -fi
+}
+
+build() {
+  cd $pkgname-$pkgver
+  export CFLAGS="$CFLAGS -w -Wl,--allow-multiple-definition"
+  ./configure \
+    --enable-external-ffmpeg \
+    --enable-x64 \
+    --libdir=/usr/lib \
+    --prefix=/usr
+  make
+}
+
+package() {
+  make -C $pkgname-$pkgver \
+    DESTDIR="$pkgdir" \
+    realdocdir=/usr/share/doc/vice \
+    install
+}

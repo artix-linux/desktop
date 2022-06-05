@@ -4496,6 +4496,11 @@
       "branch": "master",
       "revision": "0ecd0acf4860cba73eca0b7d93eee4bae3d027b3"
     },
+    "vice": {
+      "url": "gitea@gitea.artixlinux.org:packagesV/vice.git",
+      "branch": "master",
+      "revision": "f8e26b03a5bf3375c1be7c525f10328ebc6017a1"
+    },
     "vino": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vino.git",
       "branch": "master",
