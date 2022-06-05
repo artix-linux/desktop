@@ -776,6 +776,11 @@
       "branch": "master",
       "revision": "d90a74b2d5c5f7efb453861f70677c123987c7da"
     },
+    "gnome-sound-recorder": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sound-recorder.git",
+      "branch": "master",
+      "revision": "bda1aaffb1797586aaea131de6b504b548dde2c4"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
