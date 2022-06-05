@@ -536,6 +536,11 @@
       "branch": "master",
       "revision": "595cc55cb923b33df175ff14c6585e44c462673b"
     },
+    "maliit-framework": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
+      "branch": "master",
+      "revision": "56cfa7892f81a4bf9943766f9cd9b0495fa5f479"
+    },
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
