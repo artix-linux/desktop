@@ -316,6 +316,11 @@
       "branch": "master",
       "revision": "ef094665b807a626ee73416d45bc985273c2b79e"
     },
+    "kalgebra": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kalgebra.git",
+      "branch": "master",
+      "revision": "df1d2bab075b9ab36860fc79e305133f09786ce2"
+    },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
