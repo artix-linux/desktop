@@ -285,6 +285,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kparts.git",
       "branch": "master",
       "revision": "2597016e3fb9f5b9dec6302df6b435eaaee7629d"
+    },
+    "kpeople": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpeople.git",
+      "branch": "master",
+      "revision": "64e3243a98b5f853565c65527d69fe72c8fea0a0"
     }
   }
 }
