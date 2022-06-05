@@ -1001,6 +1001,11 @@
       "branch": "master",
       "revision": "c47c39c77d09b8d6a78e24d503f0365412b269e6"
     },
+    "klickety": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/klickety.git",
+      "branch": "master",
+      "revision": "3943530b2b00b871ff0b0cff2d29f060ba5644b9"
+    },
     "kmag": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
       "branch": "master",
