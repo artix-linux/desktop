@@ -3961,6 +3961,11 @@
       "branch": "master",
       "revision": "6c0f2c24476ee8f7ac98ba25d0e078f58e6f041d"
     },
+    "rofi": {
+      "url": "gitea@gitea.artixlinux.org:packagesR/rofi.git",
+      "branch": "master",
+      "revision": "28ad1f28d52cf644e5e124072266d989fb7c17a2"
+    },
     "rpmextract": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rpmextract.git",
       "branch": "master",
