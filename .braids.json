@@ -230,6 +230,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami2.git",
       "branch": "master",
       "revision": "2adec6e24a3e10ebcdb4bb9959740bb332b450b9"
+    },
+    "kitemmodels": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kitemmodels.git",
+      "branch": "master",
+      "revision": "87a2f429ee05bb2fd24846580d4066af4a23c1d1"
     }
   }
 }
