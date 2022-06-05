@@ -4791,6 +4791,11 @@
       "branch": "master",
       "revision": "27e978e8eb1cb79b739e7e52c98b0aedde4539dd"
     },
+    "xfce4-xkb-plugin": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-xkb-plugin.git",
+      "branch": "master",
+      "revision": "ee826f9c9d7407b2b391dd11bc779785274d6d4a"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
