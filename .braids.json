@@ -646,6 +646,11 @@
       "branch": "master",
       "revision": "b8b4410e4f55a228e6e8c74c046d8718b4005b50"
     },
+    "gnome-font-viewer": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-font-viewer.git",
+      "branch": "master",
+      "revision": "4901f7ca77d0a19450926903f538c0852f60da5f"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
