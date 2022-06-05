@@ -380,6 +380,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-icons.git",
       "branch": "master",
       "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
+    },
+    "plasma-framework": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
+      "branch": "master",
+      "revision": "33d572acd958e60d86b6bc418a0b99459a017195"
     }
   }
 }
