@@ -3251,6 +3251,11 @@
       "branch": "master",
       "revision": "45a755c8b4ad66bd37031bbd7d5dfa73a25c7a1b"
     },
+    "snorenotify": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/snorenotify.git",
+      "branch": "master",
+      "revision": "8db9ae5ffab5ef172f5bf3728acd7cff20bac4c9"
+    },
     "socat": {
       "url": "gitea@gitea.artixlinux.org:packagesS/socat.git",
       "branch": "master",
