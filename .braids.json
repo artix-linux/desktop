@@ -55,6 +55,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/karchive.git",
       "branch": "master",
       "revision": "9aedf4611955f0c3b9a3c87b9065933ca914a22d"
+    },
+    "kauth": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kauth.git",
+      "branch": "master",
+      "revision": "5a3c39a2a7d8316c7b455d3521b37839293ae720"
     }
   }
 }
