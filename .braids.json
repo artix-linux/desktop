@@ -266,6 +266,11 @@
       "branch": "master",
       "revision": "01c6b6e9b0d3ade39f19f229dffe00ab7b6437b6"
     },
+    "cinnamon": {
+      "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon.git",
+      "branch": "master",
+      "revision": "52856bc3c22fbc410d87dea10599fd6f07843de0"
+    },
     "clutter-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clutter-gtk.git",
       "branch": "master",
