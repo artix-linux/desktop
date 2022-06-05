@@ -706,6 +706,11 @@
       "branch": "master",
       "revision": "7c1d420deda7435625dbbc325b9011d92a6a9f33"
     },
+    "markdownpart": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/markdownpart.git",
+      "branch": "master",
+      "revision": "4227e5316191be39b99fd211d11ad069df8c1ab5"
+    },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
