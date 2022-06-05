@@ -2766,6 +2766,11 @@
       "branch": "master",
       "revision": "82feb45cba7bf4f82c317018f8c3118012d95536"
     },
+    "lxlauncher": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lxlauncher.git",
+      "branch": "master",
+      "revision": "bc31df7a1bdef5da43029031c6539404379ed7d1"
+    },
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
