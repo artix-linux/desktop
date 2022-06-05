@@ -4421,6 +4421,11 @@
       "branch": "master",
       "revision": "ed7385ce68281ba1b5b1d2ff50950f986f52e58a"
     },
+    "vertex-themes": {
+      "url": "gitea@gitea.artixlinux.org:packagesV/vertex-themes.git",
+      "branch": "master",
+      "revision": "0ecd0acf4860cba73eca0b7d93eee4bae3d027b3"
+    },
     "vino": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vino.git",
       "branch": "master",
