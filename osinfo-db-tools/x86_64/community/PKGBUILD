@@ -1,0 +1,31 @@
+# Maintainer: Ball√≥ Gy√∂rgy <ballogyor+arch at gmail dot com>
+
+pkgname=osinfo-db-tools
+pkgver=1.10.0
+pkgrel=1
+pkgdesc='Tools for managing the osinfo database'
+arch=('x86_64')
+url='https://libosinfo.org/'
+license=('GPL')
+depends=('json-glib' 'libarchive' 'libsoup' 'libxslt')
+makedepends=('meson')
+checkdepends=('python-pytest' 'python-requests')
+source=("https://releases.pagure.org/libosinfo/$pkgname-$pkgver.tar.xz"{,.asc})
+validpgpkeys=('DAF3A6FDB26B62912D0E8E3FBE86EBB415104FDF'  # Daniel P. Berrange
+              '09B9C8FF223EF113AFA06A39EE926C2BDACC177B'  # Fabiano Fidè´¥ncio
+              '206D3B352F566F3B0E6572E997D9123DE37A484F') # Victor Toso de Carvalho <me@victortoso.com>
+sha256sums=('802cdd53b416706ea5844f046ddcfb658c1b4906b9f940c79ac7abc50981ca68'
+            'SKIP')
+
+build() {
+  artix-meson $pkgname-$pkgver build
+  meson compile -C build
+}
+
+check() {
+  meson test -C build --print-errorlogs
+}
+
+package() {
+  DESTDIR="$pkgdir" meson install -C build
+}
