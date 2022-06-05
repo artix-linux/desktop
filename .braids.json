@@ -231,6 +231,11 @@
       "branch": "master",
       "revision": "54053310604b4bc78734a655b8e78f2491d5efef"
     },
+    "genxrdpattern": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/genxrdpattern.git",
+      "branch": "master",
+      "revision": "772b5dca0f8d5d3a8ec709cffabfc8b97ff3e8a3"
+    },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
