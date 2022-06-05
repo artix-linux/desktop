@@ -516,6 +516,11 @@
       "branch": "master",
       "revision": "3a5846893f087daf92dfdfde9a0fe892cad49f15"
     },
+    "krename": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
+      "branch": "master",
+      "revision": "74814da04b939f4d34a51337109e5b06b065555a"
+    },
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
       "branch": "master",
