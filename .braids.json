@@ -2246,6 +2246,11 @@
       "branch": "master",
       "revision": "28d386cd09f35e10aa039995d47b4c8fa4c49ad0"
     },
+    "libiptcdata": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libiptcdata.git",
+      "branch": "master",
+      "revision": "80450882b2cb3171e470e0ee7f7bedae21b459d9"
+    },
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
