@@ -246,6 +246,11 @@
       "branch": "master",
       "revision": "3bc8aa7dd5231290c7640b9950636afe690be509"
     },
+    "falkon": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/falkon.git",
+      "branch": "master",
+      "revision": "05f368b0efc09471d105fa08a0e3af1368c25ab7"
+    },
     "ffmpegthumbs": {
       "url": "gitea@gitea.artixlinux.org:packagesF/ffmpegthumbs.git",
       "branch": "master",
