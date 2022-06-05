@@ -531,6 +531,11 @@
       "branch": "master",
       "revision": "083324369f283142e9ed80009c1e8f591058ce08"
     },
+    "kompare": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kompare.git",
+      "branch": "master",
+      "revision": "a1409b229ab7c15121ef14c7064e2e0cd290196e"
+    },
     "konsole": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konsole.git",
       "branch": "master",
