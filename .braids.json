@@ -2536,6 +2536,11 @@
       "branch": "master",
       "revision": "2ad5ee3395c0382471dcca150f335f1f1a93ccc4"
     },
+    "libdecor": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdecor.git",
+      "branch": "master",
+      "revision": "e574e8ebedb4c3b1f9c9c723d637ce849d47e10c"
+    },
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
       "branch": "master",
