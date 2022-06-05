@@ -826,6 +826,11 @@
       "branch": "master",
       "revision": "f372adcc4898fa65f0e416548bc6c2bffe097bae"
     },
+    "ksmtp": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ksmtp.git",
+      "branch": "master",
+      "revision": "67d23fd6132e51064ef29aac371480796df16770"
+    },
     "ksshaskpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksshaskpass.git",
       "branch": "master",
