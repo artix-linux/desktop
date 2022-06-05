@@ -1061,6 +1061,11 @@
       "branch": "master",
       "revision": "7cd011b9aacc5a91ba95cb8f4e1c58e026e55688"
     },
+    "mbox-importer": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mbox-importer.git",
+      "branch": "master",
+      "revision": "e9c96514d6947d5a64aec90f9bce47b516dc1ad4"
+    },
     "milou": {
       "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
       "branch": "master",
