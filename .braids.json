@@ -2596,6 +2596,11 @@
       "branch": "master",
       "revision": "75c47bb6f71dd92cfd8b37d42fcfd552c69580ea"
     },
+    "nautilus": {
+      "url": "gitea@gitea.artixlinux.org:packagesN/nautilus.git",
+      "branch": "master",
+      "revision": "4b29ce078bc5ae36f8e5820dced3cad01db7a977"
+    },
     "neochat": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neochat.git",
       "branch": "master",
