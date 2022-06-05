@@ -180,6 +180,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/kguiaddons.git",
       "branch": "master",
       "revision": "4edc4ec38d98814549c00af12d4ac8c53805a79a"
+    },
+    "kholidays": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kholidays.git",
+      "branch": "master",
+      "revision": "5bb89a4c0eb666ddfc8bb2ad864f0ef8aa81df1c"
     }
   }
 }
