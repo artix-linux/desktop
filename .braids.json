@@ -86,6 +86,11 @@
       "branch": "master",
       "revision": "8c6039af21fb169c818e6983cf4a652a155a5684"
     },
+    "avogadro-molecules": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/avogadro-molecules.git",
+      "branch": "master",
+      "revision": "153eec46bf7ad159c42d7b4b7a41ea268ae7bc13"
+    },
     "avogadrolibs": {
       "url": "gitea@gitea.artixlinux.org:packagesA/avogadrolibs.git",
       "branch": "master",
