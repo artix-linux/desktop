@@ -1326,6 +1326,11 @@
       "branch": "master",
       "revision": "a006ad991f38b9d3ba79a72691fc9348e47fda97"
     },
+    "kspaceduel": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kspaceduel.git",
+      "branch": "master",
+      "revision": "9635b974e6351501d5bae44015a7f5653b257a14"
+    },
     "ksshaskpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksshaskpass.git",
       "branch": "master",
