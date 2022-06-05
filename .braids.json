@@ -836,6 +836,11 @@
       "branch": "master",
       "revision": "abca752ed17cc64ae705721a1f33a2cd0b5d1b9f"
     },
+    "gnome-video-effects": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-video-effects.git",
+      "branch": "master",
+      "revision": "652f0b11124e6f4b9cc5b9157431612894a3798a"
+    },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
       "branch": "master",
