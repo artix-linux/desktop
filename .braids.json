@@ -1081,6 +1081,11 @@
       "branch": "master",
       "revision": "629a015a22d3f9bc19f6304ef2f4395d10f35748"
     },
+    "knavalbattle": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/knavalbattle.git",
+      "branch": "master",
+      "revision": "dcfe1398ec1c4a7d2c658441432565988366baf6"
+    },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
