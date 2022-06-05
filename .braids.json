@@ -961,6 +961,11 @@
       "branch": "master",
       "revision": "823c48ca615291e1b900a8af43cf22483b5ae624"
     },
+    "shiboken2": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/shiboken2.git",
+      "branch": "master",
+      "revision": "0012e8ada358e436fec7cc5e6dc37b9505fd7db1"
+    },
     "skanpage": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanpage.git",
       "branch": "master",
