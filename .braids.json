@@ -3431,6 +3431,11 @@
       "branch": "master",
       "revision": "c0d52a8fe2d09aaa362bb60122d148aa38f68960"
     },
+    "mousepad": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/mousepad.git",
+      "branch": "master",
+      "revision": "c91d6988f2dac5c133103b8d70cbdc13d6b07db3"
+    },
     "mozo": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mozo.git",
       "branch": "master",
