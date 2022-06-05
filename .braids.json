@@ -2561,6 +2561,11 @@
       "branch": "master",
       "revision": "eff55a42d3b6b372e2a090a6dc168fe7b40e0a35"
     },
+    "liblxqt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/liblxqt.git",
+      "branch": "master",
+      "revision": "acd4fb61406c19342336734c63b045494b302948"
+    },
     "libmediaart": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediaart.git",
       "branch": "master",
