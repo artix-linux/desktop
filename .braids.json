@@ -666,6 +666,11 @@
       "branch": "master",
       "revision": "ce7cd277b3912caf4e2951642c85e85e88fc439d"
     },
+    "kmbox": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kmbox.git",
+      "branch": "master",
+      "revision": "704d142cd550005f3a19820083f89dbca0c6d476"
+    },
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
