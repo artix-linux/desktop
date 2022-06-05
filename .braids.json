@@ -3516,6 +3516,11 @@
       "branch": "master",
       "revision": "080c6026e9b6baa5b933fd1db2ed638a43f3ce4b"
     },
+    "trojita": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/trojita.git",
+      "branch": "master",
+      "revision": "6a2083f8deebd67883a303ab86e073397b093c1f"
+    },
     "udiskie": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udiskie.git",
       "branch": "master",
