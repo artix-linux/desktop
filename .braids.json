@@ -3151,6 +3151,11 @@
       "branch": "master",
       "revision": "e04bfaddc093a12a9d473d1408afb27f9584a6a4"
     },
+    "libvterm01": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libvterm01.git",
+      "branch": "master",
+      "revision": "d7a40b8a725112c4f1d30596d7b4d359992f12d9"
+    },
     "libwlocate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libwlocate.git",
       "branch": "master",
