@@ -195,6 +195,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesK/ki18n.git",
       "branch": "master",
       "revision": "2b28dbb7762b4d03a803f4a0479861343a263374"
+    },
+    "kiconthemes": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kiconthemes.git",
+      "branch": "master",
+      "revision": "e82c35516338d76a2720d4955a4e396d30db6b89"
     }
   }
 }
