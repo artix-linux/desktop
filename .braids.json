@@ -2666,6 +2666,11 @@
       "branch": "master",
       "revision": "e0601357c76cf58c523ab106b813a1f39a64dcae"
     },
+    "lightdm-gtk-greeter": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lightdm-gtk-greeter.git",
+      "branch": "master",
+      "revision": "27d66afcf9f77799473b851cee802a9931c236d6"
+    },
     "lightsoff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lightsoff.git",
       "branch": "master",
