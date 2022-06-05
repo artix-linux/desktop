@@ -956,6 +956,11 @@
       "branch": "master",
       "revision": "f797df4be3fcc72b98648a1d1f2022a47070911d"
     },
+    "gvfs": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gvfs.git",
+      "branch": "master",
+      "revision": "27e88723607a862626dc544265b7253c00493ef5"
+    },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
