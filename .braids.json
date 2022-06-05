@@ -186,6 +186,11 @@
       "branch": "master",
       "revision": "5f7cfc1215458058a3edcf9fc0e6e98f8b704394"
     },
+    "artix-lxqt-presets": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxqt-presets.git",
+      "branch": "master",
+      "revision": "1f1cd3fa6e728ac4baeb3873ba2c44b68eecd1d6"
+    },
     "aspell": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell.git",
       "branch": "master",

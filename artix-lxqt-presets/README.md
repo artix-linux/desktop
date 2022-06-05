@@ -1,0 +1,2 @@
+# artix-lxqt-presets
+
