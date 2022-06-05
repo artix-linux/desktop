@@ -4341,6 +4341,11 @@
       "branch": "master",
       "revision": "80fa1c399d1c40d5cc228c1239913d5de12c30ce"
     },
+    "yelp": {
+      "url": "gitea@gitea.artixlinux.org:packagesY/yelp.git",
+      "branch": "master",
+      "revision": "73605cf2e1c01c39b867050f203be7271cdeeaaf"
+    },
     "zanshin": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
       "branch": "master",
