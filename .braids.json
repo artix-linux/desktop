@@ -1221,6 +1221,11 @@
       "branch": "master",
       "revision": "9518b83663d806aeb480226d954a61eb903bdd2b"
     },
+    "i3lock": {
+      "url": "gitea@gitea.artixlinux.org:packagesI/i3lock.git",
+      "branch": "master",
+      "revision": "c15eeddcf317927b2886749cb4b023c24ecb9916"
+    },
     "iagno": {
       "url": "gitea@gitea.artixlinux.org:packagesI/iagno.git",
       "branch": "master",
