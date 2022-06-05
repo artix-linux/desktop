@@ -651,6 +651,11 @@
       "branch": "master",
       "revision": "a6829a498a09dd8634ea022e6fe717e947d43e17"
     },
+    "garcon": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/garcon.git",
+      "branch": "master",
+      "revision": "55b919cd88ef16f41a57979deb24ca9daa5479d8"
+    },
     "gcab": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcab.git",
       "branch": "master",
