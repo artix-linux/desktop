@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "accounts-qml-module": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/accounts-qml-module.git",
+      "branch": "master",
+      "revision": "aa7342c90e0d5052b8aa57c0ae2842fd3a6cb7b9"
+    },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
       "branch": "master",
