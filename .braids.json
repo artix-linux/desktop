@@ -4811,6 +4811,11 @@
       "branch": "master",
       "revision": "bf92538b371f0d5ede50eae2d00ed7e1ddbe2e4f"
     },
+    "xfwm4-themes": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xfwm4-themes.git",
+      "branch": "master",
+      "revision": "c42238bdf09ffc0477b12bc8af3f52767d7d2852"
+    },
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
