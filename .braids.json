@@ -1056,6 +1056,11 @@
       "branch": "master",
       "revision": "411df980867a7859ab9c63fdec5b2b20e3db2b79"
     },
+    "gnustep-base": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gnustep-base.git",
+      "branch": "master",
+      "revision": "c95f6be3fffeb40de26703bc9fc88f16ccc5ef15"
+    },
     "gom": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gom.git",
       "branch": "master",
