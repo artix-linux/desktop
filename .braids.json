@@ -486,6 +486,11 @@
       "branch": "master",
       "revision": "47bb32d0c75348f90e375df9d62280dccc8cf958"
     },
+    "dunst": {
+      "url": "gitea@gitea.artixlinux.org:packagesD/dunst.git",
+      "branch": "master",
+      "revision": "2ca971ad496f82d98cebce75a41462b2350c51b5"
+    },
     "easytag": {
       "url": "gitea@gitea.artixlinux.org:packagesE/easytag.git",
       "branch": "master",
