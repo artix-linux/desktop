@@ -1,8 +1,8 @@
 # Maintainer: Brett Cornwall <ainola@archlinux.org>
 
 pkgname=seatd
-pkgver=0.6.4
-pkgrel=2
+pkgver=0.7.0
+pkgrel=1.1
 pkgdesc="A minimal seat management daemon, and a universal seat management library"
 arch=(x86_64)
 url="https://sr.ht/~kennylevinsen/seatd/"
@@ -16,12 +16,13 @@ makedepends=(
     'elogind'
 )
 depends=('libelogind')
-source=("$pkgname-$pkgver.tar.gz::https://git.sr.ht/~kennylevinsen/seatd/archive/$pkgver.tar.gz"
-        "seatd.conf")
 options=(debug)
-sha256sums=('3d4ac288114219ba7721239cafee7bfbeb7cf8e1e7fd653602a369e4ad050bd8'
-            '65f5b50e0f1bf51e5d6ad763a399c87499bf697d0373ebd990164d0cda0a2dd4')
-
+source=(
+    "$pkgname-$pkgver.tar.gz::https://git.sr.ht/~kennylevinsen/seatd/archive/$pkgver.tar.gz"
+    "sysuser.conf"
+)
+sha256sums=('210ddf8efa1149cde4dd35908bef8e9e63c2edaa0cdb5435f2e6db277fafff3c'
+            'e833292adf5da25b5258a5209c258f0e4c12e1d6fe81cf228fd0cfb575080d78')
 build() {
     mkdir build
     meson --prefix=/usr \
@@ -42,5 +43,6 @@ check() {
 package() {
     DESTDIR="$pkgdir/" ninja -C build install
     install -Dm644 "seatd-$pkgver/LICENSE" -t "$pkgdir/usr/share/licenses/$pkgname/"
-    install -Dm644 "$srcdir"/seatd.conf -t "$pkgdir"/usr/lib/sysusers.d
+
+    install -Dm644 "sysuser.conf" "$pkgdir/usr/lib/sysusers.d/seatd.conf"
 }
