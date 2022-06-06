@@ -4424,7 +4424,7 @@
     "seatd": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seatd.git",
       "branch": "master",
-      "revision": "04b346322ccaa0fbea6bed370cbd38b9187c327d"
+      "revision": "ef38b347c4d9fe76e1eede4dff7344f03ea02142"
     },
     "shapelib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/shapelib.git",
