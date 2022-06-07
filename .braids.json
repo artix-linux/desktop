@@ -699,7 +699,7 @@
     "edk2": {
       "url": "gitea@gitea.artixlinux.org:packagesE/edk2.git",
       "branch": "master",
-      "revision": "4191c2600106b6081e159a3570bbf800e4628e8f"
+      "revision": "173480ee743e293203a05bf755452773902cc32f"
     },
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
