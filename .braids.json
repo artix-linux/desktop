@@ -4789,7 +4789,7 @@
     "tmux": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tmux.git",
       "branch": "master",
-      "revision": "a3c1bb39b8aae2ebba3d01c5d2bf8a4257f797b5"
+      "revision": "07c0560fb0743293c3097dc3101dbfc938fccfcc"
     },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
