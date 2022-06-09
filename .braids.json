@@ -959,7 +959,7 @@
     "gnome-bluetooth": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-bluetooth.git",
       "branch": "master",
-      "revision": "022ccf10f12b8df2037773d60700e10dd44b38b0"
+      "revision": "bfa0b28ecf2721b3ff7ae52d2c1304230d0d083d"
     },
     "gnome-bluetooth-3.0": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-bluetooth-3.0.git",
