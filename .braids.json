@@ -1664,7 +1664,7 @@
     "kate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kate.git",
       "branch": "master",
-      "revision": "b2dc14cdc3e9adb171b7454e37d1a2bf9d266c04"
+      "revision": "067ea09d65de150ab8a9d06ee57419109dfa4530"
     },
     "katomic": {
       "url": "gitea@gitea.artixlinux.org:packagesK/katomic.git",
