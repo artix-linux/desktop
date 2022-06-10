@@ -2014,7 +2014,7 @@
     "kfloppy": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfloppy.git",
       "branch": "master",
-      "revision": "bef78971680a22064f3c59e57256c019c7573a71"
+      "revision": "704857d86184d4618fc18afcac499ad0a480e2a3"
     },
     "kfourinline": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfourinline.git",
