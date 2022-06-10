@@ -444,7 +444,7 @@
     "calendarsupport": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calendarsupport.git",
       "branch": "master",
-      "revision": "35f7aa55bde74a9ecadcb087c3552694ab2cc46f"
+      "revision": "3d288744ec8fdcff2dc17731bb6831f8059e9148"
     },
     "cameracontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cameracontrol.git",
