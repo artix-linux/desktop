@@ -2329,7 +2329,7 @@
     "kmplot": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmplot.git",
       "branch": "master",
-      "revision": "629a015a22d3f9bc19f6304ef2f4395d10f35748"
+      "revision": "5476d68802f1382c89ad0c55e82c4eda6e177f40"
     },
     "knavalbattle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knavalbattle.git",
