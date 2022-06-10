@@ -1689,7 +1689,7 @@
     "kblocks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kblocks.git",
       "branch": "master",
-      "revision": "16f9966d7f4176736a25fa03c169806bb8beeff4"
+      "revision": "13dd23a1f31a8ad3997a9464ca24fcd759839b90"
     },
     "kbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
