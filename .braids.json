@@ -2564,7 +2564,7 @@
     "kshisen": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kshisen.git",
       "branch": "master",
-      "revision": "956c793696fc403f41df8424ecdc4863881f7c39"
+      "revision": "86ea9b2f7fec923f7f588060c95df65a4e177edf"
     },
     "ksirk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksirk.git",
