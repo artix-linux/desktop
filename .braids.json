@@ -2529,7 +2529,7 @@
     "krfb": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krfb.git",
       "branch": "master",
-      "revision": "20bf9c417ebac80bc468758c2ecc3b415b38d243"
+      "revision": "5a5bad606bfbf14b478221f4b588a45a79f6dced"
     },
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
