@@ -1619,7 +1619,7 @@
     "kalgebra": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalgebra.git",
       "branch": "master",
-      "revision": "df1d2bab075b9ab36860fc79e305133f09786ce2"
+      "revision": "cc43f048c97ba82d8148b5797e9a6f0e5f87fa38"
     },
     "kalzium": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalzium.git",
