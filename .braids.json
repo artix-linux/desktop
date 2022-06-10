@@ -2609,7 +2609,7 @@
     "ksystemlog": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksystemlog.git",
       "branch": "master",
-      "revision": "7e90d3a0be49b8565783cc2c6a15009936f2bc3b"
+      "revision": "345a9485052a9ad95d7c08c9f184a1e237835eec"
     },
     "ksystemstats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksystemstats.git",
