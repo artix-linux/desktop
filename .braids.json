@@ -4579,7 +4579,7 @@
     "svgpart": {
       "url": "gitea@gitea.artixlinux.org:packagesS/svgpart.git",
       "branch": "master",
-      "revision": "2956b2d9cf697164892c9d69003c0ddcf47a259f"
+      "revision": "7dbf06d2021c4a59a128954202e33eb2bd77b1aa"
     },
     "sway": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sway.git",
