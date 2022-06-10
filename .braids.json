@@ -2254,7 +2254,7 @@
     "klickety": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klickety.git",
       "branch": "master",
-      "revision": "3943530b2b00b871ff0b0cff2d29f060ba5644b9"
+      "revision": "5eeea5bd1656e84e57964d22748d03ef12efd013"
     },
     "klines": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klines.git",
