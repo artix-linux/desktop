@@ -2904,7 +2904,7 @@
     "libgravatar": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgravatar.git",
       "branch": "master",
-      "revision": "b3bd9e1a82caeedbaa3b2e19924021b83f8ca06c"
+      "revision": "c74f157c8546763d8060196559c70f4074ddc0fa"
     },
     "libgrss": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgrss.git",
