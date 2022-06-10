@@ -1299,7 +1299,7 @@
     "grantlee-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantlee-editor.git",
       "branch": "master",
-      "revision": "147e7d7d504d9d8d5041e5b96f7fdb6d63d8ec77"
+      "revision": "4829862534f089be022c61f2f2359410ce9c0b63"
     },
     "grantleetheme": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantleetheme.git",
