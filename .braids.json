@@ -54,7 +54,7 @@
     "akonadi-notes": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-notes.git",
       "branch": "master",
-      "revision": "c8e1712eb300205f327cff28a5648da091179d7c"
+      "revision": "d7c49595a78e2c7eff1bb0e85c451993ee51c1d6"
     },
     "akonadi-search": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-search.git",
