@@ -1519,7 +1519,7 @@
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
-      "revision": "4315f85dbc94c0592587448c624a8784618ac4ce"
+      "revision": "5da310fa9d7eb83b21dc00b624e696f59f23ab06"
     },
     "inkscape": {
       "url": "gitea@gitea.artixlinux.org:packagesI/inkscape.git",
