@@ -4064,7 +4064,7 @@
     "pimcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pimcommon.git",
       "branch": "master",
-      "revision": "87dffb3c9523e88b279e5ad2b42e789eff73a9c1"
+      "revision": "daae916c6690b0ba9123a8428bd13e9f6f94c497"
     },
     "pinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pinfo.git",
