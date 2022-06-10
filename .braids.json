@@ -3544,7 +3544,7 @@
     "markdownpart": {
       "url": "gitea@gitea.artixlinux.org:packagesM/markdownpart.git",
       "branch": "master",
-      "revision": "4227e5316191be39b99fd211d11ad069df8c1ab5"
+      "revision": "58a1f7fadb5e6b8d24878d4703769516c551ed3d"
     },
     "mate-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-applets.git",
