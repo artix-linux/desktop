@@ -2409,7 +2409,7 @@
     "kontactinterface": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kontactinterface.git",
       "branch": "master",
-      "revision": "c2627464e5fb1758fe2154a5134d474a0eb6c3f0"
+      "revision": "90a2331c1b2992e5f28d06e2f439f50d978677e3"
     },
     "kontrast": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kontrast.git",
