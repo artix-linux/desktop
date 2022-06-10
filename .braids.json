@@ -1899,7 +1899,7 @@
     "kdesdk-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-thumbnailers.git",
       "branch": "master",
-      "revision": "594ac705fbeab16c006a04dd2fe459be5f4fe6b8"
+      "revision": "8cc9861310824c4cfafe36d60bcbcee1555dbfd5"
     },
     "kdesignerplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesignerplugin.git",
