@@ -2599,7 +2599,7 @@
     "ksudoku": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksudoku.git",
       "branch": "master",
-      "revision": "62787f489468d7a582cf0a1ce965febe18d42763"
+      "revision": "f14af79de8133c1f072637acc0e248ba96ab6e9b"
     },
     "ksysguard": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksysguard.git",
