@@ -64,7 +64,7 @@
     "akonadiconsole": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadiconsole.git",
       "branch": "master",
-      "revision": "74de32b5983f00be4cf850547483220b36e34fd4"
+      "revision": "ab0be6b2c9a3cf1d62752580c8e545286203c8e5"
     },
     "akregator": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akregator.git",
