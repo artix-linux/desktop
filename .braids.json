@@ -771,6 +771,11 @@
       "branch": "master",
       "revision": "b60b75b75e2fa2f41562d1551aff2d3404fbf6ab"
     },
+    "fceux": {
+      "url": "gitea@gitea.artixlinux.org:packagesF/fceux.git",
+      "branch": "master",
+      "revision": "dbb9c0547ea3e2dd5a67b9465c422d5d7ab47d2f"
+    },
     "fcitx-qt5": {
       "url": "gitea@gitea.artixlinux.org:packagesF/fcitx-qt5.git",
       "branch": "master",
