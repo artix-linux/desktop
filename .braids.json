@@ -79,7 +79,7 @@
     "amtk": {
       "url": "gitea@gitea.artixlinux.org:packagesA/amtk.git",
       "branch": "master",
-      "revision": "9f15966c8af03b1c2a690f8c25f38393cd219d41"
+      "revision": "ee2ed4e39a8c8f95ed22de2951447b72e9330d62"
     },
     "analitza": {
       "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
