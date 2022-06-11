@@ -28,6 +28,10 @@ prepare() {
 
   # add cmake command to patch googletest with https://github.com/google/googletest/pull/3024
   sed '/URL https:\/\/github.com\/google\/googletest/ a PATCH_COMMAND patch -p1 -i ../../../../../googletest-fix-maybe-uninitialized.patch' -i test/tests/CMakeLists.txt
+
+  # patch file doesn't seem to be working :-/
+  # hopefully compiler error is resolved by next release.
+  sed -e 's/-Werror//' -i CMakeLists.txt || die
 }
 
 build() {
