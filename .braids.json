@@ -754,7 +754,7 @@
     "exo": {
       "url": "gitea@gitea.artixlinux.org:packagesE/exo.git",
       "branch": "master",
-      "revision": "21710171ee938d11a5123b7c8c23ebe6c82946b5"
+      "revision": "a61b46d57553025883a7bf293683675a1caa1a4c"
     },
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
