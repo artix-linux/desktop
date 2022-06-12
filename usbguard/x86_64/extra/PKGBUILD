@@ -1,9 +1,9 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Ian Beringer <ian@ianberinger.com>
 
 pkgname=usbguard
 pkgver=1.1.1
-pkgrel=2
+pkgrel=3
 pkgdesc='Software framework for implementing USB device authorization policies'
 url='https://github.com/USBGuard/usbguard'
 arch=('x86_64')
