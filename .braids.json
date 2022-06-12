@@ -4889,7 +4889,7 @@
     "usbguard": {
       "url": "gitea@gitea.artixlinux.org:packagesU/usbguard.git",
       "branch": "master",
-      "revision": "5b80ded220e83732859bd041f1e67bf34299b21c"
+      "revision": "cf7b8205035ecdbe430e6314eeb7e17f957a7462"
     },
     "usbredir": {
       "url": "gitea@gitea.artixlinux.org:packagesU/usbredir.git",
