@@ -4924,7 +4924,7 @@
     "vlc": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vlc.git",
       "branch": "master",
-      "revision": "2d2143748bd6440b620318b59b8f9aa0643670dd"
+      "revision": "7674fd6b779bc0fc60a9e854001db3c8865ba667"
     },
     "vtk": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
