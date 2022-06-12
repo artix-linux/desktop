@@ -3114,7 +3114,7 @@
     "libphonenumber": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libphonenumber.git",
       "branch": "master",
-      "revision": "120fe7a533fd0293894cd3cf30cd671aff642b26"
+      "revision": "5eb80d348a7f16d47cc8b93f5f98b4b6f8575ce6"
     },
     "libpinyin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpinyin.git",
