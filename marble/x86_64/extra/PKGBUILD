@@ -1,4 +1,4 @@
-# Maintainer: Antonio Rojas <arojas@archlinux.org>
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
 # Maintainer: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 # Contributor: Gustavo Alvarez <sl1pkn07@gmail.com>
@@ -7,7 +7,7 @@
 pkgbase=marble
 pkgname=(marble-common marble-qt marble-maps marble)
 pkgver=22.04.2
-pkgrel=1
+pkgrel=2
 pkgdesc='Desktop Globe'
 arch=(x86_64)
 url='https://apps.kde.org/marble/'
