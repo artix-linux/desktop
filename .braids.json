@@ -309,7 +309,7 @@
     "avogadrolibs": {
       "url": "gitea@gitea.artixlinux.org:packagesA/avogadrolibs.git",
       "branch": "master",
-      "revision": "8c043d6a693147a2e507db27be5943ec2bdbaa07"
+      "revision": "56f3ee61a97f0d76ca1ec6c2cd5c0cdad25365e1"
     },
     "awesome": {
       "url": "gitea@gitea.artixlinux.org:packagesA/awesome.git",
