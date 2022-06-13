@@ -344,7 +344,7 @@
     "bigsh0t": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bigsh0t.git",
       "branch": "master",
-      "revision": "1d0add7d1a6dbf830782ef60b60d2ac6462c5f75"
+      "revision": "a17815ca1c9d242cab95a486f7f198b7eb8d30d5"
     },
     "black-hole-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesB/black-hole-solver.git",
