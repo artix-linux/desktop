@@ -81,6 +81,7 @@ build() {
   # To set tcl lib path
   local _tkver=$(echo 'puts $tcl_version' | tclsh)
   cmake -B build -S VTK-${pkgver} \
+    -DCMAKE_PREFIX_PATH=/usr \
     -DCMAKE_BUILD_TYPE=Release \
     -DCMAKE_CXX_FLAGS="$CXXFLAGS -ffat-lto-objects" \
     -DCMAKE_INSTALL_PREFIX=/usr \
