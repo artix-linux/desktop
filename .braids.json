@@ -2769,7 +2769,7 @@
     "layer-shell-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/layer-shell-qt.git",
       "branch": "master",
-      "revision": "b7579bf1ee1de49c584d7904d9722a40ea94044b"
+      "revision": "adfb030a5ef97dd8777a13d5e92142d345cdb611"
     },
     "leafpad": {
       "url": "gitea@gitea.artixlinux.org:packagesL/leafpad.git",
