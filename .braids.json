@@ -1909,7 +1909,7 @@
     "kdesignerplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesignerplugin.git",
       "branch": "master",
-      "revision": "482ce2b6be229105ea2b60827a99c9760b218881"
+      "revision": "00a26b2a185242d598dd4110067e4b3efc16cd90"
     },
     "kdesu": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesu.git",
