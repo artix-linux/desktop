@@ -3944,7 +3944,7 @@
     "oxygen-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-icons.git",
       "branch": "master",
-      "revision": "430d6b49093187f440721cf14983f7c06e2169dd"
+      "revision": "f6ac68c71dde249c0ffce3cd63eb6827ed4ba6bc"
     },
     "packagekit-qt5": {
       "url": "gitea@gitea.artixlinux.org:packagesP/packagekit-qt5.git",
