@@ -1,4 +1,4 @@
-# Maintainer: Bruno Pagani <archange at archlinux dot org>
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
 # Contributor: Evgeniy Alekseev <arcanis at archlinux dot org>
 # Contributor: Michael Migliore <mcmigliore+aur@gmail.com>
 # Contributor: Ray Rashif <schiv at archlinux dot org>
@@ -7,7 +7,7 @@
 
 pkgname=vtk
 pkgver=9.1.0
-pkgrel=16
+pkgrel=18
 pkgdesc="Software system for 3D computer graphics, image processing, and visualization"
 arch=(x86_64)
 url="https://www.vtk.org/"
