@@ -5219,7 +5219,7 @@
     "xfce4-wavelan-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-wavelan-plugin.git",
       "branch": "master",
-      "revision": "62fd1d82d47057d68bb017236e6c0b646f6ed939"
+      "revision": "c1770ea653810225dbf15aa1132f5534b277f187"
     },
     "xfce4-weather-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-weather-plugin.git",
