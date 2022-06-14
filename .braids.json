@@ -2079,7 +2079,7 @@
     "kholidays": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kholidays.git",
       "branch": "master",
-      "revision": "5bb89a4c0eb666ddfc8bb2ad864f0ef8aa81df1c"
+      "revision": "eb591e2261a84b4a929904adbe01a904f0dda196"
     },
     "khotkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khotkeys.git",
