@@ -2299,7 +2299,7 @@
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
       "branch": "master",
-      "revision": "99776e658c9d7ef3279201cbf283daa015949d74"
+      "revision": "42ee62eacdfc236d19a8859fcbcfdcd029c70b3f"
     },
     "kmenuedit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmenuedit.git",
