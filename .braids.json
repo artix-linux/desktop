@@ -24,7 +24,7 @@
     "aha": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aha.git",
       "branch": "master",
-      "revision": "13462c470c1be218da6f8c3d9be103c454e45e90"
+      "revision": "f0bc190249d1f0e203b04f1a04ec5f63ca06f51a"
     },
     "akonadi": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi.git",
