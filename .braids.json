@@ -2719,7 +2719,7 @@
     "kwayland-server": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwayland-server.git",
       "branch": "master",
-      "revision": "74d3b58fb58cbf91e6cabd010584fd1a166d24ff"
+      "revision": "22f042778738a97477e791ac711ff984f4774dae"
     },
     "kwidgetsaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
