@@ -1869,7 +1869,7 @@
     "kdelibs4support": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdelibs4support.git",
       "branch": "master",
-      "revision": "58555251471468ebe1e4f14af0a3af4ddd215b14"
+      "revision": "c9c32ce132d510ffa7eec8201a6899f514fd2b72"
     },
     "kdenetwork-filesharing": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdenetwork-filesharing.git",
