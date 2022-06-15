@@ -4664,7 +4664,7 @@
     "systemsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesS/systemsettings.git",
       "branch": "master",
-      "revision": "24c362fda60c099c092dc40c52e2352613cb77a7"
+      "revision": "4b259ad6ed0f03d5d0dda26b8c28bd96bbc259b5"
     },
     "tali": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tali.git",
