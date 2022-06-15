@@ -2,7 +2,7 @@
 
 pkgname=discover
 pkgver=5.24.5
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE and Plasma resources management GUI'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
