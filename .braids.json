@@ -3844,7 +3844,7 @@
     "networkmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/networkmanager-qt.git",
       "branch": "master",
-      "revision": "05eaf708ef589e1d685310d90109537ab494c31f"
+      "revision": "edabbeb8764141e9e8da9f620d4ecebd288ef907"
     },
     "noise-suppression-for-voice": {
       "url": "gitea@gitea.artixlinux.org:packagesN/noise-suppression-for-voice.git",
