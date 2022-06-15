@@ -2369,7 +2369,7 @@
     "knotifyconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knotifyconfig.git",
       "branch": "master",
-      "revision": "cccb696bf3bd213fba4216465d9aff7ca86f8156"
+      "revision": "b7efb3546b5c3e11b5605085eb50db07e4fac850"
     },
     "kolf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolf.git",
