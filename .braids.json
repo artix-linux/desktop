@@ -2099,7 +2099,7 @@
     "kiconthemes": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kiconthemes.git",
       "branch": "master",
-      "revision": "b04679b9334d6ae47248938a6a58ebae73442f1e"
+      "revision": "c5b37525512f5b4d3c388c446cb1ab703d064db1"
     },
     "kid3": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kid3.git",
