@@ -2204,7 +2204,7 @@
     "kitemmodels": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitemmodels.git",
       "branch": "master",
-      "revision": "2c7bd7257942a61a18855409a7b17dcca4958c14"
+      "revision": "e4dc759771e573e51777220967affe69eab5773f"
     },
     "kitemviews": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitemviews.git",
