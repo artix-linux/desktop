@@ -999,7 +999,7 @@
     "gnome-calendar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-calendar.git",
       "branch": "master",
-      "revision": "31e457e9e3a8e5244d8a605702ef01feeb1817f5"
+      "revision": "f1ca9cbc9ae2192ea4f3f68d5723327d43c5bc95"
     },
     "gnome-characters": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-characters.git",
