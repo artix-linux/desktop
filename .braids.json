@@ -2449,7 +2449,7 @@
     "kpackage": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpackage.git",
       "branch": "master",
-      "revision": "72d2c8ee84098b44969525857c0187ef04d46a6d"
+      "revision": "eb3c804187a1008d2e7fbb425411e20835c14acd"
     },
     "kparts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kparts.git",
