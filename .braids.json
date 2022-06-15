@@ -1844,7 +1844,7 @@
     "kdecoration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdecoration.git",
       "branch": "master",
-      "revision": "1533fadbfc669776b7dcffb4af811e7d248b370f"
+      "revision": "fc5e3e2cca2ca55e2a6168b0f6139b0bc6324f80"
     },
     "kded": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kded.git",
