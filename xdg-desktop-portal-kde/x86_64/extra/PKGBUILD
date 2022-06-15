@@ -2,7 +2,7 @@
 
 pkgname=xdg-desktop-portal-kde
 pkgver=5.24.5
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A backend implementation for xdg-desktop-portal using Qt/KF5'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
