@@ -4529,7 +4529,7 @@
     "sonnet": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sonnet.git",
       "branch": "master",
-      "revision": "d03b8bf6bd72b6977b66c5e52a72e31a90ff4cad"
+      "revision": "35920e5e739e32deb4312e4339bb43510406eea0"
     },
     "sound-theme-freedesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sound-theme-freedesktop.git",
