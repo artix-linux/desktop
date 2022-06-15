@@ -3104,7 +3104,7 @@
     "libnma": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libnma.git",
       "branch": "master",
-      "revision": "7177ed5da15dd0af3d47010bf28c6c569b4f63eb"
+      "revision": "8e8f90f2dbc75ce43a3d0b55e619ce5148a94c69"
     },
     "libosinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libosinfo.git",
