@@ -2159,7 +2159,7 @@
     "kinfocenter": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kinfocenter.git",
       "branch": "master",
-      "revision": "629a052ded8f939f156eb78e66a42f58c6587b2d"
+      "revision": "c33133fe1d5713b2f0a3eaf622eeb43b4ff6b143"
     },
     "kinit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kinit.git",
