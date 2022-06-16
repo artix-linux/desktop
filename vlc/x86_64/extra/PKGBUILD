@@ -8,7 +8,7 @@ _vlcver=3.0.17.4
 # optional fixup version including hyphen
 _vlcfixupver=
 pkgver=${_vlcver}${_vlcfixupver//-/.r}
-pkgrel=5
+pkgrel=6
 pkgdesc='Multi-platform MPEG, VCD/DVD, and DivX player'
 url='https://www.videolan.org/vlc/'
 arch=('x86_64')
@@ -22,7 +22,7 @@ depends=('a52dec' 'libdvbpsi' 'libxpm' 'libdca' 'libproxy' 'lua52' 'libidn'
          'fontconfig' 'libxml2' 'gnutls' 'libplacebo' 'wayland-protocols')
 makedepends=('gst-plugins-base-libs' 'live-media' 'libnotify' 'libbluray'
              'flac' 'libdc1394' 'libavc1394' 'libcaca' 'gtk3'
-             'librsvg' 'libgme' 'xosd' 'twolame' 'aalib' 'avahi' 'udev'
+             'librsvg' 'libgme' 'xosd' 'twolame' 'aalib' 'avahi' 'libudev'
              'libmtp' 'libmicrodns' 'libdvdcss' 'smbclient'
              'vcdimager' 'libssh2' 'mesa' 'protobuf' 'libnfs' 'mpg123'
              'libdvdread' 'libdvdnav' 'libogg' 'libshout' 'libmodplug' 'libvpx'
@@ -49,7 +49,7 @@ optdepends=('avahi: service discovery using bonjour protocol'
             'libgme: Game Music Emu plugin'
             'vcdimager: navigate VCD with libvcdinfo'
             'libmtp: MTP devices discovery'
-            'udev: udev services discovery'
+            'libudev: udev services discovery'
             'smbclient: SMB access plugin'
             'libcdio: audio CD playback'
             'gnu-free-fonts: subtitle font '
@@ -99,7 +99,7 @@ optdepends=('avahi: service discovery using bonjour protocol'
             'pcsclite: aribcam support')
 conflicts=('vlc-plugin')
 replaces=('vlc-plugin')
-options=(debug '!emptydirs')
+options=('debug' '!emptydirs')
 source=(https://download.videolan.org/${pkgname}/${_vlcver}/${pkgname}-${_vlcver}${_vlcfixupver}.tar.xz{,.asc}
         $pkgname-dav1d-1.0.patch::https://github.com/videolan/vlc/commit/2202c892c8dc.patch
         update-vlc-plugin-cache.hook
