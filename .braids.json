@@ -619,7 +619,7 @@
     "discover": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discover.git",
       "branch": "master",
-      "revision": "69ad1177e45b36eceab37dbb158555234a397b51"
+      "revision": "f6e4a015727c2d69d20e2b2af96dc8c01468d1ca"
     },
     "dleyna-connector-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-connector-dbus.git",
