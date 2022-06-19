@@ -2864,7 +2864,7 @@
     "libfm-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfm-qt.git",
       "branch": "master",
-      "revision": "c00783f832cb61a479d51e920b814d18262be4a3"
+      "revision": "d2583c44bb319306c47d3d53ff4a014bdc2d9aa5"
     },
     "libfprint": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfprint.git",
