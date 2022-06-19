@@ -4461,11 +4461,6 @@
       "branch": "master",
       "revision": "d291d7937a4445d450aa64d62da8a6a649e80ee2"
     },
-    "shiboken2": {
-      "url": "gitea@gitea.artixlinux.org:packagesS/shiboken2.git",
-      "branch": "master",
-      "revision": "0012e8ada358e436fec7cc5e6dc37b9505fd7db1"
-    },
     "signal-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signal-desktop.git",
       "branch": "master",
