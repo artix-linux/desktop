@@ -1,9 +1,9 @@
-# Maintainer: Jerome Leclanche <jerome@leclan.ch>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Co-Maintainer: Chih-Hsuan Yen <yan12125@archlinux.org>
 
 pkgname=libqtxdg
 pkgver=3.9.1
-pkgrel=2
+pkgrel=3
 pkgdesc="Library providing freedesktop.org XDG specs implementations for Qt"
 arch=("x86_64")
 url="https://github.com/lxqt/$pkgname"
