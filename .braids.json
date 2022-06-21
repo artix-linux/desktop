@@ -3029,7 +3029,7 @@
     "libkscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
       "branch": "master",
-      "revision": "bda179c9a928ac64a41f6bfb8ca3d7232c86b3c5"
+      "revision": "3924d1994bf21085b61646e67c3f2078bf75ec0a"
     },
     "libksieve": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksieve.git",
