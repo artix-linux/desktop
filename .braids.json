@@ -4104,7 +4104,7 @@
     "plasma-browser-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-browser-integration.git",
       "branch": "master",
-      "revision": "b02bee03d1b8feb950603a8b9106efd36721f614"
+      "revision": "b82e172464ba121d704779a027309fbd9b1f9ced"
     },
     "plasma-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-desktop.git",
