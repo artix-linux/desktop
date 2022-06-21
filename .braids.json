@@ -4159,7 +4159,7 @@
     "plasma-systemmonitor": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-systemmonitor.git",
       "branch": "master",
-      "revision": "cd2f2ac9e5a05f8226647ef579deab31be301fa5"
+      "revision": "033910ad288246e83b1ea12c0d912002ac18d39d"
     },
     "plasma-thunderbolt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-thunderbolt.git",
