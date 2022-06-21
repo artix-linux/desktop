@@ -3729,7 +3729,7 @@
     "milou": {
       "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
       "branch": "master",
-      "revision": "6682a1275beed778fcd48b9ddf71996394a72aab"
+      "revision": "3418d3b6bb941819255f4230e79b7cfc8207908a"
     },
     "mint-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes.git",
