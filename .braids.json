@@ -1499,7 +1499,7 @@
     "i3lock": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3lock.git",
       "branch": "master",
-      "revision": "c15eeddcf317927b2886749cb4b023c24ecb9916"
+      "revision": "e0a8f5c1255e2af803eb4239bf5888a030b88074"
     },
     "i3status": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3status.git",
