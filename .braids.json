@@ -5049,7 +5049,7 @@
     "xed": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xed.git",
       "branch": "master",
-      "revision": "a329e939a1de0e3e643d8b8451490390468c03b5"
+      "revision": "910d17b8bb27907c16b0ac8ced6c0aa0e0086e15"
     },
     "xfburn": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfburn.git",
