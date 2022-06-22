@@ -519,7 +519,7 @@
     "cinnamon-settings-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-settings-daemon.git",
       "branch": "master",
-      "revision": "6f4b9dc14eb37700a75ec438cfffbd6747b18f34"
+      "revision": "084fbd0098e746f8f683a9d39f957f9c9d4be62d"
     },
     "cinnamon-translations": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-translations.git",
