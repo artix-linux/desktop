@@ -504,7 +504,7 @@
     "cinnamon-menus": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-menus.git",
       "branch": "master",
-      "revision": "740807daedff3f1c625064887445001474315867"
+      "revision": "1a106c8005c5189fc53fb6bbb18fbdc70fecd9ba"
     },
     "cinnamon-screensaver": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-screensaver.git",
