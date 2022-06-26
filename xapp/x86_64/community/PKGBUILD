@@ -1,10 +1,10 @@
-# Maintainer: Eli Schwartz <eschwartz@archlinux.org>
+# Maintainer: qontinuum <qontinuum@artixlinux.org>
 # Contributor: Alex Filgueira <alexfilgueira (at antergos.com)>
 # Contributor: Nate Simon <aurpkg (at natesimon.net)>
 
 pkgname=xapp
-pkgver=2.2.8
-pkgrel=1.1
+pkgver=2.2.11
+pkgrel=1
 pkgdesc="Common library for X-Apps project"
 arch=('x86_64')
 url="https://github.com/linuxmint/${pkgname}"
@@ -16,8 +16,8 @@ provides=('xapps')
 conflicts=('xapps')
 replaces=('xapps')
 source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/${pkgver}.tar.gz")
-sha256sums=('81ea67e0015cf973da019e8f805312ba744d0d86b248b57472f588d9bf2ea9be')
-b2sums=('cea0999a544143b8bfdd77cfb19ac794806cf7f20ce85a16d682227c164633fdcd4aacddf0235ade19732007cccc62e789f420081b0094f890b41e703ec96ff1')
+sha256sums=('dc639db1af3c3a1eb2e5ec2eb362ba3d174948a5de0a5e0581869b9babe5ff09')
+b2sums=('4fee6834ce520958e411ab72638fd24eff52038edaa109d22c9c619e3d0115f4e8b535719aeffae3f0bd3bf8d8fc30ad2d4808c2e68148929757455177f9135f')
 
 build() {
     mkdir -p "${srcdir}"/${pkgname}-${pkgver}/build
