@@ -4274,7 +4274,7 @@
     "pyside2": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pyside2.git",
       "branch": "master",
-      "revision": "d5ce7ded10696752d12e3e5ff97bebc14849e548"
+      "revision": "f96c5d8c3f3f2c73698cd66ff881590091c4383d"
     },
     "python-caja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-caja.git",
