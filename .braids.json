@@ -2939,7 +2939,7 @@
     "libiconv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libiconv.git",
       "branch": "master",
-      "revision": "fe5013815f8d6e53f55a56e335e42797dcba4d2e"
+      "revision": "97802f8460cb63a184e3b797b4f50bd54c9b9d97"
     },
     "libidl2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libidl2.git",
