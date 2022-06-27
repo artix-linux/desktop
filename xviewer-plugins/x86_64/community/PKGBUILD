@@ -2,7 +2,7 @@
 
 pkgname=xviewer-plugins
 pkgver=1.4.1
-pkgrel=3
+pkgrel=4
 pkgdesc="Plugins for xviewer. X-Apps Project."
 arch=('x86_64')
 license=('GPL')
