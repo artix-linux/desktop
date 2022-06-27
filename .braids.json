@@ -5294,7 +5294,7 @@
     "xviewer": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xviewer.git",
       "branch": "master",
-      "revision": "596865ee82209698dffd4bbbb0337298d3f0d3e5"
+      "revision": "102c2e7049bbb562e54cebcc472da0f14c99c459"
     },
     "xviewer-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xviewer-plugins.git",
