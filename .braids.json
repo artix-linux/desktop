@@ -5299,7 +5299,7 @@
     "xviewer-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xviewer-plugins.git",
       "branch": "master",
-      "revision": "c41c35c620d2d83c2eba500a84ecdd3c1f2c2bb5"
+      "revision": "16a1258e6185a1813d7708d4b1405cc8c8c03277"
     },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
