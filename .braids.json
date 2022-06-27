@@ -3194,7 +3194,7 @@
     "librttopo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librttopo.git",
       "branch": "master",
-      "revision": "fb9b1d9d367e0f985b35a0543fd57eb1df7d2ba1"
+      "revision": "4f62bd00f79f7dd1ef05b492014dab3674a1caa8"
     },
     "libslirp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libslirp.git",
