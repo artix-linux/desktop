@@ -8,7 +8,7 @@ arch=('x86_64')
 license=('GPL')
 depends=('xapp' 'gtk3' 'cinnamon-desktop' 'libpeas' 'libexif' 'libjpeg-turbo'
          'exempi')
-makedepends=('gnome-common' 'gobject-introspection' 'librsvg')
+makedepends=('meson' 'samurai' 'gnome-common' 'gobject-introspection' 'librsvg')
 optdepends=('xviewer-plugins: Extra plugins'
             'librsvg: for scaling svg images')
 url='https://github.com/linuxmint/xviewer'
@@ -17,16 +17,11 @@ source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/${pkgver}.tar.gz")
 md5sums=('6b286d57a5b00e0f14c287f6e14cc3fe')
 
 build() {
-    cd ${srcdir}/${pkgname}-${pkgver}
-
-    NOCONFIGURE=1 gnome-autogen.sh
-    gnome-autogen.sh --prefix="/usr" \
-        --localstatedir="/var" \
-         --libexecdir="/usr/lib"
-    make
+  artix-meson ${pkgname}-${pkgver} build \
+    --libexecdir=lib/${pkgname}
+  samu -C build
 }
 
 package(){
-    cd ${srcdir}/${pkgname}-${pkgver}
-    make DESTDIR="$pkgdir/" install
+  DESTDIR="${pkgdir}" samu -C build install
 }
