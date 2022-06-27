@@ -3744,7 +3744,7 @@
     "mint-y-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-y-icons.git",
       "branch": "master",
-      "revision": "0bd68ad47c88e5a3d49cfe2bd2c82bcf1d0bb106"
+      "revision": "9768717b328c1ae8b8b0e6b9db6cde8d20e8de20"
     },
     "mintlocale": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mintlocale.git",
