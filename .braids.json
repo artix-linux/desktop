@@ -4094,7 +4094,7 @@
     "pix": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pix.git",
       "branch": "master",
-      "revision": "43e89ccef5deaf19774fae479fb2806927c1720b"
+      "revision": "66a9705fe71d260c896e06cf40cc8f663c995519"
     },
     "plasma-browser-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-browser-integration.git",
