@@ -4124,7 +4124,7 @@
     "plasma-firewall": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-firewall.git",
       "branch": "master",
-      "revision": "8869435f18b6e2d5337a2f12b4039bcea418c4b9"
+      "revision": "fd09e14732fbe3c50c459d250a81ae04fafa7a68"
     },
     "plasma-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
