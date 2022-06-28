@@ -4594,7 +4594,7 @@
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
       "branch": "master",
-      "revision": "db40063791581062af7f076771817291236a1591"
+      "revision": "b9e129c5452ec6310929839032d3ce40d85d7d7b"
     },
     "step": {
       "url": "gitea@gitea.artixlinux.org:packagesS/step.git",
