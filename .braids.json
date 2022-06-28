@@ -4169,7 +4169,7 @@
     "plasma-thunderbolt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-thunderbolt.git",
       "branch": "master",
-      "revision": "cf161507f24800ce200cc1127e52551f1deeb60e"
+      "revision": "d0a372cdfeb69768bdad9e815ef1d43d2b0c238b"
     },
     "plasma-vault": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-vault.git",
