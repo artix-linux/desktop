@@ -4034,7 +4034,7 @@
     "pdal": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdal.git",
       "branch": "master",
-      "revision": "6b55a8dd88f168a9bf1f8d2b4341b5944559ff96"
+      "revision": "fae7b3a4566d42d19f624634cd93a7b9fc4447b0"
     },
     "pdfarranger": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdfarranger.git",
