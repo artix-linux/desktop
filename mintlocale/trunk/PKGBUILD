@@ -2,7 +2,7 @@
 
 pkgname=mintlocale
 pkgver=1.5.8
-pkgrel=1
+pkgrel=2
 pkgdesc="Language and locale selection tool"
 arch=('any')
 url="http://packages.linuxmint.com/pool/main/m/${pkgname}"
@@ -13,8 +13,9 @@ depends=('accountsservice'
     'gtk3'
     'iso-flag-png'
     'python'
+    'python-cairo'
     'python-gobject'
-    'xapps')
+    'xapp')
 source=("${pkgname}-${pkgver}.tar.xz::${url}/${pkgname}_${pkgver}.tar.xz"
         "im_apt_check.patch"
         "install_remove_apt_check.patch")
