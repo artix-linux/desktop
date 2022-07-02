@@ -754,7 +754,7 @@
     "exempi": {
       "url": "gitea@gitea.artixlinux.org:packagesE/exempi.git",
       "branch": "master",
-      "revision": "1b6589de0c4692168f528fa66ddaea9f977fe43e"
+      "revision": "daeae194031c9e903b297827efd53dcf44f627cb"
     },
     "exo": {
       "url": "gitea@gitea.artixlinux.org:packagesE/exo.git",
