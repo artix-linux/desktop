@@ -5294,7 +5294,7 @@
     "xreader": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xreader.git",
       "branch": "master",
-      "revision": "71be9645b290e631615d8a392c991cc80106e47f"
+      "revision": "92e806197085fea6268b1c0d76a40512a0d80b50"
     },
     "xsettingsd": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xsettingsd.git",
