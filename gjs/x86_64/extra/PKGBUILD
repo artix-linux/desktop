@@ -1,9 +1,9 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Ionut Biru <ibiru@archlinux.org>
 
 pkgname=gjs
 pkgver=1.72.0
-pkgrel=1
+pkgrel=2
 epoch=2
 pkgdesc="Javascript Bindings for GNOME"
 url="https://wiki.gnome.org/Projects/Gjs"
