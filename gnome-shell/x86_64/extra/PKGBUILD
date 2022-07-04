@@ -49,7 +49,7 @@ build() {
   CFLAGS="${CFLAGS/-O2/-O3} -fno-semantic-interposition"
   LDFLAGS+=" -Wl,-Bsymbolic-functions"
 
-  artix-meson gnome-shell build -D gtk_doc=true
+  artix-meson gnome-shell build -D gtk_doc=true -D systemd=false
   meson compile -C build
 }
 
