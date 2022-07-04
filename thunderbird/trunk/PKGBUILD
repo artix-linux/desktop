@@ -1,4 +1,4 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
 # Contributor: Ionut Biru <ibiru@archlinux.org>
 # Contributor: Alexander Baldeck <alexander@archlinux.org>
@@ -7,7 +7,7 @@
 
 pkgbase=thunderbird
 pkgname=(thunderbird)
-pkgver=91.10.0
+pkgver=91.11.0
 pkgrel=1
 pkgdesc='Standalone mail and news reader from mozilla.org'
 url='https://www.mozilla.org/thunderbird/'
@@ -214,7 +214,7 @@ for _src in "${source[@]%%::*}"; do
     esac
 done
 
-sha512sums=('335d47e93d5fce4ff6e1ec0305cdaa86031f28289cc06f30ab3782bae484ad10ac4b9aa70911787627744277715edffd8ec8c3a2008f00b8b90ea02b0d79fcc8'
+sha512sums=('26b9242259b71eb14ddadffb34a59d07d515bbbc0cb806eed965a73b001ee81b3b1128d06cfdf3e50d5da4ef97be21d11193be34a582d3c9f27f27d2f97d90d2'
             'SKIP'
             'a0061fcb2a7f66061e336a8d95948592f56f4752e56467f14ba63846720ebf845cce7511d1a2637e3b80d5a1ffdaa2fb783fa37195103425ef65222d45372012'
             '6918c0de63deeddc6f53b9ba331390556c12e0d649cf54587dfaabb98b32d6a597b63cf02809c7c58b15501720455a724d527375a8fb9d757ccca57460320734'
