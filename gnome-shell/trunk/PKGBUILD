@@ -1,10 +1,10 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Ionut Biru <ibiru@archlinux.org>
 # Contributor: Flamelab <panosfilip@gmail.com
 
 pkgname=gnome-shell
-pkgver=42.2
-pkgrel=1
+pkgver=42.3
+pkgrel=2
 epoch=1
 pkgdesc="Next generation desktop shell"
 url="https://wiki.gnome.org/Projects/GnomeShell"
@@ -23,7 +23,7 @@ optdepends=('gnome-control-center: System settings'
             'gst-plugin-pipewire: Screen recording')
 groups=(gnome)
 options=(debug)
-_commit=c6a0f4ae7f05511db2a91174885041fb793f2422  # tags/42.2^0
+_commit=ad1970146066b10a0193fc151b991cc8b2bdfcf8  # tags/42.3^0
 source=("git+https://gitlab.gnome.org/GNOME/gnome-shell.git#commit=$_commit"
         "git+https://gitlab.gnome.org/GNOME/libgnome-volume-control.git")
 sha256sums=('SKIP'
@@ -37,6 +37,9 @@ pkgver() {
 prepare() {
   cd gnome-shell
 
+  # https://bugs.archlinux.org/task/75234
+  git cherry-pick -n eff23a87c36a6a96c9abab09ab27a4bb35ab1b1f
+
   git submodule init
   git submodule set-url subprojects/gvc "$srcdir/libgnome-volume-control"
   git submodule update
@@ -46,7 +49,7 @@ build() {
   CFLAGS="${CFLAGS/-O2/-O3} -fno-semantic-interposition"
   LDFLAGS+=" -Wl,-Bsymbolic-functions"
 
-  artix-meson gnome-shell build -D gtk_doc=true -D systemd=false
+  artix-meson gnome-shell build -D gtk_doc=true
   meson compile -C build
 }
 
