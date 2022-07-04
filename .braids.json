@@ -1159,7 +1159,7 @@
     "gnome-remote-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-remote-desktop.git",
       "branch": "master",
-      "revision": "8e66b4aa43ed6f54688b0532aaf0003c61e9f35d"
+      "revision": "c74ce8e85399c5314a8c804765f59f92f25cc0fe"
     },
     "gnome-robots": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-robots.git",
