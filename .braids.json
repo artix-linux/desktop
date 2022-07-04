@@ -1184,7 +1184,7 @@
     "gnome-shell": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-shell.git",
       "branch": "master",
-      "revision": "0323cf5ca5fe043c3321628744d976a224e041a3"
+      "revision": "183b0b3cddc933485f29d66ae7f502e82fefd553"
     },
     "gnome-shell-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-shell-extensions.git",
