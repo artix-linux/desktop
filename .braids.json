@@ -2819,7 +2819,7 @@
     "libcuckoo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcuckoo.git",
       "branch": "master",
-      "revision": "8fe62d2cde416138cc3bd6aa06d80b74c1aba8db"
+      "revision": "39528a5d20fc65bcff74e8ae4d2edc7219c5ba59"
     },
     "libdazzle": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdazzle.git",
