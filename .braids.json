@@ -5194,7 +5194,7 @@
     "xfce4-settings": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-settings.git",
       "branch": "master",
-      "revision": "ff3c65b74d80eda428fda89de6840171fe4629be"
+      "revision": "687a06880b5cfea855b8b1ab3d6edcde657f5b78"
     },
     "xfce4-smartbookmark-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-smartbookmark-plugin.git",
