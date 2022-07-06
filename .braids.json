@@ -344,7 +344,7 @@
     "bemenu": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bemenu.git",
       "branch": "master",
-      "revision": "ac366fa29696e8de4ebf5dbbf799938ad455c1a6"
+      "revision": "89259d9f4f1705b771dbec1088c3d38acab7552d"
     },
     "bigsh0t": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bigsh0t.git",
