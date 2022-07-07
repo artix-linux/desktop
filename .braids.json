@@ -4739,7 +4739,7 @@
     "telepathy-kde-filetransfer-handler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-filetransfer-handler.git",
       "branch": "master",
-      "revision": "746262677b39557ccc94dfea7d6e852d3877698d"
+      "revision": "63bb766bdfe61fc42f5effede3083904cc49948f"
     },
     "telepathy-kde-integration-module": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-integration-module.git",
