@@ -2134,7 +2134,7 @@
     "killbots": {
       "url": "gitea@gitea.artixlinux.org:packagesK/killbots.git",
       "branch": "master",
-      "revision": "49a40918e167c277f5e30229e03cf16b61280734"
+      "revision": "bfc4853b2daa79e2db695eba78dd36df96c94159"
     },
     "kimageannotator": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageannotator.git",
