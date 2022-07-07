@@ -21,6 +21,9 @@ options=(debug)
 
 build() {
   cmake -B build -S $pkgname-$pkgver \
+    -DBUILD_TESTING=OFF \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DCMAKE_PREFIX_PATH=/usr \
     -DBUILD_TESTING=OFF
   cmake --build build
 }
