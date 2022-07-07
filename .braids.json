@@ -2504,7 +2504,7 @@
     "kpublictransport": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpublictransport.git",
       "branch": "master",
-      "revision": "c0c943ace05f9276315bccebaaf7d2bc3ed6b3ac"
+      "revision": "2b6bc3503c4dce95b322900223df875f692c0d88"
     },
     "kqtquickcharts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kqtquickcharts.git",
