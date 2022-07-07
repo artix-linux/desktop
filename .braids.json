@@ -3529,7 +3529,7 @@
     "mako": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mako.git",
       "branch": "master",
-      "revision": "ef2b4f8f8351e40a77e9538301f66d8545aa9fe0"
+      "revision": "7fd06adbb31a300450d24cf4183d7ca4f976a897"
     },
     "malcontent": {
       "url": "gitea@gitea.artixlinux.org:packagesM/malcontent.git",
