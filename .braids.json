@@ -2204,7 +2204,7 @@
     "kiriki": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kiriki.git",
       "branch": "master",
-      "revision": "a74b7f916582e0ed13205eb9c5229d1b96d755c8"
+      "revision": "6adbc8aea6dbae3480c4e16c87de31db780bee85"
     },
     "kitemmodels": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitemmodels.git",
