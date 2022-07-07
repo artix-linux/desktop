@@ -4554,7 +4554,7 @@
     "spectacle": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spectacle.git",
       "branch": "master",
-      "revision": "fcd6513427c448e21f6ad5e573c25599e436088e"
+      "revision": "85c470e421d243346e1fc71bd2014d200fc2ac5b"
     },
     "spectrwm": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spectrwm.git",
