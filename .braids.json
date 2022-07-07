@@ -1644,7 +1644,7 @@
     "kamoso": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kamoso.git",
       "branch": "master",
-      "revision": "9f84d0bcc731a2c33903f460d55c1736f5b3af3b"
+      "revision": "4bcfea503b40682196f474a15d6cf1b2822ab4ca"
     },
     "kanagram": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kanagram.git",
