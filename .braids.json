@@ -3519,7 +3519,7 @@
     "mailcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mailcommon.git",
       "branch": "master",
-      "revision": "15e21cd7f4557d2d018c1a3f759eb94cea7a803a"
+      "revision": "abf6c55b789598344f07126f84fcaa74647d10b0"
     },
     "mailimporter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mailimporter.git",
