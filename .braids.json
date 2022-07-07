@@ -1664,7 +1664,7 @@
     "kapptemplate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapptemplate.git",
       "branch": "master",
-      "revision": "f0c806b4293fabd17ac8c9d8ef1a35158766d3d4"
+      "revision": "108c18d523190bebd66e25dc07fbb83e697a91ac"
     },
     "karchive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/karchive.git",
