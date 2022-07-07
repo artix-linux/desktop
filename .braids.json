@@ -1649,7 +1649,7 @@
     "kanagram": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kanagram.git",
       "branch": "master",
-      "revision": "858932bc78bf6213eef9f6ad7e8032119ab8d1c9"
+      "revision": "107dd00805b0b40975559f5cf2db38174c8a9ebf"
     },
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
