@@ -1679,7 +1679,7 @@
     "katomic": {
       "url": "gitea@gitea.artixlinux.org:packagesK/katomic.git",
       "branch": "master",
-      "revision": "7dae987d7ad1a2410f280e58d58b5d01ad677eec"
+      "revision": "44ef472326c63e2fa3766fcdc5b11fbd7c521217"
     },
     "kauth": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kauth.git",
