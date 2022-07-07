@@ -4599,7 +4599,7 @@
     "step": {
       "url": "gitea@gitea.artixlinux.org:packagesS/step.git",
       "branch": "master",
-      "revision": "5dd3b5f0d54d27547bf6969fbd652331fc5c8ab0"
+      "revision": "331e03c41405423c88b0c11b4d8014459c71e467"
     },
     "sushi": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sushi.git",
