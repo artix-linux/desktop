@@ -1904,7 +1904,7 @@
     "kdesdk-kioslaves": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-kioslaves.git",
       "branch": "master",
-      "revision": "572c6eba7dcaa1aea6cd8849dfb8a48866839b79"
+      "revision": "c3008f3752dd8dfb50322479f267606dafff27f4"
     },
     "kdesdk-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-thumbnailers.git",
