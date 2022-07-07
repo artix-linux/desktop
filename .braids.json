@@ -1404,7 +1404,7 @@
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
       "branch": "master",
-      "revision": "0282e373b0d1abd1c1ffb2bd066c1703611ff8bd"
+      "revision": "7d82d054aef7574a92811b222ba2bfc961830a57"
     },
     "handbrake": {
       "url": "gitea@gitea.artixlinux.org:packagesH/handbrake.git",
