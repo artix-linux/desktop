@@ -1729,7 +1729,7 @@
     "kcalc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalc.git",
       "branch": "master",
-      "revision": "3d125db30663d14fffd2cc0e39fe30359ee76222"
+      "revision": "c928b4b5aa9c28a65c44e4c3c161876f7621575e"
     },
     "kcalendarcore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalendarcore.git",
