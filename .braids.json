@@ -3539,7 +3539,7 @@
     "maliit-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
       "branch": "master",
-      "revision": "56cfa7892f81a4bf9943766f9cd9b0495fa5f479"
+      "revision": "639690d898f9a72b8a6e990139ad3912684aa4a5"
     },
     "maliit-keyboard": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-keyboard.git",
