@@ -3049,7 +3049,7 @@
     "libktorrent": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libktorrent.git",
       "branch": "master",
-      "revision": "834b1f434c8065769722df962c99b0ba2bc9dec2"
+      "revision": "472cf203f74477de93d6c593ce40114b1a1b67fd"
     },
     "libkvkontakte": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkvkontakte.git",
