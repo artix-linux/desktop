@@ -2299,7 +2299,7 @@
     "kmbox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmbox.git",
       "branch": "master",
-      "revision": "64b5688eb4a73a3e6133737bfc91274246fde231"
+      "revision": "4b8b886a80b1eeaa4a2e2cb66da7ff224bb42853"
     },
     "kmediaplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
