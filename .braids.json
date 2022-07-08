@@ -914,7 +914,7 @@
     "geos": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geos.git",
       "branch": "master",
-      "revision": "4ee63bc5654adffdfcb0e5eba194158c57fb3076"
+      "revision": "84e05d8c018017cb30058597c6ab91e5b5c0b19f"
     },
     "gfbgraph": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gfbgraph.git",
