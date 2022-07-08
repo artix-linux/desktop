@@ -4264,7 +4264,7 @@
     "print-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/print-manager.git",
       "branch": "master",
-      "revision": "1c337bd13a4b62296234f594c6ed556296c857a1"
+      "revision": "3318803ed9b28ebce4f4acbd58547b34cb24cbda"
     },
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
