@@ -1984,7 +1984,7 @@
     "keditbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keditbookmarks.git",
       "branch": "master",
-      "revision": "77227f151ea62089c28266f3ad6ebc49e841d9db"
+      "revision": "b47876dd47314a667150886a969d3544d631ec2e"
     },
     "keepassxc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keepassxc.git",
