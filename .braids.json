@@ -2344,7 +2344,7 @@
     "knavalbattle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knavalbattle.git",
       "branch": "master",
-      "revision": "b562568bae86d7af521fba2d924714d3e377c658"
+      "revision": "09f2ee26a9004a8a7ab743a9d7927f355e03882d"
     },
     "knetwalk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knetwalk.git",
