@@ -3014,7 +3014,7 @@
     "libkmahjongg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkmahjongg.git",
       "branch": "master",
-      "revision": "a1b6dff64dbbf487ac167aadb50eca47e388062a"
+      "revision": "4325e490b7be0492b37ec9d800dccac7a8ec7d75"
     },
     "libkolabxml": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkolabxml.git",
