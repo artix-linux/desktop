@@ -4754,7 +4754,7 @@
     "telepathy-kde-text-ui": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-text-ui.git",
       "branch": "master",
-      "revision": "47f61b1cee5029479d92eab1a815a6bac8c7fa6a"
+      "revision": "817d6cbcb9f40b23aae117763ea489bab6078a4e"
     },
     "telepathy-logger-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-logger-qt.git",
