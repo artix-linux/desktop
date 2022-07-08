@@ -799,7 +799,7 @@
     "filelight": {
       "url": "gitea@gitea.artixlinux.org:packagesF/filelight.git",
       "branch": "master",
-      "revision": "5868fcd6dbf806eff168c1468526436a172b865d"
+      "revision": "bf9fea1c513b36e1559e037ab74a9f3138ab5b41"
     },
     "firefox": {
       "url": "gitea@gitea.artixlinux.org:packagesF/firefox.git",
