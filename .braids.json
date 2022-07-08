@@ -1314,7 +1314,7 @@
     "grantleetheme": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantleetheme.git",
       "branch": "master",
-      "revision": "1a61aa12ff55554e782606d26d8da99047c93d5f"
+      "revision": "172936b6d57f947f4458921e5c16566be09f5704"
     },
     "grilo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grilo.git",
