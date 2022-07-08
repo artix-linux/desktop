@@ -5339,7 +5339,7 @@
     "zxing-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zxing-cpp.git",
       "branch": "master",
-      "revision": "ac8e2082685ddc2c39f5702f3a0480ce8c7564f2"
+      "revision": "d94e6737074795b69905520ce5a07741cd78ed0f"
     }
   }
 }
