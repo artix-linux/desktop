@@ -4734,7 +4734,7 @@
     "telepathy-kde-desktop-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-desktop-applets.git",
       "branch": "master",
-      "revision": "158637e3408803cd78be351b53f2e6f65c9e38fe"
+      "revision": "7352044008890a7b58a1bfb86d5a28f2ce7724ed"
     },
     "telepathy-kde-filetransfer-handler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-filetransfer-handler.git",
