@@ -4509,7 +4509,7 @@
     "skanpage": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanpage.git",
       "branch": "master",
-      "revision": "a4faad0bd8a0f31cb037ece7bc30b5099be53b1e"
+      "revision": "cd8c85ba993700fc28d3478e2b457443b6aa2121"
     },
     "slurp": {
       "url": "gitea@gitea.artixlinux.org:packagesS/slurp.git",
