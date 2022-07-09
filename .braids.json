@@ -2789,7 +2789,7 @@
     "libadwaita": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libadwaita.git",
       "branch": "master",
-      "revision": "b54ed5be5fccc67cf33096a4830806ccc330891c"
+      "revision": "c97ee146667013c6f49b854c5a0f7a8c2f494b31"
     },
     "libappimage": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libappimage.git",
