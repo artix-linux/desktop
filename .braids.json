@@ -2494,7 +2494,7 @@
     "kplotting": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
       "branch": "master",
-      "revision": "03760c906dc82667f384537e215a377cf3efbfff"
+      "revision": "1ec93eeba17385cadda3355b9eef91b9291f1756"
     },
     "kpmcore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpmcore.git",
