@@ -2054,7 +2054,7 @@
     "kglobalaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kglobalaccel.git",
       "branch": "master",
-      "revision": "780b2e21893630e9a74fb3a17047c57eb7a95d6e"
+      "revision": "99561b9b633a1d59f3a77794ccc54d5040c9a9e4"
     },
     "kgoldrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgoldrunner.git",
