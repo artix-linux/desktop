@@ -4,7 +4,7 @@
 
 pkgname=kmediaplayer
 pkgver=5.96.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Plugin interface for media player features'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
