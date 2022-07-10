@@ -4654,7 +4654,7 @@
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
-      "revision": "c0b14e36023f43f4de8250b510f4982cfee0e37c"
+      "revision": "8f25562be74965651c9da30791164203719fcbd7"
     },
     "syntax-highlighting": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syntax-highlighting.git",
