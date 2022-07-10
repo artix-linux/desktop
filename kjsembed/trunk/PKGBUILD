@@ -4,7 +4,7 @@
 
 pkgname=kjsembed
 pkgver=5.96.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Embedded JS'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
