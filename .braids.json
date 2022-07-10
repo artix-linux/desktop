@@ -1739,7 +1739,7 @@
     "kcalendarcore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalendarcore.git",
       "branch": "master",
-      "revision": "e8b9ee667f9508e2fa97667c6471f1b2facef112"
+      "revision": "2885a42c92ac98076ea71c07ef2ce55c4d29b0c2"
     },
     "kcalutils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalutils.git",
