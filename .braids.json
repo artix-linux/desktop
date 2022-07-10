@@ -1759,7 +1759,7 @@
     "kcodecs": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcodecs.git",
       "branch": "master",
-      "revision": "ef4af3b25b25b3921f025bd0dd0536bb6895dfd0"
+      "revision": "7e123184bfdf2914deb57af43fd99b0f94e3bc2e"
     },
     "kcolorchooser": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcolorchooser.git",
