@@ -3249,7 +3249,7 @@
     "libvirt-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvirt-glib.git",
       "branch": "master",
-      "revision": "38de4774c8ef7bd161de6527dfb87afe0d6882bc"
+      "revision": "4b904e9e6617f94a2e07d310e5363b20a4bc645e"
     },
     "libvterm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvterm.git",
