@@ -4,7 +4,7 @@
 
 pkgname=knotifyconfig
 pkgver=5.96.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Configuration system for KNotify'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
