@@ -2759,7 +2759,7 @@
     "kxmlrpcclient": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlrpcclient.git",
       "branch": "master",
-      "revision": "be5e871594bafbb7170a2f5bcd2fc9374d4dcdc3"
+      "revision": "c9e7a8b8b8f009d878cd8ac89278ee454f6896fd"
     },
     "kyotocabinet": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kyotocabinet.git",
