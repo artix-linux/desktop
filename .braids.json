@@ -4399,7 +4399,7 @@
     "ristretto": {
       "url": "gitea@gitea.artixlinux.org:packagesR/ristretto.git",
       "branch": "master",
-      "revision": "9d992f55505e0399ec8a22527bb7ea1b3d4f42f1"
+      "revision": "0ab6157c936b8a6e5906bd41ce29be1f0febc565"
     },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
