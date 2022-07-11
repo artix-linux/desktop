@@ -1799,7 +1799,7 @@
     "kcrash": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcrash.git",
       "branch": "master",
-      "revision": "27ea6b63496edf28432ac74da70903a67f69eab0"
+      "revision": "9165f1175648a1c1ecf9c03be8f37b83345c4871"
     },
     "kcron": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcron.git",
