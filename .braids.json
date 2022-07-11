@@ -2754,7 +2754,7 @@
     "kxmlgui": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlgui.git",
       "branch": "master",
-      "revision": "47f27e98836ffea7c7604b2c04d2f4cc82bc5a64"
+      "revision": "d77ac144faa585c4f5d27a21e4ec53dc41e231fc"
     },
     "kxmlrpcclient": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlrpcclient.git",
