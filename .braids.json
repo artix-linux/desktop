@@ -4919,7 +4919,7 @@
     "vde2": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vde2.git",
       "branch": "master",
-      "revision": "ed7385ce68281ba1b5b1d2ff50950f986f52e58a"
+      "revision": "94854913460ae0f0d2fb73b2bbb7c8335dc38cf9"
     },
     "vertex-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vertex-themes.git",
