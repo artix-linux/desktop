@@ -4154,7 +4154,7 @@
     "plasma-pa": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-pa.git",
       "branch": "master",
-      "revision": "03200fb63e8da3dd9b80770cffcab33ba6d250ac"
+      "revision": "fb2f82fddaa6f7188d8eed313131e1a3fe6a9448"
     },
     "plasma-pass": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-pass.git",
