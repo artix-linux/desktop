@@ -1,7 +1,7 @@
 # Maintainer: artist <artist@artixlinux.org>
 
 pkgname=drkonqi
-pkgver=5.25.2
+pkgver=5.25.3
 pkgrel=1
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
@@ -12,7 +12,7 @@ makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
         no-systemd.patch)
-sha256sums=('7e60bfb6a5f8cdfc4198ed133b633a9648e6d9082a78be5454111b3c37423ea9'
+sha256sums=('411d3cfc253ee856b4da56ed2a22187a4e4971f4e98faa657a4c3eb23abee685'
             'SKIP'
             'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
