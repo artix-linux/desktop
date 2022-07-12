@@ -2749,7 +2749,7 @@
     "kwrited": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwrited.git",
       "branch": "master",
-      "revision": "c15203931d2539017e370f5805fbd84a5b3b8128"
+      "revision": "a0fc73b24e726d89a4c2def636ee0fbde6469b67"
     },
     "kxmlgui": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlgui.git",
