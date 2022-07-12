@@ -1424,7 +1424,7 @@
     "herbstluftwm": {
       "url": "gitea@gitea.artixlinux.org:packagesH/herbstluftwm.git",
       "branch": "master",
-      "revision": "b4fa9e42587d94db7f19eda59f159275e6a7ca8c"
+      "revision": "50f9439b9e6b1cbdaa49146949dae0ada8d962c0"
     },
     "hexchat": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexchat.git",
