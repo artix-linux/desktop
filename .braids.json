@@ -4524,7 +4524,7 @@
     "smb4k": {
       "url": "gitea@gitea.artixlinux.org:packagesS/smb4k.git",
       "branch": "master",
-      "revision": "45a755c8b4ad66bd37031bbd7d5dfa73a25c7a1b"
+      "revision": "dc1b3701b8ebcd66eab364a19f7f3ea7619e0f8f"
     },
     "snorenotify": {
       "url": "gitea@gitea.artixlinux.org:packagesS/snorenotify.git",
