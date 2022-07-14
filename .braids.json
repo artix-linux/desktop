@@ -5254,7 +5254,7 @@
     "xfce4-xkb-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-xkb-plugin.git",
       "branch": "master",
-      "revision": "ee826f9c9d7407b2b391dd11bc779785274d6d4a"
+      "revision": "01aa5aa717761df7d636f1862a0f7db103951764"
     },
     "xfconf": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfconf.git",
