@@ -4629,7 +4629,7 @@
     "swayidle": {
       "url": "gitea@gitea.artixlinux.org:packagesS/swayidle.git",
       "branch": "master",
-      "revision": "6058c008c4f8324ec108250d670e9e79769fd2e4"
+      "revision": "50f886197640c895b70ed0d78c1784a0c4ca0801"
     },
     "swaylock": {
       "url": "gitea@gitea.artixlinux.org:packagesS/swaylock.git",
