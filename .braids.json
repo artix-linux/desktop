@@ -1369,7 +1369,7 @@
     "gtk-vnc": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtk-vnc.git",
       "branch": "master",
-      "revision": "9263ded8278804a10d1a8d3379a9956f1048cfcc"
+      "revision": "797baf1c5b9fe722647dbb5a9d52ed51148db830"
     },
     "gtksourceview5": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtksourceview5.git",
