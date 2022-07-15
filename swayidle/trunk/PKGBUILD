@@ -1,9 +1,9 @@
-# Maintainer: Brett Cornwall <ainola@archlinux.org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: gilbus
 
 pkgname=swayidle
 pkgver=1.7.1
-pkgrel=2
+pkgrel=3
 license=('MIT')
 pkgdesc="Idle management daemon for Wayland"
 makedepends=(
