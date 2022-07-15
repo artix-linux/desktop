@@ -4519,7 +4519,7 @@
     "slurp": {
       "url": "gitea@gitea.artixlinux.org:packagesS/slurp.git",
       "branch": "master",
-      "revision": "7b498ad23bb98016095fd3b0e5159cf93a1df500"
+      "revision": "33529a3901bcf24fb89bb4fe91531fdda749d9a3"
     },
     "smb4k": {
       "url": "gitea@gitea.artixlinux.org:packagesS/smb4k.git",
