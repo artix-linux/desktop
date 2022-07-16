@@ -3574,7 +3574,7 @@
     "mate-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-applets.git",
       "branch": "master",
-      "revision": "40369c9dbb3d02f3512a66510430c89a75b1397f"
+      "revision": "b17fdf957b0a10483257573bd05ec74d42762756"
     },
     "mate-backgrounds": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-backgrounds.git",
