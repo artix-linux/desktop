@@ -159,7 +159,7 @@
     "artix-community-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-community-presets.git",
       "branch": "master",
-      "revision": "2f5ccf3bbd5d98fad10af8395379b6bd36ccb0a6"
+      "revision": "ab0d5ccdd9646b1388e16159d3b57316745accf5"
     },
     "artix-dark-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-dark-theme.git",
