@@ -1104,7 +1104,7 @@
     "gnome-menus": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-menus.git",
       "branch": "master",
-      "revision": "3bdc8957850365404576764173dc90e085aeb7a0"
+      "revision": "8ed910fb5f3709d073ed2b8c7117ff53bb1ffc36"
     },
     "gnome-mines": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-mines.git",
