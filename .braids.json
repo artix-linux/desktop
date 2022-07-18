@@ -944,7 +944,7 @@
     "gmime3": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gmime3.git",
       "branch": "master",
-      "revision": "e42af3fb59d6e7d7f725bc14ee41297b217b79fc"
+      "revision": "6a91d921c19f0da59a00e182750e294c98bd36f1"
     },
     "gn-m87": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gn-m87.git",
