@@ -2819,7 +2819,7 @@
     "libcryptui": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcryptui.git",
       "branch": "master",
-      "revision": "b1910c90f09a5a4e2ae3eb6636edeafbf1a52561"
+      "revision": "913ec96cbac621d255ca43d731dc6d7bbe5361a8"
     },
     "libcuckoo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcuckoo.git",
