@@ -5059,7 +5059,7 @@
     "xdotool": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdotool.git",
       "branch": "master",
-      "revision": "76c0504a6bc502c53e7e1e026a0fa1bb589ba2f4"
+      "revision": "4b95515ca11e90407a49cdf93af36c53c11a3a3f"
     },
     "xed": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xed.git",
