@@ -529,7 +529,7 @@
     "cjs": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cjs.git",
       "branch": "master",
-      "revision": "defee82560c8cc821c2ff0743a82c391bb5fcb64"
+      "revision": "c0bc8fc0b9483db68d6c041609215e38a1d1a2d5"
     },
     "clucene": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clucene.git",
