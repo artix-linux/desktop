@@ -3829,7 +3829,7 @@
     "nemo": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nemo.git",
       "branch": "master",
-      "revision": "32466538b7fc3001992954323f4370a3344ca10a"
+      "revision": "112458a3b4dce60a0099aebb650675b48f8b4406"
     },
     "nemo-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nemo-extensions.git",
