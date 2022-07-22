@@ -3954,7 +3954,7 @@
     "ostree": {
       "url": "gitea@gitea.artixlinux.org:packagesO/ostree.git",
       "branch": "master",
-      "revision": "949b707a5b53b59dfa0df9c609e9f9a780816406"
+      "revision": "49af0f0cfb6b56657bcda0047b46ecf0b96e2713"
     },
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
