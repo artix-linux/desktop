@@ -3939,7 +3939,7 @@
     "openslide": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openslide.git",
       "branch": "master",
-      "revision": "08549b6322280ab212dbcc33e9c10672893aa827"
+      "revision": "3e9b43169f868848a86a4d43dc45d78209118b8e"
     },
     "orca": {
       "url": "gitea@gitea.artixlinux.org:packagesO/orca.git",
