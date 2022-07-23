@@ -109,7 +109,7 @@
     "appstream-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesA/appstream-glib.git",
       "branch": "master",
-      "revision": "b1b29bf1009696ef4c6b217982711c3af3f57885"
+      "revision": "d78b25a2f914010279e9a5a52ebeb2e20db05c05"
     },
     "arc-gtk-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesA/arc-gtk-theme.git",
