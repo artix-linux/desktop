@@ -3219,7 +3219,7 @@
     "libspatialite": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libspatialite.git",
       "branch": "master",
-      "revision": "494b15fde0a7b5fea19ef52a5f007295fcf040b2"
+      "revision": "397998c8ea42fd41c8a7400fca9e7116aa94af9a"
     },
     "libspiro": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libspiro.git",
