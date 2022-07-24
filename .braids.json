@@ -3934,7 +3934,7 @@
     "openscenegraph": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openscenegraph.git",
       "branch": "master",
-      "revision": "e3fb52abdd96981bb3a715d3d977786cdb5bf116"
+      "revision": "e9588a778155b3d4808e7e590f1889320c60858c"
     },
     "openslide": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openslide.git",
