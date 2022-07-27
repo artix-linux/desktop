@@ -3224,7 +3224,7 @@
     "libspiro": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libspiro.git",
       "branch": "master",
-      "revision": "09c930afa1f19bb0e4542d663b9004865f2921f0"
+      "revision": "f9a500d064fd731eab22365e41fc0b00e7d58720"
     },
     "libstatgrab": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libstatgrab.git",
