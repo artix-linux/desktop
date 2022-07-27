@@ -124,7 +124,7 @@
     "archlinux-appstream-data": {
       "url": "gitea@gitea.artixlinux.org:packagesA/archlinux-appstream-data.git",
       "branch": "master",
-      "revision": "84528198536348df9d6ed934f158112faea1412e"
+      "revision": "b79bef9dd65ebe05c75c5fcd5c2e37980e9136fa"
     },
     "ark": {
       "url": "gitea@gitea.artixlinux.org:packagesA/ark.git",
