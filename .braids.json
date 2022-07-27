@@ -1549,7 +1549,7 @@
     "ispell": {
       "url": "gitea@gitea.artixlinux.org:packagesI/ispell.git",
       "branch": "master",
-      "revision": "01d94d5d2b6373fb1b22ab3aec74e9f4badafae9"
+      "revision": "b998e6c6ccd77751140f69213dc269076c30e844"
     },
     "itinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
