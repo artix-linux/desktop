@@ -3344,7 +3344,7 @@
     "luasocket": {
       "url": "gitea@gitea.artixlinux.org:packagesL/luasocket.git",
       "branch": "master",
-      "revision": "76d02963806b1bb1ea6915d3de4552d39cd23147"
+      "revision": "efc4ae3051d4eb1070158c7a8048926ae2159183"
     },
     "lxappearance": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxappearance.git",
