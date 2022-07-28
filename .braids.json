@@ -3949,7 +3949,7 @@
     "osinfo-db": {
       "url": "gitea@gitea.artixlinux.org:packagesO/osinfo-db.git",
       "branch": "master",
-      "revision": "33d449ecf681841e45de69e7571167cc0c2ff360"
+      "revision": "49734453ab4cd28f7e26b30220500c55987c6617"
     },
     "osinfo-db-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesO/osinfo-db-tools.git",
