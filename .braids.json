@@ -3869,7 +3869,7 @@
     "noise-suppression-for-voice": {
       "url": "gitea@gitea.artixlinux.org:packagesN/noise-suppression-for-voice.git",
       "branch": "master",
-      "revision": "ab1e179d499dd10949234e31a104b00beaff8dec"
+      "revision": "3902e5c352c99a4670d71228ec2b762a40eca7cb"
     },
     "notify-osd": {
       "url": "gitea@gitea.artixlinux.org:packagesN/notify-osd.git",
