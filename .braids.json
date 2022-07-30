@@ -524,7 +524,7 @@
     "cinnamon-translations": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-translations.git",
       "branch": "master",
-      "revision": "fd37e095b1c6cfca1ab2c373376d67018ca1cb6a"
+      "revision": "c5dc217fd23f8eb1009d2abe08271a05f17de11f"
     },
     "cjs": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cjs.git",
