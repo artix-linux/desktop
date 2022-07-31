@@ -1564,7 +1564,7 @@
     "js91": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js91.git",
       "branch": "master",
-      "revision": "775bd31bb6036ecb9f2c523016d11690a0d0af13"
+      "revision": "7ff4068133cd5d44d38e8b185076c42ddbd9f17c"
     },
     "jsonrpc-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/jsonrpc-glib.git",
