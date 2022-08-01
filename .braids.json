@@ -804,7 +804,7 @@
     "firefox": {
       "url": "gitea@gitea.artixlinux.org:packagesF/firefox.git",
       "branch": "master",
-      "revision": "0d7528ac59a710dc8d88814530e26bfa507a93cf"
+      "revision": "6a444ad65a0c46fc9fdc02a038a4b6c745edf102"
     },
     "five-or-more": {
       "url": "gitea@gitea.artixlinux.org:packagesF/five-or-more.git",
