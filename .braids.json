@@ -4669,7 +4669,7 @@
     "sysprof": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sysprof.git",
       "branch": "master",
-      "revision": "3f1e69bbd2f04bcf3d7daf6ceba57acc456e30d1"
+      "revision": "a0090751b30429e0a741f5fbedd0e381835bc51a"
     },
     "system-config-printer": {
       "url": "gitea@gitea.artixlinux.org:packagesS/system-config-printer.git",
