@@ -78,6 +78,7 @@ noextract=(35c94d2df8893241173de1d16b6034c0-swingExSrc.zip
            skia-m97-a7230803d64ae9d44f4e1282444801119a3ae967.tar.xz
            libcmis-0.5.2.tar.xz
            8249374c274932a21846fa7629c2aa9b-officeotron-0.7.4-master.jar  # for test suite
+           zxing-cpp-1.2.0.tar.gz
            odfvalidator-1.2.0-incubating-SNAPSHOT-jar-with-dependencies-971c54fd38a968f5860014b44301872706f9e540.jar  # for test suite
            f543e6e2d7275557a839a164941c0a86e5f2c3f2a0042bfc434c88c6dde9e140-opens___.ttf
            185d60944ea767075d27247c3162b3bc-unowinreg.dll
