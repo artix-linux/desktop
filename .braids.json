@@ -4154,7 +4154,7 @@
     "plasma-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-integration.git",
       "branch": "master",
-      "revision": "3f5bb842b97650cad274a0bdfb3c5ee7b5144988"
+      "revision": "43022efebd84e0f9e0327a55a2dc27754ff5a742"
     },
     "plasma-meta": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-meta.git",
