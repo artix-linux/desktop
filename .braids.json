@@ -4831,6 +4831,11 @@
       "branch": "master",
       "revision": "bc75f30d45dfa32c73099bf2a64d35642c83a6e9"
     },
+    "tinyxml": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tinyxml.git",
+      "branch": "master",
+      "revision": "75ec9ea18fba701b6637277fd977172a8f9cb72b"
+    },
     "tmux": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tmux.git",
       "branch": "master",
