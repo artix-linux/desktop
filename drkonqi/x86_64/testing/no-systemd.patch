@@ -1,0 +1,34 @@
+--- a/CMakeLists.txt	2022-06-16 00:17:50.871250289 +0200
++++ b/CMakeLists.txt	2022-06-16 00:18:29.480729537 +0200
+@@ -62,19 +62,19 @@
+     KF 5.92
+ )
+
+-find_package(Systemd)
+-set_package_properties(Systemd PROPERTIES TYPE RECOMMENDED PURPOSE "Coredumpd integration.")
++#find_package(Systemd)
++#set_package_properties(Systemd PROPERTIES TYPE RECOMMENDED PURPOSE "Coredumpd integration.")
+
+-if(Systemd_FOUND)
+-    find_package(coredumpctl)
+-    set_package_properties(
+-        coredumpctl
+-        PROPERTIES
+-        TYPE RUNTIME
+-        DESCRIPTION "coredumpd CLI. part of systemd"
+-        PURPOSE "Required for coredumpd support to work at runtime!"
+-    )
+-endif()
++#if(Systemd_FOUND)
++    #find_package(coredumpctl)
++    #set_package_properties(
++        #coredumpctl
++        #PROPERTIES
++        #TYPE RUNTIME
++        #DESCRIPTION "coredumpd CLI. part of systemd"
++        #PURPOSE "Required for coredumpd support to work at runtime!"
++    #)
++#endif()
+
+ if(MINGW)
+     find_package(ZLIB REQUIRED)
