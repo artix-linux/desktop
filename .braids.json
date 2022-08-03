@@ -2546,6 +2546,11 @@
       "branch": "master",
       "revision": "d19288baf92670ba6e9e9a4252d18226726b19c9"
     },
+    "krita": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/krita.git",
+      "branch": "master",
+      "revision": "552a82a416db2b51cfa9860d4624ae4b6c4468d7"
+    },
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
       "branch": "master",
