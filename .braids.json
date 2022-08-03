@@ -4301,6 +4301,11 @@
       "branch": "master",
       "revision": "cf120e8be6723f3afa5044a4a4c1ea5333eb22e7"
     },
+    "pystring": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/pystring.git",
+      "branch": "master",
+      "revision": "3dbc9634c513ca03d3cdccdc85792d89bc652480"
+    },
     "python-caja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-caja.git",
       "branch": "master",
