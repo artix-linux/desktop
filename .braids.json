@@ -2729,7 +2729,7 @@
     "kwayland-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwayland-integration.git",
       "branch": "master",
-      "revision": "1d93e2f3988ce9610894a0c777d6539cbf5c43ea"
+      "revision": "42c0652f1e2ffabe1087e5fcc0ed60f1c7bec343"
     },
     "kwidgetsaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
