@@ -2569,7 +2569,7 @@
     "kscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kscreen.git",
       "branch": "master",
-      "revision": "eb5f4a68ede1af7ea2fd6a1ba61e438f432af23d"
+      "revision": "775adc3f207dcbe21e9f049a4efef83f81b4236f"
     },
     "kscreenlocker": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kscreenlocker.git",
