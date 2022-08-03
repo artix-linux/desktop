@@ -2739,7 +2739,7 @@
     "kwin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwin.git",
       "branch": "master",
-      "revision": "2b5768ea29ed7454303f27078ce080a6bef52539"
+      "revision": "764d71da3ca0a3117daf5aeae2c1e0beae757c42"
     },
     "kwindowsystem": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwindowsystem.git",
