@@ -3926,6 +3926,11 @@
       "branch": "master",
       "revision": "5bf9c93b2fa8f13049cc74c2ddf5c9dba7ac9887"
     },
+    "opencolorio": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/opencolorio.git",
+      "branch": "master",
+      "revision": "8bfbd45f6270b9a6a9055a14a33d96c46e04e7cf"
+    },
     "openlibm": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openlibm.git",
       "branch": "master",
