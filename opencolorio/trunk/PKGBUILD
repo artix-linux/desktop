@@ -31,7 +31,7 @@ build() {
     -GNinja \
     -Bbuild \
     -DCMAKE_INSTALL_PREFIX=/usr \
-    -DCMAKE_PREFIX_PATH=/usr
+    -DCMAKE_PREFIX_PATH=/usr \
     -DCMAKE_INSTALL_LIBDIR=lib
   ninja -C build
 }
