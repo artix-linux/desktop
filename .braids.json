@@ -714,7 +714,7 @@
     "element.io": {
       "url": "gitea@gitea.artixlinux.org:packagesE/element.io.git",
       "branch": "master",
-      "revision": "62d8be6920ffdecfe16a50b05ac1ea2560908f85"
+      "revision": "45ce31a700696b54de10238b9dd92446b8df519d"
     },
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
