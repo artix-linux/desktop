@@ -3,7 +3,7 @@
 # Contributor: Luca Weiss <luca (at) z3ntu (dot) xyz>
 # Contributor: Julian Schacher <jspp@posteo.net>
 
-_electron=electron19
+_electron=electron
 pkgbase=element.io
 pkgname=(element-web element-desktop)
 pkgver=1.11.2
