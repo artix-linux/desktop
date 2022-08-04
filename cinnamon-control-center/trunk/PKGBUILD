@@ -6,7 +6,7 @@
 # Jan de Groot <jgc@archlinux.org>
 
 pkgname=cinnamon-control-center
-pkgver=5.4.4
+pkgver=5.4.6
 pkgrel=1
 pkgdesc="The Control Center for Cinnamon"
 arch=(x86_64)
@@ -20,19 +20,16 @@ optdepends=('cinnamon-translations: i18n'
 makedepends=(meson samurai gnome-online-accounts)
 options=(!emptydirs)
 source=(${url}/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('b2078902eef73090fd827321202eddb79500d444550b6694be536640620a8eb1')
-b2sums=('ba3058766f664fe3f92a376684528476349a4c4ba476eee96e80a1d777b20cd52e136c09024273e8d4935dc4bcd5dd420ce69042750d4e648c173e57237eae3f')
+sha256sums=('e20cd4e94b0110b31753f81dd209e88d0dcc350450aa365c7227c5ca8f92e0ac')
+b2sums=('b5e645382c37b868458fb7e12787f82c5ea05c1c5e8130af8534b07c26e54af5acd6a31bd11e61792d8f40ea1dd66e17780ffd39a562802e13f837cd59369791')
 
 build() {
-  mkdir -p build
-  cd build
-  artix-meson ../${pkgname}-${pkgver}
-  samu
+  artix-meson build ${pkgname}-${pkgver}
+  samu -C build
 }
 
 package() {
-  cd build
-  DESTDIR="${pkgdir}" samu install
+  DESTDIR="${pkgdir}" samu -C build install
   # https://github.com/linuxmint/Cinnamon/pull/7382#issuecomment-374894901
   # /usr/bin/cinnamon-control-center is not meant for users, it is a development troubleshooting tool.
   # Just install the shell libs/headers.
