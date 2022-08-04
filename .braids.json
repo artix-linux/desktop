@@ -706,6 +706,11 @@
       "branch": "master",
       "revision": "173480ee743e293203a05bf755452773902cc32f"
     },
+    "electron": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/electron.git",
+      "branch": "master",
+      "revision": "cbfae9ecb10d46e22742d28ce548006c14f3e175"
+    },
     "element.io": {
       "url": "gitea@gitea.artixlinux.org:packagesE/element.io.git",
       "branch": "master",
