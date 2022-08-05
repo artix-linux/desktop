@@ -869,7 +869,7 @@
     "gcab": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcab.git",
       "branch": "master",
-      "revision": "15819b2ac57a3706237b17d7b83912bc032361f7"
+      "revision": "e825baffc2132d1f2ab7fc84f890470bae4030bf"
     },
     "gcr": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcr.git",
