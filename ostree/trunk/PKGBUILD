@@ -12,7 +12,7 @@ arch=(x86_64)
 license=(GPL)
 depends=(fuse2 glibc libgpg-error libsodium util-linux openssl xz zlib)
 makedepends=(avahi e2fsprogs git glib2 gobject-introspection gpgme gtk-doc
-             libarchive libsoup libxslt mkinitcpio python systemd)
+             libarchive libsoup libxslt mkinitcpio python)
 checkdepends=(cpio elfutils gjs parallel python-yaml syslinux)
 options=(debug)
 source=(
@@ -75,7 +75,7 @@ check() {
 package() {
   depends+=(libarchive.so libavahi-client.so libavahi-common.so
             libavahi-glib.so libgio-2.0.so libglib-2.0.so libgobject-2.0.so
-            libgpgme.so libsoup-2.4.so libsystemd.so)
+            libgpgme.so libsoup-2.4.so)
   provides+=(libostree-1.so)
 
   cd ostree
