@@ -2864,7 +2864,7 @@
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
       "branch": "master",
-      "revision": "73cd6ecb0580ca6f790306f4c4ec043469543e53"
+      "revision": "c3ffe5b2fc079f72b2e12810e4e80175c9b3e56c"
     },
     "libdwarf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdwarf.git",
