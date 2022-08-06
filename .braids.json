@@ -3869,7 +3869,7 @@
     "neovim-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neovim-qt.git",
       "branch": "master",
-      "revision": "02485c85f113f63be6e9b37b8a8b789b8ad77bc3"
+      "revision": "5aadf42163368e6781ee8d7c4d480cf4667b54a3"
     },
     "network-manager-applet": {
       "url": "gitea@gitea.artixlinux.org:packagesN/network-manager-applet.git",
