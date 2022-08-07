@@ -4709,7 +4709,7 @@
     "tali": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tali.git",
       "branch": "master",
-      "revision": "947b1918cc53f671b1ec0c5d9a3fbc7c18b98793"
+      "revision": "e5de494f5b4ebd71f72b780d6b05e812cdbe2983"
     },
     "telegram-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telegram-qt.git",
