@@ -4949,7 +4949,7 @@
     "usbredir": {
       "url": "gitea@gitea.artixlinux.org:packagesU/usbredir.git",
       "branch": "master",
-      "revision": "2b3c838fddea34c6b6a51d2c6ba97a08550250c2"
+      "revision": "cc9f1814ad1bb9c170d408e6c51561556d5f1724"
     },
     "vde2": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vde2.git",
