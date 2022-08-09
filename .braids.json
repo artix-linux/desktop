@@ -4994,7 +4994,7 @@
     "waybar": {
       "url": "gitea@gitea.artixlinux.org:packagesW/waybar.git",
       "branch": "master",
-      "revision": "6a56950b5afa2fa7f84850c81b3994016f04a615"
+      "revision": "7b1be54a0d47f0258331ebcceef92aa9a7cbd993"
     },
     "weston": {
       "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
