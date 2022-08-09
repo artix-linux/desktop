@@ -779,7 +779,7 @@
     "facile": {
       "url": "gitea@gitea.artixlinux.org:packagesF/facile.git",
       "branch": "master",
-      "revision": "3bc8aa7dd5231290c7640b9950636afe690be509"
+      "revision": "856a9ff7e736c7969e4cb1b09b54d66d566c30aa"
     },
     "falkon": {
       "url": "gitea@gitea.artixlinux.org:packagesF/falkon.git",
