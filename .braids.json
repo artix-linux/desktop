@@ -1019,7 +1019,7 @@
     "gnome-chess": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-chess.git",
       "branch": "master",
-      "revision": "80eb8c572fa58876f33652b19b682d3ef2cf7ce5"
+      "revision": "e92b9f83a5b1a75a1c2597059d14448f90d3a174"
     },
     "gnome-clocks": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-clocks.git",
