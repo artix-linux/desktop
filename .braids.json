@@ -4909,7 +4909,7 @@
     "tumbler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tumbler.git",
       "branch": "master",
-      "revision": "6d690d4aa18769b0012c6d0afe5147e3b8ecd492"
+      "revision": "d34329f2ef6606527d9ab192cfd15d84b8e6d9f4"
     },
     "udftools": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udftools.git",
