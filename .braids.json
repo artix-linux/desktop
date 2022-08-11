@@ -409,7 +409,7 @@
     "brltty": {
       "url": "gitea@gitea.artixlinux.org:packagesB/brltty.git",
       "branch": "master",
-      "revision": "21048a0c7e022ce1f8c6ceee7bf7eefc75984335"
+      "revision": "bc0ede26001e67760689be9cd01ab0d6e3a93235"
     },
     "bspwm": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bspwm.git",
