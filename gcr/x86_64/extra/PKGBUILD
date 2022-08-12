@@ -26,7 +26,7 @@ prepare() {
 }
 
 build() {
-  artix-meson gcr build
+  artix-meson gcr build -Dsystemd=disabled
   meson compile -C build
 }
 
@@ -37,7 +37,6 @@ check() {
 
 package_gcr() {
   provides=(libgck-1.so libgcr-{base,ui}-3.so)
-  install=gcr.install
 
   meson install -C build --destdir "$pkgdir"
 
