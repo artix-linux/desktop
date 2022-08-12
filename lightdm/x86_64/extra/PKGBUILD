@@ -6,8 +6,8 @@ pkgname=(
   lightdm
   liblightdm-qt5
 )
-pkgver=1.30.0
-pkgrel=4.1
+pkgver=1.32.0
+pkgrel=1
 epoch=1
 pkgdesc='A lightweight display manager'
 arch=(x86_64)
@@ -35,8 +35,9 @@ makedepends=(
   vala
   yelp-tools
 )
+_tag=9e72b5b3072ff9990211f35aa2a48e971ff710c7
 source=(
-  git+https://github.com/CanonicalLtd/lightdm.git?signed#tag=${pkgver}
+  git+https://github.com/CanonicalLtd/lightdm.git?signed#tag=${_tag}
   lightdm.sysusers
   lightdm.tmpfiles
   lightdm.pam
@@ -47,29 +48,30 @@ source=(
   lightdm-greeter.pam
 )
 validpgpkeys=(497851B5D455C606543F2B9318EAA1890F7C882E) # Robert Ancell <robert.ancell@gmail.com>
-sha256sums=('SKIP'
-            'fd93291bfc9985f0a1bb288472866aa0a9bcd259e024c3a29d20ca158bc08403'
-            'cd69f928a1a5b30a30ba916e1b64c9f3657597cb28f3f0e220494d6e5e4bf587'
-            'e8c4c5fd3b801a390d201166fd1fb9730e78a5c62928768103b870b6bd980ea0'
-            'e111a484f98c1449e1cf10c31532748d98e850eff1ab9f3a3b8eec485f44198f'
-            'a89566307e1c81c24f037d854cbd472d2f94f8a4b759877a01563a332319f7d6'
-            '782a52dc39a7d6f2c6ee31e66897e3502fc14864e3e4ede8e3d1a0da74b8dfdf'
-            'd30321a1b490500483b8ed7825fcff2c24a7c760ac627789ff517693888ec3c5'
-            'd95ec33a64562eec4f54557a01aa09e23b707c02fd40984dafa309ceae1b44a2')
+b2sums=('SKIP'
+        '901702d0bc471de1f8f796576f4d3b451daf632dd703fecc3be7228f9b8deb911d834cd53e8fd5ee24227f46be6a4789b1983a96ec7c32d170d7427ef00c5293'
+        '8d04b2f9b861a65707bc1965a80f64d4e03cfe09c84addda27e8dca74b40f4fe85c43773e41dcb972772df7684d4bfc2aacd32c9bc1ac9fa1c2a8d6c27cd02b2'
+        '11f4c568c6b766d3baf65ea91be2ec0641381a6c195ef460a9a0e282591c1211603d0a3db630e901079fba28819a4efab45bb8b722947dfac37659daafe14aaf'
+        '3349ad387eb3c928e3314f557800f88abb58eb2d5f2e4ccb882c4469f7ed26f940cd70a89ad33484eb3f14246ea7c7402a24396aeeea7046c002bedace631c26'
+        '9e7b4f2adacfa18e9c029f93b922da45e3326266495a1919465f299fa630d769eaaa2101d76966cea496f66c4bd8469c73ef55acde5cd19fa559921c192acd04'
+        '3cc8ac1a7747b4a1df942ba93cae5deabc5b4ea664e69ffb43f80abd9745894eea62e5d4527c5b80479121d8d92fd6ce0233e63f95c1f81a8869c3217823f93d'
+        '7785c19bb2343732d75dd2abd744148ae8baa6d8ad2b295a8e28d5eb78d7bd525e17784ae8a75784ab4cdb3fde73c66789b1bc033c53dafe13f8d19988e5ba18'
+        'fa181e01cf0fd24bd67b2e5a4f218a95d95e9dff040e0e5f2a72e4d7513b7c82e073eb4e6d5007957be00073b1059604bb17ba73ea6fd08cae262de481f413a7')
 
 prepare() {
   cd lightdm
-
   patch -Np1 -i ../lightdm-default-config.patch
-
   NOCONFIGURE=1 ./autogen.sh
+}
+
+pkgver() {
+  cd lightdm
+  git describe --tags
 }
 
 build() {
   cd lightdm
-
   export MOC5=moc-qt5
-
   ./configure \
     --prefix=/usr \
     --libexecdir=/usr/lib/lightdm \
@@ -120,10 +122,6 @@ package_lightdm() {
   rm -rf "${pkgdir}"/etc/init
   rm -rf "${pkgdir}"/usr/include/lightdm-qt{,5}-*
 
-  # Dbus
-  mv "${pkgdir}"/{etc,usr/share}/dbus-1/system.d
-  rmdir "${pkgdir}"/etc/dbus-1
-
   # PAM
   install -m 644 ../lightdm.pam "${pkgdir}"/etc/pam.d/lightdm
   install -m 644 ../lightdm-autologin.pam "${pkgdir}"/etc/pam.d/lightdm-autologin
@@ -148,7 +146,6 @@ package_liblightdm-qt5() {
   options=(!emptydirs)
 
   cd lightdm
-
   make DESTDIR="${pkgdir}" -C liblightdm-gobject install
   make DESTDIR="${pkgdir}" -C liblightdm-qt install
   make DESTDIR="${pkgdir}" -C liblightdm-gobject uninstall
