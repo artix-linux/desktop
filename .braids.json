@@ -5069,7 +5069,7 @@
     "xdg-desktop-portal": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal.git",
       "branch": "master",
-      "revision": "34417333175d73557565aac82eedc931ac6a81bc"
+      "revision": "37306001d168790ee272a5c1041e45b018245686"
     },
     "xdg-desktop-portal-gnome": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-gnome.git",
