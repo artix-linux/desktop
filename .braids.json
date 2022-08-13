@@ -5334,7 +5334,7 @@
     "xplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xplayer.git",
       "branch": "master",
-      "revision": "970f02b6b52ea365db9408a53557a6e34085d3ca"
+      "revision": "f14d9b0ecc4851eb930f7db522157b91ec69dbf3"
     },
     "xplayer-plparser": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xplayer-plparser.git",
