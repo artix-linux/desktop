@@ -1,4 +1,4 @@
-# Maintainer: Maxime Gauduin <alucryd@archlinux.org>
+# Maintainer: Dudemanguy <random342@airmail.cc>
 # Contributor: Morfeo <morfeo89@hotmail.it>
 
 pkgbase=lightdm
@@ -54,7 +54,7 @@ b2sums=('SKIP'
         '11f4c568c6b766d3baf65ea91be2ec0641381a6c195ef460a9a0e282591c1211603d0a3db630e901079fba28819a4efab45bb8b722947dfac37659daafe14aaf'
         '3349ad387eb3c928e3314f557800f88abb58eb2d5f2e4ccb882c4469f7ed26f940cd70a89ad33484eb3f14246ea7c7402a24396aeeea7046c002bedace631c26'
         '9e7b4f2adacfa18e9c029f93b922da45e3326266495a1919465f299fa630d769eaaa2101d76966cea496f66c4bd8469c73ef55acde5cd19fa559921c192acd04'
-        '3cc8ac1a7747b4a1df942ba93cae5deabc5b4ea664e69ffb43f80abd9745894eea62e5d4527c5b80479121d8d92fd6ce0233e63f95c1f81a8869c3217823f93d'
+        'f252322abfc5351c076ab64c4891a31fcb4cf806ad186d8287f23ae968164f612ff140da83160ebe7e6633d3b039dc4791fa4dd7dbc363dadec544a341675aa2'
         '7785c19bb2343732d75dd2abd744148ae8baa6d8ad2b295a8e28d5eb78d7bd525e17784ae8a75784ab4cdb3fde73c66789b1bc033c53dafe13f8d19988e5ba18'
         'fa181e01cf0fd24bd67b2e5a4f218a95d95e9dff040e0e5f2a72e4d7513b7c82e073eb4e6d5007957be00073b1059604bb17ba73ea6fd08cae262de481f413a7')
 
@@ -88,7 +88,6 @@ build() {
 
 package_lightdm() {
   depends=(
-    elogind
     glib2
     libgcrypt
     libx11
@@ -132,7 +131,7 @@ package_lightdm() {
   install -m 644 ../lightdm.rules "${pkgdir}"/usr/share/polkit-1/rules.d/lightdm.rules
 
   # Systemd
-  install -dm 755 "${pkgdir}"/usr/lib/{sysusers.d,tmpfiles.d}
+  install -dm 755 "${pkgdir}"/usr/lib/{systemd/system,sysusers.d,tmpfiles.d}
   install -m 644 ../lightdm.sysusers "${pkgdir}"/usr/lib/sysusers.d/lightdm.conf
   install -m 644 ../lightdm.tmpfiles "${pkgdir}"/usr/lib/tmpfiles.d/lightdm.conf
 }
