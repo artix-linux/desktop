@@ -2821,6 +2821,11 @@
       "branch": "master",
       "revision": "a523584745ba8407da962f75d558e0a124a85d54"
     },
+    "libalkimia": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libalkimia.git",
+      "branch": "master",
+      "revision": "4cf98291b1c7ba64f941a10fc151a0885a49512b"
+    },
     "libappimage": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libappimage.git",
       "branch": "master",
