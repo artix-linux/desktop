@@ -3739,7 +3739,7 @@
     "meld": {
       "url": "gitea@gitea.artixlinux.org:packagesM/meld.git",
       "branch": "master",
-      "revision": "2c925d5bb0619c9391629a9352c772c0f0fe09c2"
+      "revision": "a86b46cd03eab74fb2e18bb07fad4fa4016de536"
     },
     "menu-cache": {
       "url": "gitea@gitea.artixlinux.org:packagesM/menu-cache.git",
