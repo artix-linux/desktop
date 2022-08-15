@@ -1819,7 +1819,7 @@
     "kcoreaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcoreaddons.git",
       "branch": "master",
-      "revision": "1c9ca1bfbbdc8d0b52cf3d2283fc711003da1ec9"
+      "revision": "b2b34642bbee163b860be1fa9c48c9ac4768434d"
     },
     "kcrash": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcrash.git",
