@@ -1624,7 +1624,7 @@
     "kactivities": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
       "branch": "master",
-      "revision": "109052a515ea5f12c3dad28c975defff3617c7fe"
+      "revision": "e5315e37bcbacfb83f91fa4c322e3c83059133a8"
     },
     "kactivities-stats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities-stats.git",
