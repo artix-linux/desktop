@@ -2174,7 +2174,7 @@
     "kimageformats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageformats.git",
       "branch": "master",
-      "revision": "19ddc5d46ab38318dc09b4f653c21a87732d0346"
+      "revision": "3554631d9bfbacba6455d343b48071f1332c7b1c"
     },
     "kimagemapeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimagemapeditor.git",
