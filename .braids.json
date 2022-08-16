@@ -2039,7 +2039,7 @@
     "kfilemetadata": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
       "branch": "master",
-      "revision": "e77c31b868f4b64ed25781b126f9034da235bdda"
+      "revision": "327fa78d1142af311a1312ec6d5c3fafa5aac90d"
     },
     "kfind": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfind.git",
