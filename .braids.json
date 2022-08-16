@@ -1714,7 +1714,7 @@
     "kauth": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kauth.git",
       "branch": "master",
-      "revision": "167b8268bb544ef2d5ac3f1d6fa60796370eecc3"
+      "revision": "aa9cd5d60386735b0c8114d024f284a86a6ec2b1"
     },
     "kbackup": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbackup.git",
