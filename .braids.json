@@ -1839,7 +1839,7 @@
     "kdbusaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdbusaddons.git",
       "branch": "master",
-      "revision": "febc183f546b578a3859971d3852f6ffa03a7731"
+      "revision": "ceee2e0d2f0fd838223838e62d628ea248881060"
     },
     "kde-cli-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-cli-tools.git",
