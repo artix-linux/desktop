@@ -1969,7 +1969,7 @@
     "kdewebkit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdewebkit.git",
       "branch": "master",
-      "revision": "a52705d7a9db676968eed924de95d4b3d2a1db47"
+      "revision": "f088706fa9a0d5e47210a3500da56aad66cb68cc"
     },
     "kdf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdf.git",
