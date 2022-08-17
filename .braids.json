@@ -4369,7 +4369,7 @@
     "qemu": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qemu.git",
       "branch": "master",
-      "revision": "eba6611015c462b0043f33c05a8815cdac8ec409"
+      "revision": "ca2db02f9ad3ab653aad67a12891cbc2d0db70fd"
     },
     "qgit": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qgit.git",
