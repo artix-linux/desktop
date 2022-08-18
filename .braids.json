@@ -3744,7 +3744,7 @@
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
       "branch": "master",
-      "revision": "2c4ee257842031afe06991b1871658111e2068dd"
+      "revision": "ee7fab3debe8d3dee4634c4914cd0d9e48fd1b85"
     },
     "mathjax2": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mathjax2.git",
