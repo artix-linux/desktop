@@ -2014,7 +2014,7 @@
     "keditbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keditbookmarks.git",
       "branch": "master",
-      "revision": "b47876dd47314a667150886a969d3544d631ec2e"
+      "revision": "5b3ca502be74653a6ebe78c977c1b8a894d02792"
     },
     "keepassxc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keepassxc.git",
