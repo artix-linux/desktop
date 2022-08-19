@@ -589,7 +589,7 @@
     "cups-pk-helper": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cups-pk-helper.git",
       "branch": "master",
-      "revision": "cfdfcd15a6e8dae385b21042888f7b096d1bdac8"
+      "revision": "f51a5f77194721941ba8106bf6aa283a2a305cf7"
     },
     "darktable": {
       "url": "gitea@gitea.artixlinux.org:packagesD/darktable.git",
