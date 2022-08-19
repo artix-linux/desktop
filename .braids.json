@@ -1599,7 +1599,7 @@
     "juk": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/juk.git",
       "branch": "master",
-      "revision": "3ebf7e2a959017be06922fb4868c2a669e1d761d"
+      "revision": "93681b2634375119c8934ac0235f8bb8d936236b"
     },
     "julia": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/julia.git",
