@@ -2224,7 +2224,7 @@
     "kirigami-gallery": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami-gallery.git",
       "branch": "master",
-      "revision": "54cbb37dcbbc1780659a62187d71efa6ff74b183"
+      "revision": "1c8c2e6c5369de4a0e1bb07a69ef393f7ea6255a"
     },
     "kirigami2": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami2.git",
