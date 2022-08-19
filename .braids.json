@@ -89,7 +89,7 @@
     "analitza": {
       "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
       "branch": "master",
-      "revision": "22eacaca8444878154b0cfba6418e60fc1e4ecde"
+      "revision": "8fa4a44f43d49d69bd316c2556f659851d5d6e4e"
     },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
