@@ -2249,7 +2249,7 @@
     "kiten": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kiten.git",
       "branch": "master",
-      "revision": "8f41cfa75dab6c9a535f0fa1ab0be3896162e75d"
+      "revision": "ef6684782b67f055a7dcc029266f8a1cd9e40deb"
     },
     "kitinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitinerary.git",
