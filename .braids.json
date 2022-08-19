@@ -2359,7 +2359,7 @@
     "kmousetool": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmousetool.git",
       "branch": "master",
-      "revision": "ae810d45921a48c54aeead23aba5fb1c2feb77e3"
+      "revision": "38bffae44e8b6b4dfe7ebb0c0cab6fe9f6cd8f91"
     },
     "kmouth": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmouth.git",
