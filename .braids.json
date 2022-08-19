@@ -834,7 +834,7 @@
     "flatpak-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesF/flatpak-builder.git",
       "branch": "master",
-      "revision": "62fbc03d81f2161b19c6cd4d602548ed3d98f6bc"
+      "revision": "c8d77076b2dfd09cae478326f6d2cd7ae0721445"
     },
     "folks": {
       "url": "gitea@gitea.artixlinux.org:packagesF/folks.git",
