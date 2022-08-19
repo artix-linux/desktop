@@ -1964,7 +1964,7 @@
     "kdevelop-php": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop-php.git",
       "branch": "master",
-      "revision": "e6d28a8c3469e25e2657b87cfbff2eaf26727088"
+      "revision": "b3ce36444fbeddb4d2a9bd2be1de592506b9f866"
     },
     "kdewebkit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdewebkit.git",
