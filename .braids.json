@@ -2559,7 +2559,7 @@
     "krdc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krdc.git",
       "branch": "master",
-      "revision": "e83b04a7a9aa8bc5b7efe0255c938290ae2238f6"
+      "revision": "c64f5a2bf29043baba29c3b05e8647e4f034c750"
     },
     "krename": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
