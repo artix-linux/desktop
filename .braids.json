@@ -5029,7 +5029,7 @@
     "waybar": {
       "url": "gitea@gitea.artixlinux.org:packagesW/waybar.git",
       "branch": "master",
-      "revision": "7b1be54a0d47f0258331ebcceef92aa9a7cbd993"
+      "revision": "e35f934a34e4e56543f1d44cc575a8dfa3c39d5a"
     },
     "weston": {
       "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
