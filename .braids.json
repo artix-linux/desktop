@@ -2414,7 +2414,7 @@
     "kolf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolf.git",
       "branch": "master",
-      "revision": "b92274f6c5057b848aa9ad1162183c827760efe6"
+      "revision": "44154547f69498b58b5032411ca4fa3bb3100318"
     },
     "kollision": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kollision.git",
