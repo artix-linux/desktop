@@ -5239,7 +5239,7 @@
     "xfce4-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-panel.git",
       "branch": "master",
-      "revision": "cc6fd95f45bca9dec20c9cbbc27a0f6fde09a98e"
+      "revision": "5499f6a87dfd4b66ccc1cea130fdc9293f743f13"
     },
     "xfce4-power-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-power-manager.git",
