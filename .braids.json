@@ -714,7 +714,7 @@
     "electron": {
       "url": "gitea@gitea.artixlinux.org:packagesE/electron.git",
       "branch": "master",
-      "revision": "3611387dfd229a745b3983c0dcf85fb325a20584"
+      "revision": "a1ccb98bc6117ef5f3a85c1b5f6e9454dda64beb"
     },
     "element.io": {
       "url": "gitea@gitea.artixlinux.org:packagesE/element.io.git",
