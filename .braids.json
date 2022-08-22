@@ -2324,7 +2324,7 @@
     "kmailtransport": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmailtransport.git",
       "branch": "master",
-      "revision": "c6db2d7bd63a8d5f2a2020ba3b754cf343daf594"
+      "revision": "4b5b8edc2b8d7c3024646686a186697fed110b90"
     },
     "kmbox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmbox.git",
