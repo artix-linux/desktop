@@ -1,0 +1,24 @@
+From a1af90bc69966f4292f4e47693caa7a41e50cdb1 Mon Sep 17 00:00:00 2001
+From: Nathan Owens <ndowens@artixlinux.org>
+Date: Mon, 22 Aug 2022 06:48:04 -0500
+Subject: [PATCH] event header define
+
+---
+ ipc/chromium/src/base/message_pump_libevent.cc | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/ipc/chromium/src/base/message_pump_libevent.cc b/ipc/chromium/src/base/message_pump_libevent.cc
+index f7500fdfd9..9de00ad89e 100644
+--- a/ipc/chromium/src/base/message_pump_libevent.cc
++++ b/ipc/chromium/src/base/message_pump_libevent.cc
+@@ -21,6 +21,7 @@
+ #include "mozilla/ProfilerLabels.h"
+ #include "mozilla/ProfilerThreadSleep.h"
+ #include "mozilla/UniquePtr.h"
++#include <event2/event-config.h>
+ 
+ // This macro checks that the _EVENT_SIZEOF_* constants defined in
+ // ipc/chromiume/src/third_party/<platform>/event2/event-config.h are correct.
+-- 
+2.37.2
+

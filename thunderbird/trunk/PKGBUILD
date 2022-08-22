@@ -36,7 +36,9 @@ source=(https://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/$pkgver/sou
         metainfo.patch
         cbindgen-0.24.patch
         rustc_version-0.4.0.patch
-        packed_simd_2-0.3.8.patch)
+        packed_simd_2-0.3.8.patch
+        0001-event-header-define.patch
+)
 validpgpkeys=(
   14F26682D0916CDD81E37B6D61B7B526D98F0353 # Mozilla Software Releases <release@mozilla.com>
   4360FE2109C49763186F8E21EBE41E90F6F12F6D # Mozilla Software Releases <release@mozilla.com>
@@ -227,6 +229,7 @@ sha512sums=('f5c6c77e932b30b43eaa6384b1dd1ab511d0ae8262cb51a5789f7c633235d5f8f34
             '3526402ccae1f0428f2e45bae8d0b2cb909ac2698bc3508b692b827839ccb21203ce414206039776f6ce946fc53e636290b7870e9886284d5e9d1e8ad050aac9'
             '0b04788024e02bb70b0ffb7b1e0112ddfb191821e740f64abf44a1f1de6b663345c59120a13597ea5231d0adf0286739752e5a52b529f191fae4f52474f27af5'
             '317737e450a413839a7570de474c8be6089b5119a15c96c235079c4fe2bd73134eef7718a6e757b3e6a40d23e40c29c5e31890f2cab4799a02d9d6bbd8e71df3'
+            'e4103277b894f32f5b7bb73e2e4fd023c2a26250c43bf66bed2060154d65b8fcea977b7361789725e0513637e03de2180ae8d429b20a3efdce2a8086b35786aa'
             '3619cdb9e7745b090222905568393f0a9b28625d9742ebcfce53b996fc64b4745c101d98c1e2cdb9bdc95d97d382e8b12d37f5a1e4fd4d3d2c35f785b99816bf'
             '9a6db8a26633ff9b9b270c70d43d5419f33a9bfc35164724780ff15769e72f97245a107f11589527732f435c923a8b24d4a06bdad80ae65f9ad7955c68b1842d'
             '1fbad8d4fa39d101b1c5272ce429d8363c7bbe4d7b170e10340cef2856ef07befbd53abf64f45ce5c36077f4a0d2bcff8659ba328fc857d4ba05c959217a3115'
