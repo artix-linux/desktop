@@ -1614,7 +1614,7 @@
     "kaccounts-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-integration.git",
       "branch": "master",
-      "revision": "f9eaab90139323bc547bf9e6dcdaa9568487ea37"
+      "revision": "3b4e0ba6100108ba78ae2de4395521076bac4370"
     },
     "kaccounts-providers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-providers.git",
