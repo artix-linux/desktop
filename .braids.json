@@ -2424,7 +2424,7 @@
     "kolourpaint": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolourpaint.git",
       "branch": "master",
-      "revision": "944213ff2621e91f9e3261c9ca91b289b04f961a"
+      "revision": "f78342e4593ea7f699ad42d9f5c134d7b2cb99e0"
     },
     "kompare": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kompare.git",
