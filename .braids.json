@@ -2469,7 +2469,7 @@
     "kopeninghours": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kopeninghours.git",
       "branch": "master",
-      "revision": "7e47fa63ddda1ec0719efac91c387ff2bf4d8e2c"
+      "revision": "b6518330b4ed7338d001b2a5d173f8e72b4a5ec8"
     },
     "kopete": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kopete.git",
