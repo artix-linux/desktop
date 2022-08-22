@@ -74,7 +74,7 @@
     "akregator": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akregator.git",
       "branch": "master",
-      "revision": "457c038be468d101bc466418415845488b24b758"
+      "revision": "b1ee0cdc437d952aa21b4c78736c6f37e7169dfb"
     },
     "alacarte": {
       "url": "gitea@gitea.artixlinux.org:packagesA/alacarte.git",
