@@ -5409,7 +5409,7 @@
     "zanshin": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
       "branch": "master",
-      "revision": "222c5ebc00b34a3085c11feddce0cc50a55d3df3"
+      "revision": "714f05609e0b04d2e10d3605976d30ece8971a8c"
     },
     "zeroconf-ioslave": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zeroconf-ioslave.git",
