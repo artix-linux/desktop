@@ -2689,7 +2689,7 @@
     "ktimer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktimer.git",
       "branch": "master",
-      "revision": "4f20d49cd1a3d4174d8595c8c3ea0561a87bac12"
+      "revision": "3eb252f402ad52ce81c62b4823f2af9abb32863a"
     },
     "ktnef": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktnef.git",
