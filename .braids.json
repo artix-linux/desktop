@@ -3784,7 +3784,7 @@
     "messagelib": {
       "url": "gitea@gitea.artixlinux.org:packagesM/messagelib.git",
       "branch": "master",
-      "revision": "a278f06450b4dcb880b45ee37087f2ef3ac84db2"
+      "revision": "bfcb683a6b358606a6161808d1d9c619f60addf8"
     },
     "milou": {
       "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
