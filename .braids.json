@@ -3159,7 +3159,7 @@
     "libmythes": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmythes.git",
       "branch": "master",
-      "revision": "5c4e0c440636bcd5ff77cf67450a8e7b5ab40e84"
+      "revision": "acc1356cafa519f6897625c5933c359223490b6b"
     },
     "libnma": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libnma.git",
