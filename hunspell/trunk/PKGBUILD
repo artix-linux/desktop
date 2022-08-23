@@ -13,16 +13,6 @@ optdepends=('perl: for ispellaff2myspell')
 source=(https://github.com/hunspell/hunspell/releases/download/v${pkgver}/hunspell-${pkgver}.tar.gz)
 sha256sums=('b2d9c5369c2cc7f321cb5983fda2dbf007dce3d9e17519746840a6f0c4bf7444')
 
-prepare() {
-  cd hunspell-$pkgver
-
-  # build fix
-  patch -Np1 -i ../hunspell_buildfix.diff
-  patch -Np1 -i ../hunspell_buildfix2.diff
-
-  autoreconf -vfi
-}
-
 build() {
   cd hunspell-$pkgver
   ./configure --prefix=/usr \
