@@ -3794,7 +3794,7 @@
     "mint-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes.git",
       "branch": "master",
-      "revision": "bf6d8bb15eca4d5549e4daa074239b650c21676c"
+      "revision": "0d369dad37738bc8db89d3a734411ebe9ea52f71"
     },
     "mint-themes-legacy": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes-legacy.git",
