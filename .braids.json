@@ -494,7 +494,7 @@
     "cinnamon": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon.git",
       "branch": "master",
-      "revision": "dad7c2d19152408d98947b2b3ef7c7c515e1691d"
+      "revision": "05c98aed1a2d6384a42c377f4773abc90fee0813"
     },
     "cinnamon-control-center": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cinnamon-control-center.git",
