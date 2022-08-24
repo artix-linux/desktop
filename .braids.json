@@ -5069,7 +5069,7 @@
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
       "branch": "master",
-      "revision": "f9e447a9ae18f6c89bdc1c98e31ef09cbb399304"
+      "revision": "5efb7d91be190f36b137da95d9623dc0900637f3"
     },
     "xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapp.git",
