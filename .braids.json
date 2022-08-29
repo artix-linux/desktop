@@ -904,7 +904,7 @@
     "geany-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geany-plugins.git",
       "branch": "master",
-      "revision": "68aff4119e4bf6105cfac652ab4b80fba7c08603"
+      "revision": "2902c77e4e74a6496495c4e0c1447f023273d472"
     },
     "geary": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geary.git",
