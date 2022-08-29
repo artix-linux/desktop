@@ -609,7 +609,7 @@
     "devhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesD/devhelp.git",
       "branch": "master",
-      "revision": "0cdc6006013848cc36bbb662e24647d1ff13d5c0"
+      "revision": "b1b6b6ae130dccb81b7f53f02ab771876198f544"
     },
     "digikam": {
       "url": "gitea@gitea.artixlinux.org:packagesD/digikam.git",
