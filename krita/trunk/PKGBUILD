@@ -25,7 +25,7 @@ validpgpkeys=('05D00A8B73A686789E0A156858B9596C722EA3BD'  # Boudewijn Rempt <fou
 options=(debug)
 
 build() {
-  cmake -B build -S $pkgname-$_pkgver \
+  artix-cmake -B build -S $pkgname-$_pkgver \
     -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON
   cmake --build build
 }
