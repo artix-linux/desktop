@@ -5089,7 +5089,7 @@
     "xaw3d": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xaw3d.git",
       "branch": "master",
-      "revision": "11e445e2e9bbb3555d62f720971f5fe23578e736"
+      "revision": "75e5631d72e9b9bc9350cf95be235059559857ac"
     },
     "xcursor-breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xcursor-breeze.git",
