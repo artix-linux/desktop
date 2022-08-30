@@ -3389,7 +3389,7 @@
     "luaexpat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/luaexpat.git",
       "branch": "master",
-      "revision": "b90ed88a38af688d22cddf8134f6b250a6e504b1"
+      "revision": "036ae2ee90c8f4302282468427dfcf56f7d0e880"
     },
     "luajson": {
       "url": "gitea@gitea.artixlinux.org:packagesL/luajson.git",
