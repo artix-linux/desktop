@@ -579,7 +579,7 @@
     "ctags": {
       "url": "gitea@gitea.artixlinux.org:packagesC/ctags.git",
       "branch": "master",
-      "revision": "9617a898ef1db9eb576197f0368341e063fdb434"
+      "revision": "b3d9219c431e830b5868328d88aa3fd301c3e607"
     },
     "cups-pdf": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cups-pdf.git",
