@@ -2619,7 +2619,7 @@
     "kseexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kseexpr.git",
       "branch": "master",
-      "revision": "c049d72529acedbf3cd67f3f8e6b20acd83b995c"
+      "revision": "16c5480fd65fe4ec25268770f8603b6f229f7dfa"
     },
     "kservice": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kservice.git",
