@@ -2616,6 +2616,11 @@
       "branch": "master",
       "revision": "6dc37d8187225acc78d5ca44078a81d0c2064a95"
     },
+    "kseexpr": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kseexpr.git",
+      "branch": "master",
+      "revision": "c049d72529acedbf3cd67f3f8e6b20acd83b995c"
+    },
     "kservice": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kservice.git",
       "branch": "master",
