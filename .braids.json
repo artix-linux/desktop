@@ -4124,7 +4124,7 @@
     "pegtl": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pegtl.git",
       "branch": "master",
-      "revision": "124a2ed29f367dcf7ad92caab21fa96b467fed67"
+      "revision": "ffb894394ae6fe8bd4ba98fad11f5133b3ce66ca"
     },
     "phonon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/phonon.git",
