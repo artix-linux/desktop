@@ -2,7 +2,7 @@
 
 pkgname=kseexpr
 pkgver=4.0.4.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='An embeddable expression evaluation engine (Krita fork)'
 arch=(x86_64)
 url='https://krita.org'
@@ -14,7 +14,7 @@ source=(https://download.kde.org/stable/kseexpr/${pkgver%.*}/$pkgname-$pkgver.ta
 sha256sums=('ea4f6a8e820e6cc12d2a1e6977e96ea5457f37729fe0bc4ee8cc62d4c26c36ae')
 
 build() {
-  cmake -B build -S $pkgname-$pkgver \
+  artix-cmake -B build -S $pkgname-$pkgver \
     -DCMAKE_INSTALL_PREFIX=/usr \
     -DBUILD_DEMOS=OFF \
     -DBUILD_TESTS=OFF
