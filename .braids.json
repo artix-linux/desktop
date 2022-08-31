@@ -4644,7 +4644,7 @@
     "spglib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
       "branch": "master",
-      "revision": "21489b6d9df985fb95dea69a12791d7ef5f13fd6"
+      "revision": "7c2d8bcd757005f33754e1298e68e1e3fa9ceef0"
     },
     "spice": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spice.git",
