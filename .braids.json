@@ -2569,7 +2569,7 @@
     "krename": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
       "branch": "master",
-      "revision": "74814da04b939f4d34a51337109e5b06b065555a"
+      "revision": "dd7ea6ff0a5becbe692f26e2bb25725712fd6849"
     },
     "kreversi": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kreversi.git",
