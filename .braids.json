@@ -3614,7 +3614,7 @@
     "man-pages-l10n": {
       "url": "gitea@gitea.artixlinux.org:packagesM/man-pages-l10n.git",
       "branch": "master",
-      "revision": "9d846f8ddd4e7e1735aad27c8c90e5daa62e7daf"
+      "revision": "1029b502bf5ed125ebf3d999696bb5ec7fbdba6c"
     },
     "marble": {
       "url": "gitea@gitea.artixlinux.org:packagesM/marble.git",
