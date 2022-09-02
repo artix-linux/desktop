@@ -3259,7 +3259,7 @@
     "libreoffice-fresh": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-fresh.git",
       "branch": "master",
-      "revision": "d2c63e5a1d721019188f1defb3ab279c3eceedc5"
+      "revision": "046b99d89f00900ed20ae284e45190bee43f2ca7"
     },
     "libreoffice-fresh-i18n": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-fresh-i18n.git",
