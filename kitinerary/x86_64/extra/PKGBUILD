@@ -2,7 +2,7 @@
 
 pkgname=kitinerary
 pkgver=22.08.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Data model and extraction system for travel reservation information'
 arch=(x86_64)
 url='https://kontact.kde.org'
@@ -18,7 +18,7 @@ validpgpkeys=(CA262C6C83DE4D2FB28A332A3A6A4DB839EAA6D7  # Albert Astals Cid <aac
 options=(debug)
 
 build() {
-  cmake -B build -S $pkgname-$pkgver \
+  artix-cmake -B build -S $pkgname-$pkgver \
     -DCMAKE_INSTALL_LIBEXECDIR=lib \
     -DBUILD_TESTING=OFF \
     -DBUILD_QCH=ON
