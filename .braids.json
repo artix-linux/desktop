@@ -5259,7 +5259,7 @@
     "xfce4-pulseaudio-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-pulseaudio-plugin.git",
       "branch": "master",
-      "revision": "7d61adb85d13941228dafa3c345cb3890df12087"
+      "revision": "6b99cb9afe2ecbaa58e9ffb5593649f0a6c027cf"
     },
     "xfce4-screensaver": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screensaver.git",
