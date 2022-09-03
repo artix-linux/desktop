@@ -1,6 +1,7 @@
 # Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Tobias Kieslich <tobias@justdreams.de>
 # Contributor: tobias <tobias@archlinux.org>
+#
 
 pkgname=inkscape
 pkgver=1.2.1
@@ -55,7 +56,7 @@ _backports=(
 
 prepare() {
 	cd "${pkgname}"
-	git submodule update --init --recursive 
+	git submodule update --init --recursive
 
 	local _c
 	for _c in "${_backports[@]}"; do
