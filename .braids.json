@@ -5089,7 +5089,7 @@
     "xarchiver": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xarchiver.git",
       "branch": "master",
-      "revision": "6d2d1e6f0d05765f2ab25e82708ea1ec302b1a58"
+      "revision": "fe417f6a13423ad71826eb4fbcab905f49c947ed"
     },
     "xaw3d": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xaw3d.git",
