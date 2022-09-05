@@ -4944,7 +4944,7 @@
     "tree-sitter": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tree-sitter.git",
       "branch": "master",
-      "revision": "ad56eca02b68edee66878ae4549d95538298aeba"
+      "revision": "b79abb1a9cd91b58519e52a03496616379232dd7"
     },
     "trojita": {
       "url": "gitea@gitea.artixlinux.org:packagesT/trojita.git",
