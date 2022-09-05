@@ -5,7 +5,7 @@
 # Contributor: Ner0
 
 pkgname=muffin
-pkgver=5.4.6
+pkgver=5.4.7
 pkgrel=1
 pkgdesc="Cinnamon window manager based on Mutter"
 arch=(x86_64)
@@ -16,8 +16,8 @@ depends=(cinnamon-desktop gobject-introspection-runtime libcanberra libinput
 makedepends=(meson intltool gobject-introspection)
 options=(!emptydirs)
 source=(${url}/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('7b3c2680a899dd686f5e5dc11446601d0568b740869c4924310229c6dfd7869f')
-b2sums=('0428afa08d6a04c0a49de41a1bd573c1b4e73f3dd77afa5d0bbdf4f5036a948a87610ee3fca89cace96fe122340627beff2d8d95953b79f75c736767b6e6946c')
+sha256sums=('fda1ff5149a0ea876deccb832b010af66cfb77a00dd68a848cc3d8e7e11fe56d')
+b2sums=('53e2debb404f1712b2c23b7d46cf020389acff50067f39ed8a99272688b0ec95fe8e1e14a1c032a36ae4e80a55099390cebaec156bd6da81d3a89629e627e8b3')
 
 build() {
   artix-meson build ${pkgname}-${pkgver}
