@@ -614,7 +614,7 @@
     "digikam": {
       "url": "gitea@gitea.artixlinux.org:packagesD/digikam.git",
       "branch": "master",
-      "revision": "e5fc842502efb61ab5bca16980c7fde2a4f85920"
+      "revision": "3080029f0b68ceda24d92000db9d5c103fc93c5e"
     },
     "discount": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discount.git",
