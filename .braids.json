@@ -574,7 +574,7 @@
     "coordgen": {
       "url": "gitea@gitea.artixlinux.org:packagesC/coordgen.git",
       "branch": "master",
-      "revision": "d6695ba4a2f8eff139aedc50ad8f07f1a5cb4368"
+      "revision": "8993ec4f1ba00d8497b9aeead59c980e938996cf"
     },
     "ctags": {
       "url": "gitea@gitea.artixlinux.org:packagesC/ctags.git",
