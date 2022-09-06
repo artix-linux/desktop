@@ -3364,7 +3364,7 @@
     "lightdm-gtk-greeter": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lightdm-gtk-greeter.git",
       "branch": "master",
-      "revision": "27d66afcf9f77799473b851cee802a9931c236d6"
+      "revision": "6c69a5853f4e56c33031cbf2b469228d36a125c9"
     },
     "lightsoff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lightsoff.git",
