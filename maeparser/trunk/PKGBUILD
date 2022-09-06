@@ -13,7 +13,7 @@ source=(https://github.com/schrodinger/maeparser/archive/v$pkgver/$pkgname-$pkgv
 sha256sums=('fa8f9336de1e5d1cabec29a6da04547b1fb040bb32ba511ff30b4a14097c751c')
 
 build() {
-  cmake -B build -S $pkgname-$pkgver \
+  artix-cmake -B build -S $pkgname-$pkgver \
     -DCMAKE_INSTALL_PREFIX=/usr
   cmake --build build
 }
