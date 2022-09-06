@@ -5129,7 +5129,7 @@
     "xdg-desktop-portal-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
-      "revision": "8c4f06ce783bdbef07be593b7db6d98f018a9b15"
+      "revision": "7cca9f5fc1f33f6e8ae6fe52ceade77c801fcea6"
     },
     "xdg-user-dirs-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-user-dirs-gtk.git",
