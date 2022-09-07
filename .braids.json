@@ -3179,7 +3179,7 @@
     "libnma": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libnma.git",
       "branch": "master",
-      "revision": "8e8f90f2dbc75ce43a3d0b55e619ce5148a94c69"
+      "revision": "08a21bff47798ad76643183a3837f7fd1f13d243"
     },
     "libofx": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libofx.git",
