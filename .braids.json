@@ -4164,7 +4164,7 @@
     "pim-data-exporter": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-data-exporter.git",
       "branch": "master",
-      "revision": "904606dcf87ce55e2f7ea4f0222c64d1a957e37f"
+      "revision": "3121296d6c3a9f28444b184650bf36446cca333a"
     },
     "pim-sieve-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-sieve-editor.git",
