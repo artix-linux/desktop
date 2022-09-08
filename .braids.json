@@ -5004,7 +5004,7 @@
     "vde2": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vde2.git",
       "branch": "master",
-      "revision": "1da1876781cf5494c4f55e3a5bdb79f221564a62"
+      "revision": "25d14443044c9677f37ca0adf09e96e4c6840440"
     },
     "vertex-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vertex-themes.git",
