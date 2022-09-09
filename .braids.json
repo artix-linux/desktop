@@ -1659,7 +1659,7 @@
     "kalarm": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalarm.git",
       "branch": "master",
-      "revision": "c4cabb3d15a44843e84c0d92e6ebc69185bc0cf1"
+      "revision": "ed2d7c5239f1747d3003efac6024cb9787b59eba"
     },
     "kalendar": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalendar.git",
