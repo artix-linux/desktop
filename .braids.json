@@ -4074,7 +4074,7 @@
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
       "branch": "master",
-      "revision": "c9dcb04c3f5ddc3f9e98e68d4f7c9e3e1e808ed7"
+      "revision": "1b66f0c3733ab930e38d08a5b824c8f0ecb5e606"
     },
     "parole": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parole.git",
