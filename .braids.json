@@ -2379,7 +2379,7 @@
     "kmplot": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmplot.git",
       "branch": "master",
-      "revision": "d5e43402e05540491c67ef55176da240e501c06b"
+      "revision": "14b028345544519949d7ac916e47f8969d806ed3"
     },
     "kmymoney": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmymoney.git",
