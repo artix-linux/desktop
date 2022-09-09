@@ -2764,7 +2764,7 @@
     "kwalletmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwalletmanager.git",
       "branch": "master",
-      "revision": "36871cc485d8a8246d47b3b97c32886ae7c17c4d"
+      "revision": "a7865bc0c573da0abc92c5f4c4997ae5dd71b421"
     },
     "kwave": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwave.git",
