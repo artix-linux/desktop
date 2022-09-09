@@ -1674,7 +1674,7 @@
     "kalzium": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalzium.git",
       "branch": "master",
-      "revision": "0c6f37f78a3d23dcba186ece4340eb15cba05d62"
+      "revision": "d5035f8a74a3646002d4a29ab8d55286da39e09d"
     },
     "kamera": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kamera.git",
