@@ -2224,7 +2224,7 @@
     "kio-gdrive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-gdrive.git",
       "branch": "master",
-      "revision": "1013939543cd0995c58984c7017a251fd44e310c"
+      "revision": "b5b2d7712b3702ed3a7718a7ad31a035eaec317d"
     },
     "kipi-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kipi-plugins.git",
