@@ -3039,7 +3039,7 @@
     "libkdcraw": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdcraw.git",
       "branch": "master",
-      "revision": "474305465293d17f771537de764aea817c9d7516"
+      "revision": "625ba84e781ff3e02bd0fd675ea7303d11416e7a"
     },
     "libkdegames": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdegames.git",
