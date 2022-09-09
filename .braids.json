@@ -1664,7 +1664,7 @@
     "kalendar": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalendar.git",
       "branch": "master",
-      "revision": "3deb35ec76fdaf538878cc776cdbb8d6d21dc7c9"
+      "revision": "3e1f7e44eda80bad559f3fd132f1f95dcaf5cfc3"
     },
     "kalgebra": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalgebra.git",
