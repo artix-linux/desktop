@@ -1759,7 +1759,7 @@
     "kbruch": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbruch.git",
       "branch": "master",
-      "revision": "f0d0804a250e2f66edd9c1c475f37204eccff735"
+      "revision": "9ac0a7ace05e9f74844d1db8101c51d4b41c5d4f"
     },
     "kcachegrind": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcachegrind.git",
