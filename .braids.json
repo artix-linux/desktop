@@ -1699,7 +1699,7 @@
     "kapman": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapman.git",
       "branch": "master",
-      "revision": "de3337202408dc588536d3009cb55f1abc1218bc"
+      "revision": "e3c130ad28e66443975f05816a979c58fd498b12"
     },
     "kapptemplate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapptemplate.git",
