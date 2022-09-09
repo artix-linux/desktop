@@ -2769,7 +2769,7 @@
     "kwave": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwave.git",
       "branch": "master",
-      "revision": "bf12655694777205bf7f9e87545a8e1536d3dd92"
+      "revision": "3ad0a0df68bc51d6bfeabd7d647d46274b53f05b"
     },
     "kwayland": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwayland.git",
