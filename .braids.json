@@ -2364,7 +2364,7 @@
     "kmix": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmix.git",
       "branch": "master",
-      "revision": "d125822442e13324e523a434f22ccd364c23b888"
+      "revision": "7bb2da5c8e68710ae0e41caf282ac413bfce8ed9"
     },
     "kmousetool": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmousetool.git",
