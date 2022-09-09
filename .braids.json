@@ -1589,7 +1589,7 @@
     "itinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesI/itinerary.git",
       "branch": "master",
-      "revision": "3084b6edad55227f1e114c01c40475433f45b9d6"
+      "revision": "6601da0641652adac4f6113ea227e49dc8722319"
     },
     "jedi-language-server": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/jedi-language-server.git",
