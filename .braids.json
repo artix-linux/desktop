@@ -1754,7 +1754,7 @@
     "kbreakout": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbreakout.git",
       "branch": "master",
-      "revision": "9a10da9275e9abba3798fa83b5693ddf1f2502f0"
+      "revision": "27131c268bcc7dc78b6460178c467ddc7d14a1e7"
     },
     "kbruch": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbruch.git",
