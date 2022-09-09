@@ -1649,7 +1649,7 @@
     "kaddressbook": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaddressbook.git",
       "branch": "master",
-      "revision": "e199c884de56c72ece69ba6d07bc2a6cb314d084"
+      "revision": "2e91fdff2b7b0600fb216484216eb4d3d2218a39"
     },
     "kajongg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kajongg.git",
