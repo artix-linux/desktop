@@ -339,7 +339,7 @@
     "baloo-widgets": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baloo-widgets.git",
       "branch": "master",
-      "revision": "4b95eaba9a983e522057aa0d5d998d5025f90f0f"
+      "revision": "45f02cbb1e8c759d8c176b38a7d3a1a2b2771c21"
     },
     "baobab": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baobab.git",
