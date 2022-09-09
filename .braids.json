@@ -2099,7 +2099,7 @@
     "kgpg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgpg.git",
       "branch": "master",
-      "revision": "daaadb01f0361adad784a2ec8e5d962fe8ea4905"
+      "revision": "ebde962fd9fa16c0a22364519838e4bafbafc37d"
     },
     "kguiaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kguiaddons.git",
