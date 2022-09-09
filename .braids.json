@@ -3044,7 +3044,7 @@
     "libkdegames": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdegames.git",
       "branch": "master",
-      "revision": "bcd9a51e914af30ff002075e0e304a66c4843245"
+      "revision": "93b5b6aee02fd00f82526c55ce35b83901a90017"
     },
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
