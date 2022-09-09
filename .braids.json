@@ -1329,7 +1329,7 @@
     "granatier": {
       "url": "gitea@gitea.artixlinux.org:packagesG/granatier.git",
       "branch": "master",
-      "revision": "21d27819c1a51e77d85c18033adf23bbd682937c"
+      "revision": "764e36f7a42efc779fc8755a1d7ecc20611decc4"
     },
     "grantlee-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantlee-editor.git",
