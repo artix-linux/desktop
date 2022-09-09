@@ -4684,7 +4684,7 @@
     "step": {
       "url": "gitea@gitea.artixlinux.org:packagesS/step.git",
       "branch": "master",
-      "revision": "d4f7aae8008e6d41dc535f0e50252d2f851e2e06"
+      "revision": "e0f99cc0ccf737afb68c9cf44714759725ec477e"
     },
     "sushi": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sushi.git",
