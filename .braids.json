@@ -1964,7 +1964,7 @@
     "kdevelop": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop.git",
       "branch": "master",
-      "revision": "10c71f364a5095bc0820cbe168865dc5ce9e744d"
+      "revision": "57454019797e3d559e070dffdf16b75215321cb1"
     },
     "kdevelop-pg-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop-pg-qt.git",
