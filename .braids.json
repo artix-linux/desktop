@@ -4739,7 +4739,7 @@
     "syntax-highlighting": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syntax-highlighting.git",
       "branch": "master",
-      "revision": "31f58cb779f44a562a00091c30737832b3683f6f"
+      "revision": "02b14ff762828881715051c77ef1508bcbfd48ab"
     },
     "sysprof": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sysprof.git",
