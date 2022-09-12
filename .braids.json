@@ -2594,7 +2594,7 @@
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
       "branch": "master",
-      "revision": "e4a07f34f3912dc5064d1e4b19931097adb2ace2"
+      "revision": "68ebe9355801c43e198ba2443f1954755dd699b2"
     },
     "kruler": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kruler.git",
