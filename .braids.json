@@ -379,7 +379,7 @@
     "bluez-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bluez-qt.git",
       "branch": "master",
-      "revision": "c4947368641c842482fabc24f0cf308bbad05be9"
+      "revision": "d877de962948a3c3216ed2f39be0af1fdd5aea83"
     },
     "bogofilter": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bogofilter.git",
