@@ -4869,7 +4869,7 @@
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
       "branch": "master",
-      "revision": "60d99e7329bcf61e3d58eab037af565f0c283e7b"
+      "revision": "afb5892bb63330a61398134526a43de1b5e90a5b"
     },
     "thunar": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunar.git",
