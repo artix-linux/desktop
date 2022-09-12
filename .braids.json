@@ -2559,7 +2559,7 @@
     "kquickcharts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kquickcharts.git",
       "branch": "master",
-      "revision": "774aaa33918656d13b8bc350875e1709c77d07d9"
+      "revision": "a9566df92d39b4e7db1ac6d2608188e25def2101"
     },
     "kquickimageeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kquickimageeditor.git",
