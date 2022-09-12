@@ -2544,7 +2544,7 @@
     "kpty": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpty.git",
       "branch": "master",
-      "revision": "c32b4187e2a3d527c159c1099b7ed2f4a1686bbb"
+      "revision": "5c07d233ac19d53e7a8fe284e9254e924a22d602"
     },
     "kpublictransport": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpublictransport.git",
