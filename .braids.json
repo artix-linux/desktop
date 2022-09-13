@@ -3129,7 +3129,7 @@
     "libluv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libluv.git",
       "branch": "master",
-      "revision": "2b46d6ee07d41ddf84891554fc1ceaf112021b8b"
+      "revision": "3465e245be46652fc445479fd7c1dadde434ba95"
     },
     "liblxqt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblxqt.git",
