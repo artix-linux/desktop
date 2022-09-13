@@ -2,7 +2,7 @@
 # Maintainer: nous <nous@artixlinux.org>
 
 pkgname=calamares
-pkgver=3.2.60
+pkgver=3.2.61
 pkgrel=1
 pkgdesc='Distribution-independent installer framework'
 arch=('x86_64')
@@ -17,13 +17,12 @@ source=("${url}/archive/v$pkgver.tar.gz"
         postcfg.patch
         services-runit.patch
         services-s6.patch
-        services-suite66.patch
+#         services-suite66.patch
         services-dinit.patch)
-sha256sums=('9ec6c49f4e2316cd3058d402c2ab65efff02e3f09a0028d50f0359e5154e6c8c'
+sha256sums=('35fd3f2fed96e444465507bdafee6a982c0f9a6c4c7759e70234d49093743b04'
             '77c2d46c511ad6ea4f2c9663007f9d5a4cc2c385223498982d3feb4e56becc68'
             '820d515f5788b7b55e3ebaa2357db643bc1d554e931649980d8b39a6a26b51e0'
             '659c37cbc9f8fb29612aaf336ffc0b2a380cce7c0b6b065506a449465b11538b'
-            'b74faf40a76cc9648967fbfb79796c9e0f283d4088d0a200baed14fe923c6b8e'
             'e8fe3bd2204a527409e495f23bf9c59098d97c5d21afd97006a81ff4fc414e24')
 
 prepare() {
@@ -32,7 +31,7 @@ prepare() {
     patch -Np 1 -i $srcdir/postcfg.patch
     patch -Np 1 -i $srcdir/services-runit.patch
     patch -Np 1 -i $srcdir/services-s6.patch
-    patch -Np 1 -i $srcdir/services-suite66.patch
+#     patch -Np 1 -i $srcdir/services-suite66.patch
     patch -Np 1 -i $srcdir/services-dinit.patch
 }
 
