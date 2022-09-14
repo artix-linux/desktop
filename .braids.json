@@ -694,7 +694,7 @@
     "easytag": {
       "url": "gitea@gitea.artixlinux.org:packagesE/easytag.git",
       "branch": "master",
-      "revision": "43f713f449ef92e14d9b85161e4a9df62e786a4d"
+      "revision": "d80d453c68cdaf5bf42bb2808464c875d46868fa"
     },
     "ebook-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesE/ebook-tools.git",
