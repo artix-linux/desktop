@@ -4554,7 +4554,7 @@
     "signal-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signal-desktop.git",
       "branch": "master",
-      "revision": "925d3d967a864e11468e576e8e107b469ba6935e"
+      "revision": "597fb5c08a3875b44bfa0a48c155b3ca1f66410b"
     },
     "signon-kwallet-extension": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signon-kwallet-extension.git",
