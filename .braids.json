@@ -4124,7 +4124,7 @@
     "pdfmixtool": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdfmixtool.git",
       "branch": "master",
-      "revision": "0d7eb879624eca56f6952b1e57473de1f67bef67"
+      "revision": "fabbc4b128b20b1f55c28a779ecb90440501180e"
     },
     "pegtl": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pegtl.git",
