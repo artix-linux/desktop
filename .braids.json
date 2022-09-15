@@ -4089,7 +4089,7 @@
     "pavucontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pavucontrol.git",
       "branch": "master",
-      "revision": "21f0bd0c58e98db59c96e62f0b68e062fe76e6b7"
+      "revision": "d1c8afe27dc4727937ce10e1c55d122ab95d686b"
     },
     "pavucontrol-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pavucontrol-qt.git",
