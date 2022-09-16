@@ -3244,7 +3244,7 @@
     "libquvi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquvi.git",
       "branch": "master",
-      "revision": "e6962825b4dce25c0888d0a404c0ed5a8ebf9ef3"
+      "revision": "72d7064e715dba80e4907a4b12d95df1b23de420"
     },
     "libquvi-scripts": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquvi-scripts.git",
