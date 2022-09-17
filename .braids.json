@@ -2014,7 +2014,7 @@
     "kdsoap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdsoap.git",
       "branch": "master",
-      "revision": "ac54017ecafd5f2142296d6fdc0b14e0a64df0a7"
+      "revision": "b42e5f9a7df0fbf5d18de2c0406a3177e74d3de4"
     },
     "kdsoap-ws-discovery-client": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdsoap-ws-discovery-client.git",
