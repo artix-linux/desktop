@@ -72,6 +72,8 @@ prepare() {
 #  printf "%s" "$_mozilla_api_key" >mozilla-api-key
   cp ../mozconfig.cfg .mozconfig
   sed "s|@PWD@|${PWD@Q}|g" -i .mozconfig
+# EVENT__SIZEOF_TIME_T does not exist on upstream libevent, see event-config.h.cmake
+  sed -i '/CHECK_EVENT_SIZEOF(TIME_T, time_t);/d' ipc/chromium/src/base/message_pump_libevent.cc
 }
 
 build() {
