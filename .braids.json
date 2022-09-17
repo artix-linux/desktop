@@ -3869,7 +3869,7 @@
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
       "branch": "master",
-      "revision": "22456762f154c0020a3470899f272f947e6a7063"
+      "revision": "817002545ba1a27d71abad0e73ccdc7cd21e1a6b"
     },
     "mutter6": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter6.git",
