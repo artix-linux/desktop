@@ -3261,11 +3261,6 @@
       "branch": "master",
       "revision": "8c3cf6913a6354d507ab42a12380304b4e392702"
     },
-    "libreoffice-fresh-i18n": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-fresh-i18n.git",
-      "branch": "master",
-      "revision": "5a605288f9b9516ef01b985644678b72fc72f13d"
-    },
     "librttopo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librttopo.git",
       "branch": "master",
