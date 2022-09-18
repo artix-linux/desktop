@@ -3214,7 +3214,7 @@
     "libpst": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpst.git",
       "branch": "master",
-      "revision": "f1319c5539b15f04c8a3c5944016391aeea0cc3e"
+      "revision": "e9be1edc5214daf1b1518a90df7dffb37c2fe976"
     },
     "libqaccessibilityclient": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqaccessibilityclient.git",
