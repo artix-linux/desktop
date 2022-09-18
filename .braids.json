@@ -1574,7 +1574,7 @@
     "inkscape": {
       "url": "gitea@gitea.artixlinux.org:packagesI/inkscape.git",
       "branch": "master",
-      "revision": "d9dde14bd187d386887877b6e37d1a8b2e6c9239"
+      "revision": "70d61c3db665c079dbbc1f73953d871b3710121c"
     },
     "iso-flag-png": {
       "url": "gitea@gitea.artixlinux.org:packagesI/iso-flag-png.git",
