@@ -1,0 +1,136 @@
+From 21af7969ffcf4968bde44d58e2c29fa7f7890306 Mon Sep 17 00:00:00 2001
+From: artoo <artoo@artixlinux.org>
+Date: Wed, 9 Dec 2020 00:19:06 +0100
+Subject: [PATCH] add postcfg
+
+---
+ src/modules/postcfg/main.py      | 92 ++++++++++++++++++++++++++++++++
+ src/modules/postcfg/module.desc  |  6 +++
+ src/modules/postcfg/postcfg.conf |  3 ++
+ 3 files changed, 101 insertions(+)
+ create mode 100644 src/modules/postcfg/main.py
+ create mode 100644 src/modules/postcfg/module.desc
+ create mode 100644 src/modules/postcfg/postcfg.conf
+
+diff --git a/src/modules/postcfg/main.py b/src/modules/postcfg/main.py
+new file mode 100644
+index 000000000..e8a9a95b7
+--- /dev/null
++++ b/src/modules/postcfg/main.py
+@@ -0,0 +1,92 @@
++#!/usr/bin/env python3
++# -*- coding: utf-8 -*-
++#
++# === This file is part of Calamares - <http://github.com/calamares> ===
++#
++#   Copyright 2014 - 2016, Philip Müller <philm@manjaro.org>
++#   Copyright 2016, Artoo <artoo@manjaro.org>
++#   Copyright 2018, Artoo <artoo@artixlinux.org>
++#
++#   Calamares is free software: you can redistribute it and/or modify
++#   it under the terms of the GNU General Public License as published by
++#   the Free Software Foundation, either version 3 of the License, or
++#   (at your option) any later version.
++#
++#   Calamares is distributed in the hope that it will be useful,
++#   but WITHOUT ANY WARRANTY; without even the implied warranty of
++#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
++#   GNU General Public License for more details.
++#
++#   You should have received a copy of the GNU General Public License
++#   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
++
++
++from os.path import join, exists
++
++import libcalamares
++from libcalamares.utils import target_env_call
++
++
++class ConfigController:
++    """Configuration controller
++    """
++
++    def __init__(self):
++        self.root = libcalamares.globalstorage.value("rootMountPoint")
++        self.keyrings = libcalamares.job.configuration.get('keyrings', [])
++
++    def terminate(self, proc):
++        """Send SIGKILL to the given proccess
++        """
++        target_env_call(['killall', '-9', proc])
++
++    def sedFile(self, pattern, file):
++        """Sed the given file with the given pattern
++        """
++        target_env_call(["sed", "-e", pattern, "-i", file])
++
++    def configure(self):
++        """Configure the services
++        """
++        if exists(join(self.root, "/etc/conf.d/keymaps")):
++            exp = 's|^.*keymap=.*|keymap="{}"|'.format(
++                libcalamares.globalstorage.value("keyboardLayout")
++            )
++            self.sedFile(exp, "/etc/conf.d/keymaps")
++
++        if exists(join(self.root, "/etc/conf.d/xdm")):
++            for dm in libcalamares.globalstorage.value("displayManagers"):
++                exp = 's|^.*DISPLAYMANAGER=.*|DISPLAYMANAGER="{}"|'.format(dm)
++                self.sedFile(exp, "/etc/conf.d/xdm")
++
++        action = "--init"
++        ec = target_env_call(["pacman-key", action])
++        if ec != 0:
++            warning("pacman-key returned error code {!s}".format(ec))
++
++        action = "--populate"
++        ec = target_env_call(["pacman-key", action, *self.keyrings])
++        if ec != 0:
++            warning("pacman-key returned error code {!s}".format(ec))
++
++
++
++    def run(self):
++        """Run the controller
++
++        Workaround for pacman-key bug
++        FS#45351 https://bugs.archlinux.org/task/45351
++        We have to kill gpg-agent because if it stays
++        around we can't reliably unmount
++        the target partition.
++        """
++        self.configure()
++        self.terminate('gpg-agent')
++
++
++def run():
++    """ Misc postinstall configurations """
++
++    config = ConfigController()
++
++    return config.run()
+diff --git a/src/modules/postcfg/module.desc b/src/modules/postcfg/module.desc
+new file mode 100644
+index 000000000..77e9ca4dd
+--- /dev/null
++++ b/src/modules/postcfg/module.desc
+@@ -0,0 +1,6 @@
++# Syntax is YAML 1.2
++---
++type:       "job"
++name:       "postcfg"
++interface:  "python"
++script:     "main.py"   #assumed relative to the current directory
+diff --git a/src/modules/postcfg/postcfg.conf b/src/modules/postcfg/postcfg.conf
+new file mode 100644
+index 000000000..069955e52
+--- /dev/null
++++ b/src/modules/postcfg/postcfg.conf
+@@ -0,0 +1,3 @@
++---
++# list pacman keyrings to populate
++keyrings: []
+-- 
+2.29.2
+
