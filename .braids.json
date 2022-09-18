@@ -434,7 +434,7 @@
     "calamares": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calamares.git",
       "branch": "master",
-      "revision": "c029500d31db47a36f3be1b23c78407d29378ca4"
+      "revision": "1697bc1aa82fb93b1d9f3d9b0cfd4f355df4568e"
     },
     "calamares-branding": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calamares-branding.git",
