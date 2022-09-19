@@ -2854,7 +2854,7 @@
     "libappimage": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libappimage.git",
       "branch": "master",
-      "revision": "67c90f53f48eb2fee7cd67de5e7cf58b2815da20"
+      "revision": "f97d6fb062224e44e151d8e77fdb4324a762adab"
     },
     "libcerf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcerf.git",
