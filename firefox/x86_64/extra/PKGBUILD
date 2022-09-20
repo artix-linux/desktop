@@ -32,7 +32,7 @@ validpgpkeys=('14F26682D0916CDD81E37B6D61B7B526D98F0353') # Mozilla Software Rel
 prepare() {
   mkdir mozbuild
   cd firefox-$pkgver
-
+  cat >../mozconfig <<END
 ac_add_options --enable-application=browser
 mk_add_options MOZ_OBJDIR=${PWD@Q}/obj
 
