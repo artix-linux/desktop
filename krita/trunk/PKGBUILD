@@ -31,7 +31,7 @@ prepare() {
 }
 
 build() {
-  artix-cmake build -S $pkgname-$_pkgver \
+  artix-cmake -B build -S $pkgname-$_pkgver \
     -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON
   cmake --build build
 }
