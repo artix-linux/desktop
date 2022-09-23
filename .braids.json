@@ -4929,7 +4929,7 @@
     "tracker3-miners": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tracker3-miners.git",
       "branch": "master",
-      "revision": "c9986fbba95eb01a4b999d701b40f2e3a5609a18"
+      "revision": "a9db23b7ae8ee4886cb86aa69a4213dde8097d53"
     },
     "tree-sitter": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tree-sitter.git",
