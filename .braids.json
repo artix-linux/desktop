@@ -2956,6 +2956,11 @@
       "branch": "master",
       "revision": "77705f2c6351adc705943aef7e9ed23d74b55e05"
     },
+    "libgig": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libgig.git",
+      "branch": "master",
+      "revision": "225cbe06c90d195b7272db178a4978da5ab5aaf5"
+    },
     "libgit2-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgit2-glib.git",
       "branch": "master",
