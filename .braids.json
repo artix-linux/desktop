@@ -4681,6 +4681,11 @@
       "branch": "master",
       "revision": "31d9dceba9891e7da1df3cc748124058e0e470cb"
     },
+    "stk": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/stk.git",
+      "branch": "master",
+      "revision": "191d13f42e3ac885c2f2b2e0873a1ad4aeac6377"
+    },
     "sushi": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sushi.git",
       "branch": "master",
