@@ -2959,7 +2959,7 @@
     "libgig": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgig.git",
       "branch": "master",
-      "revision": "225cbe06c90d195b7272db178a4978da5ab5aaf5"
+      "revision": "7574d1f1888a399797c065e82541c3c67f16a5de"
     },
     "libgit2-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgit2-glib.git",
