@@ -2944,7 +2944,7 @@
     "libgee": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgee.git",
       "branch": "master",
-      "revision": "693a2c7c8fa1e1d3096f45333eee160412183075"
+      "revision": "957d94b9c51dbe0c6c9a1a42f5fddafdc86d556f"
     },
     "libgeotiff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgeotiff.git",
