@@ -949,7 +949,7 @@
     "gimp": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gimp.git",
       "branch": "master",
-      "revision": "c725e642c82425adc950186c26329c4ba61a0b51"
+      "revision": "72155293d374d1aac8ef8c92150c57c4edb9c581"
     },
     "gjs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
