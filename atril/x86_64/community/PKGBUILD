@@ -1,9 +1,9 @@
-# Maintainer: Brad Fanella <cesura@archlinux.org>
+# Maintainer: Nathan Owens <ndowens@artixlinux.org>
 # Contributor: Martin Wimpress <code@flexion.org>
 
 pkgname=atril
 pkgver=1.26.0
-pkgrel=1
+pkgrel=2
 pkgdesc="MATE document viewer"
 url="https://mate-desktop.org"
 arch=('x86_64')
