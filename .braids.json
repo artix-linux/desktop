@@ -1529,7 +1529,7 @@
     "i3-wm": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3-wm.git",
       "branch": "master",
-      "revision": "2e76dd78b6cb035ceb6edc210ad8391176e99f63"
+      "revision": "a55d3bc0468bdfd202dd03f2c1d1ed792ae95e58"
     },
     "i3blocks": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3blocks.git",
