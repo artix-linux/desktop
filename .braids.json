@@ -3189,7 +3189,7 @@
     "libofx": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libofx.git",
       "branch": "master",
-      "revision": "92836e424c440f45aafc83b084a16de4561c90af"
+      "revision": "97acf9973ce2fa7e942057c32a4bfb802cd01dfb"
     },
     "libosinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libosinfo.git",
