@@ -720,7 +720,6 @@ package_qemu-system-arm-firmware() {
   pkgdesc="Firmware for QEMU system emulator for ARM"
   options=(!strip)
   mv -v $pkgname/* "$pkgdir"
-  mv -v $pkgname/* "$pkgdir"
 }
 
 package_qemu-system-avr() {
