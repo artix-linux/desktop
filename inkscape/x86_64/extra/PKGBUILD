@@ -1,11 +1,11 @@
-# Maintainer: Nathan Owens <ndowens@artixlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Tobias Kieslich <tobias@justdreams.de>
 # Contributor: tobias <tobias@archlinux.org>
 
 pkgname=inkscape
 pkgver=1.2.1
 _tag='9c6d41e4102d2e2e21a6d53ddba38ce202271001' # git rev-parse INKSCAPE_${pkgver/./_}
-pkgrel=6.1
+pkgrel=7
 pkgdesc='Professional vector graphics editor'
 url='https://inkscape.org/'
 license=('GPL' 'LGPL')
@@ -25,6 +25,7 @@ depends=(
 	'lib2geom'
 	'libcdr'
 	'libjpeg-turbo'
+	'libsoup'
 	'libvisio'
 	'libxslt'
 	'poppler-glib'
@@ -65,9 +66,6 @@ prepare() {
 
 	# https://gitlab.com/inkscape/inkscape/-/merge_requests/4719
 	patch -Np1 -i ../inkscape-1.2.1-poppler-22.09.0.patch
-
-	# fixes incorrect paths; can be removed in a future release
-	git cherry-pick -n 4d7c719572623bc35c01ac46a3b81ffbbbe1862f
 }
 
 build() {
