@@ -3834,7 +3834,7 @@
     "mmtf-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mmtf-cpp.git",
       "branch": "master",
-      "revision": "513da6408e9575af3d26bdf419c9dd477c93f40a"
+      "revision": "2c33ab5e2e49b1d7c44d7b86b896fad5992c2f7c"
     },
     "mod_dnssd": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mod_dnssd.git",
