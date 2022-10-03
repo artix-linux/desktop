@@ -68,7 +68,8 @@ prepare() {
 	patch -Np1 -i ../inkscape-1.2.1-poppler-22.09.0.patch
         
         # fixes incorrect paths; can be removed in a future release
-	git cherry-pick -n 4d7c719572623bc35c01ac46a3b81ffbbbe1862f}
+	git cherry-pick -n 4d7c719572623bc35c01ac46a3b81ffbbbe1862f
+}
 
 build() {
 	mkdir -p build
