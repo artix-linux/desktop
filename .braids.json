@@ -1384,7 +1384,7 @@
     "gspell": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gspell.git",
       "branch": "master",
-      "revision": "d09ff24ce4cd3681a57afbb090c86c52b260a81a"
+      "revision": "28f88d050d0b3105f58891a6150d2b8908582cc4"
     },
     "gtk-layer-shell": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtk-layer-shell.git",
