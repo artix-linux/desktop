@@ -1404,7 +1404,7 @@
     "gucharmap": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gucharmap.git",
       "branch": "master",
-      "revision": "3a2c13b954061ee9722f3a0c4d460bbe07ea4dc9"
+      "revision": "c0d74f91126ba11f5d0814f9aa2511487a26a337"
     },
     "gufw": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gufw.git",
