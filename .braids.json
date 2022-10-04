@@ -599,7 +599,7 @@
     "dconf-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dconf-editor.git",
       "branch": "master",
-      "revision": "c29dcfa252df441ef280f14eb5a4c48dba106e66"
+      "revision": "5b2c3562e810a5aca4610e908b5dd1a71bb899e6"
     },
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
