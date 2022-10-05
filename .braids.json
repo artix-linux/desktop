@@ -649,7 +649,7 @@
     "dmenu": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dmenu.git",
       "branch": "master",
-      "revision": "0b06339f6f0c34e151246bfd188ae7d940c9fd14"
+      "revision": "9b830e528bf7746266a5ec7e345ee3a92fcc193b"
     },
     "docx2txt": {
       "url": "gitea@gitea.artixlinux.org:packagesD/docx2txt.git",
