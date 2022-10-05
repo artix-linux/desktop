@@ -5079,7 +5079,7 @@
     "wtf": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wtf.git",
       "branch": "master",
-      "revision": "7dbbf507f950464c8ae11e4c844574f04d4334b2"
+      "revision": "63d78f40e40612ef98342b0da4752e55aa03ef9b"
     },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
