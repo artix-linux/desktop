@@ -3994,7 +3994,7 @@
     "openrct2": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openrct2.git",
       "branch": "master",
-      "revision": "d94e83333db4b82c93ef1917535c1737130373ed"
+      "revision": "4bda7045f6e52dbbbb2ab615e444e1255a999206"
     },
     "openscenegraph": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openscenegraph.git",
