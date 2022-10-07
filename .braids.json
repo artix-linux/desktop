@@ -1554,7 +1554,7 @@
     "icewm": {
       "url": "gitea@gitea.artixlinux.org:packagesI/icewm.git",
       "branch": "master",
-      "revision": "4357a7ad8fdec05f67417ae26a51bac6e6361459"
+      "revision": "7ba1dafbbd9c444daaa3bb7604b04ef68e402afc"
     },
     "icon-naming-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesI/icon-naming-utils.git",
