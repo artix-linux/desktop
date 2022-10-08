@@ -5049,7 +5049,7 @@
     "weston": {
       "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
       "branch": "master",
-      "revision": "a52a2f60a6530a726d4304ca913480c7dc6b82f7"
+      "revision": "a4dab21c387193d105feaa4be37288d5c7f7452b"
     },
     "wf-recorder": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wf-recorder.git",
