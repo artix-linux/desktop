@@ -4509,7 +4509,7 @@
     "scribus": {
       "url": "gitea@gitea.artixlinux.org:packagesS/scribus.git",
       "branch": "master",
-      "revision": "dd15e744346e66065a516de1df3d05e81ee5b332"
+      "revision": "e9b78839914ef837444bb9526607420ea1bb2628"
     },
     "sddm": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sddm.git",
