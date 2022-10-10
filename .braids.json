@@ -2504,7 +2504,7 @@
     "kparts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kparts.git",
       "branch": "master",
-      "revision": "da7e0622adebb9f3d21ee41b950e608d402a1047"
+      "revision": "b457990065a630a49f0b9844ac4c8dd53a0cd3bf"
     },
     "kpat": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpat.git",
