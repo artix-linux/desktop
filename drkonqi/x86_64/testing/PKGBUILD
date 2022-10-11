@@ -10,9 +10,11 @@ license=(GPL2)
 depends=(kidletime syntax-highlighting kdeclarative kirigami2 kitemmodels kuserfeedback gdb)
 makedepends=(extra-cmake-modules)
 groups=(plasma)
-source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig})
+source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
+        no-systemd.patch)
 sha256sums=('41e65f062f6cd3b65b764824d3245f930dcc461d175855a98b436bb389f7fa07'
-            'SKIP')
+            'SKIP'
+            'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
               'D07BD8662C56CB291B316EB2F5675605C74E02CF'  # David Edmundson <davidedmundson@kde.org>
