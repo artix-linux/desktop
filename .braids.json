@@ -2739,7 +2739,7 @@
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
       "branch": "master",
-      "revision": "aa64b9491863c855795e0b06fa7b9a0437f7ccd5"
+      "revision": "eb19d4cce81f6cd59f069b59bedf2a739024b335"
     },
     "kuserfeedback": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kuserfeedback.git",
