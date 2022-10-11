@@ -3844,7 +3844,7 @@
     "modemmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesM/modemmanager-qt.git",
       "branch": "master",
-      "revision": "d307d1dcb705611074bf1358f87db3b5e39c2879"
+      "revision": "9c48f64d62ed590832e46526a13215794d384ff5"
     },
     "molequeue": {
       "url": "gitea@gitea.artixlinux.org:packagesM/molequeue.git",
