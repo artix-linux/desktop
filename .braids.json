@@ -274,7 +274,7 @@
     "aspell-pt": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell-pt.git",
       "branch": "master",
-      "revision": "6adca45367672f58777d34108e3cba3b48195ff5"
+      "revision": "75869f03f3313f0301b7d60a936d8b41ef937c7f"
     },
     "aspell-ru": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell-ru.git",
