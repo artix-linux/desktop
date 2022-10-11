@@ -2784,7 +2784,7 @@
     "kwidgetsaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
       "branch": "master",
-      "revision": "f089b7629146de6f9c0a58cb0d9ca461522207ef"
+      "revision": "3f0e116a4c9553655faf55c417f1133f403ea288"
     },
     "kwin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwin.git",
