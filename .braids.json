@@ -2526,6 +2526,11 @@
       "branch": "master",
       "revision": "3369785a58614aaf6858c63401f087dc167ee896"
     },
+    "kpipewire": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kpipewire.git",
+      "branch": "master",
+      "revision": "2cbf13aea660e3105b2e40fd4be684fcea242366"
+    },
     "kpkpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpkpass.git",
       "branch": "master",
