@@ -2,7 +2,7 @@
 
 pkgname=plasma-browser-integration
 pkgver=5.26.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Components necessary to integrate browsers into the Plasma Desktop'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
