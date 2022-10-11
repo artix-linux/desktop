@@ -2794,7 +2794,7 @@
     "kwindowsystem": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwindowsystem.git",
       "branch": "master",
-      "revision": "3d9a609f9f1097836c6ab30de2b08b88fee8b419"
+      "revision": "3e4ba5de3097245f3de5050b7a44e2d4e1f4b73d"
     },
     "kwordquiz": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwordquiz.git",
