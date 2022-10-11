@@ -4624,7 +4624,7 @@
     "sonnet": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sonnet.git",
       "branch": "master",
-      "revision": "bc9c0496d9c7335ef18f40427b9c185d4e29518a"
+      "revision": "22f15ff04a6b1c94e16812eb27257d68561ec788"
     },
     "sound-theme-freedesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sound-theme-freedesktop.git",
