@@ -9,7 +9,7 @@ pkgdesc='Library to retrieve information on the current status of computer hardw
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
-depends=(libxres qt5-webengine knewstuff)
+depends=(libxres qt5-webengine knewstuff libpcap libnl)
 makedepends=(extra-cmake-modules kdoctools qt5-tools)
 conflicts=('ksysguard<5.21.90')
 groups=(plasma)
@@ -32,7 +32,4 @@ build() {
 
 package() {
   DESTDIR="$pkgdir" cmake --install build
-
-  # remove systemd services
-  rm -r "$pkgdir"/usr/lib/systemd/user
 }
