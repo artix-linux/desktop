@@ -4,7 +4,7 @@
 
 pkgname=powerdevil
 pkgver=5.26.0
-pkgrel=1
+pkgrel=1.2
 pkgdesc='Manages the power consumption settings of a Plasma Shell'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
