@@ -4269,7 +4269,7 @@
     "plasma-workspace-wallpapers": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-workspace-wallpapers.git",
       "branch": "master",
-      "revision": "971941c0fad7307d0035619ca0cab8e8f31eb3e5"
+      "revision": "fe0f06b385b8ba54a1f81a2abc2a44c73bf5507b"
     },
     "plasma5-applets-active-window-control": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma5-applets-active-window-control.git",
