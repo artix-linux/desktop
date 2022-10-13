@@ -2,7 +2,7 @@
 
 pkgname=breeze-gtk
 pkgver=5.26.0
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='Breeze widget theme for GTK 2 and 3'
 arch=(any)
 url='https://kde.org/plasma-desktop/'
