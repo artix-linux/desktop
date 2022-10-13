@@ -1,18 +1,18 @@
 # Maintainer: artist <artist@artixlinux.org>
 
 pkgname=drkonqi
-pkgver=5.25.5
+pkgver=5.26.0
 pkgrel=1
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(GPL2)
-depends=(kidletime syntax-highlighting kdeclarative kirigami2 kitemmodels gdb)
+depends=(kidletime syntax-highlighting kdeclarative kirigami2 kitemmodels kuserfeedback gdb)
 makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
         no-systemd.patch)
-sha256sums=('675a6b1386215cfdfd76604d76906b3e601a34ea0880f148e5b149d1a85b846f'
+sha256sums=('41e65f062f6cd3b65b764824d3245f930dcc461d175855a98b436bb389f7fa07'
             'SKIP'
             'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
