@@ -749,7 +749,7 @@
     "eventviews": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eventviews.git",
       "branch": "master",
-      "revision": "30539ff4a024a6ec66a392f6660fd553a42f496b"
+      "revision": "5e620823ae00af9a7cfa3e54e22a9c1a4027f7d4"
     },
     "evince": {
       "url": "gitea@gitea.artixlinux.org:packagesE/evince.git",
