@@ -1934,7 +1934,7 @@
     "kdepim-runtime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdepim-runtime.git",
       "branch": "master",
-      "revision": "530772bae82ca13af3f94e6e7210b149f97a0fd0"
+      "revision": "18ed533912ac7e6c97a0d48c8f85b345b6dddf82"
     },
     "kdeplasma-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeplasma-addons.git",
