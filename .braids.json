@@ -4684,7 +4684,7 @@
     "step": {
       "url": "gitea@gitea.artixlinux.org:packagesS/step.git",
       "branch": "master",
-      "revision": "31d9dceba9891e7da1df3cc748124058e0e470cb"
+      "revision": "b47b443897c6a43dcfa7fcc8e41b5b98df50a9f0"
     },
     "stk": {
       "url": "gitea@gitea.artixlinux.org:packagesS/stk.git",
