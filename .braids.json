@@ -4804,7 +4804,7 @@
     "telepathy-kde-call-ui": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-call-ui.git",
       "branch": "master",
-      "revision": "3a7c4532be49281c310f156c3b1f211dde263478"
+      "revision": "216e08a840de9954d13cf4337e3eebc38b9881f3"
     },
     "telepathy-kde-common-internals": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-common-internals.git",
