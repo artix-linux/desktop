@@ -724,7 +724,7 @@
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
       "branch": "master",
-      "revision": "1a3b4375baa3442d7c11b3865735fb90c09ce7bd"
+      "revision": "6150f33fe77495b244847444a9421d1a92ed8534"
     },
     "engrampa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/engrampa.git",
