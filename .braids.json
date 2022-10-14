@@ -2654,7 +2654,7 @@
     "ksnakeduel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksnakeduel.git",
       "branch": "master",
-      "revision": "02b019c17281259933fc0af6f64d42f3b60d85b7"
+      "revision": "a5d3d9dad0a82e72029e29a24472fc7b742c4ed5"
     },
     "kspaceduel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kspaceduel.git",
