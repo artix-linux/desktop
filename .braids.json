@@ -2164,7 +2164,7 @@
     "kig": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kig.git",
       "branch": "master",
-      "revision": "38f01a8cfcdb521a53a8e1b8280c78d4c495c14c"
+      "revision": "4d8ece713e2e581bc03f71abc8d67b7531460fb0"
     },
     "kigo": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kigo.git",
