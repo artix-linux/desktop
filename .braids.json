@@ -1919,7 +1919,7 @@
     "kdenetwork-filesharing": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdenetwork-filesharing.git",
       "branch": "master",
-      "revision": "36df50f0e4d240661660af594821227773522335"
+      "revision": "fbba0a895c0290b51d7b846fd5a6b07460685822"
     },
     "kdenlive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdenlive.git",
