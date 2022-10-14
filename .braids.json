@@ -1799,7 +1799,7 @@
     "kcolorchooser": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcolorchooser.git",
       "branch": "master",
-      "revision": "5d2e3c0b7002ac308b81f2ddfc4cfbd74da400ee"
+      "revision": "4c2e1104dbf241cf41d4e4bcf27892939cfeb12b"
     },
     "kcolorpicker": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcolorpicker.git",
