@@ -49,7 +49,7 @@
     "akonadi-import-wizard": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-import-wizard.git",
       "branch": "master",
-      "revision": "d7906b448798ef1d1bd9decae629f462c1f065e0"
+      "revision": "2945dada7c406967463b86b711e743e877b96d5e"
     },
     "akonadi-mime": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-mime.git",
