@@ -3069,7 +3069,7 @@
     "libkexiv2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkexiv2.git",
       "branch": "master",
-      "revision": "accdfda13447c5b13db6e36bea8b879dcaa65676"
+      "revision": "f16d24cc07c07a54a2954f754c29db6e7414541b"
     },
     "libkgapi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkgapi.git",
