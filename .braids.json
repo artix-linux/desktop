@@ -2404,7 +2404,7 @@
     "knights": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knights.git",
       "branch": "master",
-      "revision": "c7aefea599b38a418afd7fbdbdbd7d2e4b95ab5f"
+      "revision": "d045147ed2cc09531c380a6aa2021888126e3b6b"
     },
     "knotes": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knotes.git",
