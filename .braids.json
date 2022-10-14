@@ -2119,7 +2119,7 @@
     "khelpcenter": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khelpcenter.git",
       "branch": "master",
-      "revision": "87cd72b48baace8fe38934d42b75e976e91a0e05"
+      "revision": "0026191920b6f5dd0065003df0672bac94e6a6a3"
     },
     "kholidays": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kholidays.git",
