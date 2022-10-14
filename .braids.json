@@ -1994,7 +1994,7 @@
     "kdialog": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdialog.git",
       "branch": "master",
-      "revision": "fc9afc877c82551cdeb0743fcfbbc5f0570076fe"
+      "revision": "2cad8ba4b13723f922c7be9612e330536b8ee08a"
     },
     "kdiamond": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdiamond.git",
