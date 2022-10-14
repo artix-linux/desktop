@@ -389,7 +389,7 @@
     "bomber": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bomber.git",
       "branch": "master",
-      "revision": "4d141692f075d68e453ecde4f78cc6868a283ecb"
+      "revision": "4395fd7ece51556dba0daca5264f961f7aa0ba15"
     },
     "bovo": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bovo.git",
