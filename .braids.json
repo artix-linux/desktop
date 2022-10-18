@@ -2074,7 +2074,7 @@
     "kgamma5": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgamma5.git",
       "branch": "master",
-      "revision": "a78c68b5bba5c099321be3f223c0d5513a74f5f3"
+      "revision": "33c33297a2ee966d08a3360a67570a5c7627c9cf"
     },
     "kgeography": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgeography.git",
