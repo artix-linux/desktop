@@ -3804,7 +3804,7 @@
     "milou": {
       "url": "gitea@gitea.artixlinux.org:packagesM/milou.git",
       "branch": "master",
-      "revision": "4983014a923ce96c93ba555f7f69b6e131aa998e"
+      "revision": "880c384cf0c040adce1dc88943f21f567d2cc0be"
     },
     "mint-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes.git",
