@@ -1854,7 +1854,7 @@
     "kde-cli-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-cli-tools.git",
       "branch": "master",
-      "revision": "09dbfc17a190f8f13c1017e59c28a9f618bda1a8"
+      "revision": "e30f7b851c01a29cacc49f9dd7031975ee24cc1c"
     },
     "kde-dev-scripts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-scripts.git",
