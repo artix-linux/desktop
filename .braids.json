@@ -4264,7 +4264,7 @@
     "plasma-workspace": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-workspace.git",
       "branch": "master",
-      "revision": "2c0d60f5102da4ce26b58e7b4b2abc32461ed301"
+      "revision": "3539ecd7f57a4f21d2e080f2677b2e5f4d0e87ed"
     },
     "plasma-workspace-wallpapers": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-workspace-wallpapers.git",
