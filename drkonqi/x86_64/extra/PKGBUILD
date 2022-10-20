@@ -2,7 +2,7 @@
 
 pkgname=drkonqi
 pkgver=5.26.1
-pkgrel=1
+pkgrel=2
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
@@ -11,9 +11,11 @@ depends=(kidletime syntax-highlighting kdeclarative kirigami2 kitemmodels kuserf
 makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
+        https://invent.kde.org/plasma/drkonqi/-/commit/40f8c115.patch
         no-systemd.patch)
 sha256sums=('3a76163ba01a53219efbc04487fa4b591e2811133bda51af18ef0a850a4903f7'
             'SKIP'
+            '86bb2a19b44f1d5006b564d81cf3156829d67c1ca91c674e58fcd4f36b7f5da6'
             'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
@@ -22,6 +24,7 @@ validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell
 options=(debug)
 
 prepare() {
+  patch -d $pkgname-$pkgver -p1 < 40f8c115.patch # Fix getting symbold from debuginfod server
   cd $pkgname-$pkgver
   patch -Np1 -i ../no-systemd.patch
 }
@@ -29,7 +32,8 @@ prepare() {
 build() {
   cmake -B build -S $pkgname-$pkgver \
     -DCMAKE_INSTALL_LIBEXECDIR=lib \
-    -DBUILD_TESTING=OFF
+    -DBUILD_TESTING=OFF \
+    -DWITH_GDB12=ON
   cmake --build build
 }
 
