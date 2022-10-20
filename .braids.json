@@ -859,7 +859,7 @@
     "freecell-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesF/freecell-solver.git",
       "branch": "master",
-      "revision": "7ad680fe1f3185088a5615fff7092ab651707c74"
+      "revision": "124138eb476c0ab85318001ca0cfc59a6805419b"
     },
     "galculator": {
       "url": "gitea@gitea.artixlinux.org:packagesG/galculator.git",
