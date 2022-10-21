@@ -2939,7 +2939,7 @@
     "libfprint": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfprint.git",
       "branch": "master",
-      "revision": "46b8f0ab092222732fc243ccb6d6dd2f9c676e15"
+      "revision": "f30cbd28ad2f55d258e554e30f10795e5961d7b4"
     },
     "libfreexl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfreexl.git",
