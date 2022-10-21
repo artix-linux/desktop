@@ -5419,7 +5419,7 @@
     "yaz": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yaz.git",
       "branch": "master",
-      "revision": "2aa551066a412ccc98fe80adc7888d29d3338db0"
+      "revision": "e6be5cfb4ca86a51df5303acee489840c951ad50"
     },
     "yelp": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yelp.git",
