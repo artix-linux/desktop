@@ -4929,7 +4929,7 @@
     "tracker": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tracker.git",
       "branch": "master",
-      "revision": "d4ab954cb1a3a61e732bdb173662d0a4feb03973"
+      "revision": "5e7218092b9efdfdd0b9d6d15024b3752054e4c1"
     },
     "tracker-miners": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tracker-miners.git",
