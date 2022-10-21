@@ -1,6 +1,6 @@
-From 462cc0f5346f5913cf7151044f1c232c5d21c1c3 Mon Sep 17 00:00:00 2001
+From 22dfa0d99ff20bab52358dfd8cfad422025842ee Mon Sep 17 00:00:00 2001
 From: Dudemanguy <random342@airmail.cc>
-Date: Mon, 5 Oct 2020 18:41:55 -0500
+Date: Thu, 20 Oct 2022 22:13:04 -0500
 Subject: [PATCH] meson: allow building with elogind
 
 Currently, the GDM meson build has a hard dependency on systemd.
@@ -30,10 +30,10 @@ index 074dd92e..bca58f7c 100644
    gio_dep,
    gio_unix_dep,
 diff --git a/data/meson.build b/data/meson.build
-index 7c5222ea..403336c3 100644
+index 2dec4c23..c3452e1c 100644
 --- a/data/meson.build
 +++ b/data/meson.build
-@@ -168,41 +168,53 @@ else
+@@ -164,41 +164,53 @@ else
    service_config.set('PLYMOUTH_QUIT_SERVICE', '')
  endif
  
@@ -113,7 +113,7 @@ index 7c5222ea..403336c3 100644
  # XSession
  if get_option('gdm-xsession')
 diff --git a/data/pam-arch/gdm-launch-environment.pam b/data/pam-arch/gdm-launch-environment.pam
-index 20d1810a..d8910d0a 100644
+index 3c4ad407..9d05e516 100644
 --- a/data/pam-arch/gdm-launch-environment.pam
 +++ b/data/pam-arch/gdm-launch-environment.pam
 @@ -14,4 +14,5 @@ session    optional                    pam_keyinit.so       force revoke
@@ -121,7 +121,7 @@ index 20d1810a..d8910d0a 100644
  session    optional                    pam_permit.so
  -session   optional                    pam_systemd.so
 +-session   optional                    pam_elogind.so
- session    required                    pam_env.so           user_readenv=1
+ session    required                    pam_env.so
 diff --git a/libgdm/meson.build b/libgdm/meson.build
 index 3f8cafbb..83e95151 100644
 --- a/libgdm/meson.build
@@ -136,12 +136,12 @@ index 3f8cafbb..83e95151 100644
  ]
  
 diff --git a/meson.build b/meson.build
-index e6fcf4b8..a86a486b 100644
+index f8549747..39a887b3 100644
 --- a/meson.build
 +++ b/meson.build
-@@ -92,21 +92,30 @@ xdmcp_dep = cc.find_library('Xdmcp', required: get_option('xdmcp'))
+@@ -99,21 +99,30 @@ xdmcp_dep = cc.find_library('Xdmcp', required: get_option('xdmcp'))
  if xdmcp_dep.found() and get_option('tcp-wrappers')
-   libwrap_dep = cc.find_library('libwrap')
+   libwrap_dep = cc.find_library('wrap')
  endif
 -# systemd
 -systemd_dep = dependency('systemd')
@@ -183,7 +183,7 @@ index e6fcf4b8..a86a486b 100644
  # Plymouth
  plymouth_dep = dependency('ply-boot-client', required: get_option('plymouth'))
  # Check for Solaris auditing API (ADT)
-@@ -313,6 +322,7 @@ summary({
+@@ -322,6 +331,7 @@ summary({
      'PAM Syslog': have_pam_syslog,
      'Supports PAM Extensions': pam_extensions_supported,
      'SeLinux': libselinux_dep.found(),
@@ -215,5 +215,5 @@ index 14e0b908..5135d7d6 100644
  option('udev-dir', type: 'string', value: '', description: 'Directory for udev rules file.')
  option('user', type: 'string', value: 'gdm', description: 'GDM\'s username.')
 -- 
-2.31.1
+2.38.1
 
