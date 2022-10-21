@@ -3944,7 +3944,7 @@
     "nuspell": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nuspell.git",
       "branch": "master",
-      "revision": "7e890b085749c94c1221ff572ae01fb2b31532de"
+      "revision": "723f2b5c60478dc88e47b11b7394cd9e27db377d"
     },
     "obconf-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesO/obconf-qt.git",
