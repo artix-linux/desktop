@@ -5139,7 +5139,7 @@
     "xdg-user-dirs-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-user-dirs-gtk.git",
       "branch": "master",
-      "revision": "70ca73a269c39f61f6383bbf3fde2887a92617bb"
+      "revision": "29257cfb6f8736242a430aad2fcafe54a07e00dd"
     },
     "xdg-utils-cxx": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-utils-cxx.git",
