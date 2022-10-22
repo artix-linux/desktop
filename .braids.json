@@ -1579,7 +1579,7 @@
     "innoextract": {
       "url": "gitea@gitea.artixlinux.org:packagesI/innoextract.git",
       "branch": "master",
-      "revision": "71cffcc1bb3b77167ca6a759c0d91545bda26632"
+      "revision": "15f2ce4bfc96357f2edb9937561ed2180b535540"
     },
     "iso-flag-png": {
       "url": "gitea@gitea.artixlinux.org:packagesI/iso-flag-png.git",
