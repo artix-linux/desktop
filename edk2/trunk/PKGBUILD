@@ -189,7 +189,6 @@ build() {
                        -D SECURE_BOOT_ENABLE \
                        -D SMM_REQUIRE
       mv -v Build/Ovmf{Ia32,IA32-secure-4mb}
-      mv -v Build/Ovmf{Ia32,IA32-secure}
       echo "Building ovmf ($_arch) with CSM support"
       OvmfPkg/build.sh -p OvmfPkg/OvmfPkgIa32.dsc \
                        -a "${_arch}" \
