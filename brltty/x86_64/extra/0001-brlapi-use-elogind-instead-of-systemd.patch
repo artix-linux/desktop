@@ -15,12 +15,12 @@ index f8529dda6..282bd5dea 100644
 +++ b/Programs/brlapi_client.c
 @@ -98,7 +98,7 @@
  #endif /* MAXIMUM_VIRTUAL_CONSOLE */
- 
+
  #ifdef HAVE_SD_SESSION_GET_VT
 -#include <systemd/sd-login.h>
 +#include <elogind/sd-login.h>
  #endif /* HAVE_SD_SESSION_GET_VT */
- 
+
  #define BRLAPI_NO_DEPRECATED
 diff --git a/configure.ac b/configure.ac
 index f2dfcf715..ddb7d4128 100644
@@ -29,7 +29,7 @@ index f2dfcf715..ddb7d4128 100644
 @@ -1223,13 +1223,13 @@ in
        ;;
  esac
- 
+
 -BRLTTY_HAVE_PACKAGE([systemd], [libsystemd], [
 +BRLTTY_HAVE_PACKAGE([elogind], [libelogind], [
     brltty_libs_save="${LIBS}"
