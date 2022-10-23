@@ -5014,7 +5014,7 @@
     "valabind": {
       "url": "gitea@gitea.artixlinux.org:packagesV/valabind.git",
       "branch": "master",
-      "revision": "3229e8029847db5da3b51c671073365fece5effa"
+      "revision": "d48720e0af6f0ca6b84b725d877d3de81741016f"
     },
     "vde2": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vde2.git",
