@@ -1299,7 +1299,7 @@
     "gnustep-base": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnustep-base.git",
       "branch": "master",
-      "revision": "146931d0878fab5a9d72803a161d619bf59ff88f"
+      "revision": "670fa0038a869be43bb43e24a07ff5abddd3c193"
     },
     "gnustep-make": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnustep-make.git",
