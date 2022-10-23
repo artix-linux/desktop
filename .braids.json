@@ -4874,7 +4874,7 @@
     "tepl": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tepl.git",
       "branch": "master",
-      "revision": "e5e10a82bffc3bd18a387c9362bf6589f2c5c7ec"
+      "revision": "8fef4fdc0caff1d65c2dc87e58726f2e9d4cdc96"
     },
     "threadweaver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/threadweaver.git",
