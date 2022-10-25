@@ -1084,7 +1084,7 @@
     "gnome-epub-thumbnailer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-epub-thumbnailer.git",
       "branch": "master",
-      "revision": "b8b4410e4f55a228e6e8c74c046d8718b4005b50"
+      "revision": "d051e533e0d38a2d98b697bfac39aee85d0b08ae"
     },
     "gnome-font-viewer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-font-viewer.git",
