@@ -33,7 +33,7 @@ prepare() {
 
   # Fix encoding test; perhaps caused by different glibc or locale env
   # https://gitlab.gnome.org/GNOME/epiphany/-/issues/1842
-  #git apply -3 ../fix-test.diff
+  # git apply -3 ../fix-test.diff
 }
 
 build() {
