@@ -1024,7 +1024,7 @@
     "gnome-calculator": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-calculator.git",
       "branch": "master",
-      "revision": "887fd41c7abe9ee0b1e1312930bb21a53586d2f2"
+      "revision": "5f1813bb1fe11379d07f8df15f484ae6aa62fe83"
     },
     "gnome-calendar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-calendar.git",
