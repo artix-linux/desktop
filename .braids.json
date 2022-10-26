@@ -3024,7 +3024,7 @@
     "libgweather-4": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgweather-4.git",
       "branch": "master",
-      "revision": "28d386cd09f35e10aa039995d47b4c8fa4c49ad0"
+      "revision": "ca0e066143e41711f08f139025ae2e33223e4b36"
     },
     "libiconv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libiconv.git",
