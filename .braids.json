@@ -4534,7 +4534,7 @@
     "sddm-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sddm-kcm.git",
       "branch": "master",
-      "revision": "c08b8a9fde1efe549cf97fcca18e946bc496a76c"
+      "revision": "c08771f76253e5f7c8ccf7e990ae95d9b4f00d51"
     },
     "sddm-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sddm-theme.git",
