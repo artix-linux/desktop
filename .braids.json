@@ -4584,7 +4584,7 @@
     "simple-scan": {
       "url": "gitea@gitea.artixlinux.org:packagesS/simple-scan.git",
       "branch": "master",
-      "revision": "924f75e77c992edf709f39d9e6f158ab11a2567d"
+      "revision": "f9f1cc565090e49e5f980a3efd17b1dd12ba689a"
     },
     "simplescreenrecorder": {
       "url": "gitea@gitea.artixlinux.org:packagesS/simplescreenrecorder.git",
