@@ -2634,7 +2634,7 @@
     "kscreenlocker": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kscreenlocker.git",
       "branch": "master",
-      "revision": "9e13425fcd2fa54c6abda87d0c948439a46bfdb6"
+      "revision": "0455cd71710b8bef2835db0da5e075096c9fde08"
     },
     "kseexpr": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kseexpr.git",
