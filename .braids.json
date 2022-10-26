@@ -886,6 +886,11 @@
       "branch": "master",
       "revision": "57548b8da45f8bb43102a7dc26d4f6e3afec15c4"
     },
+    "gcr-4": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gcr-4.git",
+      "branch": "master",
+      "revision": "02e20127f27f1232b483801b7b9db663b846a005"
+    },
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
       "branch": "master",
