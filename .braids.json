@@ -5066,6 +5066,11 @@
       "branch": "master",
       "revision": "05e1e74a15579543ff0681c0bb1b2c769e24efab"
     },
+    "webp-pixbuf-loader": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/webp-pixbuf-loader.git",
+      "branch": "master",
+      "revision": "312436b3033e3a72627733c2fc7bf6b9949b129c"
+    },
     "weston": {
       "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
       "branch": "master",

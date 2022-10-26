@@ -1,0 +1,2 @@
+# webp-pixbuf-loader
+
