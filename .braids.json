@@ -1609,7 +1609,7 @@
     "js102": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js102.git",
       "branch": "master",
-      "revision": "9ced2f3f0cd0f45d80b17cbefb689e6ca7332a53"
+      "revision": "b680c4ddbf2e59ca13dd4e802ebd0e834328e1c1"
     },
     "js91": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js91.git",
