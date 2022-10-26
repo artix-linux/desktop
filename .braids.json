@@ -3281,6 +3281,11 @@
       "branch": "master",
       "revision": "8c3cf6913a6354d507ab42a12380304b4e392702"
     },
+    "librest": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/librest.git",
+      "branch": "master",
+      "revision": "dc7f6519438ba7c8339afefe083c580d012384d9"
+    },
     "librttopo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librttopo.git",
       "branch": "master",
