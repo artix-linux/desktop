@@ -1419,7 +1419,7 @@
     "gupnp-av": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gupnp-av.git",
       "branch": "master",
-      "revision": "80877d923b27ea946bcf1642d26b1927a63dac3f"
+      "revision": "a04245d6737c4720665f50e436118abe97ba656c"
     },
     "gupnp-dlna": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gupnp-dlna.git",
