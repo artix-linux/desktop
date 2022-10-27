@@ -3,7 +3,7 @@
 
 pkgname=gnome-remote-desktop
 pkgver=43.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc="GNOME Remote Desktop server"
 url="https://wiki.gnome.org/Projects/Mutter/RemoteDesktop"
 arch=(x86_64)
