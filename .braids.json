@@ -1184,7 +1184,7 @@
     "gnome-photos": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-photos.git",
       "branch": "master",
-      "revision": "0a17edca57b760c407b6aff1ba470a1e694accbc"
+      "revision": "c8adb672ff9cb2d6e866a21dc6caa74621ffaa4a"
     },
     "gnome-recipes": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-recipes.git",
