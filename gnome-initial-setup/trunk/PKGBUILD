@@ -16,7 +16,7 @@ source=("https://download.gnome.org/sources/$pkgname/${pkgver%.*}/$pkgname-$pkgv
 sha256sums=('8104e7043ef9b98e2b50b2ab38fda05fd0437f8c55569fa16830b7be57be0df6')
 
 build() {
-  artix-meson $pkgname-$pkgver build
+  artix-meson $pkgname-$pkgver build -Dsystemd=false
   meson compile -C build
 }
 
