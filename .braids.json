@@ -1114,7 +1114,7 @@
     "gnome-initial-setup": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-initial-setup.git",
       "branch": "master",
-      "revision": "c53c211100ce93357f78d52110ba28f529b1242c"
+      "revision": "43622eaa73c9cd65b96c1280733e04030ce217e6"
     },
     "gnome-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-keyring.git",
