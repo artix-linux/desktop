@@ -1304,7 +1304,7 @@
     "gnome-weather": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-weather.git",
       "branch": "master",
-      "revision": "5f9aa352392cc54eab5e7f05ca45a370c5c95cca"
+      "revision": "c9f422da48bd584fcc085d0132bc64d1cc9829a6"
     },
     "gnugo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnugo.git",
