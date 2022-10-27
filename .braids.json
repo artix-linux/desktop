@@ -1359,7 +1359,7 @@
     "grilo": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grilo.git",
       "branch": "master",
-      "revision": "4be6a6a171e70851800263ff83e62ebfd48e5a7d"
+      "revision": "546a2fd433af0959397435d6851f757d100d7c08"
     },
     "grilo-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grilo-plugins.git",
