@@ -929,7 +929,7 @@
     "geary": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geary.git",
       "branch": "master",
-      "revision": "6585e88ab4c5c44c8f3a48ed175401629b4e14ac"
+      "revision": "48b00ee7b62d2d9e66adae7a21a74d6b09549479"
     },
     "gedit": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gedit.git",
