@@ -3224,7 +3224,7 @@
     "libosinfo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libosinfo.git",
       "branch": "master",
-      "revision": "68311301c0e1aaf05747de1c3222a3d9085ac916"
+      "revision": "c2eca1bc82d9cad38e16672cc31216391ff9f31f"
     },
     "libpanel": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpanel.git",
