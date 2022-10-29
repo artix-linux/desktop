@@ -1,0 +1,40 @@
+# Maintainer: Torr <torr[at]artixlinux[dot]org>
+pkgname=girara
+pkgver=0.3.7
+pkgrel=1
+pkgdesc="Library that implements a user interface that focuses on simplicity and minimalism"
+arch=("any")
+url="https://git.pwmt.org/pwmt/girara"
+license=("zlib")
+depends=(
+	"gtk3>=3.20"
+	"glib2>=2.50"
+)
+makedepends=(
+	"meson>=0.56"
+	"gettext"
+	"gcc"
+	"pkgconf"
+)
+checkdepends=("check")
+optdepends=("json-glib")
+source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha256sums=("41342213f8e745258f1db28cbb6ccc27a63009a5e001bf791bbe01ce436d4db7")
+
+
+build() {
+	cd "$pkgname-$pkgver"
+	meson build --prefix "/usr"
+	meson compile -C build
+}
+
+check() {
+	cd "$pkgname-$pkgver"
+	meson test -C build --no-rebuild --print-errorlogs 
+}
+
+package() {
+	cd "$pkgname-$pkgver"
+	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+}
