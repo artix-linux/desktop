@@ -969,7 +969,7 @@
     "girara": {
       "url": "gitea@gitea.artixlinux.org:packagesG/girara.git",
       "branch": "master",
-      "revision": "8c682ee41fad1fa50972b2ab32fa7e2facf93545"
+      "revision": "b172d46db7e4ab2549ad269215d90794c7e68dca"
     },
     "gjs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
