@@ -3,7 +3,7 @@
 
 pkgname=amtk
 pkgver=5.5.2
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Actions, Menus and Toolbars Kit for GTK applications"
 url="https://gitlab.gnome.org/World/amtk"
 arch=(x86_64)
