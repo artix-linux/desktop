@@ -809,7 +809,7 @@
     "fcitx-qt5": {
       "url": "gitea@gitea.artixlinux.org:packagesF/fcitx-qt5.git",
       "branch": "master",
-      "revision": "e92e7a2a5e0dcf1f97b70a049b518725d949021f"
+      "revision": "f0e50a3cf87969cafb82e7692d2cc86d58607d2b"
     },
     "ffmpegthumbs": {
       "url": "gitea@gitea.artixlinux.org:packagesF/ffmpegthumbs.git",
