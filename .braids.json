@@ -29,7 +29,7 @@
     "akonadi": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi.git",
       "branch": "master",
-      "revision": "77f83a1c9f7219271704ee78c35eeabd13b7a55b"
+      "revision": "052343c2d7d897e32dac387a951e249ef788e656"
     },
     "akonadi-calendar": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-calendar.git",
