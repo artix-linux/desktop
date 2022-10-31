@@ -46,7 +46,6 @@ source=("https://github.com/swaywm/sway/releases/download/$pkgver/sway-$pkgver.t
         "https://github.com/swaywm/sway/releases/download/$pkgver/sway-$pkgver.tar.gz.sig"
         "https://github.com/swaywm/sway/commit/1c368fbb5fcd8fb67040bcc12bd71c7fbf119e97.diff")
 options=(debug)
-install=sway.install
 sha512sums=('028cf5d504d5914bfb78d44156d6a290de660c5ed0638f4e2c56e5be76db9b0baeda035e1fa1ae23559016bd7e4312f7ff70c2fb4904df25358577c1a3d21243'
             'SKIP'
             '7fad859274490af73ab7c1389fbce6351b052e8694ffb20883cf6d1c173e9695316ee46f76de0df13c57fc1daf7f130b82054bdc5f794ac127e7b5f9444bf9c3')
