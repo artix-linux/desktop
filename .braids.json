@@ -879,7 +879,7 @@
     "gamescope": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gamescope.git",
       "branch": "master",
-      "revision": "bee4958aa9964e8f36d75e7b222f1afc7e0a80c8"
+      "revision": "d06aee087ce9bd41ad57d1533ad9f14d6bbf768f"
     },
     "garcon": {
       "url": "gitea@gitea.artixlinux.org:packagesG/garcon.git",
