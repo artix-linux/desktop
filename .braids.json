@@ -2989,7 +2989,7 @@
     "libgepub": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgepub.git",
       "branch": "master",
-      "revision": "811464bbd3ad0dfc2beae92bcfe429f3d9edcbb7"
+      "revision": "b87414c6c73aa7f8bb20c5b5b99e79d6a2eb1c4e"
     },
     "libgig": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgig.git",
