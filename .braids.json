@@ -1244,7 +1244,7 @@
     "gnome-sudoku": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sudoku.git",
       "branch": "master",
-      "revision": "302885b31ec6796f85ab4ca0fa1881ee982f4887"
+      "revision": "2b896924ea13600a7b1081394eb4d404a8f3ff54"
     },
     "gnome-system-log": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-system-log.git",
