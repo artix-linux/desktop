@@ -3934,7 +3934,7 @@
     "nautilus": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nautilus.git",
       "branch": "master",
-      "revision": "99b254602004c8d15d1dec7b905c6444d313b113"
+      "revision": "2c404400011c6b45b0f23fb4a26e24fc019e1a6b"
     },
     "nemo": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nemo.git",
