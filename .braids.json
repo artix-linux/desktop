@@ -819,7 +819,7 @@
     "file-roller": {
       "url": "gitea@gitea.artixlinux.org:packagesF/file-roller.git",
       "branch": "master",
-      "revision": "f3b29158b7076e462dea694abeeb11a7abd91d50"
+      "revision": "cbec4c02d99a02e707e46a217fc2e64415cfc972"
     },
     "filelight": {
       "url": "gitea@gitea.artixlinux.org:packagesF/filelight.git",
