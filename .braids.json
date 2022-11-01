@@ -1439,7 +1439,7 @@
     "gupnp-dlna": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gupnp-dlna.git",
       "branch": "master",
-      "revision": "02dba16b2b503ce893e75d0eba41be5bc2c16aeb"
+      "revision": "23620dbd9324a8fb6b68ad201f8855644a9090b2"
     },
     "gutenprint": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gutenprint.git",
