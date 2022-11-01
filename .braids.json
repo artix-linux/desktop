@@ -1299,7 +1299,7 @@
     "gnome-user-share": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-share.git",
       "branch": "master",
-      "revision": "587953d7dcadf2376b93a2a3403dc172de897081"
+      "revision": "0734887a0b2414e28e9edb14d20bbf2c92513f51"
     },
     "gnome-video-effects": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-video-effects.git",
