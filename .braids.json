@@ -994,7 +994,7 @@
     "gnome-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-applets.git",
       "branch": "master",
-      "revision": "a5a505ead05e1f617c7b0cdfe2e49329e21a3447"
+      "revision": "d69fc39764d506f5c358e278b7cec3aa6a898b3a"
     },
     "gnome-autoar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-autoar.git",
