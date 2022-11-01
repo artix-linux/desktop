@@ -2909,7 +2909,7 @@
     "libcloudproviders": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcloudproviders.git",
       "branch": "master",
-      "revision": "c06107d675b2160bd7ddc04990cef0aa2fa85f76"
+      "revision": "0ae921ebbcab91936ad8b618a01ad3957dd51f85"
     },
     "libcryptui": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcryptui.git",
