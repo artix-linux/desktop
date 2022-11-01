@@ -1024,7 +1024,7 @@
     "gnome-boxes": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-boxes.git",
       "branch": "master",
-      "revision": "bddbcd858de6099cf12392910ba0520bece8b1f1"
+      "revision": "d70f0c0f765d9ee78ca2ed66fe03c454c2469060"
     },
     "gnome-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-builder.git",
