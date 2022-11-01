@@ -1,8 +1,8 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Dudemanguy <dudemanguy@artixlinux.org>
 
 pkgname=grilo
 pkgver=0.3.15
-pkgrel=1
+pkgrel=2
 pkgdesc="Framework that provides access to various sources of multimedia content"
 url="https://wiki.gnome.org/Projects/Grilo"
 arch=(x86_64)
@@ -27,7 +27,7 @@ prepare() {
 }
 
 build() {
-  artix-meson $pkgname build -D soup3=false
+  artix-meson grilo build -D soup3=false
   meson compile -C build
 }
 
@@ -38,3 +38,5 @@ check() {
 package() {
   meson install -C build --destdir "$pkgdir"
 }
+
+# vim:set sw=2 sts=-1 et:
