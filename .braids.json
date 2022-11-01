@@ -849,7 +849,7 @@
     "folks": {
       "url": "gitea@gitea.artixlinux.org:packagesF/folks.git",
       "branch": "master",
-      "revision": "827ef98f567984188a355bf9d6e20a7657b3382d"
+      "revision": "f0856ba8dbf097d31659e06f7588fe2b30d1caf2"
     },
     "four-in-a-row": {
       "url": "gitea@gitea.artixlinux.org:packagesF/four-in-a-row.git",
