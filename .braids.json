@@ -4964,7 +4964,7 @@
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
       "branch": "master",
-      "revision": "678f3d79330ddcb42b0a16827f25081a834ae4af"
+      "revision": "50af3d3c4cabb234826f0c19b4c7741122962094"
     },
     "totem-pl-parser": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem-pl-parser.git",
