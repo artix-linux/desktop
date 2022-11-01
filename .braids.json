@@ -1184,7 +1184,7 @@
     "gnome-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-panel.git",
       "branch": "master",
-      "revision": "6208e5a98a61b4492b8e924f06f89a8baed055fa"
+      "revision": "f361878ed55dcbddc4fb3e09f5686ef1f5b9b151"
     },
     "gnome-photos": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-photos.git",
