@@ -744,7 +744,7 @@
     "eog": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eog.git",
       "branch": "master",
-      "revision": "0ed85abe169d04cdfb8de73ffa7725d5dd9a363d"
+      "revision": "d9be8e68d16e12076df78a7c03ec481724036eff"
     },
     "eom": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eom.git",
