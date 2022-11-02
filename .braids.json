@@ -1379,7 +1379,7 @@
     "grub-customizer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grub-customizer.git",
       "branch": "master",
-      "revision": "0266314b52a97830a65888e78321c9f1ceb5868e"
+      "revision": "d90078c98857b41ee072ea3ce113253c5a939d0d"
     },
     "grub-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grub-theme.git",
