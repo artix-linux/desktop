@@ -2144,7 +2144,7 @@
     "khealthcertificate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khealthcertificate.git",
       "branch": "master",
-      "revision": "2c80dac718212c6395ea7537a13f4c0ef4e057c7"
+      "revision": "0f09bb802890000b6aab42288333cf067fed9391"
     },
     "khelpcenter": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khelpcenter.git",
