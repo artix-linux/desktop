@@ -46,4 +46,5 @@ check() {
 package() {
 	cd "$pkgname-$pkgver"
 	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
 }
