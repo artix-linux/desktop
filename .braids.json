@@ -5491,6 +5491,11 @@
       "branch": "master",
       "revision": "99eacc6ce14aca12d00279880fefbf3934f3ce4e"
     },
+    "zathura-ps": {
+      "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-ps.git",
+      "branch": "master",
+      "revision": "77add4afd3cf7193cfcc82df5d059fcb52592ad7"
+    },
     "zeroconf-ioslave": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zeroconf-ioslave.git",
       "branch": "master",
