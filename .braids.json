@@ -1124,7 +1124,7 @@
     "gnome-keyring": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-keyring.git",
       "branch": "master",
-      "revision": "5bf6582bcfcf023109f293d85a0e0079d1c0a23e"
+      "revision": "504111292a29976e6cb6b0359405a3a0c54710bb"
     },
     "gnome-klotski": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-klotski.git",
