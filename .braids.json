@@ -5489,7 +5489,7 @@
     "zathura": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura.git",
       "branch": "master",
-      "revision": "99eacc6ce14aca12d00279880fefbf3934f3ce4e"
+      "revision": "30b6ccf1c917d8932203acfb614c0cd249ffe087"
     },
     "zathura-ps": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-ps.git",
