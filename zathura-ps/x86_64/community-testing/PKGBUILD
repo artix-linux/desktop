@@ -1,0 +1,43 @@
+# Maintainer: Torr <torr[at]artixlinux[dot]org>
+pkgname=zathura-ps
+pkgver=0.2.7
+pkgrel=1
+pkgdesc="Postscript support for Zathura"
+arch=("any")
+url="https://git.pwmt.org/pwmt/zathura-ps"
+license=('Zlib')
+depends=(
+	"zathura>=0.3.8"
+	"gtk3>=3.22"
+	"glib2>=2.50"
+	"girara>=0.3.7"
+)
+makedepends=(
+	"meson>=0.56"
+	"gettext"
+	"gcc"
+	"pkgconf"
+)
+checkdepends=(
+	"check>=0.9.8"
+)
+source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha256sums=("e7092c831e345002edc87321911faa27c5dc3210dd6e3939dfbc49192a54d35e")
+
+
+build() {
+	cd "$pkgname-$pkgver"
+	meson build --prefix "/usr"
+	meson compile -C build
+}
+
+check() {
+	cd "$pkgname-$pkgver"
+	meson test -C build --no-rebuild --print-errorlogs 
+}
+
+package() {
+	cd "$pkgname-$pkgver"
+	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+}
