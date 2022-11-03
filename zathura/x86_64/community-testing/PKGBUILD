@@ -1,0 +1,49 @@
+# Maintainer: Torr <torr[at]artixlinux[dot]org>
+pkgname=zathura
+pkgver=0.5.1
+pkgrel=1
+pkgdesc="Highly customizable and functional document viewer"
+arch=("any")
+url="https://git.pwmt.org/pwmt/zathura"
+license=('zlib')
+depends=(
+	"gtk3>=3.22"
+	"glib2>=2.50"
+	"girara>=0.3.7"
+
+	"libmagic.so"
+)
+makedepends=(
+	"meson>=0.56"
+	"gettext"
+	"gcc"
+	"pkgconf"
+	"python-sphinx"
+)
+checkdepends=(
+	"check>=0.9.8"
+)
+optdepends=(
+	"sqlite3: Sqlite3 database backend"
+	"libsynctex: SyncTeX support"
+	"libseccomp: Sandbox support"
+)
+source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha256sums=("f59d9c7ec8d10db68055bda1e0f00e55efa0dad9b781ae201e9d6755ca984317")
+
+
+build() {
+	cd "$pkgname-$pkgver"
+	meson build --prefix "/usr"
+	meson compile -C build
+}
+
+check() {
+	cd "$pkgname-$pkgver"
+	meson test -C build --no-rebuild --print-errorlogs 
+}
+
+package() {
+	cd "$pkgname-$pkgver"
+	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+}
