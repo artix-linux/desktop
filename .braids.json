@@ -4664,7 +4664,7 @@
     "socat": {
       "url": "gitea@gitea.artixlinux.org:packagesS/socat.git",
       "branch": "master",
-      "revision": "6279db0234fc10e073ccfad089470525b518b680"
+      "revision": "0f57e673c9e38ee77567a660ca3eebf1e8dc75d2"
     },
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
