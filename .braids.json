@@ -4109,7 +4109,7 @@
     "pam_wrapper": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pam_wrapper.git",
       "branch": "master",
-      "revision": "e2cee77854f12e99100896479facca952bd85461"
+      "revision": "d21bc0d58a968e40069f3269dfbb558d836e23e4"
     },
     "pandoc-bin": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pandoc-bin.git",
