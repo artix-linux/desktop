@@ -1644,7 +1644,7 @@
     "julia": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/julia.git",
       "branch": "master",
-      "revision": "85e1edc2cc9c64e671dbae4cb8ad301f5d4e9ca9"
+      "revision": "d6e0fabf3483f35185656664ce4e7844fa3aebe3"
     },
     "k3b": {
       "url": "gitea@gitea.artixlinux.org:packagesK/k3b.git",
