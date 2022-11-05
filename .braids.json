@@ -5499,7 +5499,7 @@
     "zathura-ps": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-ps.git",
       "branch": "master",
-      "revision": "b126f18088984585731173315ac40dbfec68362d"
+      "revision": "584aaec9a15407914779a35287539f35daa96cb2"
     },
     "zeroconf-ioslave": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zeroconf-ioslave.git",
