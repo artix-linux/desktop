@@ -5099,7 +5099,7 @@
     "waybar": {
       "url": "gitea@gitea.artixlinux.org:packagesW/waybar.git",
       "branch": "master",
-      "revision": "f777e08441f6cca072b8cbf6debdce280e40bbb8"
+      "revision": "6191274f69628adbb455c49676842a3552660e6f"
     },
     "webp-pixbuf-loader": {
       "url": "gitea@gitea.artixlinux.org:packagesW/webp-pixbuf-loader.git",
