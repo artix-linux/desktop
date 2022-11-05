@@ -20,7 +20,7 @@ sha512sums=('c7a4283b78197c262d8da31460ce8b07b44546f822142e32e6c1ea22376e1c4b9cf
 build() {
   cd oiio-$pkgver
 
-  cmake \
+  artix-cmake \
     -Bbuild \
     -GNinja \
     -DUSE_PYTHON=ON \
