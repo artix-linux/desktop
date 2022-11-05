@@ -2954,7 +2954,7 @@
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
       "branch": "master",
-      "revision": "cb13242daa1877f94c3d7d8adbea6f571d6cffd5"
+      "revision": "741d1dc5f1b08bc89c2bdeed2ac7ff6982853523"
     },
     "libfm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libfm.git",
