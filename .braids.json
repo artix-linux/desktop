@@ -4034,7 +4034,7 @@
     "opencolorio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/opencolorio.git",
       "branch": "master",
-      "revision": "465b79af6b6eb7f35decad7c0b537702ff092ec3"
+      "revision": "083dab0e0076a8312cbb9c79bdbf1ae7f9c7361c"
     },
     "openimageio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openimageio.git",
