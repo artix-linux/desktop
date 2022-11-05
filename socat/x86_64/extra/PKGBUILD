@@ -1,11 +1,11 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
 # Contributor: Gaetan Bisson <bisson@archlinux.org>
 # Contributor: Juergen Hoetzel <juergen@archlinux.org>
 # Contributor: John Proctor <jproctor@prium.net>
 
 pkgname=socat
 pkgver=1.7.4.3
-pkgrel=1
+pkgrel=2
 pkgdesc='Multipurpose relay'
 url='http://www.dest-unreach.org/socat/'
 license=('GPL2')
