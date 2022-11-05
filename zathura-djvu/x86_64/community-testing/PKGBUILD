@@ -1,0 +1,43 @@
+# Maintainer: Torr <torr[at]artixlinux[dot]org>
+pkgname=zathura-djvu
+pkgver=0.2.9
+pkgrel=1
+pkgdesc="Djvu support for Zathura"
+arch=("any")
+url="https://git.pwmt.org/pwmt/zathura-djvu"
+license=("zlib")
+depends=(
+	"zathura>=0.3.8"
+	"gtk3>=3.22"
+	"glib2>=2.50"
+	"girara>=0.3.7"
+	"djvulibre"
+)
+makedepends=(
+	"meson>=0.56"
+	"gcc"
+	"pkgconf"
+)
+checkdepends=(
+	"check>=0.9.8"
+)
+source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
+sha256sums=("84fae6da42e7cdc2e49ed4cd4f0315ac09716e95358b9c7487803a2cff47dbca")
+
+
+build() {
+	cd "$pkgname-$pkgver"
+	meson build --prefix "/usr"
+	meson compile -C build
+}
+
+check() {
+	cd "$pkgname-$pkgver"
+	meson test -C build --no-rebuild --print-errorlogs 
+}
+
+package() {
+	cd "$pkgname-$pkgver"
+	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+}
