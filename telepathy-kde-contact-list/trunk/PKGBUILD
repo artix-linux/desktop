@@ -5,7 +5,7 @@
 pkgname=telepathy-kde-contact-list
 _pkgname=ktp-contact-list
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='KDE Telepathy contact list application'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
