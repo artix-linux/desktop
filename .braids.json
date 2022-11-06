@@ -2519,7 +2519,7 @@
     "korganizer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/korganizer.git",
       "branch": "master",
-      "revision": "48621dbd92fb813c5af5d9600e58662e624f4627"
+      "revision": "b0ffd43a86f5aed6b5a653d25e9980e2488c3ea0"
     },
     "kosmindoormap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kosmindoormap.git",
