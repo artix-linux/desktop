@@ -3,7 +3,7 @@
 pkgname=telepathy-kde-call-ui
 _pkgname=ktp-call-ui
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Voice/Video Call UI for Telepathy'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
