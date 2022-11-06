@@ -5,7 +5,7 @@
 pkgname=telepathy-kde-integration-module
 _pkgname=ktp-kded-module
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='Sits in KDED and takes care of various bits of system integration like setting user to auto-away or handling connection errors'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
