@@ -2014,7 +2014,7 @@
     "kdf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdf.git",
       "branch": "master",
-      "revision": "c4314434c14e2513c2e944ed7075814569bfd107"
+      "revision": "a5db0475f810178b3515af2f011350118c16c079"
     },
     "kdiagram": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdiagram.git",
