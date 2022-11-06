@@ -5514,7 +5514,7 @@
     "zeroconf-ioslave": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zeroconf-ioslave.git",
       "branch": "master",
-      "revision": "fab22cf95e1360b62c21ac5976e0741b3f815996"
+      "revision": "a8457f57bd09fcdbbf36e3c0546ac54093ddda49"
     },
     "zxing-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zxing-cpp.git",
