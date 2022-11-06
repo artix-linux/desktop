@@ -2029,7 +2029,7 @@
     "kdiamond": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdiamond.git",
       "branch": "master",
-      "revision": "ed8f5916d7ffb6998e929ada709476412697a97f"
+      "revision": "602bcb358e7de7efc154d057028414bf9146c8d9"
     },
     "kdnssd": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdnssd.git",
