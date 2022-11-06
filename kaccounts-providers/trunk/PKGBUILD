@@ -2,7 +2,7 @@
 
 pkgname=kaccounts-providers
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='Online account providers for the KAccounts system'
 arch=(x86_64)
 url='https://www.kde.org/'
