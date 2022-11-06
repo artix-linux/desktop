@@ -1764,7 +1764,7 @@
     "kblackbox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kblackbox.git",
       "branch": "master",
-      "revision": "f91eb60d084c8a305bc57a559d13cc76510e8e5e"
+      "revision": "3505d2ccb7513bdc0aa35f0beabb80f863fccf22"
     },
     "kblocks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kblocks.git",
