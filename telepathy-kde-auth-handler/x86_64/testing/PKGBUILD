@@ -5,7 +5,7 @@
 pkgname=telepathy-kde-auth-handler
 _pkgname=ktp-auth-handler
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='Provide UI/KWallet Integration For Passwords and SSL Errors on Account Connect'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
