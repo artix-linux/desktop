@@ -474,7 +474,7 @@
     "cervisia": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cervisia.git",
       "branch": "master",
-      "revision": "69bba2eb5a4b789deb6eea3d2ef7a9dfcdd07714"
+      "revision": "1e9c5a51d17562758c106c60fbca21bfb837005f"
     },
     "cfitsio": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cfitsio.git",
