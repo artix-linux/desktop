@@ -2,7 +2,7 @@
 
 pkgname=kio-gdrive
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 arch=(x86_64)
 pkgdesc='KIO Slave to access Google Drive'
 url='https://apps.kde.org/kio_gdrive/'
