@@ -3,7 +3,7 @@
 
 pkgname=konqueror
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE File Manager & Web Browser'
 arch=(x86_64)
 url='https://apps.kde.org/konqueror/'
