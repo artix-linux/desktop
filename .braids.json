@@ -144,7 +144,7 @@
     "artikulate": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artikulate.git",
       "branch": "master",
-      "revision": "25e7be875c203d75e71f8475f490d8157b7b6d07"
+      "revision": "66408b665a58bee5c0f4408d3ae88ebd236f6fc9"
     },
     "artix-artwork": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-artwork.git",
