@@ -1649,7 +1649,7 @@
     "k3b": {
       "url": "gitea@gitea.artixlinux.org:packagesK/k3b.git",
       "branch": "master",
-      "revision": "80613e040169b7454ad917825c85c821489d0399"
+      "revision": "acdbf7e8272f00deda65bf93f02589d3a4bf74ed"
     },
     "kaccounts-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-integration.git",
