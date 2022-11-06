@@ -4,7 +4,7 @@
 
 pkgname=kalgebra
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='Graph Calculator'
 url='https://apps.kde.org/kalgebramobile/'
 arch=(x86_64)
