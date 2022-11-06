@@ -4,7 +4,7 @@
 
 pkgname=kanagram
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Letter Order Game'
 url='https://apps.kde.org/kanagram/'
 arch=(x86_64)
