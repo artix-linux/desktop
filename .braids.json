@@ -2459,7 +2459,7 @@
     "kollision": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kollision.git",
       "branch": "master",
-      "revision": "1c3e60c9066bf15c2e1320ae91eccc4973eb484e"
+      "revision": "e5a083f8c57ddd39671052c3be04c50151639a3e"
     },
     "kolourpaint": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolourpaint.git",
