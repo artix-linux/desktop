@@ -5,7 +5,7 @@
 pkgname=telepathy-kde-accounts-kcm
 _pkgname=ktp-accounts-kcm
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='KCM Module for configuring Telepathy Instant Messaging Accounts'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
