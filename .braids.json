@@ -4889,7 +4889,7 @@
     "telepathy-kde-integration-module": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-integration-module.git",
       "branch": "master",
-      "revision": "66eff0d2505eb0a5112f067294f56cd2921cd0b8"
+      "revision": "1674a3d30cec9022be7c1ec92b5970a4bd635c90"
     },
     "telepathy-kde-send-file": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-send-file.git",
