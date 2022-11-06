@@ -2934,7 +2934,7 @@
     "libdecor": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdecor.git",
       "branch": "master",
-      "revision": "e574e8ebedb4c3b1f9c9c723d637ce849d47e10c"
+      "revision": "d4d8c02666dfdfe5540fc7b2f1b64afdddbad363"
     },
     "libdeflate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdeflate.git",
