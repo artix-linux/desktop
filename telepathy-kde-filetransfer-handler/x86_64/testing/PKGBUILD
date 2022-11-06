@@ -5,7 +5,7 @@
 pkgname=telepathy-kde-filetransfer-handler
 _pkgname=ktp-filetransfer-handler
 pkgver=22.08.3
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='KDE Telepathy file transfer handler'
 arch=(x86_64)
 url='https://community.kde.org/KTp'
