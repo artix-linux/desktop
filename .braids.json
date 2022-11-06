@@ -2674,7 +2674,7 @@
     "ksirk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksirk.git",
       "branch": "master",
-      "revision": "6cf4abaeb6682a5062f7a84a38557cfde4e37e42"
+      "revision": "14aab0eac61ad6698828e1e3b0ceb2c57c10b6ac"
     },
     "ksmtp": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksmtp.git",
