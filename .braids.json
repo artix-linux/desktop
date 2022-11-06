@@ -669,7 +669,7 @@
     "dolphin": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin.git",
       "branch": "master",
-      "revision": "9d2269c38d1bac8c34da778ea991fe5a45e33b23"
+      "revision": "0cb0a35bdcc6f3b9ed0b4c6bcfd7cdc3f9f14cc2"
     },
     "dolphin-emu": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin-emu.git",
