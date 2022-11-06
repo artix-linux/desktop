@@ -1889,7 +1889,7 @@
     "kde-dev-scripts": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-scripts.git",
       "branch": "master",
-      "revision": "a66a2a1626fe1a377a484dacabbcf3318502d88b"
+      "revision": "f665c8322b963b132364824b0d4b8484c5afc340"
     },
     "kde-dev-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-utils.git",
