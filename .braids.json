@@ -2694,7 +2694,7 @@
     "ksquares": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksquares.git",
       "branch": "master",
-      "revision": "b6e5c67fdefba98a27cb8b5d13c15eaff2253e73"
+      "revision": "ef27f7cdf20410a362df36c7945431cb98dea2eb"
     },
     "ksshaskpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksshaskpass.git",
