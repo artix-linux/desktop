@@ -2409,7 +2409,7 @@
     "kmplot": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmplot.git",
       "branch": "master",
-      "revision": "4ca6e77da1878bbbbf62d89d4c07fd21c84307d4"
+      "revision": "a54d5b17033e003c33a3c7e38d1e2044251c23a7"
     },
     "kmymoney": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmymoney.git",
