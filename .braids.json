@@ -4554,7 +4554,7 @@
     "rygel": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rygel.git",
       "branch": "master",
-      "revision": "a53c7c195b47735bd7b461150a4f6da9d584de08"
+      "revision": "5f097d108e4e2f0299b12bd82907fdccd850119d"
     },
     "screen": {
       "url": "gitea@gitea.artixlinux.org:packagesS/screen.git",
