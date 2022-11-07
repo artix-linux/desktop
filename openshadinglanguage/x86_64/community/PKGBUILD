@@ -16,7 +16,7 @@ sha512sums=('ec0391dfc95140fee4fa8332991cdcb0978dafc436f3e07d0293e2baa2014b8765e
 build() {
   cd OpenShadingLanguage-$pkgver
 
-  cmake \
+  artix-cmake \
     -B build \
     -GNinja \
     -DCMAKE_INSTALL_PREFIX=/usr \
