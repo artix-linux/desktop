@@ -4,7 +4,7 @@
 
 pkgname=kompare
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Graphical file differences tool'
 url='https://apps.kde.org/kompare/'
 arch=(x86_64)
