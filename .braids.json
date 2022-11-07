@@ -2244,7 +2244,7 @@
     "kio-extras": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-extras.git",
       "branch": "master",
-      "revision": "50277e62acd21f3aa2924bb9b2aa3526a14c5161"
+      "revision": "0ed57b504f05e8f13b6be0b4e728294314051cc4"
     },
     "kio-fuse": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-fuse.git",
