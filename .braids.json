@@ -2724,7 +2724,7 @@
     "kteatime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kteatime.git",
       "branch": "master",
-      "revision": "699d3e0e5eec6df3b7140183d6f803517497c0bd"
+      "revision": "fd9635e7eae47a2c81dd07760511632aa8cb0388"
     },
     "ktexteditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktexteditor.git",
