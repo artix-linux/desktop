@@ -4894,7 +4894,7 @@
     "telepathy-kde-send-file": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-send-file.git",
       "branch": "master",
-      "revision": "2c433123e751dc3d02b4f44d215ba33bad9e678e"
+      "revision": "60993c3fd6307e9a94233a8ee1ebebf4c1f6bee0"
     },
     "telepathy-kde-text-ui": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-text-ui.git",
