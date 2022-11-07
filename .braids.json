@@ -1914,7 +1914,7 @@
     "kdeconnect": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeconnect.git",
       "branch": "master",
-      "revision": "f095c7bc6eea6540388dc21a9ef52ebd1aece87c"
+      "revision": "3e71b14f66b4574ba0493363edcd14c69581fd20"
     },
     "kdecoration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdecoration.git",
