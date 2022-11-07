@@ -4,7 +4,7 @@
 
 pkgname=kblocks
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='The classic falling blocks game'
 url='https://apps.kde.org/kblocks/'
 arch=(x86_64)
