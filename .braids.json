@@ -2469,7 +2469,7 @@
     "kompare": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kompare.git",
       "branch": "master",
-      "revision": "5969bfe3f664c35a05d7a9ceb94f4fcb122b3434"
+      "revision": "a565e1453a46896936471b6e7e5e1f0098649a8a"
     },
     "konqueror": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konqueror.git",
