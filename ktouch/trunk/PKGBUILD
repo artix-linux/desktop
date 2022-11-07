@@ -4,7 +4,7 @@
 
 pkgname=ktouch
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Touch Typing Tutor'
 url='https://apps.kde.org/ktouch/'
 arch=(x86_64)
