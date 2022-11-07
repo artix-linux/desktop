@@ -4,7 +4,7 @@
 
 pkgname=lskat
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Lieutenant Skat is a fun and engaging card game for two players'
 url='https://apps.kde.org/lskat/'
 arch=(x86_64)
