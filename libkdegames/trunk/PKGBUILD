@@ -4,7 +4,7 @@
 
 pkgname=libkdegames
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Common code and data for many KDE games'
 url='https://www.kde.org/'
 arch=(x86_64)
