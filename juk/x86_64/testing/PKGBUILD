@@ -4,7 +4,7 @@
 
 pkgname=juk
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A jukebox, tagger and music collection manager'
 url='https://apps.kde.org/juk/'
 arch=(x86_64)
