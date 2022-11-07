@@ -4,7 +4,7 @@
 
 pkgname=kiriki
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='An addictive and fun dice game'
 url='https://apps.kde.org/kiriki/'
 arch=(x86_64)
