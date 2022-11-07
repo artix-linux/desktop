@@ -1794,7 +1794,7 @@
     "kcachegrind": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcachegrind.git",
       "branch": "master",
-      "revision": "d5fa2037cbe126a3140a3c95e316916954c3c2b8"
+      "revision": "f678774e8f62d4bd2fe0e3bafc94da7d71783d1e"
     },
     "kcalc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalc.git",
