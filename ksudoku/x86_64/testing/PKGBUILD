@@ -4,7 +4,7 @@
 
 pkgname=ksudoku
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A logic-based symbol placement puzzle'
 url='https://apps.kde.org/ksudoku/'
 arch=(x86_64)
