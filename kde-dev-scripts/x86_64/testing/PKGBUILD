@@ -4,7 +4,7 @@
 
 pkgname=kde-dev-scripts
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Scripts and setting files useful during development of KDE software'
 url='https://www.kde.org/'
 arch=(any)
