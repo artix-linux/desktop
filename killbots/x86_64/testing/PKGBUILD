@@ -4,7 +4,7 @@
 
 pkgname=killbots
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A simple game of evading killer robots'
 url='https://apps.kde.org/killbots/'
 arch=(x86_64)
