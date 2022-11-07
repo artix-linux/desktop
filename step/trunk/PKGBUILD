@@ -4,7 +4,7 @@
 
 pkgname=step
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Interactive Physical Simulator'
 url='https://apps.kde.org/step/'
 arch=(x86_64)
