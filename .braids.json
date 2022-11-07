@@ -4614,7 +4614,7 @@
     "signon-kwallet-extension": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signon-kwallet-extension.git",
       "branch": "master",
-      "revision": "2ea94ff92aea195ecf740329992281f1b71d2122"
+      "revision": "962a284b9ce6cc8baa11040dc078a273dbc72542"
     },
     "signon-plugin-oauth2": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signon-plugin-oauth2.git",
