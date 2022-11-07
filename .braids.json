@@ -3094,7 +3094,7 @@
     "libkeduvocdocument": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkeduvocdocument.git",
       "branch": "master",
-      "revision": "0a74032f3a59c961f6846b43cbc9aaf284d70dd3"
+      "revision": "1ada5f06e2d5be46ee92b77017b048f2b411f633"
     },
     "libkexiv2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkexiv2.git",
