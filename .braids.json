@@ -2759,7 +2759,7 @@
     "ktuberling": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktuberling.git",
       "branch": "master",
-      "revision": "a9a258dbd74a42d372254b9f4e68e12203730c97"
+      "revision": "b41870fc1a3449c73fd056ce107f054733b7cdbb"
     },
     "kturtle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kturtle.git",
