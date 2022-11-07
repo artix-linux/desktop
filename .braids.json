@@ -4059,7 +4059,7 @@
     "openshadinglanguage": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openshadinglanguage.git",
       "branch": "master",
-      "revision": "1af5a0da111461297af45e08828d802d4f3cd01f"
+      "revision": "e3bd13039361ebdc65e1d2175cf4292bd6593082"
     },
     "openslide": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openslide.git",
