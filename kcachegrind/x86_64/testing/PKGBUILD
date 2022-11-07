@@ -5,7 +5,7 @@
 pkgbase=kcachegrind
 pkgname=(kcachegrind kcachegrind-common qcachegrind)
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Visualization of Performance Profiling Data'
 url='https://apps.kde.org/kcachegrind/'
 arch=(x86_64)
