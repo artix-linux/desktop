@@ -2744,7 +2744,7 @@
     "ktnef": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktnef.git",
       "branch": "master",
-      "revision": "6cba4b14a1125ecd00d2e76f8a86c63598c4da12"
+      "revision": "cd55ed0c6d54bfb27664955fa7da808c54847d39"
     },
     "ktorrent": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktorrent.git",
