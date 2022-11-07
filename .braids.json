@@ -3904,7 +3904,7 @@
     "moreutils": {
       "url": "gitea@gitea.artixlinux.org:packagesM/moreutils.git",
       "branch": "master",
-      "revision": "bbc27d1d96fc9cd79a58ff7c50e360cd1b1e6570"
+      "revision": "5d0bbcbb95ae4cdb142007af947f6c528da9f628"
     },
     "mousepad": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mousepad.git",
