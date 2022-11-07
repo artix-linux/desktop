@@ -1,7 +1,7 @@
 # Maintainer: Cory Sanin <corysanin@artixlinux.org>
 pkgname=openshadinglanguage
 pkgver=1.12.7.0
-pkgrel=2.1
+pkgrel=3
 pkgdesc="Advanced shading language for production GI renderers"
 arch=('x86_64')
 url="https://github.com/imageworks/OpenShadingLanguage"
@@ -16,7 +16,7 @@ sha512sums=('ec0391dfc95140fee4fa8332991cdcb0978dafc436f3e07d0293e2baa2014b8765e
 build() {
   cd OpenShadingLanguage-$pkgver
 
-  artix-cmake \
+  cmake \
     -B build \
     -GNinja \
     -DCMAKE_INSTALL_PREFIX=/usr \
