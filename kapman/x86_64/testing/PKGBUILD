@@ -4,7 +4,7 @@
 
 pkgname=kapman
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A clone of the well known game Pac-Man'
 url='https://apps.kde.org/kapman/'
 arch=(x86_64)
