@@ -4,7 +4,7 @@
 
 pkgname=kollision
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A simple ball dodging game'
 url='https://apps.kde.org/kollision/'
 arch=(x86_64)
