@@ -3,7 +3,7 @@
 
 pkgname=klettres
 pkgver=22.08.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Learn The Alphabet'
 url='https://apps.kde.org/klettres/'
 arch=(x86_64)
