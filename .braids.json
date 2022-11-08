@@ -3494,7 +3494,7 @@
     "lximage-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lximage-qt.git",
       "branch": "master",
-      "revision": "bd9de9711a61802bab417c7f48a1df635f02a6d8"
+      "revision": "d7331f5fccd429d47f5997feb0ba816c12e0cf40"
     },
     "lxinput": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxinput.git",
