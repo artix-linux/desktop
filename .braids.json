@@ -3604,7 +3604,7 @@
     "lxqt-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-themes.git",
       "branch": "master",
-      "revision": "438dd036c59ea52f3f87e8c54ad2c1db4ca075e2"
+      "revision": "5880561208f1d0694efa226cf291988db0a9a71f"
     },
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
