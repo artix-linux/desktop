@@ -3559,7 +3559,7 @@
     "lxqt-notificationd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-notificationd.git",
       "branch": "master",
-      "revision": "f95269e576db404bed90194f4b7c5afeba025c0d"
+      "revision": "450dd9607f7c49e9746ea57c1a451b7faeba5357"
     },
     "lxqt-openssh-askpass": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-openssh-askpass.git",
