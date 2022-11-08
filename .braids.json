@@ -3549,7 +3549,7 @@
     "lxqt-config": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-config.git",
       "branch": "master",
-      "revision": "ae16d4d02e015c9a47699508240f3f19626989c7"
+      "revision": "4fcb81a70a853319da29c9fb27e6f1c018b7d26e"
     },
     "lxqt-globalkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-globalkeys.git",
