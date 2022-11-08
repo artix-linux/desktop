@@ -5201,6 +5201,11 @@
       "branch": "master",
       "revision": "d8694632250c6fcc4443e2296f60f14f3ab0214c"
     },
+    "xdg-desktop-portal-lxqt": {
+      "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-lxqt.git",
+      "branch": "master",
+      "revision": "38688314afa14ec974a59bb50cce23b9ef774ccb"
+    },
     "xdg-user-dirs-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-user-dirs-gtk.git",
       "branch": "master",
