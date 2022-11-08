@@ -4489,7 +4489,7 @@
     "qtermwidget": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtermwidget.git",
       "branch": "master",
-      "revision": "83c68c431cad87e1358ae4262486956b9b4a6e2e"
+      "revision": "19c15dff966faa8f5510b232db60e9483a7fbdd6"
     },
     "qtox": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtox.git",
