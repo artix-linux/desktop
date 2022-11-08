@@ -4149,7 +4149,7 @@
     "pavucontrol-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pavucontrol-qt.git",
       "branch": "master",
-      "revision": "4b883bc1780e6299faed576a9f8d087466408e89"
+      "revision": "6854e49f20cd318df893764820d27c3d5f62f46a"
     },
     "pcmanfm": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pcmanfm.git",
