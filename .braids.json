@@ -3539,7 +3539,7 @@
     "lxqt-archiver": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-archiver.git",
       "branch": "master",
-      "revision": "9cd818dcbbdeac914fb4c689183721df79ba0c54"
+      "revision": "8fed125189e54733716ddfda86baf1b702c65d22"
     },
     "lxqt-build-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-build-tools.git",
