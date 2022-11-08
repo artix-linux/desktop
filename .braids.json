@@ -3594,7 +3594,7 @@
     "lxqt-session": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-session.git",
       "branch": "master",
-      "revision": "561132c0c5fc210f794a92163d8100f7b795adac"
+      "revision": "e730667505d556184473c5362ff2c88e05920a4a"
     },
     "lxqt-sudo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-sudo.git",
