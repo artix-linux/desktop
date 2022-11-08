@@ -3489,7 +3489,7 @@
     "lxhotkey": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxhotkey.git",
       "branch": "master",
-      "revision": "47ddfa171f20ae10dcc29b678368a322165bc631"
+      "revision": "125ef46c81c7270b26102ab6b57d7cbdcbc0c715"
     },
     "lximage-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lximage-qt.git",
