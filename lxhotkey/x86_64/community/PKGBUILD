@@ -1,9 +1,9 @@
-# Maintainer: Balló György <ballogyor+arch at gmail dot com>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 
 pkgbase=lxhotkey
 pkgname=(lxhotkey lxhotkey-gtk3)
 pkgver=0.1.1
-pkgrel=1
+pkgrel=2
 pkgdesc='Keyboard shortcuts configurator (part of LXDE)'
 arch=('x86_64')
 license=('GPL2')
