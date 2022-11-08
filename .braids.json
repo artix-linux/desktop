@@ -3174,7 +3174,7 @@
     "liblxqt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblxqt.git",
       "branch": "master",
-      "revision": "acd4fb61406c19342336734c63b045494b302948"
+      "revision": "00f284f57ff0c5a765cd19e5913104950db5024b"
     },
     "libmatekbd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmatekbd.git",
