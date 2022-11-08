@@ -3574,7 +3574,7 @@
     "lxqt-policykit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-policykit.git",
       "branch": "master",
-      "revision": "4d1b9595f39eaa90abe1c88b85bc4faf37aa159c"
+      "revision": "9a2692487f8533beda7db6972b8e24471251e4f9"
     },
     "lxqt-powermanagement": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-powermanagement.git",
