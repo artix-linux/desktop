@@ -1619,7 +1619,7 @@
     "jedi-language-server": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/jedi-language-server.git",
       "branch": "master",
-      "revision": "ecc5930877fecfeb811eff952faad701d6814e5e"
+      "revision": "15c4e2d26563cd3ddc54aa4115dda73ffcb84c45"
     },
     "js102": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js102.git",
