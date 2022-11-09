@@ -4004,7 +4004,7 @@
     "odt2txt": {
       "url": "gitea@gitea.artixlinux.org:packagesO/odt2txt.git",
       "branch": "master",
-      "revision": "f492ae57d192b3e52e1325b40d51d0b52c9a8e0e"
+      "revision": "3254d12afc77c8b8c83a6e35f8d4d5a7c69af3a3"
     },
     "okteta": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okteta.git",
