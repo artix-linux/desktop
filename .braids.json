@@ -2894,7 +2894,7 @@
     "libcerf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libcerf.git",
       "branch": "master",
-      "revision": "e1c214b9af46e98b5f54b9989c14fdf44bdcbfdb"
+      "revision": "f342455f896cfb2b6118826d5620d10f7b1e179c"
     },
     "libchamplain": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libchamplain.git",
