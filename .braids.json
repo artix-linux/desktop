@@ -5114,7 +5114,7 @@
     "webp-pixbuf-loader": {
       "url": "gitea@gitea.artixlinux.org:packagesW/webp-pixbuf-loader.git",
       "branch": "master",
-      "revision": "87272fb7ec362a8af9be477c3ca61a1dc34de356"
+      "revision": "333821607e13810d89d31b9ccd4a203325940ef5"
     },
     "weston": {
       "url": "gitea@gitea.artixlinux.org:packagesW/weston.git",
