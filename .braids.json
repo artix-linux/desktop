@@ -4384,7 +4384,7 @@
     "powerdevil": {
       "url": "gitea@gitea.artixlinux.org:packagesP/powerdevil.git",
       "branch": "master",
-      "revision": "84434034d67a5b057c4f1a9136758e614149dce6"
+      "revision": "dd673bb93a3b3009e3f3d027da2a46741ae44574"
     },
     "poxml": {
       "url": "gitea@gitea.artixlinux.org:packagesP/poxml.git",
