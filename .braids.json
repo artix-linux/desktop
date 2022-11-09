@@ -3059,7 +3059,7 @@
     "libiptcdata": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libiptcdata.git",
       "branch": "master",
-      "revision": "80450882b2cb3171e470e0ee7f7bedae21b459d9"
+      "revision": "e66f6349449a895f18d8b479684b4bfd791415e9"
     },
     "libiscsi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libiscsi.git",
