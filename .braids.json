@@ -1454,7 +1454,7 @@
     "gwenhywfar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenhywfar.git",
       "branch": "master",
-      "revision": "1d6a9253ed1ef53b7a9658177eca12509fdc075b"
+      "revision": "513982a20c820bd500eddc6042b82d53d1f3d1c5"
     },
     "gwenview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenview.git",
