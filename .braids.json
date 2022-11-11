@@ -4494,7 +4494,7 @@
     "qtox": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtox.git",
       "branch": "master",
-      "revision": "c7b912aa98b82068e8f2ec584cab38568bc3a4ca"
+      "revision": "35bfd5ef7ea7571cbcf830ec1de805d5a40b8e90"
     },
     "qtqr": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtqr.git",
