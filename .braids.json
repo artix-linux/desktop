@@ -4824,7 +4824,7 @@
     "telegram-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telegram-qt.git",
       "branch": "master",
-      "revision": "f3097a334d0f158c0074352acba59c1aebff358a"
+      "revision": "2dc6a61d6409c356b1fb665815a246fa7df79bb8"
     },
     "telepathy-farstream": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-farstream.git",
