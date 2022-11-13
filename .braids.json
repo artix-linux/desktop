@@ -4564,7 +4564,7 @@
     "screengrab": {
       "url": "gitea@gitea.artixlinux.org:packagesS/screengrab.git",
       "branch": "master",
-      "revision": "649cdc97a1c33002b2ca30cd7ceb1df31dbeed0f"
+      "revision": "7f5b97afcf938cb4e95aba8b46bcaef58e9f7181"
     },
     "scribus": {
       "url": "gitea@gitea.artixlinux.org:packagesS/scribus.git",
