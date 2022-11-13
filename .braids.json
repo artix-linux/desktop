@@ -4959,7 +4959,7 @@
     "timezonemap": {
       "url": "gitea@gitea.artixlinux.org:packagesT/timezonemap.git",
       "branch": "master",
-      "revision": "bc75f30d45dfa32c73099bf2a64d35642c83a6e9"
+      "revision": "f575060f4bcefa4ecabc6f56938f653a3438ed52"
     },
     "tinyxml": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tinyxml.git",
