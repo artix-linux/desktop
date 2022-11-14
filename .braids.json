@@ -4029,7 +4029,7 @@
     "openbox": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbox.git",
       "branch": "master",
-      "revision": "5bf9c93b2fa8f13049cc74c2ddf5c9dba7ac9887"
+      "revision": "6db41b0fed94b251d60d9bc24a81c84851259f06"
     },
     "opencolorio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/opencolorio.git",
