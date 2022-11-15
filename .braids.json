@@ -3609,7 +3609,7 @@
     "lxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxrandr.git",
       "branch": "master",
-      "revision": "acd4dd8c65e5747e1dad129a7a8048b051aaf395"
+      "revision": "3f9e3554410005c678b7802d94a4f15dbf2f9278"
     },
     "lxsession": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxsession.git",
