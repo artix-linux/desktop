@@ -1064,7 +1064,7 @@
     "gnome-color-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-color-manager.git",
       "branch": "master",
-      "revision": "9585d39ed6a06a85e649ca26fd9d4b88ee3dd32d"
+      "revision": "f2b6c979474c80b886a36cdf5db1af39c39ddb1d"
     },
     "gnome-common": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-common.git",
