@@ -1509,7 +1509,7 @@
     "hunspell-el": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hunspell-el.git",
       "branch": "master",
-      "revision": "6cccfcf99822ee25f0420473941c0f96a62ccc76"
+      "revision": "d536f84a5c2e1fc8ba750e219d21a29109edb7f8"
     },
     "hunspell-en": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hunspell-en.git",
