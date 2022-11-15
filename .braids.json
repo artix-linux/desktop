@@ -1444,7 +1444,7 @@
     "gutenprint": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gutenprint.git",
       "branch": "master",
-      "revision": "dee046af67ccf2ed834b6e4354776b61dfb37bbf"
+      "revision": "3bed26c665c1bb653e0401114df4f6c7d70bd68c"
     },
     "gvfs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gvfs.git",
