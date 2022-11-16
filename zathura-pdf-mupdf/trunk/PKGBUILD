@@ -1,0 +1,51 @@
+# Maintainer: Torr <torr[at]artixlinux[dot]org>
+pkgname=zathura-pdf-mupdf
+pkgver=0.3.9
+pkgrel=1
+pkgdesc="Pdf support for Zathura through Mupdf"
+arch=("any")
+url="https://git.pwmt.org/pwmt/zathura-pdf-mupdf"
+license=("zlib")
+conflicts=("zathura-pdf-poppler")
+depends=(
+	"zathura>=0.2.0"
+	"girara>=0.3.7"
+	"mupdf>=1.20.0"
+
+    "libjpeg"
+    "jbig2dec"
+    "openjpeg2"
+    "gumbo-parser"
+	"openssl"
+)
+makedepends=(
+	"meson>=0.56"
+	"gcc"
+	"pkgconf"
+	"libmupdf>=1.20.0"
+)
+source=(
+	"https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz"
+	"0001-Remove-mupdf-linking-detection.patch"
+)
+sha256sums=(
+	"05a6f22244c054a90f89ea2f746ea45ebaceb6c0559bfa4dcfd120c4d485346c"
+	"8b51563a782a7dea38711335354bf65e2303b06bfecacf9cc060ecfc7b0851b8"
+)
+
+prepare() {
+	cd "$pkgname-$pkgver"
+	patch -p 1 -Ni ../0001-Remove-mupdf-linking-detection.patch
+}
+
+build() {
+	cd "$pkgname-$pkgver"
+	meson build --prefix "/usr"
+	meson compile -C build
+}
+
+package() {
+	cd "$pkgname-$pkgver"
+	DESTDIR="$pkgdir" meson install -C build --no-rebuild
+	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+}
