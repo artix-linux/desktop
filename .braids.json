@@ -5349,7 +5349,7 @@
     "xfce4-screenshooter": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screenshooter.git",
       "branch": "master",
-      "revision": "f9a190d107f73067a1a968493b225580f14ba287"
+      "revision": "bbfc5eac60b8d971ebb886dca094fc7d086e60fe"
     },
     "xfce4-sensors-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-sensors-plugin.git",
