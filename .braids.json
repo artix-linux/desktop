@@ -479,7 +479,7 @@
     "cfitsio": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cfitsio.git",
       "branch": "master",
-      "revision": "4a8cc9887d93cc6909261c9f497d6b707a9f5acc"
+      "revision": "a2662314ec2bf35f11cde6153fb7a9eaf0f356bc"
     },
     "cheese": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cheese.git",
