@@ -4349,7 +4349,7 @@
     "podofo": {
       "url": "gitea@gitea.artixlinux.org:packagesP/podofo.git",
       "branch": "master",
-      "revision": "fe11b0170a28cbc666c60acc44e1252481ca3391"
+      "revision": "d2614a4acb7ccda3c4fbf9ea6abbe64e9a4dc6eb"
     },
     "polari": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polari.git",
