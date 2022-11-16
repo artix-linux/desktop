@@ -12,6 +12,7 @@ depends=(
 	"girara>=0.3.7"
 	"mupdf>=1.20.0"
 
+	"cairo"
     "libjpeg"
     "jbig2dec"
     "openjpeg2"
