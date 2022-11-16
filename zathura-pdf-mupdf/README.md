@@ -1,0 +1,2 @@
+# zathura-pdf-mupdf
+

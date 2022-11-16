@@ -5511,6 +5511,11 @@
       "branch": "master",
       "revision": "54fa13e9f01babcec64fdb09dc1c6ef3679b276e"
     },
+    "zathura-pdf-mupdf": {
+      "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-pdf-mupdf.git",
+      "branch": "master",
+      "revision": "3ad546926343d4b62a0cbf1cf83b22466f0c6f73"
+    },
     "zathura-ps": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-ps.git",
       "branch": "master",
