@@ -3309,7 +3309,7 @@
     "librest": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librest.git",
       "branch": "master",
-      "revision": "bc9c1c3c48ec181dc5e8a0c56e6e1fe40f1966e4"
+      "revision": "ec28176cf52ca5046d3d82f474f3af0aa153daeb"
     },
     "librttopo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/librttopo.git",
