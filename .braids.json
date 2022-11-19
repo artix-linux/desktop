@@ -1819,7 +1819,7 @@
     "kcmutils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcmutils.git",
       "branch": "master",
-      "revision": "20266bb1cd313db9a9c5798eb29b607adf1c58e7"
+      "revision": "47f3268e62a445e008f77bdbc6be93cd9f0f78b6"
     },
     "kcodecs": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcodecs.git",
