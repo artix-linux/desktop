@@ -4604,7 +4604,7 @@
     "shared-color-targets": {
       "url": "gitea@gitea.artixlinux.org:packagesS/shared-color-targets.git",
       "branch": "master",
-      "revision": "d291d7937a4445d450aa64d62da8a6a649e80ee2"
+      "revision": "fd509ed49a369ab6b66b738c2a41ec2fcca24d28"
     },
     "signal-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/signal-desktop.git",
