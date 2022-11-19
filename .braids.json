@@ -2034,7 +2034,7 @@
     "kdnssd": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdnssd.git",
       "branch": "master",
-      "revision": "bb4c933ee18af819f8cb02f80f9aa71c56b4cfcc"
+      "revision": "6591d6201a4357d76298f9289a939bb868de2ec1"
     },
     "kdoctools": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdoctools.git",
