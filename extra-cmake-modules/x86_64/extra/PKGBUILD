@@ -19,7 +19,7 @@ source=(https://download.kde.org/stable/frameworks/${pkgver%.*}/$pkgname-$pkgver
         artix.patch)
 sha256sums=('34563ce7bbe3c4d8f69ce1f5dc87ae052443a6b0349fefb9e244a7358b16c0c5'
             'SKIP'
-            'acc329fbcabc1e1495f96b666ab76b1f252f15b57bc94878c24a5362aa04d796')
+            '885013500e268f29dbeafd7a2c86f0ca58da382233a59bd69cc0fee1d66eb2ac')
 validpgpkeys=(53E6B47B45CEA3E0D5B7457758D0EE648A48B3BB) # David Faure <faure@kde.org>
 
 prepare() {
