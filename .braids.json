@@ -1924,7 +1924,7 @@
     "kded": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kded.git",
       "branch": "master",
-      "revision": "5ce614705f0e367e37b2527a28e11920a64a6b44"
+      "revision": "1b34c740460e94aa91124e1dbc930f7e441658c1"
     },
     "kdeedu-data": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeedu-data.git",
