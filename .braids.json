@@ -3959,7 +3959,7 @@
     "neovim": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neovim.git",
       "branch": "master",
-      "revision": "38f69cde7c4261522697027f6b65c02e10969b27"
+      "revision": "d826710c0762b421e6191c1d3bdc79573dc6c656"
     },
     "neovim-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neovim-qt.git",
