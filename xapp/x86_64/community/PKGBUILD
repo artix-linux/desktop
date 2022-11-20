@@ -1,10 +1,10 @@
-# Maintainer: Chris Cromer <cromer@artixlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Eli Schwartz <eschwartz@archlinux.org>
 # Contributor: Alex Filgueira <alexfilgueira (at antergos.com)>
 # Contributor: Nate Simon <aurpkg (at natesimon.net)>
 
 pkgname=xapp
-pkgver=2.2.15
+pkgver=2.4.1
 pkgrel=1
 pkgdesc="Common library for X-Apps project"
 arch=(x86_64)
@@ -17,8 +17,8 @@ provides=(xapps)
 conflicts=(xapps)
 replaces=(xapps)
 source=(${url}/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
-sha256sums=('05eb9e26511df2b9683eb8997a9bf02e796be9390553113c9727901f43461f3c')
-b2sums=('2f136372d7015a63de38b09ed08e3221be1b59eb01f7cce38d20374451c70b67a2158464c539433f267f0f987953089e606b09977bc2582206af2f7fede80a45')
+sha256sums=('919bfd9633d8a3a10d06f711feecf7de90d6c4c600d30c19e1550374471439c1')
+b2sums=('2b64e4eb12edda67957768c3f708a10c694d45bf57f0a18e1496c19e770819997961ff7c32ce550d52cb378c9cf8d9f4c9ee1fd70605c7aec079d8a156fd7596')
 
 build() {
   artix-meson ${pkgname}-${pkgver} build
