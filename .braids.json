@@ -4209,7 +4209,7 @@
     "picom": {
       "url": "gitea@gitea.artixlinux.org:packagesP/picom.git",
       "branch": "master",
-      "revision": "8b01a2c0bf932cb35f14a93642fb74cd81cd1169"
+      "revision": "0ee56013d78f0c6bf3595c21d09d4bb076670582"
     },
     "pidgin": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pidgin.git",
