@@ -104,7 +104,7 @@ validpgpkeys=(
   7953AC1FBC3DC8B3B292393ED5E9E43F7DF9EE8C  # Richard Levitte <richard@levitte.org>
   A21FAB74B0088AA361152586B8EF1A6BA9DA2D5C  # Tomáš Mráz <tm@t8m.info>
 )
-_arch_list=(ARM AARCH64 IA32 X64)
+_arch_list=(IA32 X64)
 _build_type=RELEASE
 _build_plugin=GCC5
 
