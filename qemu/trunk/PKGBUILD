@@ -322,8 +322,10 @@ build() {
 
 package_qemu-common() {
   local binfmt_conf_options=(
+    --systemd ALL
     --exportdir "$pkgdir/usr/lib/binfmt.d/"
     --qemu-path "/usr/bin"
+    --preserve-argv0
   )
 
   license+=(BSD MIT)
