@@ -634,7 +634,7 @@
     "dleyna": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna.git",
       "branch": "master",
-      "revision": "6d8a67590e3e779eea6b3ca186b0795dcce054c7"
+      "revision": "7b6f2473e36e9ff28ea3d5067bb857c2aa2a4dfb"
     },
     "dleyna-connector-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-connector-dbus.git",
