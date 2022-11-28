@@ -1,2 +1,0 @@
-# dleyna-connector-dbus
-
