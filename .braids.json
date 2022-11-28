@@ -644,7 +644,7 @@
     "dleyna-core": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-core.git",
       "branch": "master",
-      "revision": "983a0e0827f59187da5a5ea551cd23629943920a"
+      "revision": "465a83caf169d5275bd62a1cb0c10e4f4dddd1ce"
     },
     "dleyna-renderer": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-renderer.git",
