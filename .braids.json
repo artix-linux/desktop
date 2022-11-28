@@ -649,7 +649,7 @@
     "dleyna-renderer": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-renderer.git",
       "branch": "master",
-      "revision": "c620fa28ae7a91c0b9d05faa35bb58874f75d808"
+      "revision": "9626084b3b5cbe3739653269a486393d2ab900ce"
     },
     "dleyna-server": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna-server.git",
