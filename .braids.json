@@ -534,7 +534,7 @@
     "cjs": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cjs.git",
       "branch": "master",
-      "revision": "dff71614d4f376546252a6db62f3d745d246d052"
+      "revision": "4fdbd2e07a036703e22e3465719f437d410373db"
     },
     "clucene": {
       "url": "gitea@gitea.artixlinux.org:packagesC/clucene.git",
