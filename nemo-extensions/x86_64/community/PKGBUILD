@@ -18,7 +18,7 @@ pkgname=(nemo-audio-tab
         #nemo-media-columns pypdf2 in AUR but mostly unmaintained
         #nemo-repairer
 pkgver=5.6.0
-pkgrel=1.1
+pkgrel=1
 pkgdesc="Various extensions for Nemo"
 arch=(x86_64)
 license=(GPL2)
@@ -28,7 +28,7 @@ _preview_deps=(cjs clutter-gtk clutter-gst libmusicbrainz5 gtksourceview4 xreade
 _python_deps=(python-gobject)
 _seahorse_deps=(libcryptui)
 makedepends=(intltool gobject-introspection meson samurai)
-makedepends+=("${_preview_deps[@]}" "${_python_deps[@]}" "${_seahorse_deps[@]}")
+makedepends+=("${_preview_deps[@]}" "${_python_deps[@]}" "${_seahorse_deps[@]}" clutter)
 options=(!emptydirs)
 source=(${url}/archive/${pkgver}/${pkgbase}-${pkgver}.tar.gz)
 sha256sums=('6c334b320541672b1c6ac8ec2ffade5a0eb413549fa680ccce56914055f537f0')
