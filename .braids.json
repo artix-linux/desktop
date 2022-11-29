@@ -4774,7 +4774,7 @@
     "swaylock": {
       "url": "gitea@gitea.artixlinux.org:packagesS/swaylock.git",
       "branch": "master",
-      "revision": "1aefbdceae4e4270450b2057b21c289b8561d2e2"
+      "revision": "77021915e34918bc35c96ca9e24311257cb1091c"
     },
     "sweeper": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sweeper.git",
