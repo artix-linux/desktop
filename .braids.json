@@ -1969,7 +1969,7 @@
     "kdeplasma-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeplasma-addons.git",
       "branch": "master",
-      "revision": "4e9c1e2c8eea7eb233b4daa99cedb779b2c09414"
+      "revision": "5f7eeb896a12972a7335c60d23c4a08337f2f81a"
     },
     "kdesdk-kioslaves": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-kioslaves.git",
