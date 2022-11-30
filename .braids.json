@@ -2559,7 +2559,7 @@
     "kpipewire": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpipewire.git",
       "branch": "master",
-      "revision": "3e5efa4c423001be3a9f41b752c48eceb7107f22"
+      "revision": "a2e492d529bb2975983c23947079cef0755dd4fb"
     },
     "kpkpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpkpass.git",
