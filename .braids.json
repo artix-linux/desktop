@@ -4249,7 +4249,7 @@
     "plasma-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-desktop.git",
       "branch": "master",
-      "revision": "362ce7fcc8db429949280beac1764729afc379af"
+      "revision": "80170e59ca4d622dd7a45801a45f52c57cea929f"
     },
     "plasma-disks": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-disks.git",
