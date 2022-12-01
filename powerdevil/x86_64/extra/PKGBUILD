@@ -4,7 +4,7 @@
 
 pkgname=powerdevil
 pkgver=5.26.4
-pkgrel=1.3
+pkgrel=1.4
 pkgdesc='Manages the power consumption settings of a Plasma Shell'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
@@ -33,5 +33,5 @@ package() {
   DESTDIR="$pkgdir" cmake --install build
 
   # remove systemd services
-  rm -r "$pkgdir"/usr/lib/systemd/us
+  rm -r "$pkgdir"/usr/lib/systemd/user
 }
