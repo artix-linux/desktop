@@ -3319,7 +3319,7 @@
     "libshumate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libshumate.git",
       "branch": "master",
-      "revision": "42138d956ff3f74f2b5c141f52244f8a63e5bcc0"
+      "revision": "a679e5c1c01fd0685f2c9e6de8d3f6163cb20aea"
     },
     "libslirp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libslirp.git",
