@@ -5159,7 +5159,7 @@
     "xapp": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapp.git",
       "branch": "master",
-      "revision": "8ac72c53d1f865e5935ede20987b12f528c30c7a"
+      "revision": "e6bf8c90880101fa974019cf4fe97850db9e0ead"
     },
     "xarchiver": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xarchiver.git",
