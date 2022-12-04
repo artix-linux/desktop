@@ -1,4 +1,4 @@
-# Maintainer: Dudemanguy <random342@airmail.cc>
+# Maintainer: Dudemanguy <dudemanguy@artixlinux.org>
 # Maintainer: Caleb Maclennan <caleb@alerque.com>
 # Contributor: Gaetan Bisson <bisson@archlinux.org>
 # Contributor: Daniel J Griffiths <ghost1227@archlinux.us>
@@ -8,7 +8,7 @@
 
 pkgname=scribus
 pkgver=1.5.8
-pkgrel=11
+pkgrel=12
 pkgdesc="Desktop publishing software"
 arch=(x86_64)
 url="https://www.scribus.net/"
