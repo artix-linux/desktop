@@ -1,9 +1,9 @@
-# Maintainer: Chris Cromer <cromer@artixlinux.org>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Contributor: Sam Burgos <santiago.burgos1089@gmail.com>
 # Contributor: Kyle Laker <kyle@laker.email>
 
 pkgname=warpinator
-pkgver=1.2.14
+pkgver=1.4.2
 pkgrel=1
 pkgdesc='LAN file sender, send and receive files across the network'
 arch=('any')
@@ -15,7 +15,7 @@ depends=('gtk3' 'libnm' 'python-cryptography' 'python-gobject' 'python-grpcio' '
 makedepends=('meson' 'polkit')
 optdepends=('ufw: Open a firewall port for Warpinator')
 source=("https://github.com/linuxmint/$pkgname/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha256sums=('c44c0a50be973cef71714c8288f7716719232ea4af762809060f32bcd934a41f')
+sha256sums=('568bdcd9fe5e39a2d100f6b6c429eaddd12b1339196b0384b4df1cd94d636dbb')
 
 prepare() {
   cd $pkgname-$pkgver
