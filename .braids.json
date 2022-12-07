@@ -119,7 +119,7 @@
     "arc-gtk-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesA/arc-gtk-theme.git",
       "branch": "master",
-      "revision": "25361c03507c43a25f5466fb931fc9b54226df35"
+      "revision": "239fa4290bc723f8637833c1e9abd6cb63727aed"
     },
     "arc-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesA/arc-icon-theme.git",
