@@ -1,4 +1,4 @@
-# Maintainer: NicoHood <archlinux {cat} nicohood {dog} de>
+# Maintainer: Dudemanguy <dudemanguy@artixlinux.org>
 # PGP ID: 97312D5EB9D7AE7D0BD4307351DAE9B7C1AE9161
 # Contributor: zach <zach {at} zach-adams {dot} com>
 # Contributor: Gordian Edenhofer <gordian.edenhofer[at]yahoo[dot]de
@@ -9,7 +9,7 @@ _pkgname=arc-theme
 pkgname=('arc-gtk-theme' 'arc-solid-gtk-theme')
 pkgdesc="A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell"
 pkgver=20220405
-pkgrel=1
+pkgrel=2
 arch=('any')
 # Upstream url: https://github.com/horst3180/arc-theme
 # Now using soft fork: https://github.com/jnsh/arc-theme/issues/18
