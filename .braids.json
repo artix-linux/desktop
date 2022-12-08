@@ -2319,7 +2319,7 @@
     "kldap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kldap.git",
       "branch": "master",
-      "revision": "367cb9be70be435fab48c61caf0249c39dea6385"
+      "revision": "ff1ca3244c46a329d870f05f3c1f65837fcadc05"
     },
     "kleopatra": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kleopatra.git",
