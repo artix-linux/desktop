@@ -1709,7 +1709,7 @@
     "kamera": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kamera.git",
       "branch": "master",
-      "revision": "d8ec5d25f37dfd846a459f030e9f5db95ba70c38"
+      "revision": "933aec654ac6922f5d97c18d1fe2303c74e7b6c1"
     },
     "kamoso": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kamoso.git",
