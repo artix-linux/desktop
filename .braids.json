@@ -2359,7 +2359,7 @@
     "kmail-account-wizard": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmail-account-wizard.git",
       "branch": "master",
-      "revision": "338e1ef896155ceafe74bf924c32f5a6ae864076"
+      "revision": "1184568ff1a626728c3b53cbbd4cdaa5e012b283"
     },
     "kmailtransport": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmailtransport.git",
