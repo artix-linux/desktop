@@ -2439,7 +2439,7 @@
     "knotes": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knotes.git",
       "branch": "master",
-      "revision": "90ef63bf6292a667428532977e5d77f8b120ebff"
+      "revision": "d5cbe254c84846fda6bb41f2a7a956394719ef40"
     },
     "knotifications": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knotifications.git",
