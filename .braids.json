@@ -3994,7 +3994,7 @@
     "obconf-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesO/obconf-qt.git",
       "branch": "master",
-      "revision": "b3e2d959a2c3bd98251297c0ed69220db4329294"
+      "revision": "6c3f2af5e408a7d11a643c1717e350bee4f13554"
     },
     "obs-studio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/obs-studio.git",
