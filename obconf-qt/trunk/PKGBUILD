@@ -1,9 +1,9 @@
-# Maintainer: Jerome Leclanche <jerome@leclan.ch>
+# Maintainer: Qontinuum <qontinuum@artixlinux.org>
 # Maintainer: Chih-Hsuan Yen <yan12125@archlinux.org>
 
 pkgname=obconf-qt
 pkgver=0.16.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Openbox configuration tool. Qt port of ObConf"
 arch=("x86_64")
 groups=("lxqt")
