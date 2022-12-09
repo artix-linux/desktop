@@ -464,7 +464,7 @@
     "cantor": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cantor.git",
       "branch": "master",
-      "revision": "1fea462b28bf722374b93d12b382686d7162248a"
+      "revision": "04116b2112713fe1475267f3f35f2599ace958a3"
     },
     "caribou": {
       "url": "gitea@gitea.artixlinux.org:packagesC/caribou.git",
