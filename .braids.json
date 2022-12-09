@@ -4864,7 +4864,7 @@
     "telepathy-kde-common-internals": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-common-internals.git",
       "branch": "master",
-      "revision": "8c0bfcce28c14c10f9d5a10ead5fbe9e6bc7f45f"
+      "revision": "0cc7e153f47f83f38a9779b454fcddd45272c0ea"
     },
     "telepathy-kde-contact-list": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-contact-list.git",
