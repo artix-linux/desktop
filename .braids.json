@@ -4874,7 +4874,7 @@
     "telepathy-kde-contact-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-contact-runner.git",
       "branch": "master",
-      "revision": "d4995a9eb695b24175f21b6007f589c0a35f6f74"
+      "revision": "f599a1aafe5b6e01b34df94678699fcf23185082"
     },
     "telepathy-kde-desktop-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-desktop-applets.git",
