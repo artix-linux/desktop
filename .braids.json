@@ -3879,7 +3879,7 @@
     "minuet": {
       "url": "gitea@gitea.artixlinux.org:packagesM/minuet.git",
       "branch": "master",
-      "revision": "9c9e22fcce3aea7678e5e58ac49d16ced7ec1d9f"
+      "revision": "b8f6af6bccee9a6d17a3b6d9071725c11d665dee"
     },
     "mmtf-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mmtf-cpp.git",
