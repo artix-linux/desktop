@@ -4844,7 +4844,7 @@
     "telepathy-kde-accounts-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-accounts-kcm.git",
       "branch": "master",
-      "revision": "13f494191dc2443a2440d3c0e91aeb18f74c9fbb"
+      "revision": "a99fbb34cb7f5cf63ef0fc251d5235f8470dc3c1"
     },
     "telepathy-kde-approver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-approver.git",
