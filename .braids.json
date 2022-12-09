@@ -4224,7 +4224,7 @@
     "pim-sieve-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pim-sieve-editor.git",
       "branch": "master",
-      "revision": "d8d7ddb1b59b0880802faed752eca18cc24db151"
+      "revision": "765629b81d32159b340996b56c3c7d12f1525843"
     },
     "pimcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pimcommon.git",
