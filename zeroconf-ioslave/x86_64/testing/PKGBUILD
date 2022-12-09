@@ -4,7 +4,7 @@
 
 pkgname=zeroconf-ioslave
 pkgver=22.04.3
-pkgrel=1.4
+pkgrel=1.5
 pkgdesc='Network Monitor for DNS-SD services (Zeroconf)'
 url='https://apps.kde.org/zeroconf_ioslave/'
 arch=(x86_64)
