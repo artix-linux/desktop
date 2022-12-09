@@ -2484,7 +2484,7 @@
     "konsole": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konsole.git",
       "branch": "master",
-      "revision": "23c6068d23dbd3baf071e826217c051170e34993"
+      "revision": "fd6bb9ee5a20998b2b6a1ce829211816f4f93efa"
     },
     "kontact": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kontact.git",
