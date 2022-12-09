@@ -4204,7 +4204,7 @@
     "picmi": {
       "url": "gitea@gitea.artixlinux.org:packagesP/picmi.git",
       "branch": "master",
-      "revision": "dddee585b7def594033303f112fdcb889b534bc8"
+      "revision": "0d9edf107f9f2109e5c2d552554f4c8157c05896"
     },
     "picom": {
       "url": "gitea@gitea.artixlinux.org:packagesP/picom.git",
