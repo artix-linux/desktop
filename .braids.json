@@ -2384,7 +2384,7 @@
     "kmime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmime.git",
       "branch": "master",
-      "revision": "6b28c7d477bd304af4bf1462d68db7ced48abce7"
+      "revision": "bd11364bed3065dead67b6c2b29c4b7f7f403fa8"
     },
     "kmines": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmines.git",
