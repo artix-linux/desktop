@@ -4854,7 +4854,7 @@
     "telepathy-kde-auth-handler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-auth-handler.git",
       "branch": "master",
-      "revision": "71211bea7de280bd101debf69d0cb5f5d8131739"
+      "revision": "0fdecccd0f9914f4f4f4173ff474ad2ea36e9fac"
     },
     "telepathy-kde-call-ui": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-call-ui.git",
