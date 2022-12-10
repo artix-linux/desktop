@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://gitea.artixlinux.org/packagesK/kwidgetsaddons.git
+	branch = master
+	commit = 93820a0af78638e3bc43cadcf35022afc10686c7
+	parent = c6a4caaede9c48bc7047f1ebf83b7c090cf6905f
+	method = merge
+	cmdver = 0.4.3
