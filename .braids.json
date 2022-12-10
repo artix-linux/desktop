@@ -2189,7 +2189,7 @@
     "kidletime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kidletime.git",
       "branch": "master",
-      "revision": "8b4f3db8783a4bc51c0679f9f32246033fbd2802"
+      "revision": "f12b98427c77119d38d22a50171bfaf34d27edd3"
     },
     "kig": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kig.git",
