@@ -2429,7 +2429,7 @@
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
       "branch": "master",
-      "revision": "7897767aecc29374d3479de610e0ea9a90a2e6bc"
+      "revision": "e9a5b179290fc06db532f83c0908df3e6eda6c2f"
     },
     "knights": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knights.git",
