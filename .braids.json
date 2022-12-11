@@ -1844,7 +1844,7 @@
     "kconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kconfig.git",
       "branch": "master",
-      "revision": "2656cebea558bd45f249b86a7baed6a7122fa4d9"
+      "revision": "26cd9a8666cadb640fdb009332a33715c5c5c7e3"
     },
     "kconfigwidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kconfigwidgets.git",
