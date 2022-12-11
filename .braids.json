@@ -1989,7 +1989,7 @@
     "kdesu": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesu.git",
       "branch": "master",
-      "revision": "ade96ba0e7156c672d07c268477ae2edf1fbda82"
+      "revision": "a34d9a20ffb2b1a1c5ad4846f4fc96aeab0456bf"
     },
     "kdevelop": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop.git",
