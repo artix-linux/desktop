@@ -1874,7 +1874,7 @@
     "kdav": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdav.git",
       "branch": "master",
-      "revision": "738c55a6b9a983574d719a4ccda8fac6e2233629"
+      "revision": "76702ade3923a75d388723fd8b6d172873a58248"
     },
     "kdbusaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdbusaddons.git",
