@@ -864,7 +864,7 @@
     "frameworkintegration": {
       "url": "gitea@gitea.artixlinux.org:packagesF/frameworkintegration.git",
       "branch": "master",
-      "revision": "668bd56c2f8a5d9fbaad24e308f05ab8d253454a"
+      "revision": "a3072f81ce609b23f26fa27ecb0bb1fa7c55436d"
     },
     "freecell-solver": {
       "url": "gitea@gitea.artixlinux.org:packagesF/freecell-solver.git",
