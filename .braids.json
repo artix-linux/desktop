@@ -1984,7 +1984,7 @@
     "kdesignerplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesignerplugin.git",
       "branch": "master",
-      "revision": "5fb3b83771914b19eecf7d07afd9df50da255221"
+      "revision": "524e55e0c9d7b4a0d5b77cb6425669ae6618d575"
     },
     "kdesu": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesu.git",
