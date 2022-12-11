@@ -3749,7 +3749,7 @@
     "mate-polkit": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-polkit.git",
       "branch": "master",
-      "revision": "3a2343ad20e2d0b959188190919883a5a49d5559"
+      "revision": "b4cbe9fdf36dfcb971b4421c65e77ce7eb0ffd76"
     },
     "mate-power-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-power-manager.git",
