@@ -409,7 +409,7 @@
     "breeze-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-icons.git",
       "branch": "master",
-      "revision": "a0de4d4f0cbc2dfb0e8f88d303a20ffd0b2aa8c5"
+      "revision": "1bf4f98744787436e3b75a8e9fb9232a2e17c4e9"
     },
     "brltty": {
       "url": "gitea@gitea.artixlinux.org:packagesB/brltty.git",
