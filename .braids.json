@@ -5089,7 +5089,7 @@
     "virglrenderer": {
       "url": "gitea@gitea.artixlinux.org:packagesV/virglrenderer.git",
       "branch": "master",
-      "revision": "051d93de4d065a6cac274ea4141fbde1234f7cec"
+      "revision": "32a9ecb45cde7678f80e4ebdf8f3469d275a0b82"
     },
     "vlc": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vlc.git",
