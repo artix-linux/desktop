@@ -8,7 +8,7 @@ pkgname=(nemo-audio-tab
          nemo-fileroller
          nemo-image-converter
          nemo-pastebin
-         nemo-preview
+         # nemo-preview
          nemo-python
          nemo-seahorse
          nemo-share
@@ -27,7 +27,7 @@ depends=(nemo)
 _preview_deps=(cjs clutter-gtk clutter-gst libmusicbrainz5 gtksourceview4 xreader)
 _python_deps=(python-gobject)
 _seahorse_deps=(libcryptui)
-makedepends=(intltool gobject-introspection meson samurai cmake)
+makedepends=(intltool gobject-introspection meson samurai)
 makedepends+=("${_preview_deps[@]}" "${_python_deps[@]}" "${_seahorse_deps[@]}" )
 options=(!emptydirs)
 source=(${url}/archive/${pkgver}/${pkgbase}-${pkgver}.tar.gz)
