@@ -734,7 +734,7 @@
     "elementary-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elementary-icon-theme.git",
       "branch": "master",
-      "revision": "170e7efbe7309db6037edf43296e66cf397aca94"
+      "revision": "b5bcb5004616f0b2c7f21e73ac8b36485c45f31c"
     },
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
