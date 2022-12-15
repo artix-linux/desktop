@@ -5434,7 +5434,7 @@
     "xfwm4": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfwm4.git",
       "branch": "master",
-      "revision": "bf92538b371f0d5ede50eae2d00ed7e1ddbe2e4f"
+      "revision": "86f6974fe020806c710116ab0304bd7d7d02fb55"
     },
     "xfwm4-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfwm4-themes.git",
