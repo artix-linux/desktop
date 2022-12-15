@@ -5379,7 +5379,7 @@
     "xfce4-systemload-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-systemload-plugin.git",
       "branch": "master",
-      "revision": "999dc12f92cb9b02e251cf93e59d008d3cda75ef"
+      "revision": "547eaaa1979253499d646c1201a40bb597384f4c"
     },
     "xfce4-taskmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-taskmanager.git",
