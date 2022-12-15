@@ -5429,7 +5429,7 @@
     "xfdesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfdesktop.git",
       "branch": "master",
-      "revision": "a40e1f496eec397a3b920398a4b9c3f907f3f734"
+      "revision": "653445bae510b0c35b9377e7cfeb0b0ac817a237"
     },
     "xfwm4": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfwm4.git",
