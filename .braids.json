@@ -5234,7 +5234,7 @@
     "xfce4-appfinder": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-appfinder.git",
       "branch": "master",
-      "revision": "7545ac8d1dde8489f6711e3d61b828344797c2b2"
+      "revision": "f01583cda5783626f90e0cabb3900d82d29e05fd"
     },
     "xfce4-artwork": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-artwork.git",
