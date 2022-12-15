@@ -5264,7 +5264,7 @@
     "xfce4-cpugraph-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-cpugraph-plugin.git",
       "branch": "master",
-      "revision": "2193d96e99ff8d1af579f9628639da4ceeabeaa5"
+      "revision": "e98beea87bb9b5556978cc4155983020e2e46dbc"
     },
     "xfce4-datetime-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-datetime-plugin.git",
