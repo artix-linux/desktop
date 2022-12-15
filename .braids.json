@@ -5424,7 +5424,7 @@
     "xfconf": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfconf.git",
       "branch": "master",
-      "revision": "cf44df2ced8eb47dec9209fc403ddc29c7d44d22"
+      "revision": "0c051ab9aeac126626261c3a3b42c5e4d6e87a98"
     },
     "xfdesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfdesktop.git",
