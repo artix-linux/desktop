@@ -5359,7 +5359,7 @@
     "xfce4-sensors-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-sensors-plugin.git",
       "branch": "master",
-      "revision": "deb58253b1aa72860973f558d259d80d8b343f91"
+      "revision": "d9a5c8e66786e029a6e62e8a436ffb03f560ab1e"
     },
     "xfce4-session": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-session.git",
