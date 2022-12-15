@@ -5019,7 +5019,7 @@
     "tumbler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tumbler.git",
       "branch": "master",
-      "revision": "a6b2d9df8164b16cb3d267967624933e2ee7a2e8"
+      "revision": "3913894cc372730b138cfb1e74abea666484adef"
     },
     "udftools": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udftools.git",
