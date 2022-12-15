@@ -5259,7 +5259,7 @@
     "xfce4-cpufreq-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-cpufreq-plugin.git",
       "branch": "master",
-      "revision": "997b946d43308726035b2a21e931c4d99656c6f3"
+      "revision": "5fcf3c40c72530cedf5ae8a72c88615b23a380d2"
     },
     "xfce4-cpugraph-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-cpugraph-plugin.git",
