@@ -5269,7 +5269,7 @@
     "xfce4-dev-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-dev-tools.git",
       "branch": "master",
-      "revision": "cad57984bcaeb46675e923e18e344c9b4c9ddbdd"
+      "revision": "e7a3a9aa24740ec6c767af21e531a44b53f378cb"
     },
     "xfce4-dict": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-dict.git",
