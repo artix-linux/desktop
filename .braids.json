@@ -884,7 +884,7 @@
     "garcon": {
       "url": "gitea@gitea.artixlinux.org:packagesG/garcon.git",
       "branch": "master",
-      "revision": "55b919cd88ef16f41a57979deb24ca9daa5479d8"
+      "revision": "2378814bd867c9fa1ef46bf3dc5602fdd88749b4"
     },
     "gcab": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcab.git",
