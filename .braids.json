@@ -4539,7 +4539,7 @@
     "ristretto": {
       "url": "gitea@gitea.artixlinux.org:packagesR/ristretto.git",
       "branch": "master",
-      "revision": "0ab6157c936b8a6e5906bd41ce29be1f0febc565"
+      "revision": "580ea36ef3064a35107aea1bb3913d26544dba5f"
     },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
