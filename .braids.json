@@ -5384,7 +5384,7 @@
     "xfce4-taskmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-taskmanager.git",
       "branch": "master",
-      "revision": "c066bb5e5df39d3a6669d007e0ce3b88b5549ae3"
+      "revision": "6637d5dfe895f2308867e7dc528d514d4e858beb"
     },
     "xfce4-terminal": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-terminal.git",
