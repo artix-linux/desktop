@@ -4199,7 +4199,7 @@
     "phonon-gstreamer": {
       "url": "gitea@gitea.artixlinux.org:packagesP/phonon-gstreamer.git",
       "branch": "master",
-      "revision": "27fa27755a50e91f7b8456a4904d6b2365d32305"
+      "revision": "6506e01efc0b7d92c59c4d08398ee5a6f9d686a8"
     },
     "phonon-vlc": {
       "url": "gitea@gitea.artixlinux.org:packagesP/phonon-vlc.git",
