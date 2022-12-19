@@ -3274,7 +3274,7 @@
     "libqalculate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqalculate.git",
       "branch": "master",
-      "revision": "ce57aad4ef2119cdb6402bae81df1c94b2e5e1ad"
+      "revision": "46cd4d6eede590153fd14de2704c1a52ba26bcb0"
     },
     "libqb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqb.git",
