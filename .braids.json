@@ -4044,7 +4044,7 @@
     "openimageio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openimageio.git",
       "branch": "master",
-      "revision": "a1191b056b4fa8c646b0fbd22bc1d6189136ed66"
+      "revision": "0ce02eb91c3e9ffb933d146d181e0633dd958948"
     },
     "openlibm": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openlibm.git",
