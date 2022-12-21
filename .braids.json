@@ -4214,7 +4214,7 @@
     "picom": {
       "url": "gitea@gitea.artixlinux.org:packagesP/picom.git",
       "branch": "master",
-      "revision": "0ee56013d78f0c6bf3595c21d09d4bb076670582"
+      "revision": "b449a1bfcd7980be87b2045a27ca7e6d70358073"
     },
     "pidgin": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pidgin.git",
