@@ -45,9 +45,11 @@ options=(
 source=(
     "$pkgname-$pkgver.tar.gz::https://gitlab.freedesktop.org/wlroots/wlroots/-/releases/$pkgver/downloads/wlroots-$pkgver.tar.gz"
     "https://gitlab.freedesktop.org/wlroots/wlroots/-/releases/$pkgver/downloads/wlroots-$pkgver.tar.gz.sig"
+    "0001-find-libseat.patch"
 )
 sha256sums=('130a1a86f6f8c4fa162ba4db82aaa70850273c5d01313b242baa0144e3d6d253'
-            'SKIP')
+            'SKIP'
+            'ea5499b3663682d22301f62498b92929c96d2ec4290916e91a95d2ca3af9956d')
 validpgpkeys=(
     '34FF9526CFEF0E97A340E2E40FDE7BE0E88F5E48' # Simon Ser
     '9DDA3B9FA5D58DD5392C78E652CB6609B22DA89A' # Drew DeVault
@@ -55,6 +57,7 @@ validpgpkeys=(
 )
 
 build() {
+    export LDFLAGS="$LDFLAGS -lseat"
     artix-meson "$pkgname-$pkgver" build
     ninja -C build
 }

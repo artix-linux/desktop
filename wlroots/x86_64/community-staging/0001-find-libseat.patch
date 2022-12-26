@@ -1,0 +1,24 @@
+From 1eac375609e117821bd82e558d9ff7db1b766804 Mon Sep 17 00:00:00 2001
+From: Nathan <ndowens@artixlinux.org>
+Date: Mon, 26 Dec 2022 01:43:10 -0600
+Subject: [PATCH] find-libseat
+
+---
+ backend/session/meson.build | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/backend/session/meson.build b/backend/session/meson.build
+index 2791550..096690e 100644
+--- a/backend/session/meson.build
++++ b/backend/session/meson.build
+@@ -1,6 +1,5 @@
+ libseat = dependency('libseat',
+-	version: '>=0.2.0',
+-	fallback: 'seatd',
++        required: false,
+ 	default_options: ['server=disabled', 'man-pages=disabled'],
+ )
+ wlr_files += files('session.c')
+-- 
+2.39.0
+
