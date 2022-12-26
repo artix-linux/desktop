@@ -5149,7 +5149,7 @@
     "wlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wlroots.git",
       "branch": "master",
-      "revision": "185b280859d0e802884065ba49889eca276815e2"
+      "revision": "dc6048cab040a2fae9e60057c89785e7abb08a53"
     },
     "words": {
       "url": "gitea@gitea.artixlinux.org:packagesW/words.git",
