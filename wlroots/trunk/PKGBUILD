@@ -56,6 +56,11 @@ validpgpkeys=(
     '4100929B33EEB0FD1DB852797BC79407090047CA' # Sway signing key
 )
 
+prepare() {
+    cd "$pkgname-$pkgver"
+    patch -Np1 -i ../0001-find-libseat.patch
+}
+
 build() {
     export LDFLAGS="$LDFLAGS -lseat"
     artix-meson "$pkgname-$pkgver" build
