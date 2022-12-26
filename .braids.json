@@ -5089,7 +5089,7 @@
     "vice": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vice.git",
       "branch": "master",
-      "revision": "f8e26b03a5bf3375c1be7c525f10328ebc6017a1"
+      "revision": "60935fa5d2d6f6c9f068bd07cfde6964bb77cd09"
     },
     "vino": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vino.git",
