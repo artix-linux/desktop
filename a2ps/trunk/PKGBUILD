@@ -10,7 +10,7 @@ license=('GPL3')
 depends=('psutils' 'imagemagick' 'perl')
 makedepends=('gperf')
 backup=('etc/a2ps/a2ps.cfg' 'etc/a2ps/a2ps-site.cfg')
-source=(https://ftp.gnu.org/gnu/a2ps/${pkgname}-${pkgver}.tar.gz{,.sig}
+source=(https://ftp.gnu.org/gnu/a2ps/${pkgname}-${pkgver}.tar.gz
         a2ps-4.13c-fnmatch-replacement.patch a2ps-4.13c-emacs.patch
 	a2ps-4.13-manpage-chmod.patch a2ps-4.14-check-mempcpy.patch
 	a2ps-4.14-fix-stpcpy-proto.patch a2ps-texinfo5.patch
@@ -21,7 +21,6 @@ source=(https://ftp.gnu.org/gnu/a2ps/${pkgname}-${pkgver}.tar.gz{,.sig}
         a2ps-adhere-source-date-epoch.patch
         a2ps-format-security.patch)
 sha256sums=('f3ae8d3d4564a41b6e2a21f237d2f2b104f48108591e8b83497500182a3ab3a4'
-            'SKIP'
             '5d1b8a8791fa2a36c23f43ef153a724cce1f8eec8fb92ab886f52fae7f8f3be3'
             '943739a788db47f10942477754f42c8c9b22cdaad4463bea4103c31a330de76a'
             '032c4698c1dabb1a72978b9aefef7a8895098fb5a7e46e81d861fedfef3b11ab'
