@@ -1,7 +1,7 @@
-# Maintainer: Torr <torr[at]artixlinux[dot]org>
+# Maintainer: Torr <torr@artixlinux.org>
 pkgname=zathura
 pkgver=0.5.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Highly customizable and functional document viewer"
 arch=("any")
 url="https://pwmt.org/projects/zathura"
@@ -19,6 +19,8 @@ makedepends=(
 	"gcc"
 	"pkgconf"
 	"python-sphinx"
+
+	"libsynctex"
 )
 checkdepends=(
 	"check>=0.9.8"
