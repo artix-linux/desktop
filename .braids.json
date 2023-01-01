@@ -4774,7 +4774,7 @@
     "sway": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sway.git",
       "branch": "master",
-      "revision": "ae93e31155d886816503bab4441a8fc78ea07250"
+      "revision": "eeae074cdbbe179d9acb5d7ac5e3e420d2ff396a"
     },
     "swaybg": {
       "url": "gitea@gitea.artixlinux.org:packagesS/swaybg.git",
