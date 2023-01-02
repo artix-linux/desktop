@@ -941,6 +941,11 @@
       "branch": "master",
       "revision": "8263a1d1f666511da2b693009baa995e62630ee2"
     },
+    "gedit-plugins": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gedit-plugins.git",
+      "branch": "master",
+      "revision": "dc717381e4e230e618077bf7295dd7d67e67029c"
+    },
     "gegl": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gegl.git",
       "branch": "master",
