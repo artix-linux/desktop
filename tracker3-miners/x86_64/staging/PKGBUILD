@@ -55,7 +55,7 @@ prepare() {
 }
 
 build() {
-  artix-meson tracker-miners build -D tests_tap_protocol=true
+  artix-meson tracker-miners build -D tests_tap_protocol=true -D systemd_user_services=false
   meson compile -C build
 }
 
