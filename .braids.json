@@ -559,7 +559,7 @@
     "colordiff": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colordiff.git",
       "branch": "master",
-      "revision": "ddf712e59681144755014f43e11a6600c76c1dfa"
+      "revision": "c54666d315cd9ae47452c0958d67ea188ce1c878"
     },
     "conky": {
       "url": "gitea@gitea.artixlinux.org:packagesC/conky.git",
