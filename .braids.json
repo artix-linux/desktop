@@ -5161,6 +5161,11 @@
       "branch": "master",
       "revision": "4efa91bd6e5f813d78ed6f077b6ff6e1df9aaeb9"
     },
+    "wlroots0.15": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/wlroots0.15.git",
+      "branch": "master",
+      "revision": "199415894028c13b0f5f090771d87d583d10f325"
+    },
     "words": {
       "url": "gitea@gitea.artixlinux.org:packagesW/words.git",
       "branch": "master",
