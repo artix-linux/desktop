@@ -4089,7 +4089,7 @@
     "orca": {
       "url": "gitea@gitea.artixlinux.org:packagesO/orca.git",
       "branch": "master",
-      "revision": "0bdd418b12c20f9ed98e5c8ea32b91d6f11f495c"
+      "revision": "1be031a6e1009746bbeebe90705bb37b9b8c5366"
     },
     "osinfo-db": {
       "url": "gitea@gitea.artixlinux.org:packagesO/osinfo-db.git",
