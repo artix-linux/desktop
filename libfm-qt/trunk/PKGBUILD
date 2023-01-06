@@ -2,7 +2,7 @@
 
 pkgname=libfm-qt
 pkgver=1.2.0
-pkgrel=2
+pkgrel=1
 pkgdesc="Core library of PCManFM-Qt (Qt binding for libfm)"
 arch=("x86_64")
 url="https://github.com/lxqt/$pkgname"
