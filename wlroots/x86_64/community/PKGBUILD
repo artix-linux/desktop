@@ -1,10 +1,10 @@
-# Maintainer: Nathan Owens <ndowens@artixlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Maintainer: Maxim Baz <$pkgname at maximbaz dot com>
 # Contributor: Omar Pakker
 
 pkgname=wlroots
-pkgver=0.15.1
-pkgrel=6
+pkgver=0.16.1
+pkgrel=2
 license=('MIT')
 pkgdesc='Modular Wayland compositor library'
 url='https://gitlab.freedesktop.org/wlroots/wlroots'
@@ -47,9 +47,9 @@ source=(
     "https://gitlab.freedesktop.org/wlroots/wlroots/-/releases/$pkgver/downloads/wlroots-$pkgver.tar.gz.sig"
     "0001-find-libseat.patch"
 )
-sha256sums=('5b92f11a52d978919ed1306e0d54c9d59f1762b28d44f0a2da3ef3b351305373'
+sha256sums=('130a1a86f6f8c4fa162ba4db82aaa70850273c5d01313b242baa0144e3d6d253'
             'SKIP'
-            'd616856a64f3d7f111c36ed669d57a72918ef899b7320cb4f9852c3eea3183c3')
+            'ea5499b3663682d22301f62498b92929c96d2ec4290916e91a95d2ca3af9956d')
 validpgpkeys=(
     '34FF9526CFEF0E97A340E2E40FDE7BE0E88F5E48' # Simon Ser
     '9DDA3B9FA5D58DD5392C78E652CB6609B22DA89A' # Drew DeVault
@@ -60,6 +60,7 @@ prepare() {
     cd "$pkgname-$pkgver"
     patch -Np1 -i ../0001-find-libseat.patch
 }
+
 build() {
     export LDFLAGS="$LDFLAGS -lseat"
     artix-meson "$pkgname-$pkgver" build
