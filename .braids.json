@@ -774,7 +774,7 @@
     "evolution": {
       "url": "gitea@gitea.artixlinux.org:packagesE/evolution.git",
       "branch": "master",
-      "revision": "21562d5ec9e61c32e8852d05c10f798a014557a3"
+      "revision": "46f039a9089a77929a894f643b06016b8228c4ec"
     },
     "evolution-data-server": {
       "url": "gitea@gitea.artixlinux.org:packagesE/evolution-data-server.git",
