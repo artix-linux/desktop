@@ -939,7 +939,7 @@
     "gedit": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gedit.git",
       "branch": "master",
-      "revision": "8263a1d1f666511da2b693009baa995e62630ee2"
+      "revision": "8346de55440f37713048d507e7d1d0d918669284"
     },
     "gedit-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gedit-plugins.git",
