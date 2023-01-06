@@ -949,7 +949,7 @@
     "gegl": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gegl.git",
       "branch": "master",
-      "revision": "9b31a4b58220fae42b38c03a6b5fc4b923fa9ef9"
+      "revision": "7a220186b24f30a1cca8d0e5210c0794502e9f7f"
     },
     "genxrdpattern": {
       "url": "gitea@gitea.artixlinux.org:packagesG/genxrdpattern.git",
