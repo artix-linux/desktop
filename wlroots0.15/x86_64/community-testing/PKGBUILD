@@ -62,6 +62,7 @@ prepare() {
 }
 
 build() {
+    export LDFLAGS="$LDFLAGS -lseat"
     artix-meson \
       --includedir    /usr/include/wlroots0.15 \
       --libdir        /usr/lib/wlroots0.15 \
