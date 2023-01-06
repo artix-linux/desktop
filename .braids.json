@@ -629,7 +629,7 @@
     "discover": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discover.git",
       "branch": "master",
-      "revision": "16c74ae9af1b594c831f22187dc43c9bc1cc7eb4"
+      "revision": "8d53573c7270acd6b8325a737d806c49beb11aa9"
     },
     "dleyna": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dleyna.git",
