@@ -3004,7 +3004,7 @@
     "libgeotiff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgeotiff.git",
       "branch": "master",
-      "revision": "07e965aa6adca33f15762b6bbbecf1826c6ec038"
+      "revision": "e7a4aeaa7bef16c18e24fa928b38d432dcfe5018"
     },
     "libgepub": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgepub.git",
