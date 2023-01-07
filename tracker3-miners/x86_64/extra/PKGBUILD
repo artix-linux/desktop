@@ -1,8 +1,8 @@
-# Maintainer: Nathan <ndowens@artixlinux.org>
+# Maintainer: Dudemanguy <dudemanguy@artixlinux.org>
 
 pkgname=tracker3-miners
 pkgver=3.4.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Collection of data extractors for Tracker/Nepomuk"
 url="https://wiki.gnome.org/Projects/Tracker"
 arch=(x86_64)
