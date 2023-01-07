@@ -374,7 +374,7 @@
     "bluedevil": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bluedevil.git",
       "branch": "master",
-      "revision": "983e41ed475451be029bebe5cd0e03e537c69775"
+      "revision": "390c89c2553777f05ec6caf8054d734bc41ba867"
     },
     "bluez-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bluez-qt.git",
