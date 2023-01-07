@@ -10,11 +10,7 @@ arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
 depends=(kdesu kcmutils kactivities)
-<<<<<<< HEAD
 makedepends=(extra-cmake-modules kdoctools)
-=======
-makedepends=(extra-cmake-modules kdoctools plasma-workspace)
->>>>>>> 39f96d8966e338d6d7a00e940566a1b3d7f9416c
 optdepends=('plasma-workspace: for kcmshell5')
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig})
