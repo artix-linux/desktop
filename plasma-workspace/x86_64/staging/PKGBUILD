@@ -6,12 +6,13 @@
 pkgbase=plasma-workspace
 pkgname=(plasma-workspace plasma-wayland-session)
 pkgver=5.26.5
-pkgrel=1
+pkgrel=1.2
 pkgdesc='KDE Plasma Workspace'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
-depends=(knotifyconfig ksystemstats ktexteditor libqalculate kde-cli-tools appstream-qt
+#depends=(knotifyconfig ksystemstats ktexteditor libqalculate kde-cli-tools appstream-qt
+depends=(knotifyconfig ksystemstats ktexteditor libqalculate appstream-qt
          xorg-xrdb xorg-xsetroot kactivitymanagerd kholidays xorg-xmessage milou prison kwin
          plasma-integration kpeople kactivities-stats libkscreen kquickcharts kuserfeedback kpipewire
          accountsservice kio-extras kio-fuse qt5-tools oxygen-sounds)
@@ -49,6 +50,12 @@ package_plasma-workspace() {
 
   # Split plasma-wayland scripts
   rm -r "$pkgdir"/usr/share/wayland-sessions
+
+  # fix some problems with D-BUS
+  sed -i 's/^Exec=/Exec=dbus-run-session /g' "$pkgdir"/usr/share/xsessions/plasma.desktop
+
+  # remove systemd services
+  rm -r "$pkgdir"/usr/lib/systemd/user
 }
 
 package_plasma-wayland-session() {
