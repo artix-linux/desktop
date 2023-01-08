@@ -2574,7 +2574,7 @@
     "kpimtextedit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpimtextedit.git",
       "branch": "master",
-      "revision": "700d3ad4e8090ca9d12dc6bf136284e002e8d34e"
+      "revision": "d701ae909696626418de27b9b1572a5128124eca"
     },
     "kpipewire": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpipewire.git",
