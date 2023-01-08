@@ -11,7 +11,8 @@ pkgdesc='KDE Plasma Workspace'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
-depends=(knotifyconfig ksystemstats ktexteditor libqalculate kde-cli-tools appstream-qt
+#depends=(knotifyconfig ksystemstats ktexteditor libqalculate kde-cli-tools appstream-qt
+depends=(knotifyconfig ksystemstats ktexteditor libqalculate appstream-qt
          xorg-xrdb xorg-xsetroot kactivitymanagerd kholidays xorg-xmessage milou prison kwin
          plasma-integration kpeople kactivities-stats libkscreen kquickcharts kuserfeedback kpipewire
          accountsservice kio-extras kio-fuse qt5-tools oxygen-sounds)
