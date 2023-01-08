@@ -819,7 +819,7 @@
     "ffmpegthumbs": {
       "url": "gitea@gitea.artixlinux.org:packagesF/ffmpegthumbs.git",
       "branch": "master",
-      "revision": "25dfcc57c7e70af160b2132265068d15dec05925"
+      "revision": "1550fa6fbc37ce9c0aa705b7c67257c8b8afc770"
     },
     "file-roller": {
       "url": "gitea@gitea.artixlinux.org:packagesF/file-roller.git",
