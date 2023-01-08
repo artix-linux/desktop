@@ -1939,7 +1939,7 @@
     "kdeedu-data": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeedu-data.git",
       "branch": "master",
-      "revision": "62e602a2b1a24e7928c46a4df72a1e954daeaf00"
+      "revision": "b179b4a7c07200118fa6de7f51c540d668e2a9d6"
     },
     "kdegraphics-mobipocket": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-mobipocket.git",
