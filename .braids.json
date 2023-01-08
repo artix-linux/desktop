@@ -3134,7 +3134,7 @@
     "libkleo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkleo.git",
       "branch": "master",
-      "revision": "e4b60bbd7233734bb45c7957ab21a9c2770dc55e"
+      "revision": "386c82ffc764832762ed396b59a4c2ec71853bdd"
     },
     "libkmahjongg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkmahjongg.git",
