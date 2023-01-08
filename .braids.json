@@ -2129,7 +2129,7 @@
     "kget": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kget.git",
       "branch": "master",
-      "revision": "58fe8f35bac824c0acfa8895dae09436f2f2d6e5"
+      "revision": "e533d8393494e89cdfd4f3efa0ad57e1a649242e"
     },
     "kglobalaccel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kglobalaccel.git",
