@@ -3449,7 +3449,7 @@
     "lskat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lskat.git",
       "branch": "master",
-      "revision": "afdd578d5a111c8405cf6eb4463cdaea9b494b2c"
+      "revision": "c9938dfa52841365e5bb7d5b408f03f09d38e030"
     },
     "lua-bitop": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lua-bitop.git",
