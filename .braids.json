@@ -1949,7 +1949,7 @@
     "kdegraphics-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-thumbnailers.git",
       "branch": "master",
-      "revision": "48898403a682d70178c9d0c4de09f6bad3d2a332"
+      "revision": "53b9e85c6b89c39f7f5267b3f4d8a17d40e26c36"
     },
     "kdelibs4support": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdelibs4support.git",
