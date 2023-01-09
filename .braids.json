@@ -2664,7 +2664,7 @@
     "ksanecore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksanecore.git",
       "branch": "master",
-      "revision": "dfb939174af337ae5f21bd16090d9b890f6d0738"
+      "revision": "14657fb3b76f5e15ca18bc0fe334f9974ae7e158"
     },
     "kscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kscreen.git",
