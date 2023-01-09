@@ -1824,7 +1824,7 @@
     "kcharselect": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcharselect.git",
       "branch": "master",
-      "revision": "5d2fc65b18db9f45c954db6bb174cd87dfdb2f2e"
+      "revision": "78aec76f0bb9cd8d989b7c7163b72de235302a74"
     },
     "kcmutils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcmutils.git",
