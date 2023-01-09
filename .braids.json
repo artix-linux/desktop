@@ -2709,7 +2709,7 @@
     "kspaceduel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kspaceduel.git",
       "branch": "master",
-      "revision": "e18af088cbf383f79a56ff88aa4867b06cb062fa"
+      "revision": "78bb6c19e177065994f3fc716ebbc85c0f3715cf"
     },
     "ksquares": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksquares.git",
