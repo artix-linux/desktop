@@ -3,7 +3,7 @@
 
 pkgname=grantlee-editor
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Editor for Grantlee themes'
 arch=(x86_64)
 url='https://kontact.kde.org/'
