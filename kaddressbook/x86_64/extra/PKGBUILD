@@ -3,7 +3,7 @@
 
 pkgname=kaddressbook
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE contact manager'
 arch=(x86_64)
 url='https://apps.kde.org/kaddressbook/'
