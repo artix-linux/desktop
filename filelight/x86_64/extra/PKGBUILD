@@ -4,7 +4,7 @@
 
 pkgname=filelight
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='View disk usage information'
 url='https://apps.kde.org/filelight/'
 arch=(x86_64)
