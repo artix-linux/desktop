@@ -2,7 +2,7 @@
 
 pkgname=grantleetheme
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.4
 pkgdesc='Library for Grantlee theming support'
 arch=(x86_64)
 url='https://kontact.kde.org'
