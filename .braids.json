@@ -2499,7 +2499,7 @@
     "konquest": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konquest.git",
       "branch": "master",
-      "revision": "3d93d1156ce9428ae2d69589e49035fca270a3b4"
+      "revision": "36e8e5b202e858deedd252b02e7a3486a4c4f1aa"
     },
     "konsole": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konsole.git",
