@@ -4,7 +4,7 @@
 
 pkgname=kio-zeroconf
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Network Monitor for DNS-SD services (Zeroconf)'
 url='https://apps.kde.org/kio_zeroconf'
 arch=(x86_64)
