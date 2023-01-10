@@ -4,7 +4,7 @@
 
 pkgname=kfloppy
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Floppy Formatter'
 url='https://apps.kde.org/kfloppy/'
 arch=(x86_64)
