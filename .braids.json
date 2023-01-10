@@ -2234,7 +2234,7 @@
     "kimagemapeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimagemapeditor.git",
       "branch": "master",
-      "revision": "10266030e40632dacea6f2aedafc064b377ca6ac"
+      "revision": "fc7f66aaf09bf2e5951df63dea3da493e1309a01"
     },
     "kimap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimap.git",
