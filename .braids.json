@@ -4409,7 +4409,7 @@
     "poxml": {
       "url": "gitea@gitea.artixlinux.org:packagesP/poxml.git",
       "branch": "master",
-      "revision": "2c58a2f7911e8cbb13b59295b7a1540eb635d302"
+      "revision": "e44e25026770c43e863a59832962e8680044cb64"
     },
     "presage": {
       "url": "gitea@gitea.artixlinux.org:packagesP/presage.git",
