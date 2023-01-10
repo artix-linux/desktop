@@ -3,7 +3,7 @@
 
 pkgname=signon-kwallet-extension
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KWallet integration for signon framework'
 arch=(x86_64)
 url='https://www.kde.org'
