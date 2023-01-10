@@ -2594,7 +2594,7 @@
     "kpmcore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpmcore.git",
       "branch": "master",
-      "revision": "6b6c22c3705481e2b753d49417538ba9945d250f"
+      "revision": "cc8ca928bf069e2ac601380a765ff316e2b98639"
     },
     "kpty": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpty.git",
