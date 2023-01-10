@@ -4,7 +4,7 @@
 
 pkgname=kamera
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE integration for gphoto2 cameras'
 url='https://apps.kde.org/kamera/'
 arch=(x86_64)
