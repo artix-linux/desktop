@@ -4,7 +4,7 @@
 
 pkgname=kcalc
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Scientific Calculator'
 url='https://apps.kde.org/kcalc/'
 arch=(x86_64)
