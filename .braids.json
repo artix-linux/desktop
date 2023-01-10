@@ -2224,7 +2224,7 @@
     "kimageannotator": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageannotator.git",
       "branch": "master",
-      "revision": "714259931a57d84c3653ca9639218c091b4f4265"
+      "revision": "8746915020375df4fd25e051bd5486941a90cfd8"
     },
     "kimageformats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimageformats.git",
