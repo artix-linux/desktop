@@ -3124,7 +3124,7 @@
     "libkgapi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkgapi.git",
       "branch": "master",
-      "revision": "54b24a831e29c46164ba344b21d669ebead7acb5"
+      "revision": "65508887c99d74162924773bbd76bb35579f62e8"
     },
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
