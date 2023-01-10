@@ -1969,7 +1969,7 @@
     "kdepim-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdepim-addons.git",
       "branch": "master",
-      "revision": "57aa74407060f27b7846d1c784ef5eb3f448ff8b"
+      "revision": "c9ec391bc3bacef79a29a0855e0853c297f9e153"
     },
     "kdepim-runtime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdepim-runtime.git",
