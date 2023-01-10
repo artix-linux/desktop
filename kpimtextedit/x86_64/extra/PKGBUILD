@@ -2,7 +2,7 @@
 
 pkgname=kpimtextedit
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.2
 pkgdesc='A textedit with PIM-specific features'
 arch=(x86_64)
 url='https://kontact.kde.org'
