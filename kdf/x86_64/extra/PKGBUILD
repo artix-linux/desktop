@@ -4,7 +4,7 @@
 
 pkgname=kdf
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 url='https://apps.kde.org/kdf/'
 arch=(x86_64)
 pkgdesc='View Disk Usage'
