@@ -2154,7 +2154,7 @@
     "khangman": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khangman.git",
       "branch": "master",
-      "revision": "59be8083aab7d3118a57b15918d6f3bba9d5aa9a"
+      "revision": "e26a4f43f2989cc34abcf524ce45b54a63a35652"
     },
     "khealthcertificate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khealthcertificate.git",
