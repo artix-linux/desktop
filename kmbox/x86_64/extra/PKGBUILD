@@ -2,7 +2,7 @@
 
 pkgname=kmbox
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Library for accessing mail storages in MBox format'
 arch=(x86_64)
 url='https://kontact.kde.org'
