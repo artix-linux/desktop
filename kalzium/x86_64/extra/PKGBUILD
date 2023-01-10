@@ -3,7 +3,7 @@
 
 pkgname=kalzium
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Periodic Table of Elements'
 url='https://apps.kde.org/kalzium/'
 arch=(x86_64)
