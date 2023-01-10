@@ -2114,7 +2114,7 @@
     "kfourinline": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfourinline.git",
       "branch": "master",
-      "revision": "ebb5daccdd69be8deb463c8e1120fa963df9728e"
+      "revision": "eda3deda8c1abcb70f454d38ce16bfa76b136212"
     },
     "kgamma5": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgamma5.git",
