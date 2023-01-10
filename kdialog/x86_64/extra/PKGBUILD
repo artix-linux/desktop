@@ -3,7 +3,7 @@
 
 pkgname=kdialog
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A utility for displaying dialog boxes from shell scripts'
 arch=(x86_64)
 url='https://apps.kde.org/kdialog/'
