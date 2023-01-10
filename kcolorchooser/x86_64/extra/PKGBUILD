@@ -4,7 +4,7 @@
 
 pkgname=kcolorchooser
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Color Chooser'
 url='https://apps.kde.org/kcolorchooser/'
 arch=(x86_64)
