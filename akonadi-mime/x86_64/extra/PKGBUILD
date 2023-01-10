@@ -2,7 +2,7 @@
 
 pkgname=akonadi-mime
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Libraries and daemons to implement basic email handling'
 arch=(x86_64)
 url='https://kontact.kde.org'
