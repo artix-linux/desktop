@@ -1,11 +1,11 @@
-# Maintainer: Nathan <ndowens@artixlinux.org>
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
 # Maintainer: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 # Contributor: Pierre Schmitz <pierre@archlinux.de>
 
 pkgname=dolphin
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE File Manager'
 arch=(x86_64)
 url='https://apps.kde.org/dolphin/'
@@ -31,4 +31,5 @@ build() {
 
 package() {
   DESTDIR="$pkgdir" cmake --install build
+  rm -r $pkgdir/usr/lib/systemd
 }
