@@ -2,7 +2,7 @@
 
 pkgname=kontactinterface
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Kontact Plugin Interface Library'
 arch=(x86_64)
 url='https://kontact.kde.org'
