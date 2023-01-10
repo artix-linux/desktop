@@ -2314,7 +2314,7 @@
     "kitinerary": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kitinerary.git",
       "branch": "master",
-      "revision": "7ab58eb60417ad1f2b9fcbc70e13c9af9b323354"
+      "revision": "222f6c7733147663ad5bce5f6930d1ab17721bdd"
     },
     "kjobwidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjobwidgets.git",
