@@ -2214,7 +2214,7 @@
     "kigo": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kigo.git",
       "branch": "master",
-      "revision": "e8b1c6780847a5ca4b36e97b29439700c8a893f2"
+      "revision": "685c4d5d8961941cb8a0f3ccae39ac5e7874e580"
     },
     "killbots": {
       "url": "gitea@gitea.artixlinux.org:packagesK/killbots.git",
