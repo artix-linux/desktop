@@ -2,7 +2,7 @@
 
 pkgname=kdebugsettings
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='An application to enable/disable qCDebug'
 arch=(x86_64)
 url='https://apps.kde.org/kdebugsettings/'
