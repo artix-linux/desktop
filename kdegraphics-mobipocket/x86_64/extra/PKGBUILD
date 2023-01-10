@@ -4,7 +4,7 @@
 
 pkgname=kdegraphics-mobipocket
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A library to handle mobipocket files'
 url='https://apps.kde.org/es/kdegraphics_mobipocket/'
 arch=(x86_64)
