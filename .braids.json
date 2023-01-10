@@ -2769,7 +2769,7 @@
     "ktorrent": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktorrent.git",
       "branch": "master",
-      "revision": "6faa7efcc9d76351dad8aedf1300344074cb3de7"
+      "revision": "53c8db11bb897a52ea4bf747c12754851150cfea"
     },
     "ktouch": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktouch.git",
