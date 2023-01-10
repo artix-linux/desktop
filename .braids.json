@@ -554,7 +554,7 @@
     "colord-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colord-kde.git",
       "branch": "master",
-      "revision": "003b312949ad8d1d9cbd9c02cd4001e52eb824a6"
+      "revision": "e9b3ac59ff6313f6750b1b028681338a7e3477f7"
     },
     "colordiff": {
       "url": "gitea@gitea.artixlinux.org:packagesC/colordiff.git",
