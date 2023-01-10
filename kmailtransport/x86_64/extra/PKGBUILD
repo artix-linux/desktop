@@ -2,7 +2,7 @@
 
 pkgname=kmailtransport
 pkgver=22.12.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Mail Transport Service'
 arch=(x86_64)
 url='https://kontact.kde.org'
