@@ -1429,7 +1429,7 @@
     "gtksourceview5": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtksourceview5.git",
       "branch": "master",
-      "revision": "2d4eff8c4f9ece010179ba15950a50617221e0d2"
+      "revision": "b72984f700f5d8003998ee9e01c8f4d95d1e3234"
     },
     "gucharmap": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gucharmap.git",
