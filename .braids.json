@@ -1269,7 +1269,7 @@
     "gnome-taquin": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-taquin.git",
       "branch": "master",
-      "revision": "fd27a4acbd03bf133de129ade3b602bd48336614"
+      "revision": "2958a61bbc6345867c7aef7c5a87c9545bcf514d"
     },
     "gnome-terminal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-terminal.git",
