@@ -2279,7 +2279,7 @@
     "kipi-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kipi-plugins.git",
       "branch": "master",
-      "revision": "438fcdb741cdccb58d7451ede8b25fed280954c2"
+      "revision": "e9fc7f27b6db769c06d74d2ad2b39f8823311887"
     },
     "kirigami-gallery": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami-gallery.git",
