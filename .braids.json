@@ -3129,7 +3129,7 @@
     "libkipi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkipi.git",
       "branch": "master",
-      "revision": "9aca49056e1a266d52ce8338160312fbca48a59e"
+      "revision": "ddb9449c2f6e7462a66185bfad7e8e5f192c2ef6"
     },
     "libkleo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkleo.git",
