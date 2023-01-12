@@ -1579,7 +1579,7 @@
     "iagno": {
       "url": "gitea@gitea.artixlinux.org:packagesI/iagno.git",
       "branch": "master",
-      "revision": "c341d433e965fdb93dcedcedc0d613a926842ae1"
+      "revision": "d8d7d6fbe10bff200065a31c3d995369c1e5a8ea"
     },
     "icewm": {
       "url": "gitea@gitea.artixlinux.org:packagesI/icewm.git",
