@@ -1554,7 +1554,7 @@
     "i3-gaps": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3-gaps.git",
       "branch": "master",
-      "revision": "0991f87f4f642f87d46afc6d9cb05f09336c6724"
+      "revision": "319b806cd194e8e60156522c2c90dde252c87a9b"
     },
     "i3-wm": {
       "url": "gitea@gitea.artixlinux.org:packagesI/i3-wm.git",
