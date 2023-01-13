@@ -2194,7 +2194,7 @@
     "kid3": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kid3.git",
       "branch": "master",
-      "revision": "9a1c2b3a59fc8f5b532d088afb41b03e332361a4"
+      "revision": "197ef5d587d303dbaebfd5e090d53f310678ddf2"
     },
     "kidentitymanagement": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kidentitymanagement.git",
