@@ -4361,6 +4361,11 @@
       "branch": "master",
       "revision": "5e200cd6bc5d4ad4fe6f3aa26d0853eaf1863e68"
     },
+    "playerctl": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/playerctl.git",
+      "branch": "master",
+      "revision": "56a386e4a19585d1aebe4223684094a02c572b4e"
+    },
     "pluma": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pluma.git",
       "branch": "master",
