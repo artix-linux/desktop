@@ -4364,7 +4364,7 @@
     "playerctl": {
       "url": "gitea@gitea.artixlinux.org:packagesP/playerctl.git",
       "branch": "master",
-      "revision": "56a386e4a19585d1aebe4223684094a02c572b4e"
+      "revision": "78cc8e64bbdf13e9913eceb4a2e117828498c679"
     },
     "pluma": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pluma.git",
