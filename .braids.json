@@ -4029,7 +4029,7 @@
     "okteta": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okteta.git",
       "branch": "master",
-      "revision": "ba5e8943ffb577fec223241cb9760458e9c5cea2"
+      "revision": "dd20eec829bdaf35ca06e4d78812520203765eff"
     },
     "okular": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okular.git",
