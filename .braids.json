@@ -729,7 +729,7 @@
     "element.io": {
       "url": "gitea@gitea.artixlinux.org:packagesE/element.io.git",
       "branch": "master",
-      "revision": "ba1967349fa8eb78169a5ad8952aecad5e61a6cf"
+      "revision": "556e6c11555041593a75d311d2446d3a0821f5fd"
     },
     "elementary-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elementary-icon-theme.git",
