@@ -5294,7 +5294,7 @@
     "xfce4-datetime-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-datetime-plugin.git",
       "branch": "master",
-      "revision": "ca0b21cbc67037526f66ab2ebd4958be3a3e7c13"
+      "revision": "54f5e745953fa8edaf7e3c9af219cbd143923947"
     },
     "xfce4-dev-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-dev-tools.git",
