@@ -2959,7 +2959,7 @@
     "libdeflate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdeflate.git",
       "branch": "master",
-      "revision": "24ced32900cca0015f5ce3b219099403c66c38b4"
+      "revision": "04b92eafec0f5a84cb9e7742d20c6135a7cc4491"
     },
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
