@@ -4504,7 +4504,7 @@
     "qtcreator": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtcreator.git",
       "branch": "master",
-      "revision": "9c65c6525b2ce7cad7a934b9e8fe6fde31bfc201"
+      "revision": "a40a9f786a9b0160916955baf2f9c043bff38dff"
     },
     "qterminal": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qterminal.git",
