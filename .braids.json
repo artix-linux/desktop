@@ -2249,7 +2249,7 @@
     "kinit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kinit.git",
       "branch": "master",
-      "revision": "642af807bd54c177f4f8b1d3fbbcf73b20771325"
+      "revision": "c50caa87fc05690cc2cd9be95e1e9d197b6e94b8"
     },
     "kio": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio.git",
