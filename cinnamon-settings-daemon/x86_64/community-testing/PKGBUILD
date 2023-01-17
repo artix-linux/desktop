@@ -1,0 +1,30 @@
+# Maintainer: Juan Cuzmar <glats@artixlinux.org>
+# Contributor: Eli Schwartz <eschwartz@archlinux.org>
+# Contributor: Alexandre Filgueira (faidoc) <alexfilgueira@antergos.com>
+# Contributor: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+
+pkgname=cinnamon-settings-daemon
+pkgver=5.6.1
+pkgrel=1
+pkgdesc="The Cinnamon Settings daemon"
+arch=(x86_64)
+url="https://github.com/linuxmint/${pkgname}"
+license=(GPL)
+depends=(cinnamon-desktop colord dbus-glib libcanberra-pulse libcups
+         libgnomekbd libgudev libnotify librsvg libwacom nss polkit
+         pulseaudio-alsa upower)
+optdepends=('cinnamon-translations: i18n')
+makedepends=(meson samurai xf86-input-wacom)
+options=(!emptydirs)
+source=(${url}/archive/${pkgver}/${pkgname}-${pkgver}.tar.gz)
+sha512sums=('a4f3ce599fa87f3751abea6f36a901a295f68da1dfb709cda8cd65a74d57174fe2967cd50c18331466b2c4484ead8c64335f5aaa4817672d8e8002922d66575f')
+b2sums=('0c981122a8f5c30a4274173e2c2fbf1588d4e2f267f9eb6a8bb10a87dcfc40519670ba3db18a18434a187b93ae8f8a68fa189eba3e4d078e5aa14f4952ffd2f6')
+
+build() {
+  artix-meson --libexecdir=lib/${pkgname} ${pkgname}-${pkgver} build
+  samu -C build
+}
+
+package() {
+  DESTDIR="${pkgdir}" samu -C build install
+}
