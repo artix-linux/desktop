@@ -2079,7 +2079,7 @@
     "kemoticons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
       "branch": "master",
-      "revision": "f259e613f3d34010cdd8b6ec008987a63a1b3a28"
+      "revision": "cef58a01be78459da31ec551f548a52798fb18a0"
     },
     "keybinder2": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keybinder2.git",
