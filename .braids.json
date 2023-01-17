@@ -4704,7 +4704,7 @@
     "solid": {
       "url": "gitea@gitea.artixlinux.org:packagesS/solid.git",
       "branch": "master",
-      "revision": "3f818bc4263b5cac2be10eb6954a5df997a12739"
+      "revision": "520302cd6e855954493ca1cecae4a0e672fd05cb"
     },
     "sonnet": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sonnet.git",
