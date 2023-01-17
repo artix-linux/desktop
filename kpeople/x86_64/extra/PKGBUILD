@@ -3,7 +3,7 @@
 
 pkgname=kpeople
 pkgver=5.102.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A library that provides access to all contacts and the people who hold them'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
