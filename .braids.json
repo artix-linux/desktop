@@ -4439,7 +4439,7 @@
     "purpose": {
       "url": "gitea@gitea.artixlinux.org:packagesP/purpose.git",
       "branch": "master",
-      "revision": "78f5cf1dfc1dc7d886be8fae04ec1dc0461bde0c"
+      "revision": "fb781fa2e36d2ce8bc6417723bbe2d68be54e7c3"
     },
     "pyside2": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pyside2.git",
