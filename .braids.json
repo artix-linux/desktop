@@ -2809,7 +2809,7 @@
     "kwallet": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwallet.git",
       "branch": "master",
-      "revision": "89ba886f6073bf95b7ffddc6c2d5dbf292101323"
+      "revision": "330367becfb482a8ba88a32bd4e244fe26789f60"
     },
     "kwallet-pam": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwallet-pam.git",
