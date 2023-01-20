@@ -4399,7 +4399,7 @@
     "polybar": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polybar.git",
       "branch": "master",
-      "revision": "4faab4e2b82f09b8aec3b456c4786feb29f04a1f"
+      "revision": "1cc1b9102e60ac9fb96fe7273cd13f787e9e74ab"
     },
     "power-profiles-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/power-profiles-daemon.git",
