@@ -5354,7 +5354,7 @@
     "xfce4-notifyd": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-notifyd.git",
       "branch": "master",
-      "revision": "3c4c5fa7b9e55f7a316626eb4d61e0618260f11a"
+      "revision": "2caf414d4aa3c0a04db705397d97eb891d7754b4"
     },
     "xfce4-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-panel.git",
