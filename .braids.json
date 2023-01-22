@@ -4419,7 +4419,7 @@
     "presage": {
       "url": "gitea@gitea.artixlinux.org:packagesP/presage.git",
       "branch": "master",
-      "revision": "3d92fba2159d67d00ec0f8f0abbac989138c9918"
+      "revision": "02fd878f91b5d497e651750c2c92c0033fd3a74a"
     },
     "print-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/print-manager.git",
