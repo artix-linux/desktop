@@ -5174,7 +5174,7 @@
     "words": {
       "url": "gitea@gitea.artixlinux.org:packagesW/words.git",
       "branch": "master",
-      "revision": "15b357b637117deb99ecc661d41955d6d5c49fd7"
+      "revision": "39e00ee7e1df6700124cb72bcf9f63e06e4df28e"
     },
     "wtf": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wtf.git",
