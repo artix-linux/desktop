@@ -3144,7 +3144,7 @@
     "libkolabxml": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkolabxml.git",
       "branch": "master",
-      "revision": "62933dfae624f93c76d7ef68b44788f24d47c05d"
+      "revision": "84fc5811e24bb0751bd9bb3cd7bcb8767a8c92ce"
     },
     "libkomparediff2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkomparediff2.git",
