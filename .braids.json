@@ -1604,7 +1604,7 @@
     "inkscape": {
       "url": "gitea@gitea.artixlinux.org:packagesI/inkscape.git",
       "branch": "master",
-      "revision": "28881df1d054e3fcdbcb9ce69a0ef4864ec112dc"
+      "revision": "847186f62fe66125fe5854a6ea621cc2d3b37458"
     },
     "innoextract": {
       "url": "gitea@gitea.artixlinux.org:packagesI/innoextract.git",
