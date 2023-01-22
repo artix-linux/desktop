@@ -4979,7 +4979,7 @@
     "thunderbird": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunderbird.git",
       "branch": "master",
-      "revision": "1c59b5f72a96b6eb1fc8e4b9638eed469ba28a5d"
+      "revision": "a859455630abf98f1499c606b6e16054b17e125a"
     },
     "timezonemap": {
       "url": "gitea@gitea.artixlinux.org:packagesT/timezonemap.git",
