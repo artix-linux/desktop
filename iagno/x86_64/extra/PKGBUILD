@@ -3,7 +3,7 @@
 
 pkgname=iagno
 pkgver=3.38.1+r57+gd147e1a
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Dominate the board in a classic version of Reversi"
 url="https://wiki.gnome.org/Apps/Iagno"
 arch=(x86_64)
