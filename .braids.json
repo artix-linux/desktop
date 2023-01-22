@@ -714,7 +714,7 @@
     "editorconfig-core-c": {
       "url": "gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git",
       "branch": "master",
-      "revision": "19e434e5a28677e33f6accede2a3d112d487d049"
+      "revision": "ff3cc4c7580124145069c5f773fd9b713c9df73f"
     },
     "edk2": {
       "url": "gitea@gitea.artixlinux.org:packagesE/edk2.git",
