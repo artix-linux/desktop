@@ -1384,7 +1384,7 @@
     "grim": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grim.git",
       "branch": "master",
-      "revision": "8366c14d53ce4a88a8c9e71671ee6c231eb90f90"
+      "revision": "1955c91c37186a40bca1fcc0c69def84eea3cb24"
     },
     "grub-customizer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grub-customizer.git",
