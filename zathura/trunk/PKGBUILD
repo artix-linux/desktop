@@ -20,7 +20,7 @@ optdepends=('zathura-djvu: DjVu support'
             'zathura-ps: PostScript support'
             'zathura-cb: Comic book support')
 
-source=(zathura-$pkgver.tar.gz::https://pwmt.org/projects/zathura/download/zathura-$pkgver.tar.xz)
+source=(zathura_$pkgver.tar.gz::https://pwmt.org/projects/zathura/download/zathura-$pkgver.tar.xz)
 
 sha256sums=('98a661ce271a9d108a7eb8f73e471fd5e727eeff4b246cdb2c9862f8aeab1bb1')
 
