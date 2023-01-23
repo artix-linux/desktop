@@ -10,16 +10,16 @@ url='https://git.sr.ht/~emersion/grim'
 license=(MIT)
 depends=(cairo libjpeg-turbo wayland)
 makedepends=(fish git meson ninja pango scdoc wayland-protocols)
-source=("git+$url#commit=e2cb2d12790fb4d5e91ddc20c3dbe896b00f70ee") # tag: v1.4.0
+source=("_grim::git+$url#commit=e2cb2d12790fb4d5e91ddc20c3dbe896b00f70ee") # tag: v1.4.0
 b2sums=('SKIP')
 
 build() {
-  artix-meson build $pkgname
+  artix-meson build _$pkgname
   ninja -C build
 }
 
 package() {
   DESTDIR="$pkgdir" ninja -C build install
-  install -Dm644 $pkgname/LICENSE \
+  install -Dm644 _$pkgname/LICENSE \
     "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
 }
