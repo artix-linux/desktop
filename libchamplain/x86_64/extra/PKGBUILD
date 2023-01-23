@@ -3,9 +3,8 @@
 # Contributor: Michael Kanis <mkanis@gmx.de>
 
 pkgname=libchamplain
-pkgver=0.12.20
-pkgrel=3.1
-pkgdesc="A map widget"
+pkgver=0.12.21
+pkgrel=1.2
 pkgdesc="Map widget for GTK 3"
 url="https://wiki.gnome.org/Projects/libchamplain"
 license=(LGPL)
