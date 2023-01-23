@@ -1,52 +1,46 @@
-# Maintainer: Torr <torr@artixlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
+# Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
+# Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Contributor: ML <neldoreth>
+
 pkgname=zathura
 pkgver=0.5.1
-pkgrel=2
-pkgdesc="Highly customizable and functional document viewer"
-arch=("any")
-url="https://pwmt.org/projects/zathura"
-license=('zlib')
-depends=(
-	"gtk3>=3.22"
-	"glib2>=2.50"
-	"girara>=0.3.7"
+pkgrel=2.1
 
-	"libmagic.so"
-)
-makedepends=(
-	"meson>=0.56"
-	"gettext"
-	"gcc"
-	"pkgconf"
-	"python-sphinx"
+pkgdesc="Minimalistic document viewer"
+url="https://pwmt.org/projects/zathura/"
+arch=('x86_64')
+license=('custom')
 
-	"libsynctex"
-)
-checkdepends=(
-	"check>=0.9.8"
-)
-optdepends=(
-	"sqlite3: Sqlite3 database backend"
-	"libsynctex: SyncTeX support"
-	"libseccomp: Sandbox support"
-)
-source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha256sums=("f59d9c7ec8d10db68055bda1e0f00e55efa0dad9b781ae201e9d6755ca984317")
+makedepends=('python-sphinx' 'texlive-bin' 'meson' 'ninja' 'appstream-glib' 'check')
+depends=('girara>=0.2.7' 'sqlite' 'desktop-file-utils' 'file' 'libsynctex' 'file')
+optdepends=('zathura-djvu: DjVu support'
+            'zathura-pdf-poppler: PDF support using Poppler'
+            'zathura-pdf-mupdf: PDF support using MuPDF'
+            'zathura-ps: PostScript support'
+            'zathura-cb: Comic book support')
 
+source=(zathura-$pkgver.tar.gz::https://pwmt.org/projects/zathura/download/zathura-$pkgver.tar.xz)
+
+sha256sums=('98a661ce271a9d108a7eb8f73e471fd5e727eeff4b246cdb2c9862f8aeab1bb1')
 
 build() {
-	cd "$pkgname-$pkgver"
-	meson build --prefix "/usr"
-	meson compile -C build
+  cd zathura-$pkgver
+  artix-meson build
+
+  cd build
+  ninja
 }
 
 check() {
-	cd "$pkgname-$pkgver"
-	meson test -C build --no-rebuild --print-errorlogs
+  cd zathura-$pkgver/build
+
+  ninja test
 }
 
 package() {
-	cd "$pkgname-$pkgver"
-	DESTDIR="$pkgdir" meson install -C build --no-rebuild
-	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+  cd zathura-$pkgver/build
+  DESTDIR="$pkgdir" ninja install
+
+  install -D -m664 ../LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
 }
