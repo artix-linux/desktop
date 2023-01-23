@@ -4,7 +4,7 @@
 
 pkgname=libchamplain
 pkgver=0.12.21
-pkgrel=1.2
+pkgrel=1.3
 pkgdesc="Map widget for GTK 3"
 url="https://wiki.gnome.org/Projects/libchamplain"
 license=(LGPL)
