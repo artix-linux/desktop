@@ -34,7 +34,9 @@ prepare() {
 
 build() {
   artix-cmake -B build -S $pkgname-$_pkgver \
-    -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON
+    -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON \
+    -DQUAZIP_INCLUDE_DIR=/usr/include/QuaZip-Qt5-1.4/quazip \
+    -DQUAZIP_LIBRARIES=/usr/lib
   cmake --build build
 }
 
