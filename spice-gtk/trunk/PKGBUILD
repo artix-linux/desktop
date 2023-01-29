@@ -15,6 +15,7 @@ license=('LGPL2.1')
 depends=(
     'gst-plugins-base'
     'gst-plugins-good'
+    'json-glib'
     'libcacard'
     'libgtk-3.so'
     'libjpeg.so'

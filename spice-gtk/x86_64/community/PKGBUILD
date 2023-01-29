@@ -7,7 +7,7 @@
 
 pkgname=spice-gtk
 pkgver=0.41
-pkgrel=5
+pkgrel=6
 pkgdesc="GTK+ client library for SPICE"
 arch=('x86_64')
 url="https://www.spice-space.org/"
@@ -15,6 +15,7 @@ license=('LGPL2.1')
 depends=(
     'gst-plugins-base'
     'gst-plugins-good'
+    'json-glib'
     'libcacard'
     'libgtk-3.so'
     'libjpeg.so'
@@ -26,6 +27,7 @@ depends=(
 makedepends=(
     'gobject-introspection'
     'meson'
+    'python-pyparsing'
     'spice-protocol'
     'usbutils'
     'vala'
