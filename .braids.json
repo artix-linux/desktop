@@ -4146,6 +4146,11 @@
       "branch": "master",
       "revision": "396cdb57fc592cd000748e4dbbfb148d9dc30704"
     },
+    "papirus-icon-theme": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/papirus-icon-theme.git",
+      "branch": "master",
+      "revision": "70ab0d1088fe29a8b25f70c07f547bcff56d2cda"
+    },
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
       "branch": "master",
