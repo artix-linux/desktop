@@ -909,7 +909,7 @@
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
       "branch": "master",
-      "revision": "6cb6e89db9bd064e35cc7f9bc47d9eae12078f3b"
+      "revision": "bebbebf5aaf63c0895595206dbad4efe505b4c22"
     },
     "gdl": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdl.git",
