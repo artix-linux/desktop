@@ -599,7 +599,7 @@
     "darktable": {
       "url": "gitea@gitea.artixlinux.org:packagesD/darktable.git",
       "branch": "master",
-      "revision": "bd3824f6fc47aa9f517a5179553c5c7ccb0e2681"
+      "revision": "bb32a1552dd328d826847740743f556331f68ea6"
     },
     "dconf-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dconf-editor.git",
