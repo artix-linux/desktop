@@ -4149,7 +4149,7 @@
     "papirus-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesP/papirus-icon-theme.git",
       "branch": "master",
-      "revision": "70ab0d1088fe29a8b25f70c07f547bcff56d2cda"
+      "revision": "489b331db9b7c51bb56875f72abd78887aef5a69"
     },
     "parley": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parley.git",
