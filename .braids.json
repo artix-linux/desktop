@@ -4816,6 +4816,11 @@
       "branch": "master",
       "revision": "804a369cef3f8a302f921341d9a812a1524a3908"
     },
+    "switcheroo-control": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/switcheroo-control.git",
+      "branch": "master",
+      "revision": "7db80e6773404643a978fa4e90d248432a07caf5"
+    },
     "sxhkd": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sxhkd.git",
       "branch": "master",
