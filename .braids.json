@@ -4044,7 +4044,7 @@
     "openblas": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openblas.git",
       "branch": "master",
-      "revision": "05873a0fb86c393c1566b909cad2454b1b479c5f"
+      "revision": "0005f149df514ac20a6928bc9186e9ec4277da04"
     },
     "openbox": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbox.git",
