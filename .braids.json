@@ -3649,7 +3649,7 @@
     "maeparser": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maeparser.git",
       "branch": "master",
-      "revision": "1a9158c36f296acce30279c4f4f66b09f660b814"
+      "revision": "a3fd045239993177e55f23a6a7693c2ee19e4d14"
     },
     "mailcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mailcommon.git",
