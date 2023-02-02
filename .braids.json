@@ -1594,7 +1594,7 @@
     "img2pdf": {
       "url": "gitea@gitea.artixlinux.org:packagesI/img2pdf.git",
       "branch": "master",
-      "revision": "333feca6b9736a1323d78a364a83e717df539efa"
+      "revision": "474c1e394ba04f35806db3201eadf92c6be87fd7"
     },
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
