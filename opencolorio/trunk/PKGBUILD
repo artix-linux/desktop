@@ -19,7 +19,7 @@ build() {
   cd OpenColorIO-$pkgver
 
   CXXFLAGS+=" -ffat-lto-objects"
-  cmake \
+  artix-cmake \
     -GNinja \
     -Bbuild \
     -DCMAKE_INSTALL_PREFIX=/usr \
