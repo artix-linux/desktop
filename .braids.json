@@ -1039,7 +1039,7 @@
     "gnome-builder": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-builder.git",
       "branch": "master",
-      "revision": "3978926281ba90a3a2b3d27efbf4695437dad00e"
+      "revision": "a31f98e406aa5f463f268169779a59aca30da37c"
     },
     "gnome-calculator": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-calculator.git",
