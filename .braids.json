@@ -2494,7 +2494,7 @@
     "konqueror": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konqueror.git",
       "branch": "master",
-      "revision": "f5f68a04e9a8f20326fcf367c71540886bb6bbf6"
+      "revision": "b7610ca3ad1788b3c3e60fec2f821909759f3b3a"
     },
     "konquest": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konquest.git",
