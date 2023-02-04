@@ -1669,7 +1669,7 @@
     "kaccounts-providers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaccounts-providers.git",
       "branch": "master",
-      "revision": "17a026f6a73d9f76728c4438cfb50329d7a0cc82"
+      "revision": "25ef40e75c37687dc253a60f5d307d30f96ce971"
     },
     "kactivities": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivities.git",
