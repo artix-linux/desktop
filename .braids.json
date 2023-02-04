@@ -3154,7 +3154,7 @@
     "libksane": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksane.git",
       "branch": "master",
-      "revision": "bfefab05a5cb54b04060d3227cb33b50978256dc"
+      "revision": "1ee47ddcefe1df45c337be9c7556838d336d8764"
     },
     "libkscreen": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkscreen.git",
