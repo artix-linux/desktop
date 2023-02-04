@@ -2344,7 +2344,7 @@
     "kleopatra": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kleopatra.git",
       "branch": "master",
-      "revision": "814b81dc7599bcff3d8142ef0e57c12a732cd280"
+      "revision": "9f03410045bdb7763dee450b7b39532e485f1c17"
     },
     "klettres": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klettres.git",
