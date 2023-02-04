@@ -2519,7 +2519,7 @@
     "kontrast": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kontrast.git",
       "branch": "master",
-      "revision": "dbc136bf2ffabd567629783f26db5a1fe35fdd30"
+      "revision": "84f18a13f25db2943f9a632f6da90e2e5a3c52a3"
     },
     "konversation": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konversation.git",
