@@ -684,7 +684,7 @@
     "dragon": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dragon.git",
       "branch": "master",
-      "revision": "cd5760cd53b08ec764513b4fe4f4212a6bc9917e"
+      "revision": "eedac99e07a81d84c83feeeaa76f82349eb8d9aa"
     },
     "drkonqi": {
       "url": "gitea@gitea.artixlinux.org:packagesD/drkonqi.git",
