@@ -3094,7 +3094,7 @@
     "libkcompactdisc": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcompactdisc.git",
       "branch": "master",
-      "revision": "d335484b82392dc4628d0d85c711569f067851c4"
+      "revision": "5cbf43f175130b773be617cf36e028af0093fc81"
     },
     "libkdcraw": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdcraw.git",
