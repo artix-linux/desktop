@@ -4164,7 +4164,7 @@
     "partitionmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/partitionmanager.git",
       "branch": "master",
-      "revision": "dee2318003154f0a3cd3d416e6143ecc456ff0d3"
+      "revision": "256d694920d066d7c31f21b48e8eba769b459dcd"
     },
     "pavucontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pavucontrol.git",
