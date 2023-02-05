@@ -3149,7 +3149,7 @@
     "libkomparediff2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkomparediff2.git",
       "branch": "master",
-      "revision": "1633e7e01e6c2977c1954128727e064199e763c9"
+      "revision": "aad6d66c9fffa2b85ddeb4007501e97a8633b2e7"
     },
     "libksane": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksane.git",
