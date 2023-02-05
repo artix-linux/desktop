@@ -3699,7 +3699,7 @@
     "markdownpart": {
       "url": "gitea@gitea.artixlinux.org:packagesM/markdownpart.git",
       "branch": "master",
-      "revision": "70936f36f812cdb01f40768fffed916625589602"
+      "revision": "3d4ec07ac575449d5d83c104044353c43c9a8ead"
     },
     "mate-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-applets.git",
