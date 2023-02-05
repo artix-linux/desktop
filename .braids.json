@@ -1914,7 +1914,7 @@
     "kdebugsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdebugsettings.git",
       "branch": "master",
-      "revision": "073a768fbdb4a1a419806596d66a8df982281a89"
+      "revision": "273d176e073d2f6468a0672bd7dd546cf18108f7"
     },
     "kdeclarative": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeclarative.git",
