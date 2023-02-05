@@ -2014,7 +2014,7 @@
     "kdevelop-php": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop-php.git",
       "branch": "master",
-      "revision": "4a8a8f9de095677442279d2517e22ba14d0dfa24"
+      "revision": "e3a7c214a8cf52b53e13478d421a10adeb16b2e8"
     },
     "kdevelop-python": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop-python.git",
