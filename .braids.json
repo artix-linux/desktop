@@ -2269,7 +2269,7 @@
     "kio-gdrive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-gdrive.git",
       "branch": "master",
-      "revision": "b2df8c434e83acd34babf59630166a89b965f70c"
+      "revision": "326370bc2bf358411f36bb66a780d3b334c9ebd4"
     },
     "kio-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-zeroconf.git",
