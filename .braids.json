@@ -2424,7 +2424,7 @@
     "kmouth": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmouth.git",
       "branch": "master",
-      "revision": "c84a0b6ff88c514ded2716c99f60c3b34ad79260"
+      "revision": "a5853e1f1113ce51a2e7d819d70829deb04c0fee"
     },
     "kmplot": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmplot.git",
