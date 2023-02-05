@@ -1879,7 +1879,7 @@
     "kcron": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcron.git",
       "branch": "master",
-      "revision": "4e7a3e0d3d8220b260ced7d4f306700fcd50f51f"
+      "revision": "c85fd295cf190d0ab9fd0eb176b3d7fa32ec598d"
     },
     "kdav": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdav.git",
