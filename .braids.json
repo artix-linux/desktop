@@ -4569,7 +4569,7 @@
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
       "branch": "master",
-      "revision": "c6f57fb5e54c774441192782a5f22673975d52b0"
+      "revision": "3778e4a2b5062d6e85c496de2d59c3805489022d"
     },
     "rofi": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rofi.git",
