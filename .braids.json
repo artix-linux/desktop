@@ -3689,7 +3689,7 @@
     "marble": {
       "url": "gitea@gitea.artixlinux.org:packagesM/marble.git",
       "branch": "master",
-      "revision": "4f66109bde4f27f5e7386a6d339879a59eb2638e"
+      "revision": "e98ffa8ca706301f357c8722805137a41f9c8c80"
     },
     "marco": {
       "url": "gitea@gitea.artixlinux.org:packagesM/marco.git",
