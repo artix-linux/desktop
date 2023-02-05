@@ -1599,7 +1599,7 @@
     "incidenceeditor": {
       "url": "gitea@gitea.artixlinux.org:packagesI/incidenceeditor.git",
       "branch": "master",
-      "revision": "b87f442cae5adffc2169b97fb928aa226ff335d3"
+      "revision": "e9034da56a9b49f462e6165d36a650e8268de91b"
     },
     "inkscape": {
       "url": "gitea@gitea.artixlinux.org:packagesI/inkscape.git",
