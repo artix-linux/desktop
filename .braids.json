@@ -2524,7 +2524,7 @@
     "konversation": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konversation.git",
       "branch": "master",
-      "revision": "8bfae79bda9d4a6c6e8302fd9064046bd7ecc331"
+      "revision": "80076cf46d8c0107be85bd31905c0973721fef64"
     },
     "kopeninghours": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kopeninghours.git",
