@@ -679,7 +679,7 @@
     "dolphin-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dolphin-plugins.git",
       "branch": "master",
-      "revision": "aa8208bfc9126f75ee07e82dd250b7af379d46db"
+      "revision": "5e7f6523328cff2ba02171d93390b0f1dce7ae95"
     },
     "dragon": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dragon.git",
