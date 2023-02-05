@@ -2239,7 +2239,7 @@
     "kimap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kimap.git",
       "branch": "master",
-      "revision": "1241348730dd8979a21a6ba2ff362685a80eec6d"
+      "revision": "2b34df2fe0fe084dc8cb923fe5ec7a0aae91cb60"
     },
     "kinfocenter": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kinfocenter.git",
