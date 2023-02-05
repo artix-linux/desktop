@@ -2364,7 +2364,7 @@
     "kmag": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
       "branch": "master",
-      "revision": "3510fe8d9310077c37ad44a9ec9c202e5336e8a0"
+      "revision": "083e9f667dcab4eb7b2b0ba568f7ce13456d8dd4"
     },
     "kmahjongg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmahjongg.git",
