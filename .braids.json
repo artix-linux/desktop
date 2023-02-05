@@ -134,7 +134,7 @@
     "ark": {
       "url": "gitea@gitea.artixlinux.org:packagesA/ark.git",
       "branch": "master",
-      "revision": "1d8462dd5ab13b8f821158a9b58f3493ea1aa2fe"
+      "revision": "938a87cd5061ae4c47b78d83c1548712fa3c1b10"
     },
     "armagetronad": {
       "url": "gitea@gitea.artixlinux.org:packagesA/armagetronad.git",
