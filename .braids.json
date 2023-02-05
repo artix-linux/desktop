@@ -2124,7 +2124,7 @@
     "kgeography": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgeography.git",
       "branch": "master",
-      "revision": "dbc0ba0951a931909d4bb7570bf07d05817ce809"
+      "revision": "382bbcc82bf1e7c5f71ce4fba42ca5eebbb0f5f4"
     },
     "kget": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kget.git",
