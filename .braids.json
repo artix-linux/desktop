@@ -1789,7 +1789,7 @@
     "kbounce": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbounce.git",
       "branch": "master",
-      "revision": "93d58342438948d6d3cde41d8a8909bca86c643e"
+      "revision": "54633556e2ca5dd8d2e6522c177b129ddd43cf30"
     },
     "kbreakout": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbreakout.git",
