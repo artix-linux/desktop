@@ -4979,7 +4979,7 @@
     "thunar-media-tags-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunar-media-tags-plugin.git",
       "branch": "master",
-      "revision": "659d1bf174192dbc7a563d326f4348e68dc5768e"
+      "revision": "787d52990fa4087326c13a9f3efa32c338176efe"
     },
     "thunar-volman": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunar-volman.git",
