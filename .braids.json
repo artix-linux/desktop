@@ -5139,7 +5139,7 @@
     "warpinator": {
       "url": "gitea@gitea.artixlinux.org:packagesW/warpinator.git",
       "branch": "master",
-      "revision": "71f49fe0804ae0b56797a6a8d069a5ae7002ea6e"
+      "revision": "351597bf8016dfbd1148788758d2cfc8870dd4c6"
     },
     "waybar": {
       "url": "gitea@gitea.artixlinux.org:packagesW/waybar.git",
