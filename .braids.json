@@ -3879,7 +3879,7 @@
     "mint-themes-legacy": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-themes-legacy.git",
       "branch": "master",
-      "revision": "c8e9f76361a7f5059a73b4c5cd67a4c94de771bf"
+      "revision": "12203e2544bed8e3135c759df5903e19164313ac"
     },
     "mint-x-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mint-x-icons.git",
