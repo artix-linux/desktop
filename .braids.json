@@ -4949,7 +4949,7 @@
     "tellico": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tellico.git",
       "branch": "master",
-      "revision": "2d828178a650da119c277bd36fe931e2e06fb91f"
+      "revision": "f69671769c9617ec9832e75ccbe6b3001025ad36"
     },
     "template-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
