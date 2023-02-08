@@ -35,10 +35,10 @@ makedepends=(
   gtk-doc
   meson
   python-pyparsing
+  socat
   xmlto
 )
 checkdepends=(
-  socat
   valgrind
 )
 _commit=a98bbbe2ce7e5f370064e56411722a662f385ac1  # tags/1.15.2^0
@@ -93,9 +93,9 @@ build() {
   meson compile -C build
 }
 
-#check() {
-#  meson test -C build --print-errorlogs
-#}
+check() {
+  meson test -C build --print-errorlogs
+}
 
 _pick() {
   local p="$1" f d; shift
