@@ -969,7 +969,7 @@
     "ghex": {
       "url": "gitea@gitea.artixlinux.org:packagesG/ghex.git",
       "branch": "master",
-      "revision": "b0831d9a5d4e3025bcc40af867b857ed143d6544"
+      "revision": "9808c833c5543560bbfc7acf87874de9cddf36e4"
     },
     "gimp": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gimp.git",
