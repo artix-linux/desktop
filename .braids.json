@@ -5374,7 +5374,7 @@
     "xfce4-power-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-power-manager.git",
       "branch": "master",
-      "revision": "d4253f18a5eb7aabeb5a6fed07060737eb8326e8"
+      "revision": "0739ed090249a712a94017deaa3ff2e52d3c24e1"
     },
     "xfce4-pulseaudio-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-pulseaudio-plugin.git",
