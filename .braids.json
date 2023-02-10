@@ -624,7 +624,7 @@
     "discount": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discount.git",
       "branch": "master",
-      "revision": "64f705b4d927e35bea446446d7340529332581ff"
+      "revision": "403dd5388f1a9bfb56a158012a4bbe47c06a8d72"
     },
     "discover": {
       "url": "gitea@gitea.artixlinux.org:packagesD/discover.git",
