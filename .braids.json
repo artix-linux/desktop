@@ -2804,7 +2804,7 @@
     "kvantum": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kvantum.git",
       "branch": "master",
-      "revision": "8d73463c9fb3ec200b34a3aa39effbea775092fe"
+      "revision": "92f38a5ff69527a173eae6e721c7671588135ffb"
     },
     "kwallet": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwallet.git",
