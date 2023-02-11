@@ -1244,7 +1244,7 @@
     "gnome-software": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-software.git",
       "branch": "master",
-      "revision": "cc7bd4f72f89fec653b821f6be1fbb4b4a2dab6b"
+      "revision": "465cba1f17dca65fcc993085603440eb963179c3"
     },
     "gnome-sound-recorder": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sound-recorder.git",
