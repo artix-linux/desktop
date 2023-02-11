@@ -3679,7 +3679,7 @@
     "maliit-keyboard": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-keyboard.git",
       "branch": "master",
-      "revision": "05ea3c851d38e82839b9bf7e7995f803e8762a13"
+      "revision": "e44ea078f5c4abfbe8f7feca67da1d4411fc3d14"
     },
     "man-pages-l10n": {
       "url": "gitea@gitea.artixlinux.org:packagesM/man-pages-l10n.git",
