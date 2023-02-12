@@ -1334,7 +1334,7 @@
     "gnustep-make": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnustep-make.git",
       "branch": "master",
-      "revision": "2267b34c53fe68c24ae65dc32679a77f7cc81915"
+      "revision": "bb888a3614726444be8487e4f36244d8d5571744"
     },
     "gom": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gom.git",
