@@ -1274,7 +1274,7 @@
     "gnome-terminal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-terminal.git",
       "branch": "master",
-      "revision": "bdf040e13d2f9cfc539a1a723566cb6b37250eef"
+      "revision": "2b8fad36dba7764b2b8289df7c83f7c76124fb98"
     },
     "gnome-tetravex": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-tetravex.git",
