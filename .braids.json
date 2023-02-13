@@ -5489,7 +5489,7 @@
     "xpdf": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xpdf.git",
       "branch": "master",
-      "revision": "670ea643ede12e72dacf676df2ef06d2cdabf6c0"
+      "revision": "49093d8401673c2c2417494fb801717f63b8879c"
     },
     "xplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xplayer.git",
