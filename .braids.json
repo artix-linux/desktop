@@ -3269,7 +3269,7 @@
     "libpinyin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpinyin.git",
       "branch": "master",
-      "revision": "0bf0265a84b2955a9f0705228c9fd1738e4133a4"
+      "revision": "f3aa493e2cd4d4224d704d73dd2f9d66d413a33d"
     },
     "libportal": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libportal.git",
