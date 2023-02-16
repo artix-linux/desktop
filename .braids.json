@@ -1929,7 +1929,7 @@
     "kdecoration": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdecoration.git",
       "branch": "master",
-      "revision": "2e3554d31679cc60e52064f1ef3396fb22e07990"
+      "revision": "f4a68673524603d69f0f79c39cc32f5a6ae79f7f"
     },
     "kded": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kded.git",
