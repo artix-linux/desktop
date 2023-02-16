@@ -29,7 +29,4 @@ package() {
 
   #remove systemd service
   rm -r $pkgdir/usr/lib/systemd
-
-  #remove systemd service
-  rm -r $pkgdir/usr/lib/systemd
 }
