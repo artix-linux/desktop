@@ -4829,7 +4829,7 @@
     "syndication": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syndication.git",
       "branch": "master",
-      "revision": "dec0a9a8c4e235519fd252fa72fae0bdf00f9072"
+      "revision": "45dc9c44ce9a5f472156e736f5ccfbe9a3990a67"
     },
     "syntax-highlighting": {
       "url": "gitea@gitea.artixlinux.org:packagesS/syntax-highlighting.git",
