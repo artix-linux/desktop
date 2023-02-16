@@ -1099,7 +1099,7 @@
     "gnome-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-desktop.git",
       "branch": "master",
-      "revision": "75453d773ad59131714a28e6d0584fadce4a835d"
+      "revision": "fdd2dd4b469ed6700de85ccff20515ee9e0bb35d"
     },
     "gnome-devel-docs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-devel-docs.git",
