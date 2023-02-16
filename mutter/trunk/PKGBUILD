@@ -62,7 +62,7 @@ prepare() {
 
   # Fix broken focus handling with XWayland
   # https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/2848
-  git cherry-pick -n d5e75bccdee7ea0e30cd860ca08ae109dcb311c8
+  git cherry-pick -n 12ce58dba4f96f6a948c1d166646d263253e3ee0
 }
 
 build() {
