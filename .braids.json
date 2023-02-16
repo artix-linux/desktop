@@ -2184,7 +2184,7 @@
     "ki18n": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ki18n.git",
       "branch": "master",
-      "revision": "c1b44bc1a84fa6a4318a28fe4b1a1927d7d6d641"
+      "revision": "d30ad7f19c3cfea7cef52711217bde8a2a9f5c90"
     },
     "kiconthemes": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kiconthemes.git",
