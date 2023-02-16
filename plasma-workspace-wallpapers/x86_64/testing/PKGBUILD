@@ -4,7 +4,7 @@
 
 pkgname=plasma-workspace-wallpapers
 pkgver=5.27.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Additional wallpapers for the Plasma Workspace'
 arch=(any)
 url='https://kde.org/plasma-desktop/'
