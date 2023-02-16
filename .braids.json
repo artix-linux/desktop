@@ -1014,7 +1014,7 @@
     "gnome-backgrounds": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-backgrounds.git",
       "branch": "master",
-      "revision": "75c55609f49671d225e5b4d6150fcfef9e3d23a8"
+      "revision": "d0b4b01e6141877d4daf88bbd2343e7dadd50d08"
     },
     "gnome-bluetooth": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-bluetooth.git",
