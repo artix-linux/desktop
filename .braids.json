@@ -689,7 +689,7 @@
     "drkonqi": {
       "url": "gitea@gitea.artixlinux.org:packagesD/drkonqi.git",
       "branch": "master",
-      "revision": "85c2936d0c04741f6af6991f42ee3da824c418d5"
+      "revision": "b30cf87f0ce46af994bbba24b8521c25ef359edb"
     },
     "dtc": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dtc.git",
