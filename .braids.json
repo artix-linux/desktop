@@ -399,7 +399,7 @@
     "breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze.git",
       "branch": "master",
-      "revision": "495d18af94bc311af59c83426bd91f30dfda4c28"
+      "revision": "ee70e78f5b7a50df3f407d99bdaf213588fce8fa"
     },
     "breeze-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-gtk.git",
