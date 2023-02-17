@@ -5239,7 +5239,7 @@
     "xdg-desktop-portal-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-kde.git",
       "branch": "master",
-      "revision": "06dfcdcf2a9c9c5f97770c63126471e01aef8c02"
+      "revision": "65a9c273c1af3fda21698faaf4cefa82d6186393"
     },
     "xdg-desktop-portal-lxqt": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-lxqt.git",
