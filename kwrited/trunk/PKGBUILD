@@ -4,7 +4,7 @@
 
 pkgname=kwrited
 pkgver=5.27.0
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='KDE daemon listening for wall and write messages'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
