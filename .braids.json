@@ -3564,7 +3564,7 @@
     "lxqt-build-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-build-tools.git",
       "branch": "master",
-      "revision": "6d815eb66acdc61d9997d1e433077b25e986f8da"
+      "revision": "a7506f7c82d8c25deb58d97483770143ef313d8d"
     },
     "lxqt-config": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-config.git",
