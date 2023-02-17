@@ -2739,7 +2739,7 @@
     "ksystemstats": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksystemstats.git",
       "branch": "master",
-      "revision": "48030026319dec38a6c41e1e23db5accaad109a3"
+      "revision": "f6065b00c34cdc9894bd9e4dd8f9c63c8f0d9722"
     },
     "kteatime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kteatime.git",
