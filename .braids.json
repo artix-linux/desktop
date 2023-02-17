@@ -2719,7 +2719,7 @@
     "ksshaskpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksshaskpass.git",
       "branch": "master",
-      "revision": "2e43f99c7e52beae6f92725ae4f67499e6747f91"
+      "revision": "534f859a64bd8deaa74dad5fae5fc47fe480ce21"
     },
     "ksudoku": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksudoku.git",
