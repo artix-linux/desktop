@@ -2,7 +2,11 @@
 
 pkgname=kwayland-integration
 pkgver=5.27.0
+<<<<<<< HEAD
 pkgrel=1.2
+=======
+pkgrel=1
+>>>>>>> d0c4830d147a10f33837e2873e9d9a55a3ae8086
 pkgdesc='Provides integration plugins for various KDE frameworks for the wayland windowing system'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
