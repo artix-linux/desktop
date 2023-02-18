@@ -3,14 +3,14 @@
 
 pkgname=plasma-meta
 pkgver=5.27
-pkgrel=1.1
+pkgrel=1
 pkgdesc='Meta package to install KDE Plasma'
 arch=(any)
 license=(None)
 url='https://kde.org/plasma-desktop/'
 depends=(bluedevil
          drkonqi
-         flatpak-kcm
+#         flatpak-kcm
          kde-gtk-config
          kdeplasma-addons
          khotkeys
