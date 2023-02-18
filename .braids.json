@@ -4344,7 +4344,7 @@
     "plasma-welcome": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-welcome.git",
       "branch": "master",
-      "revision": "b741e46a2b5a7a1ef8a8333a2e7d1ed2da76befe"
+      "revision": "325af0b83d14d7e0abb4c38686ebd7d328ba0e01"
     },
     "plasma-workspace": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-workspace.git",
