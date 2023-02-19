@@ -979,7 +979,7 @@
     "gifski": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gifski.git",
       "branch": "master",
-      "revision": "98de26d3df645f21265eace962d6f3105b485b0a"
+      "revision": "b6652dd4cf393e10701f8ded0c1108f572cfedfa"
     },
     "gimp": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gimp.git",
