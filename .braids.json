@@ -976,6 +976,11 @@
       "branch": "master",
       "revision": "9808c833c5543560bbfc7acf87874de9cddf36e4"
     },
+    "gifski": {
+      "url": "gitea@gitea.artixlinux.org:packagesG/gifski.git",
+      "branch": "master",
+      "revision": "98de26d3df645f21265eace962d6f3105b485b0a"
+    },
     "gimp": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gimp.git",
       "branch": "master",
