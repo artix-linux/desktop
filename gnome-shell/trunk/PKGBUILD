@@ -4,7 +4,7 @@
 
 pkgname=gnome-shell
 pkgver=43.3
-pkgrel=1
+pkgrel=2
 epoch=1
 pkgdesc="Next generation desktop shell"
 url="https://wiki.gnome.org/Projects/GnomeShell"
@@ -41,7 +41,10 @@ makedepends=(
   meson
   sassc
 )
-checkdepends=(xorg-server-xvfb)
+checkdepends=(
+  appstream-glib
+  xorg-server-xvfb
+)
 optdepends=(
   'evolution-data-server: Evolution calendar integration'
   'gnome-bluetooth-3.0: Bluetooth support'
@@ -71,6 +74,10 @@ pkgver() {
 
 prepare() {
   cd gnome-shell
+
+  # https://bugs.archlinux.org/task/77572
+  # https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/2611
+  git cherry-pick -n a9e6e44ef898671229388938cc3ed511fa394dfc
 
   # https://bugs.archlinux.org/task/74434
   # https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/2621
