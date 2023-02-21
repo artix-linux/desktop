@@ -1484,7 +1484,7 @@
     "handbrake": {
       "url": "gitea@gitea.artixlinux.org:packagesH/handbrake.git",
       "branch": "master",
-      "revision": "f67f1a09e233dee2c4af659cf7fe98ffedb314c5"
+      "revision": "18e48f0617d7a659d2606961cf4e09bd47061e7e"
     },
     "hddtemp": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hddtemp.git",
