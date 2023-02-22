@@ -1354,7 +1354,7 @@
     "gparted": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gparted.git",
       "branch": "master",
-      "revision": "78a5f0c4751672fe3961801457b0976a96f172c5"
+      "revision": "763ede987f4825ec2084e703a0302a5f9b157669"
     },
     "gpicview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpicview.git",
