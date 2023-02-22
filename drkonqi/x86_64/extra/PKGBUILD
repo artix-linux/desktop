@@ -1,8 +1,8 @@
 # Maintainer: artist <artist@artixlinux.org>
 
 pkgname=drkonqi
-pkgver=5.27.0
-pkgrel=1.1
+pkgver=5.27.1
+pkgrel=1
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
@@ -12,7 +12,7 @@ makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
         no-systemd.patch)
-sha256sums=('8fb601f1d73fcb035dad59579147e29cd5b671cba22d69c0d7d523c2b3dab104'
+sha256sums=('06145f5ee40157067298ad979aa4c930046fded92c0a2403e0fbcb63dcbf09c8'
             'SKIP'
             'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
@@ -24,6 +24,7 @@ prepare() {
   cd $pkgname-$pkgver
   patch -Np1 -i ../no-systemd.patch
 }
+
 build() {
   cmake -B build -S $pkgname-$pkgver \
     -DCMAKE_INSTALL_LIBEXECDIR=lib \
