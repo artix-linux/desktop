@@ -4329,7 +4329,7 @@
     "plasma-sdk": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-sdk.git",
       "branch": "master",
-      "revision": "1f7a9e32a9c7b4d84e63f90e81be0c219bc67167"
+      "revision": "b7e09ca71d21fb1411f310e13a443e81e61462b2"
     },
     "plasma-systemmonitor": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-systemmonitor.git",
