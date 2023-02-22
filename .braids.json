@@ -4289,7 +4289,7 @@
     "plasma-disks": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-disks.git",
       "branch": "master",
-      "revision": "77ad4fc2016b4424c0fa345b9b0992e01fdc8aa7"
+      "revision": "1d71f9a7bcfbc8081f1869910f64a20a28d0667c"
     },
     "plasma-firewall": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-firewall.git",
