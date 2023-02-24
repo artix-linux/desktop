@@ -4479,7 +4479,7 @@
     "qbs": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qbs.git",
       "branch": "master",
-      "revision": "46a1994183dadc96fb67ed990a9eb575927c08b1"
+      "revision": "a749fc52f2ba82062e16f40a1f08387942a58636"
     },
     "qca": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qca.git",
