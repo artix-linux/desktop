@@ -4099,7 +4099,7 @@
     "openxr": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openxr.git",
       "branch": "master",
-      "revision": "36eeabf36133c245d480709ce80fc74831280fef"
+      "revision": "7651f5362e1ed50887c199173e7e051373889827"
     },
     "orca": {
       "url": "gitea@gitea.artixlinux.org:packagesO/orca.git",
