@@ -4096,6 +4096,11 @@
       "branch": "master",
       "revision": "372a4845070ba074d3c53d14e29d02323ce929bb"
     },
+    "openxr": {
+      "url": "gitea@gitea.artixlinux.org:packagesO/openxr.git",
+      "branch": "master",
+      "revision": "36eeabf36133c245d480709ce80fc74831280fef"
+    },
     "orca": {
       "url": "gitea@gitea.artixlinux.org:packagesO/orca.git",
       "branch": "master",
