@@ -5129,7 +5129,7 @@
     "verdict": {
       "url": "gitea@gitea.artixlinux.org:packagesV/verdict.git",
       "branch": "master",
-      "revision": "7bc1ddbce24d95c58379c0c278c62683c2bd17a7"
+      "revision": "404a3ec9c72fce00f4b013edd3513e1ff604a143"
     },
     "vertex-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vertex-themes.git",
