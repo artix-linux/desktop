@@ -564,7 +564,7 @@
     "conky": {
       "url": "gitea@gitea.artixlinux.org:packagesC/conky.git",
       "branch": "master",
-      "revision": "fed36e7f134e007eb65bdcdbd05e4dd3fdd039e8"
+      "revision": "76660de22ca01250c18400617a34ceaa03ec2b24"
     },
     "connman-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/connman-gtk.git",
