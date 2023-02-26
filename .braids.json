@@ -5514,7 +5514,7 @@
     "xpdf": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xpdf.git",
       "branch": "master",
-      "revision": "31807918931f9ddd1d0dd1333867f559902bae0b"
+      "revision": "9248aeb5cb6dfa68ff674ebeddde2af8e3c08d7d"
     },
     "xplayer": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xplayer.git",
