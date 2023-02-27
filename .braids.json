@@ -4774,7 +4774,7 @@
     "spice-vdagent": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spice-vdagent.git",
       "branch": "master",
-      "revision": "19e52a496e7166454df3e44fcebf5980d03f07d1"
+      "revision": "74b22515a29f279b68d59510a23d8e43087faa59"
     },
     "splint": {
       "url": "gitea@gitea.artixlinux.org:packagesS/splint.git",
