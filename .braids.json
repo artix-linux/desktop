@@ -884,7 +884,7 @@
     "galculator": {
       "url": "gitea@gitea.artixlinux.org:packagesG/galculator.git",
       "branch": "master",
-      "revision": "a6829a498a09dd8634ea022e6fe717e947d43e17"
+      "revision": "e6abac3f8189a3d7eff5c448113648da86f6497a"
     },
     "gamescope": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gamescope.git",
