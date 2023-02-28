@@ -1,9 +1,9 @@
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Maintainer: Cory Sanin <corysanin@artixlinux.org>
 # Contributor: Gilles CHAUVIN <gcnweb at gmail dot com>
 
 pkgname=recordmydesktop
 pkgver=0.4.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Produces a OGG encapsulated Theora/Vorbis recording of your desktop"
 arch=('x86_64')
 url="https://github.com/Enselic/recordmydesktop/"
