@@ -1,9 +1,9 @@
-# Maintainer: Muflone http://www.muflone.com/contacts/english/
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Giuseppe Calà <jiveaxe@gmail.com>
  
 pkgname=pacmanlogviewer
 pkgver=1.4.3
-pkgrel=2
+pkgrel=3
 pkgdesc="Inspect pacman log files"
 arch=('x86_64')
 url='https://opendesktop.org/content/show.php?content=150484'
