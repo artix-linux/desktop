@@ -1,8 +1,8 @@
-# Maintainer: Antonio Rojas <arojas@archlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 
 pkgname=molequeue
 pkgver=0.9.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Desktop integration of high performance computing resources"
 arch=(x86_64)
 url="http://www.openchemistry.org/"
@@ -18,9 +18,8 @@ prepare() {
 
 build() {
   cd build
-  cmake ../$pkgname-$pkgver \
-    -DCMAKE_INSTALL_PREFIX=/usr \
-    -DCMAKE_INSTALL_LIBDIR=lib
+  artix-cmake ../$pkgname-$pkgver \
+    -DCMAKE_INSTALL_PREFIX=/usr
   make
 }
 
