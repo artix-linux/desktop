@@ -5199,7 +5199,7 @@
     "wl-clipboard": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wl-clipboard.git",
       "branch": "master",
-      "revision": "6c45ca2989f586f52f0299322a709796634b8523"
+      "revision": "932b091e2de462c7e31f1d8709252d87f923fd84"
     },
     "wlroots": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wlroots.git",
