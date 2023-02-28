@@ -3934,7 +3934,7 @@
     "molequeue": {
       "url": "gitea@gitea.artixlinux.org:packagesM/molequeue.git",
       "branch": "master",
-      "revision": "c0d52a8fe2d09aaa362bb60122d148aa38f68960"
+      "revision": "578113154164fec10fa107da0264b62b99c82cb7"
     },
     "moreutils": {
       "url": "gitea@gitea.artixlinux.org:packagesM/moreutils.git",
