@@ -4649,7 +4649,7 @@
     "seatd": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seatd.git",
       "branch": "master",
-      "revision": "62a99c828b47afedcbb182af3edc4211ec333474"
+      "revision": "05f0432134cb50e3bbec089c4d96c2754e7c09ae"
     },
     "shapelib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/shapelib.git",
