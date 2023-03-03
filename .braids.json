@@ -1974,7 +1974,7 @@
     "kdenlive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdenlive.git",
       "branch": "master",
-      "revision": "a642941d4ccd34e77f933661b11e39c581907eca"
+      "revision": "f7b1bad014666cca99fbd345ffd2b90a8bcd1959"
     },
     "kdepim-addons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdepim-addons.git",
