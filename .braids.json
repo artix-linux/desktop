@@ -1374,7 +1374,7 @@
     "grantlee-editor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantlee-editor.git",
       "branch": "master",
-      "revision": "cfc6fbc513559f3f530265eaf7024b6d6a2de414"
+      "revision": "bc0fcdd42e510279722d43042f38ac2c5039e423"
     },
     "grantleetheme": {
       "url": "gitea@gitea.artixlinux.org:packagesG/grantleetheme.git",
