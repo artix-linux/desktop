@@ -4979,7 +4979,7 @@
     "template-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
       "branch": "master",
-      "revision": "07e17af295dabd6b63f374a7f4a02a6413922354"
+      "revision": "83712be2d5d04a392b141e334013d56309db2f7d"
     },
     "tepl": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tepl.git",
