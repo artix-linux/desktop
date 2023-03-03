@@ -44,7 +44,7 @@
     "akonadi-contacts": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-contacts.git",
       "branch": "master",
-      "revision": "87e67c0da49d8f3e692872a21263f2e90d6d62e4"
+      "revision": "e0602f9a140a3cfaca51dbc5067d5cb9e1479743"
     },
     "akonadi-import-wizard": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-import-wizard.git",
