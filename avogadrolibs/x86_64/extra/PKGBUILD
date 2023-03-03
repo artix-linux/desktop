@@ -3,7 +3,7 @@
 pkgbase=avogadrolibs
 pkgname=(avogadrolibs avogadrolibs-qt5)
 pkgver=1.97.0
-pkgrel=3
+pkgrel=3.1
 pkgdesc='Libraries that provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas'
 arch=(x86_64)
 url='https://www.openchemistry.org/'
@@ -22,7 +22,16 @@ prepare() {
 }
 
 build() {
-  artix-cmake -B build -S $pkgname-$pkgver -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_C_CLAFS="$CFLAGS -ffat-lto-objects" -DCMAKE_CXX_FLAGS="$CXXFLAGS -ffat-lto-objects" -DENABLE_TRANSLATIONS=ON -DUSE_HDF5=ON -DUSE_VTK=ON -DUSE_PYTHON=ON -DUSE_SYSTEM_GENXRDPATTERN=ON
+  cmake -B build -S $pkgname-$pkgver \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DCMAKE_PREFIX_PATH=/usr \
+    -DCMAKE_C_CLAFS="$CFLAGS -ffat-lto-objects" \
+    -DCMAKE_CXX_FLAGS="$CXXFLAGS -ffat-lto-objects" \
+    -DENABLE_TRANSLATIONS=ON \
+    -DUSE_HDF5=ON \
+    -DUSE_VTK=ON \
+    -DUSE_PYTHON=ON \
+    -DUSE_SYSTEM_GENXRDPATTERN=ON
   cmake --build build
 }
 
