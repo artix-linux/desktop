@@ -3674,7 +3674,7 @@
     "mailimporter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mailimporter.git",
       "branch": "master",
-      "revision": "ac3d69e7b69ab0d4595ff5864c8dd03933eee712"
+      "revision": "5d901c76fe2bbd13bf94ef7a398d0963fd846324"
     },
     "mako": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mako.git",
