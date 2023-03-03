@@ -5514,7 +5514,7 @@
     "xmms2": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xmms2.git",
       "branch": "master",
-      "revision": "8afdc10860d90f2589d723d2fc4465992e4d228d"
+      "revision": "134e0111e9ed948d8b9e8a1e7768d3dab9b393db"
     },
     "xpdf": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xpdf.git",
