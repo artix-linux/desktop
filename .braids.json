@@ -394,7 +394,7 @@
     "bovo": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bovo.git",
       "branch": "master",
-      "revision": "697fd79f434125fa79589ac101b6acacb2330242"
+      "revision": "949e61f4e937c5654bc4b4515c809b25fbbf3bbf"
     },
     "breeze": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze.git",
