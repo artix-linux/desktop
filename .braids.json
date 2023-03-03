@@ -2649,7 +2649,7 @@
     "krfb": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krfb.git",
       "branch": "master",
-      "revision": "799cc0a388588e0b3d879fe96974220a78879e9b"
+      "revision": "6242c52c82caf45434aeed22e1e8f88bc81921c6"
     },
     "krita": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krita.git",
