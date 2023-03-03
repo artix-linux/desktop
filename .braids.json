@@ -2029,7 +2029,7 @@
     "kdevelop-python": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdevelop-python.git",
       "branch": "master",
-      "revision": "0c89dd7ce3393463e5df6ab577c727e90e40874d"
+      "revision": "a31755532688c881925ecc231ee9c7cb60409ec2"
     },
     "kdewebkit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdewebkit.git",
