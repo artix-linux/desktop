@@ -3099,7 +3099,7 @@
     "libkcddb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcddb.git",
       "branch": "master",
-      "revision": "a88549490c9fd58200b57b6b0f8d77e53c2d6db2"
+      "revision": "61f3f16f6fb5090b08d01825bdd85b3cb20921a5"
     },
     "libkcompactdisc": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkcompactdisc.git",
