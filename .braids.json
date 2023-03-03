@@ -2284,7 +2284,7 @@
     "kio-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-zeroconf.git",
       "branch": "master",
-      "revision": "0a83a030c57c951f618e88b4761e09717fddb547"
+      "revision": "7ff05a9eaf039510713e115b6ad48a9560a2108f"
     },
     "kipi-plugins": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kipi-plugins.git",
