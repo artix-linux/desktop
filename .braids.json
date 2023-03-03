@@ -4834,7 +4834,7 @@
     "sweeper": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sweeper.git",
       "branch": "master",
-      "revision": "ebe57e4e7ecb89034373d98e77638043c89d2b7e"
+      "revision": "bb53e006a4ce2fcb85b95c1a03f8bb53861466b0"
     },
     "swell-foop": {
       "url": "gitea@gitea.artixlinux.org:packagesS/swell-foop.git",
