@@ -4049,7 +4049,7 @@
     "okular": {
       "url": "gitea@gitea.artixlinux.org:packagesO/okular.git",
       "branch": "master",
-      "revision": "ae2defe12d5dcc560e61d7660f7ef8905b1d50b9"
+      "revision": "74f45358ec0efd7bb16bdce9366ee2874785fb96"
     },
     "openbabel": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbabel.git",
