@@ -2784,7 +2784,7 @@
     "ktouch": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktouch.git",
       "branch": "master",
-      "revision": "c8f6ef037ffdd7882a142ee1d399abe9213ed83f"
+      "revision": "13b14e20e88340973aeb5e0a57ca567877159435"
     },
     "ktuberling": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktuberling.git",
