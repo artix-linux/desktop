@@ -2039,7 +2039,7 @@
     "kdf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdf.git",
       "branch": "master",
-      "revision": "736114a257ea095a9aa0ccdfac65758bb2a976fa"
+      "revision": "3b9f373ef0cde58462c58c1354e89d0be2bdecf5"
     },
     "kdiagram": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdiagram.git",
