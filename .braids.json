@@ -34,7 +34,7 @@
     "akonadi-calendar": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-calendar.git",
       "branch": "master",
-      "revision": "28851b00014ba5a8e99dff6809d2527622afe6b7"
+      "revision": "0a77ab6c3a6fd0d0186b11e9f59d775f287183f2"
     },
     "akonadi-calendar-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-calendar-tools.git",
