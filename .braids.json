@@ -2699,7 +2699,7 @@
     "kshisen": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kshisen.git",
       "branch": "master",
-      "revision": "4175094e09391eca45f57eb82c44067f0191cf48"
+      "revision": "65341aabb6ca7d96d8d9111572923552fa840808"
     },
     "ksirk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksirk.git",
