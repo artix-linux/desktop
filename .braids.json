@@ -5554,7 +5554,7 @@
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
-      "revision": "6a4839f88224805278c51a81eb72c731add48f75"
+      "revision": "e285118072b8df40cb470b94322d9e6f73aac5eb"
     },
     "yaz": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yaz.git",
