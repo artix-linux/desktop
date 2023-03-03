@@ -3854,7 +3854,7 @@
     "mbox-importer": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mbox-importer.git",
       "branch": "master",
-      "revision": "0e1e2c1f0ab1e28560e4c9d75933f70e8cb87bba"
+      "revision": "167b5d611d0aabbe218574434200c517f61aac9d"
     },
     "md4c": {
       "url": "gitea@gitea.artixlinux.org:packagesM/md4c.git",
