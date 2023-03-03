@@ -1914,7 +1914,7 @@
     "kde-dev-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-utils.git",
       "branch": "master",
-      "revision": "970bbfc9fd964ffdd9582c8dc826c02f4f3040c2"
+      "revision": "f49453805ce8dc5a79b09df112dc2398be61867f"
     },
     "kde-gtk-config": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-gtk-config.git",
