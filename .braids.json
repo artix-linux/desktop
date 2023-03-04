@@ -5299,7 +5299,7 @@
     "xfburn": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfburn.git",
       "branch": "master",
-      "revision": "7a73ba8ebf39bc9eca83c031cb9d480c840d50b4"
+      "revision": "29b6217c510a9f25be19f816a2fe055ddd4dd0b8"
     },
     "xfce4-appfinder": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-appfinder.git",
