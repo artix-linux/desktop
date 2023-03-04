@@ -4909,7 +4909,7 @@
     "telepathy-kde-approver": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-approver.git",
       "branch": "master",
-      "revision": "45b934eddb9a25a7fee8d6a72d94e6e8c9ecc9c9"
+      "revision": "a81279439ad0f4f26c3a078a77b861f1d4f90ae0"
     },
     "telepathy-kde-auth-handler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telepathy-kde-auth-handler.git",
