@@ -5569,7 +5569,7 @@
     "zanshin": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
       "branch": "master",
-      "revision": "951f2104c4614724aad0043092e8fd40463b8cf2"
+      "revision": "a3a3dbce1c7d954f102de67eae614b2df8be5696"
     },
     "zathura": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura.git",
