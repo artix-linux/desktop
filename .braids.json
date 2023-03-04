@@ -4154,7 +4154,7 @@
     "palapeli": {
       "url": "gitea@gitea.artixlinux.org:packagesP/palapeli.git",
       "branch": "master",
-      "revision": "79351babb69d560fdca76bed497fd45aa8e52e0b"
+      "revision": "939f575dda47aa30f1a02c8ea9b24b0cde40ce3e"
     },
     "pam_wrapper": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pam_wrapper.git",
