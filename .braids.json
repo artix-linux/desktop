@@ -2799,7 +2799,7 @@
     "kubrick": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kubrick.git",
       "branch": "master",
-      "revision": "49cbd0a2d49df1a5113e67454d1be92e86a62367"
+      "revision": "66137fe768f397d9f3c39ba6cde952473cb79c78"
     },
     "kunitconversion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kunitconversion.git",
