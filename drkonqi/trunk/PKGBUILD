@@ -20,7 +20,7 @@ validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell
 
 prepare() {
   cd $pkgname-$pkgver
-  patch -Np1 -i ../no-systemd.patch
+  patch -Np1 -i no-systemd.patch
 }
 
 build() {
