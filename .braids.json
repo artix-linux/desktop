@@ -4514,7 +4514,7 @@
     "qqc2-desktop-style": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qqc2-desktop-style.git",
       "branch": "master",
-      "revision": "e9bc36c5601f4ca71cf02a667bf0dee443fb8ae6"
+      "revision": "54cf300dd87111a912d296f08faa505f86dfe5ed"
     },
     "qqwing": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qqwing.git",
