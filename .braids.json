@@ -4419,7 +4419,7 @@
     "polkit-kde-agent": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-kde-agent.git",
       "branch": "master",
-      "revision": "39db109a686f3b4f37078cbc3480943f5d7c1c10"
+      "revision": "06806deabf9248cfaa52c112c4f2a9f87f8c71ba"
     },
     "polkit-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-qt.git",
