@@ -4354,7 +4354,7 @@
     "plasma-vault": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-vault.git",
       "branch": "master",
-      "revision": "765b32184e328027feed8e811d5bf1bc1fcc8c42"
+      "revision": "fbf2390c863e64ecc8edcc79660c31f7c8e38696"
     },
     "plasma-wayland-protocols": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-wayland-protocols.git",
