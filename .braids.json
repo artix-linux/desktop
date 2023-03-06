@@ -4309,7 +4309,7 @@
     "plasma-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-framework.git",
       "branch": "master",
-      "revision": "943b159a87622b8e4e59d25779dd8be609caea5b"
+      "revision": "df827b957affd4625da65a6038f788e5dca18215"
     },
     "plasma-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-integration.git",
