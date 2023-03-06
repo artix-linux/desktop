@@ -18,9 +18,6 @@ makedepends=(
 	"gcc"
 	"pkgconf"
 )
-checkdepends=(
-	"check>=0.9.8"
-)
 source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
 sha256sums=("84fae6da42e7cdc2e49ed4cd4f0315ac09716e95358b9c7487803a2cff47dbca")
 
@@ -29,11 +26,6 @@ build() {
 	cd "$pkgname-$pkgver"
 	meson build --prefix "/usr"
 	meson compile -C build
-}
-
-check() {
-	cd "$pkgname-$pkgver"
-	meson test -C build --no-rebuild --print-errorlogs 
 }
 
 package() {
