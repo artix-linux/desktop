@@ -2669,7 +2669,7 @@
     "krunner": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krunner.git",
       "branch": "master",
-      "revision": "fb4e0a92403fda54cee4d6fd1e9cae9a75db1e24"
+      "revision": "3b5c2b096415a6041802ad5e6bae532ac85983c8"
     },
     "ksanecore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksanecore.git",
