@@ -1859,7 +1859,7 @@
     "kcompletion": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcompletion.git",
       "branch": "master",
-      "revision": "bb06c90fddd5f43754c0df79f28aa053d894f1cb"
+      "revision": "8ffefc939f8fc9292905ae501932b9df011cf8e7"
     },
     "kconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kconfig.git",
