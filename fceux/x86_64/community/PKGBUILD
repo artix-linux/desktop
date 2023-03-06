@@ -18,12 +18,12 @@ b2sums=(SKIP)
 prepare() {
   cd $pkgname
   sed -i 's/-interim git//g' src/version.h
-  setconf scripts/genGitHdr.sh GIT_URL "'""${source:4:34}""'"
+  setconf scripts/genGitHdr.sh GIT_URL "'""$url""'"
   setconf scripts/genGitHdr.sh GIT_REV "${source#*=}"
 }
 
 build() {
-  cmake \
+  artix-cmake \
     -B build \
     -D CMAKE_C_FLAGS="$CFLAGS -fPIC -w" \
     -D CMAKE_CXX_FLAGS="$CXXFLAGS -fPIC -w" \
