@@ -23,7 +23,7 @@ prepare() {
 }
 
 build() {
-  artix-cmake \
+  cmake \
     -B build \
     -D CMAKE_C_FLAGS="$CFLAGS -fPIC -w" \
     -D CMAKE_CXX_FLAGS="$CXXFLAGS -fPIC -w" \
