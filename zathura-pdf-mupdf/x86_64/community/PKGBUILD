@@ -1,14 +1,14 @@
 # Maintainer: Torr <torr[at]artixlinux[dot]org>
 pkgname=zathura-pdf-mupdf
-pkgver=0.3.9
-pkgrel=1
+pkgver=0.4.0
+pkgrel=1.1
 pkgdesc="Pdf support for Zathura through Mupdf"
 arch=("any")
 url="https://git.pwmt.org/pwmt/zathura-pdf-mupdf"
 license=("zlib")
 conflicts=("zathura-pdf-poppler")
 depends=(
-	"zathura>=0.2.0"
+	"zathura>=0.5.2"
 	"girara>=0.3.7"
 	"mupdf>=1.20.0"
 
@@ -30,7 +30,7 @@ source=(
 	"0001-Remove-mupdf-linking-detection.patch"
 )
 sha256sums=(
-	"05a6f22244c054a90f89ea2f746ea45ebaceb6c0559bfa4dcfd120c4d485346c"
+	"60663e9aad4b639f86fc4e54614361a653a48dcf257499a98cb050ed19a70af8"
 	"8b51563a782a7dea38711335354bf65e2303b06bfecacf9cc060ecfc7b0851b8"
 )
 
