@@ -1929,7 +1929,7 @@
     "kdeclarative": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeclarative.git",
       "branch": "master",
-      "revision": "b1f3df3587bc040c48532a73503366ce665b03dd"
+      "revision": "b05c74719c8ed44a3ac50fb1dcab8d2596a707a2"
     },
     "kdeconnect": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdeconnect.git",
