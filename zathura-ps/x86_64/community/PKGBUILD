@@ -1,7 +1,7 @@
 # Maintainer: Torr <torr[at]artixlinux[dot]org>
 pkgname=zathura-ps
 pkgver=0.2.7
-pkgrel=1
+pkgrel=1.1
 pkgdesc="Postscript support for Zathura"
 arch=("any")
 url="https://git.pwmt.org/pwmt/zathura-ps"
