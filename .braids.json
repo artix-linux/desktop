@@ -1794,7 +1794,7 @@
     "kbookmarks": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbookmarks.git",
       "branch": "master",
-      "revision": "d4f001c55e716b2a93c7338d631112fa2e654572"
+      "revision": "2e22e8a7e6a4b8b230bc497bc549290b45d2680c"
     },
     "kbounce": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbounce.git",
