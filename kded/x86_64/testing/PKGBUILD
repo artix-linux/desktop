@@ -25,4 +25,7 @@ build() {
 
 package() {
   DESTDIR="$pkgdir" cmake --install build
+
+  #remove systemd service   <<==== Not needed for kded-5.102.0-1
+  rm -r $pkgdir/usr/lib/systemd
 }
