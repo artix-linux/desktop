@@ -1514,7 +1514,7 @@
     "hitori": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hitori.git",
       "branch": "master",
-      "revision": "dfbf554bba0c2944ecb2ed005fc69b38adb6a2d7"
+      "revision": "41a15e7c8bdcbf5a25e6ddcf1a20443f35611159"
     },
     "hunspell": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hunspell.git",
