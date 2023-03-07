@@ -1,10 +1,10 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 
 pkgname=ki18n
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Advanced internationalization framework'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
