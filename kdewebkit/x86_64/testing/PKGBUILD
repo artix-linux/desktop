@@ -3,8 +3,8 @@
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 
 pkgname=kdewebkit
-pkgver=5.99.0
-pkgrel=1.1
+pkgver=5.103.0
+pkgrel=1
 pkgdesc='KDE Integration for QtWebKit'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
