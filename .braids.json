@@ -4129,7 +4129,7 @@
     "oxygen": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen.git",
       "branch": "master",
-      "revision": "eea7017356f61c9245bcf5b717943c2e073fd17d"
+      "revision": "1e292c137ad4cf75c34456ed715d140753a8ed1f"
     },
     "oxygen-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-icons.git",
