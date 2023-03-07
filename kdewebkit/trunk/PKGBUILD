@@ -4,7 +4,7 @@
 
 pkgname=kdewebkit
 pkgver=5.99.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE Integration for QtWebKit'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
