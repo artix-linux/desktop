@@ -4,7 +4,7 @@
 
 pkgname=kemoticons
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Support for emoticons and emoticons themes'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
