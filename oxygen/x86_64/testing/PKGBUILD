@@ -5,7 +5,7 @@
 pkgname=oxygen
 pkgdesc='KDE Oxygen style'
 pkgver=5.27.2
-pkgrel=1
+pkgrel=1.1
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
