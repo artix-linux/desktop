@@ -1879,7 +1879,7 @@
     "kcoreaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcoreaddons.git",
       "branch": "master",
-      "revision": "b35ec9e16e3d144e461b7eaa04abb4a6a0502d42"
+      "revision": "ebc4f144a2e3f6572e45ffb0df504b218d31feec"
     },
     "kcrash": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcrash.git",
