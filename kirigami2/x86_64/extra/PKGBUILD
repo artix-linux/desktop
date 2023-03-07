@@ -1,8 +1,8 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 
 pkgname=kirigami2
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A QtQuick based components set'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
