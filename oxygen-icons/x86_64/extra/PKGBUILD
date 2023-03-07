@@ -1,4 +1,4 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 # Contributor: Pierre Schmitz <pierre@archlinux.de>
@@ -7,7 +7,7 @@ pkgbase=oxygen-icons
 pkgname=(oxygen-icons oxygen-icons-svg)
 pkgver=5.103.0
 epoch=1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='The Oxygen Icon Theme'
 arch=(any)
 url='https://community.kde.org/Frameworks'
