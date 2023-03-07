@@ -1,9 +1,9 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 
 pkgname=kquickcharts
 pkgver=5.103.0
-pkgrel=1
+pkgrel=2
 pkgdesc='A QtQuick plugin providing high-performance charts'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
