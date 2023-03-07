@@ -4,7 +4,7 @@
 
 pkgname=kiconthemes
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Support for icon themes'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
