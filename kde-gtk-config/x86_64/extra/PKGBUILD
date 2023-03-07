@@ -1,20 +1,20 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 
 pkgname=kde-gtk-config
-pkgver=5.27.1
-pkgrel=1
+pkgver=5.27.2
+pkgrel=2
 pkgdesc='GTK2 and GTK3 Configurator for KDE'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
 license=(LGPL)
-depends=(qt5-svg kdecoration kconfigwidgets kdbusaddons kwindowsystem gsettings-desktop-schemas)
-makedepends=(extra-cmake-modules gtk3 sassc)
+depends=(qt5-svg kdecoration kconfigwidgets kdbusaddons kwindowsystem)
+makedepends=(extra-cmake-modules gtk3 sassc gsettings-desktop-schemas)
 optdepends=('gtk3: GTK3 apps support' 'xsettingsd: apply settings to GTK applications on the fly')
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('dee9e7526c969018bbbfcd3537411368f99bf460f9cf2158912bd5fd7c08c381'
+sha256sums=('ca2dfe01e4d9ef65dccb369a77bf7acaeb02bc8866a70a3ec23b2905cdfe98d4'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
