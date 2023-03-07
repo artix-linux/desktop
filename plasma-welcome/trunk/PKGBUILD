@@ -2,7 +2,7 @@
 
 pkgname=plasma-welcome
 pkgver=5.27.2
-pkgrel=1
+pkgrel=1.1
 pkgdesc='A friendly onboarding wizard for Plasma'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
