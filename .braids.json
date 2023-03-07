@@ -1759,7 +1759,7 @@
     "karchive": {
       "url": "gitea@gitea.artixlinux.org:packagesK/karchive.git",
       "branch": "master",
-      "revision": "9bffb7bf3d59aecd7e3b963628f5f4691d52c385"
+      "revision": "2a62d44e0a798edef5a3db51a6b2494bae234ba1"
     },
     "kate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kate.git",
