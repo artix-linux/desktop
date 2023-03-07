@@ -1919,7 +1919,7 @@
     "kde-gtk-config": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-gtk-config.git",
       "branch": "master",
-      "revision": "941d5a95248445b9fbd2281f74d973a67074cba4"
+      "revision": "5185d27f63ed56add8e932fe6d53dc68498d9d41"
     },
     "kdebugsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdebugsettings.git",
