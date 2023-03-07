@@ -2,7 +2,7 @@
 
 pkgname=purpose
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Framework for providing abstractions to get the developers purposes fulfilled'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
