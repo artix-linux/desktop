@@ -4,7 +4,7 @@
 
 pkgname=kio
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Resource and network access abstraction'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
