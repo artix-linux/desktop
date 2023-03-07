@@ -1,10 +1,10 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 # Contributor: Andrea Scarpino <andrea@archlinux.org>
 
 pkgname=kinit
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Process launcher to speed up launching KDE applications'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
