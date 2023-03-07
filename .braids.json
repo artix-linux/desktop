@@ -2409,7 +2409,7 @@
     "kmenuedit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmenuedit.git",
       "branch": "master",
-      "revision": "088f67ba0f167e56e20c07dc7ba0d29ed2c409da"
+      "revision": "a2db9838c653684ffd28b5981a2ef2e0174f8dd0"
     },
     "kmime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmime.git",
