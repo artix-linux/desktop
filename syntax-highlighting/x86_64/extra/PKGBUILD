@@ -1,9 +1,9 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 # Maintainer: Felix Yan <felixonmars@archlinux.org>
 
 pkgname=syntax-highlighting
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Syntax highlighting engine for structured text and code'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
