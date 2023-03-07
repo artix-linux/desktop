@@ -1,8 +1,8 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 
 pkgname=bluez-qt
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Qt wrapper for Bluez 5 DBus API'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
