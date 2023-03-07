@@ -4,7 +4,7 @@
 
 pkgname=kcmutils
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Utilities for interacting with KCModules'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
