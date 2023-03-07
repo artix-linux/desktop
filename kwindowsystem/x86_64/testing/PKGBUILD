@@ -4,7 +4,7 @@
 
 pkgname=kwindowsystem
 pkgver=5.103.0
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Access to the windowing system'
 arch=(x86_64)
 url='https://community.kde.org/Frameworks'
