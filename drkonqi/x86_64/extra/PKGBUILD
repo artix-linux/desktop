@@ -1,8 +1,8 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 
 pkgname=drkonqi
-pkgver=5.27.1
-pkgrel=1
+pkgver=5.27.2
+pkgrel=2
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
@@ -11,10 +11,12 @@ depends=(kidletime syntax-highlighting kirigami2 kitemmodels kuserfeedback kio g
 makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
-        no-systemd.patch)
-sha256sums=('06145f5ee40157067298ad979aa4c930046fded92c0a2403e0fbcb63dcbf09c8'
+		no-systemd.patch)
+
+sha256sums=('a674ed7a9c1e65ebda5abd8714a7435d9a7cf7094bf200738f0d50d5f1f9923b'
             'SKIP'
-            'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
+			'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
+
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
               'D07BD8662C56CB291B316EB2F5675605C74E02CF'  # David Edmundson <davidedmundson@kde.org>
