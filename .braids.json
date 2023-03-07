@@ -2334,7 +2334,7 @@
     "kjs": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjs.git",
       "branch": "master",
-      "revision": "72584e9ef0b711c2f469e3212aabe03c86101110"
+      "revision": "95842bd75b52871c749f09d34d13a1b91505e1e6"
     },
     "kjsembed": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjsembed.git",
