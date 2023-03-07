@@ -2329,7 +2329,7 @@
     "kjobwidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjobwidgets.git",
       "branch": "master",
-      "revision": "db1bb4dcb2632817c330e1fb9f7e6d68b134eaa0"
+      "revision": "553c80b9b350dc4e9268abf87185c070344c8b85"
     },
     "kjs": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjs.git",
