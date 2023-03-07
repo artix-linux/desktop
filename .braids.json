@@ -4139,7 +4139,7 @@
     "oxygen-sounds": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-sounds.git",
       "branch": "master",
-      "revision": "385e3a23b48f0a70ffe15c02a084853079414f3f"
+      "revision": "8e39203bc517b2909e4bd3dcff135b137d07e244"
     },
     "packagekit-qt5": {
       "url": "gitea@gitea.artixlinux.org:packagesP/packagekit-qt5.git",
