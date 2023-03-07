@@ -1,8 +1,8 @@
-# Maintainer: artist <artist@artixlinux.org>
+# Maintainer: nikolar <nikolar@artixlinux.org>
 
 pkgname=kholidays
 pkgver=5.103.0
-pkgrel=1
+pkgrel=2
 epoch=1
 pkgdesc='KDE library for regional holiday information'
 arch=(x86_64)
