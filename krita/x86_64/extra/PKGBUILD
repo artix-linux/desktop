@@ -3,7 +3,7 @@
 pkgname=krita
 _pkgver=5.1.5
 pkgver=${_pkgver/-/}
-pkgrel=3
+pkgrel=4
 pkgdesc='Edit and paint images'
 arch=(x86_64)
 url='https://krita.org'
@@ -18,13 +18,11 @@ optdepends=('poppler-qt5: PDF filter' 'ffmpeg: to save animations'
             'krita-plugin-gmic: GMic plugin' 'libjxl: JPEG-XL filter')
 source=(https://download.kde.org/stable/krita/$_pkgver/$pkgname-$_pkgver.tar.gz{,.sig}
         find-xsimd.patch
-	0001-quazip-1.4.patch
         https://invent.kde.org/graphics/krita/-/commit/e9184281.patch)
 sha256sums=('1c775ebef0f799a9a6b74440c3d906ab913c27541b177ed621704de714e9a4d3'
             'SKIP'
             '622c9ffbbfef72dd024b391b879c79ae34da11d52b2f3488dfd8ee42bf7b453b'
-            'a5d8ae7a0dfd3b78b573c389f0c81d1d4d29ebd8c2edf96879f1bed2070dba41'
-            'c30b94c4976cf745aa35e8763b9f4e9ef1e401bd68c1bc966607465322f70223')
+            '3db041acee92d6e4238c47ad572142a930340858703f523baa32f129e6474060')
 validpgpkeys=('05D00A8B73A686789E0A156858B9596C722EA3BD'  # Boudewijn Rempt <foundation@krita.org>
               'E9FB29E74ADEACC5E3035B8AB69EB4CF7468332F'  # Dmitry Kazakov (main key) <dimula73@gmail.com>
               '064182440C674D9F8D0F6F8B4DA79EDA231C852B') # Stichting Krita Foundation <foundation@krita.org>
@@ -32,17 +30,10 @@ validpgpkeys=('05D00A8B73A686789E0A156858B9596C722EA3BD'  # Boudewijn Rempt <fou
 prepare() {
   patch -d $pkgname-$_pkgver -p1 < find-xsimd.patch
   patch -d $pkgname-$_pkgver -p1 < e9184281.patch # Fix build with libheif 1.14.1
-  patch -d $pkgname-$_pkgver -p1 < 0001-quazip-1.4.patch
 }
 
 build() {
-  export QUAZIP_INCLUDE="/usr/include/QuaZip-Qt5-1.4/quazip"
-  export CFLAGS+=" -I/usr/include/$QUAZIP_INCLUDE"
-  export CXXFLAGS+=" -I/usr/include/$QUAZIP_INCLUDE"
-  artix-cmake -B build -S $pkgname-$_pkgver \
-    -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON \
-    -DQUAZIP_INCLUDE_DIR=/usr/include \
-    -DQUAZIP_LIBRARIES=/usr/lib
+  artix-cmake -B build -S $pkgname-$_pkgver -DBUILD_KRITA_QT_DESIGNER_PLUGINS=ON
   cmake --build build
 }
 
