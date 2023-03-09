@@ -5189,7 +5189,7 @@
     "wf-recorder": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wf-recorder.git",
       "branch": "master",
-      "revision": "a62facb09b41ee270bd8d92614043d89edfdbdaa"
+      "revision": "0e6490e3cd6fd777aaf5bbae67d3f82164660426"
     },
     "wkhtmltopdf": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wkhtmltopdf.git",
