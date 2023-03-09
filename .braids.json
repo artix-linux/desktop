@@ -4694,7 +4694,7 @@
     "simplescreenrecorder": {
       "url": "gitea@gitea.artixlinux.org:packagesS/simplescreenrecorder.git",
       "branch": "master",
-      "revision": "284299e4f07142b2319b0a79dc03f56aa2f90585"
+      "revision": "ac69f3a545a83a5a51b7e5cda9c4b4c7de99774e"
     },
     "skanlite": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanlite.git",
