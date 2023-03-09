@@ -4089,7 +4089,7 @@
     "openscenegraph": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openscenegraph.git",
       "branch": "master",
-      "revision": "359b2d4e55c4e761a50c95c8dc7e8ded49817c1f"
+      "revision": "bd867a0b87a47610996d43403665206496f4deed"
     },
     "openshadinglanguage": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openshadinglanguage.git",
