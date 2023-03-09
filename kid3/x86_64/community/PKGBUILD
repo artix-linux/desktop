@@ -4,7 +4,7 @@
 pkgbase=kid3
 pkgname=('kid3-common' 'kid3-qt' 'kid3')
 pkgver=3.9.3
-pkgrel=1
+pkgrel=2
 pkgdesc="An MP3, Ogg/Vorbis and FLAC tag editor"
 arch=('x86_64')
 url="https://kid3.kde.org/"
@@ -20,13 +20,7 @@ sha256sums=('69e3ed1a428c113d90bcbe6187ff9d4d79176d9929a4368a65feeffa1ea2e0a6'
 
 build() {
   export CXXFLAGS+=' -DNDEBUG' # FS#69904
-  artix-cmake -B build -S ${pkgbase}-${pkgver} \
-    -DCMAKE_INSTALL_PREFIX=/usr \
-    -DWITH_APPS="CLI;Qt;KDE" \
-    -DWITH_MP4V2=ON \
-    -DWITH_FFMPEG=ON \
-    -DWITH_GSTREAMER=ON \
-    -Wno-dev
+  artix-cmake -B build -S ${pkgbase}-${pkgver} -DCMAKE_INSTALL_PREFIX=/usr -DWITH_APPS="CLI;Qt;KDE" -DWITH_MP4V2=ON -DWITH_FFMPEG=ON -DWITH_GSTREAMER=ON -Wno-dev
   cmake --build build
 }
 
