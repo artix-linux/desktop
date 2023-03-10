@@ -18,7 +18,7 @@ conflicts=('zathura-pdf-poppler')
 depends=('cairo' 'gumbo-parser' 'jbig2dec' 'libjpeg' 'openjpeg2' 'openssl' 'zathura')
 makedepends=('libmupdf' 'meson' 'ninja' 'git')
 
-source=(zathura-pdf-mupdf-$pkgver.tar.gz::https://pwmt.org/projects/zathura-pdf-mupdf/download/zathura-pdf-mupdf-$pkgver.tar.xz
+source=(zathura-pdf_mupdf-$pkgver.tar.gz::https://pwmt.org/projects/zathura-pdf-mupdf/download/zathura-pdf-mupdf-$pkgver.tar.xz
         0001-Remove-mupdf-linking-detection.patch)
 
 sha256sums=('8c1c575678a1cd45b007bdf12328527f0aef6184103e0965459a4202e9ee925d'
