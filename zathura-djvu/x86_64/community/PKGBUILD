@@ -1,35 +1,33 @@
-# Maintainer: Torr <torr[at]artixlinux[dot]org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
+# Maintainer: Robin Candau <antiz@archlinux.org>
+# Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
+# Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Contributor: karnath <karnathtorjian@gmail.com>
+
 pkgname=zathura-djvu
 pkgver=0.2.9
-pkgrel=1.1
-pkgdesc="Djvu support for Zathura"
-arch=("any")
-url="https://git.pwmt.org/pwmt/zathura-djvu"
-license=("zlib")
-depends=(
-	"zathura>=0.3.8"
-	"gtk3>=3.22"
-	"glib2>=2.50"
-	"girara>=0.3.7"
-	"djvulibre"
-)
-makedepends=(
-	"meson>=0.56"
-	"gcc"
-	"pkgconf"
-)
-source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha256sums=("84fae6da42e7cdc2e49ed4cd4f0315ac09716e95358b9c7487803a2cff47dbca")
+pkgrel=2
 
+pkgdesc="DjVu support for Zathura"
+url="https://pwmt.org/projects/zathura-djvu/"
+arch=('x86_64')
+license=('custom')
 
-build() {
-	cd "$pkgname-$pkgver"
-	meson build --prefix "/usr"
-	meson compile -C build
+depends=('djvulibre' 'zathura' 'desktop-file-utils')
+makedepends=('meson' 'ninja')
+
+source=(zathura-djvu-$pkgver.tar.gz::https://github.com/pwmt/zathura-djvu/archive/$pkgver.tar.gz)
+
+sha256sums=('84fae6da42e7cdc2e49ed4cd4f0315ac09716e95358b9c7487803a2cff47dbca')
+
+build(){
+  cd zathura-djvu-$pkgver
+  artix-meson build
+  ninja -C build
 }
 
-package() {
-	cd "$pkgname-$pkgver"
-	DESTDIR="$pkgdir" meson install -C build --no-rebuild
-	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+package(){
+  DESTDIR="$pkgdir" ninja -C zathura-djvu-$pkgver/build install
+  install -Dm0644 zathura-djvu-$pkgver/LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
 }
+
