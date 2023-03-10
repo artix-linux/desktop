@@ -5574,7 +5574,7 @@
     "zathura": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura.git",
       "branch": "master",
-      "revision": "237825649c991625574d3d136e7b06c6f523beed"
+      "revision": "bf33d8908c2d571e71405dc9ee96f9e41b2ed19c"
     },
     "zathura-djvu": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zathura-djvu.git",
