@@ -1,12 +1,12 @@
 # Maintainer: Nathan <ndowens@artixlinux.org>
-# Contributor: Robin Candau <antiz@archlinux.org>
+# Maintainer: Robin Candau <antiz@archlinux.org>
 # Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
 # Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
 # Contributor: ML <neldoreth>
 
 pkgname=zathura
 pkgver=0.5.2
-pkgrel=1
+pkgrel=2
 
 pkgdesc="Minimalistic document viewer"
 url="https://pwmt.org/projects/zathura/"
