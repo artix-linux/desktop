@@ -1,40 +1,46 @@
-# Maintainer: Torr <torr[at]artixlinux[dot]org>
-pkgname=girara
-pkgver=0.3.7
-pkgrel=1
-pkgdesc="Library that implements a user interface that focuses on simplicity and minimalism"
-arch=("any")
-url="https://git.pwmt.org/pwmt/girara"
-license=("zlib")
-depends=(
-	"gtk3>=3.20"
-	"glib2>=2.50"
-)
-makedepends=(
-	"meson>=0.56"
-	"gettext"
-	"gcc"
-	"pkgconf"
-)
-checkdepends=("check")
-optdepends=("json-glib")
-source=("https://git.pwmt.org/pwmt/$pkgname/-/archive/$pkgver/$pkgname-$pkgver.tar.gz")
-sha256sums=("41342213f8e745258f1db28cbb6ccc27a63009a5e001bf791bbe01ce436d4db7")
+# Maintainer: Nathan <ndowens@artixlinux.org>
+# Maintainer: Robin Candau <antiz@archlinux.org>
+# Contributor: Daniel Wallace <danielwallace at gtmanfred dot com>
+# Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Contributor: mlq <mlq@pwmt.org>
 
+pkgname=girara
+pkgver=0.3.9
+pkgrel=1
+
+pkgdesc="User interface library focused on simplicity and minimalism"
+url="https://pwmt.org/projects/girara"
+arch=('x86_64')
+license=('custom')
+
+provides=('girara-gtk3' 'girara-common')
+replaces=('girara-gtk3' 'girara-common')
+conflicts=('girara-gtk3' 'girara-common')
+
+depends=('gtk3' 'glib2' 'json-glib' 'pango')
+makedepends=('meson' 'ninja' 'doxygen' 'check')
+
+source=(girara-$pkgver.tar.gz::https://github.com/pwmt/girara/archive/$pkgver.tar.gz)
+
+sha512sums=('84880cb66780bad8a60044061b651d6680d28a7e6b0073a623600b0a7a9f01de4af5e6af8fc405c606dab79cbab1f119186bc47666df264d4249726dd71af622')
 
 build() {
-	cd "$pkgname-$pkgver"
-	meson build --prefix "/usr"
-	meson compile -C build
+  cd girara-$pkgver
+  artix-meson build
+
+  cd build
+  ninja
 }
 
 check() {
-	cd "$pkgname-$pkgver"
-	meson test -C build --no-rebuild --print-errorlogs 
+  cd girara-$pkgver/build
+
+  ninja test
 }
 
 package() {
-	cd "$pkgname-$pkgver"
-	DESTDIR="$pkgdir" meson install -C build --no-rebuild
-	install -Dm 644 -t "$pkgdir/usr/share/licenses/$pkgname" LICENSE
+  cd girara-$pkgver/build
+  DESTDIR="$pkgdir/" ninja install
+
+  install -D -m664 ../LICENSE "$pkgdir"/usr/share/licenses/$pkgname/LICENSE
 }
