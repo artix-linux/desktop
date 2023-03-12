@@ -2759,7 +2759,7 @@
     "ktexteditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktexteditor.git",
       "branch": "master",
-      "revision": "84389fb72bfed284906f67c585fafe29be28166b"
+      "revision": "644bd2b88b7bff9ab35ce4dd94af9953791ffa83"
     },
     "ktextwidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktextwidgets.git",
