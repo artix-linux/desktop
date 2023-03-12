@@ -209,7 +209,7 @@
     "artix-qt-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-qt-presets.git",
       "branch": "master",
-      "revision": "a3a5a014c69cdd4f4da490e5dd7f4c338fcaaa70"
+      "revision": "83838af0672e66531f676b3f917e3b61cbed67a2"
     },
     "aspell": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aspell.git",
