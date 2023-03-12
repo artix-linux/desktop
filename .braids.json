@@ -5024,7 +5024,7 @@
     "tinyxml": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tinyxml.git",
       "branch": "master",
-      "revision": "c3b7958e9a26129da841131035c93841e092d504"
+      "revision": "9a9fe119abf403fd5e707dd3164a62c721bab84e"
     },
     "tmux": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tmux.git",
