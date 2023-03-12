@@ -1,2 +1,0 @@
-# artix-gtk-presets
-
