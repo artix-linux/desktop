@@ -4764,7 +4764,7 @@
     "spice": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spice.git",
       "branch": "master",
-      "revision": "80794f6668f2ebec3b9db396d8528cdc6d211a1d"
+      "revision": "3abece4139800c8823266f91cc79624fb66440ce"
     },
     "spice-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spice-gtk.git",
