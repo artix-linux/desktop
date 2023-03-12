@@ -2299,7 +2299,7 @@
     "kirigami2": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami2.git",
       "branch": "master",
-      "revision": "5d50ef74fb3a72b4ab8f04727a235f82a71487b8"
+      "revision": "686dc137903e796fb265107e36ecb3dbb4b98f77"
     },
     "kiriki": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kiriki.git",
