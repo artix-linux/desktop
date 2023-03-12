@@ -184,7 +184,7 @@
     "artix-gtk-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-gtk-presets.git",
       "branch": "master",
-      "revision": "5fd3e6fd9dce1d207f18b89e7ac485be037c5e64"
+      "revision": "d23a0dfc7049ba80cb7e647c6206e81afd3862bd"
     },
     "artix-i3-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-i3-presets.git",
