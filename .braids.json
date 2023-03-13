@@ -2574,7 +2574,7 @@
     "kpeople": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpeople.git",
       "branch": "master",
-      "revision": "10ec4e5f32058ee64723716453775a316fd4ded3"
+      "revision": "7e497780c654fcee5ef11a7356b52be63c8c11a8"
     },
     "kpeoplevcard": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpeoplevcard.git",
