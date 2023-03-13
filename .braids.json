@@ -419,7 +419,7 @@
     "bspwm": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bspwm.git",
       "branch": "master",
-      "revision": "3550449115a0c04b0f49a6b2bbda60060fab9cfa"
+      "revision": "72b225b434e6db64441304d78c5a04661f42aa4c"
     },
     "caja": {
       "url": "gitea@gitea.artixlinux.org:packagesC/caja.git",
