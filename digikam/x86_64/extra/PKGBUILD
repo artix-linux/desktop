@@ -30,7 +30,7 @@ prepare() {
 }
 
 build() {
-  cmake -B build -S $pkgname-$_pkgver \
+  artix-cmake -B build -S $pkgname-$_pkgver \
     -DBUILD_TESTING=OFF \
     -DENABLE_KFILEMETADATASUPPORT=ON \
     -DENABLE_MEDIAPLAYER=ON \
