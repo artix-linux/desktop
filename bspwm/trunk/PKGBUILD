@@ -1,9 +1,9 @@
-# Maintainer: Alexander F. Rødseth <xyproto@archlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Bastien Dejean <nihilhill@gmail.com>
 
 pkgname=bspwm
 pkgver=0.9.10
-pkgrel=2
+pkgrel=3
 pkgdesc='Tiling window manager based on binary space partitioning'
 arch=(x86_64)
 url='https://github.com/baskerville/bspwm'
