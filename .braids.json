@@ -1359,7 +1359,7 @@
     "gpicview": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpicview.git",
       "branch": "master",
-      "revision": "242103d94ca2cce0b6176785e740543e73b19ee9"
+      "revision": "2903fd894d1def1c463b036a06455702a19458e4"
     },
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
