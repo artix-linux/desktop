@@ -16,7 +16,7 @@ source=("_$pkgname::git+$url#commit=ea6ed69b874e3ae94072f1b4f14b9a8f0fdd774b") #
 b2sums=('SKIP')
 
 prepare() {
-  cd $pkgname
+  cd _$pkgname
   sed -i 's/-interim git//g' src/version.h
   setconf scripts/genGitHdr.sh GIT_URL "'""$url""'"
   setconf scripts/genGitHdr.sh GIT_REV "${source#*=}"
