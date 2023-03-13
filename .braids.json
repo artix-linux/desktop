@@ -809,7 +809,7 @@
     "fceux": {
       "url": "gitea@gitea.artixlinux.org:packagesF/fceux.git",
       "branch": "master",
-      "revision": "21c318d1d2d426e9340265a6ca464d17854d364c"
+      "revision": "fd4625ce2dc681376705b7f2ac047ac2a53263c7"
     },
     "fcitx-qt5": {
       "url": "gitea@gitea.artixlinux.org:packagesF/fcitx-qt5.git",
