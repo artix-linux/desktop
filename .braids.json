@@ -3869,7 +3869,7 @@
     "menu-cache": {
       "url": "gitea@gitea.artixlinux.org:packagesM/menu-cache.git",
       "branch": "master",
-      "revision": "b14f4ac053638cfe4534b1a534f49d6a6ccfe0e4"
+      "revision": "af26e80385d05467230ba3313b5fab9e6922a469"
     },
     "menumaker": {
       "url": "gitea@gitea.artixlinux.org:packagesM/menumaker.git",
