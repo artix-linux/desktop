@@ -4134,7 +4134,7 @@
     "oxygen-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-icons.git",
       "branch": "master",
-      "revision": "6259f0f65c3e85fbcc0ca01edc798cd07c4005e3"
+      "revision": "96f99a0190a83a6e072ad773a17cb14522f93a1f"
     },
     "oxygen-sounds": {
       "url": "gitea@gitea.artixlinux.org:packagesO/oxygen-sounds.git",
