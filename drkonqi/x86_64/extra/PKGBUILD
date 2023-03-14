@@ -1,8 +1,8 @@
 # Maintainer: nikolar <nikolar@artixlinux.org>
 
 pkgname=drkonqi
-pkgver=5.27.2
-pkgrel=2
+pkgver=5.27.3
+pkgrel=1
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
 url='https://kde.org/plasma-desktop/'
@@ -13,7 +13,7 @@ groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
 		no-systemd.patch)
 
-sha256sums=('a674ed7a9c1e65ebda5abd8714a7435d9a7cf7094bf200738f0d50d5f1f9923b'
+sha256sums=('c3cbd3ab917742b1b70a7857c0d30989139f65318993ad0131f22ebb30d835dc'
             'SKIP'
 			'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
 
