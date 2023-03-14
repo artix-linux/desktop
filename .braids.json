@@ -3179,7 +3179,7 @@
     "libksysguard": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksysguard.git",
       "branch": "master",
-      "revision": "25bf98fa8a2dffe919309fe34432c8311ac9c464"
+      "revision": "be3c04d2a9bf6b9661aff4d3b39d2381241a30fa"
     },
     "libktorrent": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libktorrent.git",
