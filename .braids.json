@@ -104,7 +104,7 @@
     "appstream": {
       "url": "gitea@gitea.artixlinux.org:packagesA/appstream.git",
       "branch": "master",
-      "revision": "6dc4262c8c7182539008bf62c664383347f6405f"
+      "revision": "82cf972710f2a7a39ba3905b248259f3c6380269"
     },
     "appstream-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesA/appstream-glib.git",
