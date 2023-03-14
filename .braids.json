@@ -1104,7 +1104,7 @@
     "gnome-control-center": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-control-center.git",
       "branch": "master",
-      "revision": "88b4078c260abbc5c39f8545b699e2444e7be7b9"
+      "revision": "573fec6ac51095474abee2b35932a47dfaddd0d6"
     },
     "gnome-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-desktop.git",
