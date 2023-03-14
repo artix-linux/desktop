@@ -1644,7 +1644,7 @@
     "js102": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js102.git",
       "branch": "master",
-      "revision": "93f4e3fadb53a3b9276cc4b6275069bdf29f6539"
+      "revision": "d1f692deb7c36f92906703488cbf421a8fbc2c61"
     },
     "js91": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/js91.git",
