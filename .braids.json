@@ -3549,7 +3549,7 @@
     "lxmusic": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxmusic.git",
       "branch": "master",
-      "revision": "79f3fe4e6b4535d01aea476d136d5029ea8a07d0"
+      "revision": "af4cab0cbcb60a3f3307898ece03f6cadabff7a5"
     },
     "lxpanel": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxpanel.git",
