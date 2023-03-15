@@ -4,7 +4,7 @@
     "a2ps": {
       "url": "gitea@gitea.artixlinux.org:packagesA/a2ps.git",
       "branch": "master",
-      "revision": "1485f7f6babada2cf2fa6ba583834bac6fc1584a"
+      "revision": "8608db989cc164ce51a05e5547dde46cdf270e2e"
     },
     "accerciser": {
       "url": "gitea@gitea.artixlinux.org:packagesA/accerciser.git",
