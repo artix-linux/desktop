@@ -13,7 +13,7 @@ depends=('gcc-libs')
 makedepends=('git' 'rust')
 options=('!lto')
 source=("$url/archive/v$pkgver/$pkgname-$pkgver.tar.gz")
-sha512sums=('e186fc91b0b6ae82c0c5581ea7365aa34a35b87668763fe18d541de7b987c6ba7e2b84d8207bdd68eda6073eb05f3fde1529bcdeae4e92ab4d5c2c840f88c3a9')
+sha512sums=('0299041cdd1fe08dd5d38983ab6942698c40a8034743990bf1d7a691efd1542737aaedbfafb6e251de7b88f5c0221ff655e44bc0fe786432c7c0301cd78a4daf')
 
 prepare() {
   cd $pkgname-$pkgver
