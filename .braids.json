@@ -444,7 +444,7 @@
     "calc": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calc.git",
       "branch": "master",
-      "revision": "d51423d6f5c2ff5169066a4f915d76adfcef1123"
+      "revision": "b7ad9350770a336969da04b63cff017782212798"
     },
     "calcurse": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calcurse.git",
