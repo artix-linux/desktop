@@ -4644,7 +4644,7 @@
     "seabios": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seabios.git",
       "branch": "master",
-      "revision": "0b85a1e2ea059b3d2426e01a660c1038fce5862a"
+      "revision": "69a04b7d5440528f77d54ceafa282379705d286a"
     },
     "seatd": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seatd.git",
