@@ -4179,7 +4179,7 @@
     "parole": {
       "url": "gitea@gitea.artixlinux.org:packagesP/parole.git",
       "branch": "master",
-      "revision": "250e75c5e4008fed2c1b5c0bf2089ce39caf15a5"
+      "revision": "f43b9d9ef077e498d52d6cf45c64404256750077"
     },
     "partitionmanager": {
       "url": "gitea@gitea.artixlinux.org:packagesP/partitionmanager.git",
