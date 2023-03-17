@@ -914,7 +914,7 @@
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
       "branch": "master",
-      "revision": "5ebd186c1b08e9da67317d47e94b46ecf45648fa"
+      "revision": "597caf3d226cdb975f6f313faf902f1b1990067d"
     },
     "gdl": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdl.git",
