@@ -81,6 +81,7 @@ build() {
     --with-ed25519-libsodium
     --with-mkinitcpio
     --with-openssl
+    --without-libsystemd
   )
 
   cd $pkgname
