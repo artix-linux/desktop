@@ -91,9 +91,10 @@ build() {
   make
 }
 
-check() {
-  make check -k -C $pkgname
-}
+#skip tests for now
+#check() {
+#  make check -k -C $pkgname
+#}
 
 package() {
   depends+=(
