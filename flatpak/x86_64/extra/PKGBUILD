@@ -35,10 +35,10 @@ makedepends=(
   gtk-doc
   meson
   python-pyparsing
+  socat
   xmlto
 )
 checkdepends=(
-  socat
   valgrind
 )
 _commit=e936e3100d406c50ba49f3ad6a0ecae455345ec0  # tags/1.15.4^0
