@@ -4799,7 +4799,7 @@
     "stk": {
       "url": "gitea@gitea.artixlinux.org:packagesS/stk.git",
       "branch": "master",
-      "revision": "4f38cfec0702575bc49277c1934277aae4302cdd"
+      "revision": "72ce50ddb3c3197dcff032240efd553c5a8090e7"
     },
     "sushi": {
       "url": "gitea@gitea.artixlinux.org:packagesS/sushi.git",
