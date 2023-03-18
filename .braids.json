@@ -1019,7 +1019,7 @@
     "gnome-autoar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-autoar.git",
       "branch": "master",
-      "revision": "37035ba13ad8b42c7c6fe8108ad30a154d22b687"
+      "revision": "26d3249d0353742065d175046d65b4f5ce26f391"
     },
     "gnome-backgrounds": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-backgrounds.git",
