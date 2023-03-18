@@ -1119,7 +1119,7 @@
     "gnome-disk-utility": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-disk-utility.git",
       "branch": "master",
-      "revision": "a3ba0a8a635e2c883f3141be72c55f3531fdcafa"
+      "revision": "e4718bf344d07c53b6aba52815d2968d74b50ceb"
     },
     "gnome-epub-thumbnailer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-epub-thumbnailer.git",
