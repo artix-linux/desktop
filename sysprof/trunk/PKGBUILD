@@ -16,6 +16,7 @@ arch=(x86_64)
 depends=(
   libadwaita
   polkit
+  json-glib
 )
 makedepends=(
   git
