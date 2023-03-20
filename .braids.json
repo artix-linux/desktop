@@ -5324,7 +5324,7 @@
     "xfce4-clipman-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-clipman-plugin.git",
       "branch": "master",
-      "revision": "ea50980dbfb150272779d07686934adbab67b8fd"
+      "revision": "a943aeb79ed920fb9e5b69113651f9812794cdfb"
     },
     "xfce4-cpufreq-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-cpufreq-plugin.git",
