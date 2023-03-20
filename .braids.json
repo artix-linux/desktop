@@ -19,7 +19,7 @@
     "adobe-source-code-pro-fonts": {
       "url": "gitea@gitea.artixlinux.org:packagesA/adobe-source-code-pro-fonts.git",
       "branch": "master",
-      "revision": "7c07a03f7a293322984370c1906c5c7b0acb5145"
+      "revision": "418d2d39ea48fe1f56da59c805e4b957b4018a56"
     },
     "aha": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aha.git",
