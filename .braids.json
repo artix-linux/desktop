@@ -5419,7 +5419,7 @@
     "xfce4-screensaver": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screensaver.git",
       "branch": "master",
-      "revision": "66fa3465044c72cad1439232599a6a57235b5009"
+      "revision": "acea7faa1ecfe1a1ce5afd9e4e3a89a111bb4bfd"
     },
     "xfce4-screenshooter": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-screenshooter.git",
