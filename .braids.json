@@ -4064,7 +4064,7 @@
     "openbox": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbox.git",
       "branch": "master",
-      "revision": "89a95b74acf15e994aef61ba16b23526545bda4d"
+      "revision": "5bce0494d11806ef5393f7952fea98afca405b12"
     },
     "opencolorio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/opencolorio.git",
