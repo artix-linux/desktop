@@ -4409,7 +4409,7 @@
     "plymouth": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plymouth.git",
       "branch": "master",
-      "revision": "dc519e48f1025ba382b3dda319d966a1a7f4bf0c"
+      "revision": "a08343fae7a5ccfc54021044d9f301a422c39bd3"
     },
     "plymouth-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plymouth-kcm.git",
