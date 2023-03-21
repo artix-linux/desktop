@@ -4406,6 +4406,11 @@
       "branch": "master",
       "revision": "6d9ea4ddd53bc1387da937181c7c586a7b514700"
     },
+    "plymouth": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/plymouth.git",
+      "branch": "master",
+      "revision": "dc519e48f1025ba382b3dda319d966a1a7f4bf0c"
+    },
     "plymouth-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plymouth-kcm.git",
       "branch": "master",
