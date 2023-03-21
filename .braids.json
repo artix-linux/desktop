@@ -3744,7 +3744,7 @@
     "mate-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-desktop.git",
       "branch": "master",
-      "revision": "dbd3f504c7e51c2242443fd9d7c10747cbddd25f"
+      "revision": "b643d0336ab1c8fbcf14c7936fbd874d78cc4c3e"
     },
     "mate-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-icon-theme.git",
