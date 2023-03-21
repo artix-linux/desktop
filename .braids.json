@@ -3029,7 +3029,7 @@
     "libgit2-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgit2-glib.git",
       "branch": "master",
-      "revision": "9a71087eb005b332314253c849f31d7928208126"
+      "revision": "8570aeb75e4d1f921a9c0df05fbaab154b9ea750"
     },
     "libglib-testing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libglib-testing.git",
