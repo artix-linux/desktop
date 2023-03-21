@@ -429,7 +429,7 @@
     "caja-extensions": {
       "url": "gitea@gitea.artixlinux.org:packagesC/caja-extensions.git",
       "branch": "master",
-      "revision": "4f82e655e8461e52edd16affa71636e0c6fa2ba9"
+      "revision": "b4730b1ce721f230d2d1bd5b21e7051eecf9b7ab"
     },
     "calamares": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calamares.git",
