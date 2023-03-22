@@ -3799,7 +3799,7 @@
     "mate-screensaver": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-screensaver.git",
       "branch": "master",
-      "revision": "b822e254ff8ef641fc0ef3e75fc8e92f847419a7"
+      "revision": "20f1d398ebeb252eba3002aa0d51f846115dc4a7"
     },
     "mate-sensors-applet": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-sensors-applet.git",
