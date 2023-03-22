@@ -3954,7 +3954,7 @@
     "mozo": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mozo.git",
       "branch": "master",
-      "revision": "c4f8cd1a72651bad8e7bce544b25db3029a5a1bb"
+      "revision": "9f775d63093dc59eb7341a7db71f327ba0422939"
     },
     "muffin": {
       "url": "gitea@gitea.artixlinux.org:packagesM/muffin.git",
