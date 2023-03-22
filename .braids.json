@@ -344,7 +344,7 @@
     "baobab": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baobab.git",
       "branch": "master",
-      "revision": "8a8b0d42f2bd26727c1630e6449cea7d76c20053"
+      "revision": "7825b077a9bf949d6e1cd922319b95e4ed79b62a"
     },
     "bemenu": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bemenu.git",
