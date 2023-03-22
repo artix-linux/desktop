@@ -3404,7 +3404,7 @@
     "libvterm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvterm.git",
       "branch": "master",
-      "revision": "559ee4fe956f42bf95d0e776580004ad8ac5569a"
+      "revision": "d522c9e69324eb3a4d2ee1e27befac2f441f5507"
     },
     "libvterm01": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libvterm01.git",
