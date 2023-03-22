@@ -759,7 +759,7 @@
     "eom": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eom.git",
       "branch": "master",
-      "revision": "9d57f4ce0a0a89879d90890fb00584988b33b9f4"
+      "revision": "6c6426fb4aa3006e4b2aaceaaa6f43b6a07601a8"
     },
     "epiphany": {
       "url": "gitea@gitea.artixlinux.org:packagesE/epiphany.git",
