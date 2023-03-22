@@ -3839,7 +3839,7 @@
     "mate-user-share": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-user-share.git",
       "branch": "master",
-      "revision": "13dc24d3777ed6361ea1c6371bdca37910d0a4bb"
+      "revision": "cd6f1675f18a635147f8d882c53f8e68b54550be"
     },
     "mate-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-utils.git",
