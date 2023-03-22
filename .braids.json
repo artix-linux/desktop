@@ -3794,7 +3794,7 @@
     "mate-power-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-power-manager.git",
       "branch": "master",
-      "revision": "0418150c878f579eaa5dcc12d5eb06fb218a715d"
+      "revision": "a9dc919d6e24a653463ceee9b4f480e7bd510dfc"
     },
     "mate-screensaver": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-screensaver.git",
