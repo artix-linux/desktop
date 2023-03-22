@@ -1414,7 +1414,7 @@
     "gsettings-desktop-schemas": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gsettings-desktop-schemas.git",
       "branch": "master",
-      "revision": "859a9be083a6fc80dd2c19922fdbcbc1f0f82a32"
+      "revision": "c4672c5714ab6e067ebb16d602bacc4a1169a45d"
     },
     "gsmartcontrol": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gsmartcontrol.git",
