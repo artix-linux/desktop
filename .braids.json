@@ -4404,7 +4404,7 @@
     "pluma": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pluma.git",
       "branch": "master",
-      "revision": "6d9ea4ddd53bc1387da937181c7c586a7b514700"
+      "revision": "c8b535ff9b7fe9314a162a8378d5a6bab8f5dd5b"
     },
     "plymouth": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plymouth.git",
