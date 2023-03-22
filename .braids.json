@@ -3769,7 +3769,7 @@
     "mate-menus": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-menus.git",
       "branch": "master",
-      "revision": "fca44eabde0ec28d9ea41e67cbe9dfe9a2fb6a09"
+      "revision": "8bb17c1ec8fc81ac4f394e1c8231082f3fb7940b"
     },
     "mate-netbook": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-netbook.git",
