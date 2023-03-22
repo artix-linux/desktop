@@ -3754,7 +3754,7 @@
     "mate-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-icon-theme.git",
       "branch": "master",
-      "revision": "a23539b93aa028f33a70495d06c16b46f306a5ab"
+      "revision": "205c35ca1fd348cfb58eb030f6d0826e1b1fe04a"
     },
     "mate-icon-theme-faenza": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-icon-theme-faenza.git",
