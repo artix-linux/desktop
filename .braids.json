@@ -3809,7 +3809,7 @@
     "mate-session-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-session-manager.git",
       "branch": "master",
-      "revision": "7c1620a27d76404407295d369cb0cb185fcf684b"
+      "revision": "0c8f270dab0cf647f386f2db6a69a70503d98f97"
     },
     "mate-settings-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-settings-daemon.git",
