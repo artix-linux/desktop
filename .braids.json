@@ -109,7 +109,7 @@
     "appstream-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesA/appstream-glib.git",
       "branch": "master",
-      "revision": "77c6a0437a22aaf84bb4d189bdb6933ec20c695d"
+      "revision": "d72a2623ff22786299d274ec3d27139fafdccc60"
     },
     "aqbanking": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aqbanking.git",
