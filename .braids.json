@@ -3959,7 +3959,7 @@
     "muffin": {
       "url": "gitea@gitea.artixlinux.org:packagesM/muffin.git",
       "branch": "master",
-      "revision": "1f0f02b41b63866e71aa700926c6c722adec51dc"
+      "revision": "f91b5ec65e6bbd64f433990c05e389a67fa59ddf"
     },
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
