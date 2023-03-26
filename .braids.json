@@ -5089,7 +5089,7 @@
     "ttf-ubuntu-font-family": {
       "url": "gitea@gitea.artixlinux.org:packagesT/ttf-ubuntu-font-family.git",
       "branch": "master",
-      "revision": "a18f67a8e8887ae3fb402005b08aa2e2a4cd78a4"
+      "revision": "5d98164fb98915e1916cccff3c8f76cc2748dc48"
     },
     "tumbler": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tumbler.git",
