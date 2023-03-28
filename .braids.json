@@ -3774,7 +3774,7 @@
     "mate-netbook": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-netbook.git",
       "branch": "master",
-      "revision": "4e1dc65e3e771d496839bd19604e46eb4cfc7b3c"
+      "revision": "77e561f0a88a8bd4849fc880cde8eab54d2f6dba"
     },
     "mate-notification-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-notification-daemon.git",
