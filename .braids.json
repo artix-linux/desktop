@@ -3749,7 +3749,7 @@
     "mate-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-desktop.git",
       "branch": "master",
-      "revision": "b643d0336ab1c8fbcf14c7936fbd874d78cc4c3e"
+      "revision": "0f0f53bcb1d0f37c7947644d19ffdcbbc7f2de2b"
     },
     "mate-icon-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-icon-theme.git",
