@@ -3224,7 +3224,7 @@
     "libmateweather": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmateweather.git",
       "branch": "master",
-      "revision": "ff64cfe61eb57664dc7d9d6ae9ec8b302ce535dd"
+      "revision": "58e2de4464b2e364cf2a44b66dba5d978ba5b69c"
     },
     "libmediaart": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediaart.git",
