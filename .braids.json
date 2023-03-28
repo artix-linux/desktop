@@ -3804,7 +3804,7 @@
     "mate-sensors-applet": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-sensors-applet.git",
       "branch": "master",
-      "revision": "90accc77fb9f7d4204cba54a39de2221e89095e5"
+      "revision": "a0a82950f6df38e1e3290cd372027a7d1b4ef8dc"
     },
     "mate-session-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-session-manager.git",
