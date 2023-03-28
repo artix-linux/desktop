@@ -5449,7 +5449,7 @@
     "xfce4-session": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-session.git",
       "branch": "master",
-      "revision": "25a62e0238abdee74020758d89d03b4a0db98b72"
+      "revision": "5f4d273ba4934ce361040e7fa36321976afd2995"
     },
     "xfce4-settings": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-settings.git",
