@@ -4499,7 +4499,7 @@
     "python-caja": {
       "url": "gitea@gitea.artixlinux.org:packagesPython/python-caja.git",
       "branch": "master",
-      "revision": "bcb6302b23b651196d88ab02e06fcbf5524b969c"
+      "revision": "5749eb07fed32fa77f343ff08afe7e002bc5474b"
     },
     "qbs": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qbs.git",
