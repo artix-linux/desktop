@@ -3219,7 +3219,7 @@
     "libmatemixer": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmatemixer.git",
       "branch": "master",
-      "revision": "cfc3512b066ebd5e9e4130ab4a5971141714e2fb"
+      "revision": "53570ef98d60cb2cff8ac035f505827a8a50e280"
     },
     "libmateweather": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmateweather.git",
