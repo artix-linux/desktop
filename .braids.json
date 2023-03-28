@@ -3744,7 +3744,7 @@
     "mate-control-center": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-control-center.git",
       "branch": "master",
-      "revision": "d90b9827c2906a1706515278466f435b03136858"
+      "revision": "83d2c16639715fd4a735d09054c92073f9fa362a"
     },
     "mate-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-desktop.git",
