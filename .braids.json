@@ -3734,7 +3734,7 @@
     "mate-calc": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-calc.git",
       "branch": "master",
-      "revision": "f61699acdeccfe6895b688723704ca9a7731a66f"
+      "revision": "150f57255af86f494f1819c9afa18364f22518fa"
     },
     "mate-common": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-common.git",
