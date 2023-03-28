@@ -3844,7 +3844,7 @@
     "mate-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-utils.git",
       "branch": "master",
-      "revision": "7edf958328f46fe23a7524e941f9ecf71e36ad07"
+      "revision": "b72a1c86fde14cf697b70bd7174c4c5a3c5c598e"
     },
     "materia-kde": {
       "url": "gitea@gitea.artixlinux.org:packagesM/materia-kde.git",
