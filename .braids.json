@@ -3214,7 +3214,7 @@
     "libmatekbd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmatekbd.git",
       "branch": "master",
-      "revision": "14e0ef3d529054612c813cc2d66b0228e97dbbe5"
+      "revision": "aa0512cc398f02b6b263f9ce8b5787d58302af0e"
     },
     "libmatemixer": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmatemixer.git",
