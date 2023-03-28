@@ -749,7 +749,7 @@
     "engrampa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/engrampa.git",
       "branch": "master",
-      "revision": "de34c19bc6fa5db9778ae4867f2f14b626a960da"
+      "revision": "94e90a381016e2726ff49f0954018d3cc8d98083"
     },
     "eog": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eog.git",
