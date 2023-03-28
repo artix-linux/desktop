@@ -4059,7 +4059,7 @@
     "openbabel": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openbabel.git",
       "branch": "master",
-      "revision": "752726dbbbf219e940fb730f19b9355c1ad6322e"
+      "revision": "789f5461e2d1f0d3d49c953feedaa0dfb2b1d06e"
     },
     "openblas": {
       "url": "gitea@gitea.artixlinux.org:packagesO/openblas.git",
