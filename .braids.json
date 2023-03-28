@@ -3424,7 +3424,7 @@
     "libxfce4ui": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libxfce4ui.git",
       "branch": "master",
-      "revision": "15d7843c701a23f0ddacef3110d20082aabd2308"
+      "revision": "9f4f5168961d3f33128995ee7826eeb902ba28ec"
     },
     "libxfce4util": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libxfce4util.git",
