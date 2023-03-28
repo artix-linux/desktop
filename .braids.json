@@ -3819,7 +3819,7 @@
     "mate-system-monitor": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-system-monitor.git",
       "branch": "master",
-      "revision": "30d68c29c4cd86833ca259cc086dbc26ffa7c647"
+      "revision": "f7c510f32d9b4d58dd693a847206f2f10035ebe1"
     },
     "mate-terminal": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-terminal.git",
