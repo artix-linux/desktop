@@ -3779,7 +3779,7 @@
     "mate-notification-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-notification-daemon.git",
       "branch": "master",
-      "revision": "cb4664702b1c092de4208e72950809b1004a8cd8"
+      "revision": "94292bc023acef47adcce3cfede332c0c53169d7"
     },
     "mate-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-panel.git",
