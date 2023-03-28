@@ -3824,7 +3824,7 @@
     "mate-terminal": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-terminal.git",
       "branch": "master",
-      "revision": "dec1929ea74a79e6f9fc2929b09939df5870c555"
+      "revision": "531aed5f6fc1030faded0e6d74ae2559bb69099a"
     },
     "mate-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-themes.git",
