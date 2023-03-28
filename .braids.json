@@ -294,7 +294,7 @@
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
       "branch": "master",
-      "revision": "e889f2af23a8151d0ead7eacc3565d857c9f910d"
+      "revision": "a972fede0d7c6da70f6fcd4879f45e5cf21c4e90"
     },
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
