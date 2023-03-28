@@ -3764,7 +3764,7 @@
     "mate-media": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-media.git",
       "branch": "master",
-      "revision": "eb2f9941068d1a916ee7f1db7e460c0efd115abd"
+      "revision": "732bc9f2351cc03ae7943680f8343e43bd6aeca7"
     },
     "mate-menus": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-menus.git",
