@@ -3784,7 +3784,7 @@
     "mate-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-panel.git",
       "branch": "master",
-      "revision": "fe2e8d1238ac3faa2c00814fe8f8cece87713b74"
+      "revision": "632276011daf2b5c996532b5612e9ded8581f6c0"
     },
     "mate-polkit": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mate-polkit.git",
