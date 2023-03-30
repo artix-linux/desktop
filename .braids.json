@@ -4799,7 +4799,7 @@
     "splint": {
       "url": "gitea@gitea.artixlinux.org:packagesS/splint.git",
       "branch": "master",
-      "revision": "6ff7151d911f15f5fe93c06db66898a281c5bf99"
+      "revision": "9ce9411b960ed68cee2cddd2a63afe2f87893e5f"
     },
     "squashfuse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/squashfuse.git",
