@@ -1219,7 +1219,7 @@
     "gnome-recipes": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-recipes.git",
       "branch": "master",
-      "revision": "8f321713338b04ad9602ddf747b3195d96c34246"
+      "revision": "3f7bb702dfc04eb180f1616741248726478c1f43"
     },
     "gnome-remote-desktop": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-remote-desktop.git",
