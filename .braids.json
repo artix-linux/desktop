@@ -2904,7 +2904,7 @@
     "leafpad": {
       "url": "gitea@gitea.artixlinux.org:packagesL/leafpad.git",
       "branch": "master",
-      "revision": "bca4c594c22ed1949222aaf4f212560531c1ff0d"
+      "revision": "e3595b7e4342d1c07090f2a27286dfa2cf42acdd"
     },
     "libaccounts-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libaccounts-qt.git",
