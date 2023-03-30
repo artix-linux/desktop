@@ -3689,7 +3689,7 @@
     "malcontent": {
       "url": "gitea@gitea.artixlinux.org:packagesM/malcontent.git",
       "branch": "master",
-      "revision": "44fad5447e0b2edb8ea4bd3d415f7e8d39938a0e"
+      "revision": "f52536925a798d56588e1c0bc044f32604047bd6"
     },
     "maliit-framework": {
       "url": "gitea@gitea.artixlinux.org:packagesM/maliit-framework.git",
