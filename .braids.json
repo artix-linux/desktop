@@ -5184,7 +5184,7 @@
     "vtk": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vtk.git",
       "branch": "master",
-      "revision": "97ee0e7184ce439106991635a3ef6a1553ae22fb"
+      "revision": "f87c6e6a8957ada983d035cc26289710eac29a01"
     },
     "warpinator": {
       "url": "gitea@gitea.artixlinux.org:packagesW/warpinator.git",
