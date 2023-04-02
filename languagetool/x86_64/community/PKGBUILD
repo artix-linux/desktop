@@ -17,7 +17,7 @@ optdepends=('java-runtime: needed for the GUI version'
             'gtk3: GTK style for the GUI')
 source=(https://www.languagetool.org/download/LanguageTool-${pkgver}.zip
         languagetool.sh
-        languagetool.service)
+        "$pkgname.service")
 noextract=($pkgname-$pkgver.zip)
 sha256sums=('ea4d8bb3a92d109e63ab6d0ef6a1ef1b5b73f4dd16cdd7b2a7a02a0e74c7651d'
             '009c0a65a978ad11ac097edd4be64688a2c80281b201495eff9ab667c5b0f0fe'
