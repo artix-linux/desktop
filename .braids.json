@@ -2894,7 +2894,7 @@
     "languagetool": {
       "url": "gitea@gitea.artixlinux.org:packagesL/languagetool.git",
       "branch": "master",
-      "revision": "2e83a76466145c1eaa374b2dc1b55a8be32146ec"
+      "revision": "c6f78b8cde5ddc85887f4747653c51d7681761b0"
     },
     "layer-shell-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/layer-shell-qt.git",
