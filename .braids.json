@@ -3714,7 +3714,7 @@
     "marco": {
       "url": "gitea@gitea.artixlinux.org:packagesM/marco.git",
       "branch": "master",
-      "revision": "29eb736e812d94795218df9e903a8f290307eb9c"
+      "revision": "6f7ef41ccc12813aa421b215cd1d1fe3bfd38aa8"
     },
     "markdownpart": {
       "url": "gitea@gitea.artixlinux.org:packagesM/markdownpart.git",
