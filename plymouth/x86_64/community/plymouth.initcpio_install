@@ -29,11 +29,9 @@ build() {
 
   # copy base themes and logo
   map add_file \
-    '/etc/vconsole.conf' \
     '/usr/share/plymouth/themes/text/text.plymouth' \
     '/usr/share/plymouth/themes/details/details.plymouth' \
     '/usr/share/pixmaps/archlinux-logo.png' \
-    '/etc/os-release' \
     '/usr/share/plymouth/plymouthd.defaults' \
     '/etc/plymouth/plymouthd.conf' \
     "$PLYMOUTH_FONT_PATH"
