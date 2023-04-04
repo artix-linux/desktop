@@ -929,7 +929,7 @@
     "gdm": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdm.git",
       "branch": "master",
-      "revision": "28115b28fe8658259369ff33d90d76a27bf7539d"
+      "revision": "9db11c7b002446e600108564d601f3b42ace710a"
     },
     "geany": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geany.git",
