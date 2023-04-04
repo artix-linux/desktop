@@ -2,7 +2,7 @@
 
 pkgname=breeze-plymouth
 pkgver=5.27.3
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Plymouth theme for the Breeze visual style for the Plasma Desktop'
 arch=(any)
 url='https://kde.org/plasma-desktop/'
