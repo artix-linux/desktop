@@ -49,22 +49,7 @@ build() {
   # needed to access DRM devices
   add_udev_rule '71-seat.rules'
 
-  # copy systemd unit files for systemd boot, otherwise use runscript
-  if command -v add_systemd_unit >/dev/null; then
-    map add_systemd_unit \
-      'plymouth-halt.service' \
-      'plymouth-kexec.service' \
-      'plymouth-poweroff.service' \
-      'plymouth-quit-wait.service' \
-      'plymouth-quit.service' \
-      'plymouth-reboot.service' \
-      'plymouth-start.service' \
-      'plymouth-switch-root.service' \
-      'systemd-ask-password-plymouth.path' \
-      'systemd-ask-password-plymouth.service'
-  else
-    add_runscript
-  fi
+  add_runscript
 }
 
 help() {
