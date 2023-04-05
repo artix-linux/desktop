@@ -3961,6 +3961,11 @@
       "branch": "master",
       "revision": "69f8714f6473a8e0db226c4352f2fe3ff07013ad"
     },
+    "musescore": {
+      "url": "gitea@gitea.artixlinux.org:packagesM/musescore.git",
+      "branch": "master",
+      "revision": "86c53328e6d4c1c9966028b60592680d284c1c0b"
+    },
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
       "branch": "master",
