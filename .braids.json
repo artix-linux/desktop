@@ -3964,7 +3964,7 @@
     "musescore": {
       "url": "gitea@gitea.artixlinux.org:packagesM/musescore.git",
       "branch": "master",
-      "revision": "86c53328e6d4c1c9966028b60592680d284c1c0b"
+      "revision": "9cf2970c659bcbc9650fbb6d29e490f7a5675438"
     },
     "mutter": {
       "url": "gitea@gitea.artixlinux.org:packagesM/mutter.git",
