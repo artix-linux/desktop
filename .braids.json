@@ -4629,7 +4629,7 @@
     "rygel": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rygel.git",
       "branch": "master",
-      "revision": "c13063c30dbd02e6ef110c42db7ae99057f0a781"
+      "revision": "e1fc189f719dfc19d9301539bdc80d3709019df7"
     },
     "screen": {
       "url": "gitea@gitea.artixlinux.org:packagesS/screen.git",
