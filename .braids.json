@@ -3274,7 +3274,7 @@
     "libpeas": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpeas.git",
       "branch": "master",
-      "revision": "f1c3df80891673930c7017a124f23e30f2e38c1c"
+      "revision": "67e1c2fb65e4dad2bc5f3f47c4da8466a040b59d"
     },
     "libphonenumber": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libphonenumber.git",
