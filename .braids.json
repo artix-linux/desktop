@@ -3199,7 +3199,7 @@
     "liblouis": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblouis.git",
       "branch": "master",
-      "revision": "f16e90a81bd16fcccc851dbbbcc405796223e067"
+      "revision": "f12ef0685a51d1caa7c5cec5fdad8b70b220c184"
     },
     "libluv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libluv.git",
