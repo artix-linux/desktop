@@ -1279,7 +1279,7 @@
     "gnome-system-monitor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-system-monitor.git",
       "branch": "master",
-      "revision": "f7ccc6442794cfb0ca211d66db17a5dc9f5ecd81"
+      "revision": "a0f064065f5284cfb07411f5a421731fe93c0d5a"
     },
     "gnome-taquin": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-taquin.git",
