@@ -2659,7 +2659,7 @@
     "krita": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krita.git",
       "branch": "master",
-      "revision": "74feefbf6600da49ad99da6f50ba2e3ed714a467"
+      "revision": "d84249c4dc186555695e3968137915076f17e46d"
     },
     "kross": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kross.git",
