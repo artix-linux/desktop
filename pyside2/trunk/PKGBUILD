@@ -6,7 +6,7 @@ pkgname=(shiboken2 python-shiboken2 pyside2 pyside2-tools)
 _qtver=5.15.9
 _clangver=15.0.7
 pkgver=${_qtver/-/}
-pkgrel=1
+pkgrel=3
 arch=(x86_64)
 url='https://www.qt.io'
 license=(LGPL)
@@ -42,8 +42,8 @@ sha256sums=('2ea5917652036a9007d66ba4dc0aa75f381a3a25ccf0fa70fa2d9e9c8c9dacae'
 prepare() {
   patch -d $_pkgfqn -p1 < fix-build.patch
   patch -d $_pkgfqn -p1 < limited-api.patch
-#  patch -d $_pkgfqn -p1 < python3.11.patch # Fix build with Python 3.11
-#  sed -e 's|0x030AFFFF|0x030BFFFF|' -i $_pkgfqn/sources/shiboken2/libshiboken/pep384impl.h
+  patch -d $_pkgfqn -p1 < python3.11.patch # Fix build with Python 3.11
+  sed -e 's|0x030AFFFF|0x030BFFFF|' -i $_pkgfqn/sources/shiboken2/libshiboken/pep384impl.h
 }
 
 build() {
