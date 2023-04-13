@@ -4229,7 +4229,7 @@
     "pdfarranger": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdfarranger.git",
       "branch": "master",
-      "revision": "6071c53a9ef97fbdcd478160fe8977efef1ac071"
+      "revision": "c3fea82d232528056a285a9ae3336606f20117b9"
     },
     "pdfmixtool": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdfmixtool.git",
