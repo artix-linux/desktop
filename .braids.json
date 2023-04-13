@@ -3479,7 +3479,7 @@
     "lua-mpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lua-mpack.git",
       "branch": "master",
-      "revision": "7ede2a1c8331a29cc087bf93499d5f98d6a1eac1"
+      "revision": "968bf351ec0e8e7ed34dfa4ff615c9bb783a68dd"
     },
     "luaexpat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/luaexpat.git",
