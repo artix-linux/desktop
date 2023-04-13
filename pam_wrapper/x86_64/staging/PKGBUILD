@@ -1,5 +1,6 @@
 # Maintainer: Nathan <ndowens@artixlinux.org>
 
+_pkg=pam-wrapper
 pkgname=pam_wrapper
 pkgver=1.1.4
 pkgrel=4
@@ -11,20 +12,20 @@ depends=(pam python)
 makedepends=(git cmake ninja cmocka doxygen graphviz)
 provides=(libpam_wrapper.so libpamtest.so)
 _commit=d938a84d88c5882a08babfb5e10f03a9135237a3  # tags/pam_wrapper-1.1.4^0
-source=("git+https://git.samba.org/pam_wrapper.git#commit=$_commit")
+source=("$_pkg::git+https://git.samba.org/pam_wrapper.git#commit=$_commit")
 sha256sums=('SKIP')
 
 pkgver() {
-  cd $pkgname
+  cd $_pkg
   git describe --tags | sed 's/^pam_wrapper-//;s/[^-]*-g/r&/;s/-/+/g'
 }
 
 prepare() {
-  cd $pkgname
+  cd $_pkg
 }
 
 build() {
-  cmake -S $pkgname -B build -G Ninja \
+  cmake -S $_pkg -B build -G Ninja \
     -DCMAKE_INSTALL_PREFIX=/usr \
     -DCMAKE_BUILD_TYPE=None \
     -DUNIT_TESTING=true
