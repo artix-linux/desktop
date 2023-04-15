@@ -2164,7 +2164,7 @@
     "kguiaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kguiaddons.git",
       "branch": "master",
-      "revision": "4cd6c3bbf9690f2d940f11148131315007914e83"
+      "revision": "9cb7d1435ec99347a1c795b2468dac50de7eefb8"
     },
     "khangman": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khangman.git",
