@@ -2189,7 +2189,7 @@
     "khotkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khotkeys.git",
       "branch": "master",
-      "revision": "57e618d9665c82406bce033bbfa769d0af13b1b2"
+      "revision": "00dc0fe4b26e6a8686da657fae52d52ee956d861"
     },
     "khtml": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khtml.git",
