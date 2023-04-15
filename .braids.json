@@ -299,7 +299,7 @@
     "attica": {
       "url": "gitea@gitea.artixlinux.org:packagesA/attica.git",
       "branch": "master",
-      "revision": "92a81118e0a9bba4df8cbeb48d0638f6d9ad1be9"
+      "revision": "7c3a420fb1d6e950c166a16a2661232be6f3e6c5"
     },
     "audiocd-kio": {
       "url": "gitea@gitea.artixlinux.org:packagesA/audiocd-kio.git",
