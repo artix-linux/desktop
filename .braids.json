@@ -1699,7 +1699,7 @@
     "kactivitymanagerd": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kactivitymanagerd.git",
       "branch": "master",
-      "revision": "4e95bbb52729c0473e48a9922ccfa7dae248c3a9"
+      "revision": "a34f6bc0b835bb61674d01c35844049599486eed"
     },
     "kaddressbook": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kaddressbook.git",
