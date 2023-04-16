@@ -3314,7 +3314,7 @@
     "libqtxdg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libqtxdg.git",
       "branch": "master",
-      "revision": "54d0ef96c1389ddc771a7f73322e9d09c42051a3"
+      "revision": "6ae52750cfb3c76d3e1d6d62671187229c2ac4b4"
     },
     "libquotient": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquotient.git",
