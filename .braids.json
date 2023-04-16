@@ -3624,7 +3624,7 @@
     "lxqt-qtplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-qtplugin.git",
       "branch": "master",
-      "revision": "b76d9c0a364d6b0714ea814665121c03213e9465"
+      "revision": "82e5a375b3b7095c25628add207920f06b1d1276"
     },
     "lxqt-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-runner.git",
