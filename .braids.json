@@ -3609,7 +3609,7 @@
     "lxqt-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-panel.git",
       "branch": "master",
-      "revision": "7b399df4ef2aead2953ff641ec28ae4e6d5b99db"
+      "revision": "ea3e97fafa699ea473302fc71b7a958ef72cd515"
     },
     "lxqt-policykit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-policykit.git",
