@@ -614,7 +614,7 @@
     "ddcutil": {
       "url": "gitea@gitea.artixlinux.org:packagesD/ddcutil.git",
       "branch": "master",
-      "revision": "92a77f90ea590da6623d5715810bc43fd1596fa5"
+      "revision": "a93057c9d2a20c219dda561f29ff2ca02f355e1b"
     },
     "devhelp": {
       "url": "gitea@gitea.artixlinux.org:packagesD/devhelp.git",
