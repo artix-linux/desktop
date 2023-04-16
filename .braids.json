@@ -3629,7 +3629,7 @@
     "lxqt-runner": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-runner.git",
       "branch": "master",
-      "revision": "80da751b424ff8ae43219c98ca8677f65d3b1f3e"
+      "revision": "79a12b083c55361e8a8cbc29eb845a4efc50effa"
     },
     "lxqt-session": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-session.git",
