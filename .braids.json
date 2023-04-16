@@ -3604,7 +3604,7 @@
     "lxqt-openssh-askpass": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-openssh-askpass.git",
       "branch": "master",
-      "revision": "781ee60ce50a4c2ca77cc8125622441ece55096f"
+      "revision": "b636a7db059b97566945bce56cfb03e835088f66"
     },
     "lxqt-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-panel.git",
