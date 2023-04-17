@@ -3594,7 +3594,7 @@
     "lxqt-globalkeys": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-globalkeys.git",
       "branch": "master",
-      "revision": "239b1f9aa277e8d124547875b2c4177089becf08"
+      "revision": "678901e5e5ce77556fd01af71128399c81d28055"
     },
     "lxqt-notificationd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-notificationd.git",
