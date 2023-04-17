@@ -3639,7 +3639,7 @@
     "lxqt-sudo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-sudo.git",
       "branch": "master",
-      "revision": "df434930c5339f25bca5790aa4d3f00c621f217d"
+      "revision": "5391512957576781aed784edfd34e2db70dd997e"
     },
     "lxqt-themes": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-themes.git",
