@@ -3569,7 +3569,7 @@
     "lxqt-about": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-about.git",
       "branch": "master",
-      "revision": "2b7ed3c7cf43545afc5be9a0d90af9dfbc1bfcba"
+      "revision": "db3cfb187719469c537de6b22f85b5c628932321"
     },
     "lxqt-admin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-admin.git",
