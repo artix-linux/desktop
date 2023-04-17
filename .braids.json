@@ -3619,7 +3619,7 @@
     "lxqt-powermanagement": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-powermanagement.git",
       "branch": "master",
-      "revision": "6bb4f8fec20e97b682baf7d512bcc140e8cc6389"
+      "revision": "0891774958cd98aef42797219f170014c457989a"
     },
     "lxqt-qtplugin": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lxqt-qtplugin.git",
