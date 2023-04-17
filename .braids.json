@@ -5389,7 +5389,7 @@
     "xfce4-genmon-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-genmon-plugin.git",
       "branch": "master",
-      "revision": "fdc27eb002bf0eb2d9e80cb64135a08c972e624e"
+      "revision": "df24ef5ce03b2a69f76381ccfc0ea6a6e906871a"
     },
     "xfce4-mailwatch-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mailwatch-plugin.git",
