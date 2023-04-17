@@ -4219,7 +4219,7 @@
     "pcmanfm-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pcmanfm-qt.git",
       "branch": "master",
-      "revision": "37e4fe38da1fc316bbbc1c5df6b4065a4a04a639"
+      "revision": "77d49208939e0b6f7f602980579d8a4c4b9747ba"
     },
     "pdal": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pdal.git",
