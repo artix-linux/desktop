@@ -5299,7 +5299,7 @@
     "xdg-desktop-portal-lxqt": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-lxqt.git",
       "branch": "master",
-      "revision": "d9e17d42922de51465b3c7a3c9ad6d72c41d7d6c"
+      "revision": "4339879aedb786bd7a7870abe63fcfade9bbb41a"
     },
     "xdg-user-dirs-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xdg-user-dirs-gtk.git",
