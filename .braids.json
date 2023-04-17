@@ -474,7 +474,7 @@
     "caribou": {
       "url": "gitea@gitea.artixlinux.org:packagesC/caribou.git",
       "branch": "master",
-      "revision": "2046b7ba8a3be76d6d0e20b8a84884fbd90adb04"
+      "revision": "db8fa6e2cffe3b96bdc4adb87612eabd6c5c056f"
     },
     "cervisia": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cervisia.git",
