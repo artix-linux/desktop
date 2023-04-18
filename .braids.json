@@ -5489,7 +5489,7 @@
     "xfce4-timer-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-timer-plugin.git",
       "branch": "master",
-      "revision": "b4d902caa7e29ecd6224782339144ec9e501a60d"
+      "revision": "d4447961ccb991dfc0cff1e603b5457d6615710d"
     },
     "xfce4-verve-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-verve-plugin.git",
