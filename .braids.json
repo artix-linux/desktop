@@ -4494,7 +4494,7 @@
     "pyside2": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pyside2.git",
       "branch": "master",
-      "revision": "15844e1bb12752f67ebd53539fca2d288aa8fc8f"
+      "revision": "11a2501923ccd688b5924b3c2cfaf7ab1d51bc80"
     },
     "pystring": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pystring.git",
