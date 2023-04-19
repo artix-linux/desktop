@@ -5384,7 +5384,7 @@
     "xfce4-fsguard-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-fsguard-plugin.git",
       "branch": "master",
-      "revision": "bd3e0d3a6b8cc51c1d90f66239a5ac8031f7062e"
+      "revision": "02de28aec9147c6e5a46c43845e662b10c89f3a5"
     },
     "xfce4-genmon-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-genmon-plugin.git",
