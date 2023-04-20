@@ -54,7 +54,7 @@
     "akonadi-mime": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-mime.git",
       "branch": "master",
-      "revision": "581ca6e36c43a2e7aa7f0b0fc8d2f3f9a1aafdb7"
+      "revision": "1e674a0af3910a980997b514341b81a60c4549f1"
     },
     "akonadi-notes": {
       "url": "gitea@gitea.artixlinux.org:packagesA/akonadi-notes.git",
