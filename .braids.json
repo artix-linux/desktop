@@ -5179,7 +5179,7 @@
     "virtiofsd": {
       "url": "gitea@gitea.artixlinux.org:packagesV/virtiofsd.git",
       "branch": "master",
-      "revision": "f30e805d5bd308a274c110a4f67f9a28f47f5b59"
+      "revision": "f7b76d51323b2531790eedecdba3a923480b951d"
     },
     "vlc": {
       "url": "gitea@gitea.artixlinux.org:packagesV/vlc.git",
