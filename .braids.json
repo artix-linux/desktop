@@ -4014,7 +4014,7 @@
     "network-manager-applet": {
       "url": "gitea@gitea.artixlinux.org:packagesN/network-manager-applet.git",
       "branch": "master",
-      "revision": "63202041e6ceaf724d56a3c29ee6d91cf5d9c98c"
+      "revision": "c6eab25d7278a16074641abe7442a965c50026d1"
     },
     "networkmanager-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesN/networkmanager-qt.git",
