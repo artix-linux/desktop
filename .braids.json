@@ -3124,7 +3124,7 @@
     "libkdepim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkdepim.git",
       "branch": "master",
-      "revision": "d7b6a5fdd59fcd5cf3ce604f53a2720f1aa6b592"
+      "revision": "9a7ae08f18bee0a28348a68d3ffd38abaf2ee8a6"
     },
     "libkeduvocdocument": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkeduvocdocument.git",
