@@ -1784,7 +1784,7 @@
     "kbackup": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kbackup.git",
       "branch": "master",
-      "revision": "02d1ee4fe8026d07dae2acb1e1847643e93b73e8"
+      "revision": "73b56724abda98edc1505b45244e0d3392cd592e"
     },
     "kblackbox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kblackbox.git",
