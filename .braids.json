@@ -2154,7 +2154,7 @@
     "kgoldrunner": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgoldrunner.git",
       "branch": "master",
-      "revision": "69163c7d3d3f6162ec0d57354efde1a2940d1931"
+      "revision": "e9bacf6eba05f53e9e72767d57c0ad77bd877ef3"
     },
     "kgpg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kgpg.git",
