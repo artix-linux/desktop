@@ -2804,7 +2804,7 @@
     "kturtle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kturtle.git",
       "branch": "master",
-      "revision": "90816946b02b29c36b7e7f717d82d6a5871f293b"
+      "revision": "e8d85faa2c85a33ab189d1a268f5de218b6d15c8"
     },
     "kubrick": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kubrick.git",
