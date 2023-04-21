@@ -2349,7 +2349,7 @@
     "kjumpingcube": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjumpingcube.git",
       "branch": "master",
-      "revision": "4344eec0d9d11c30b44afc32106e0c7113a9861e"
+      "revision": "17a5914ae8ac970f7441bf093bf916074f1d8e97"
     },
     "kldap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kldap.git",
