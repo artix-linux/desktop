@@ -2761,6 +2761,11 @@
       "branch": "master",
       "revision": "393d66f7bb0609ff5da1a0f147b35def626e7e8f"
     },
+    "ktextaddons": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktextaddons.git",
+      "branch": "master",
+      "revision": "5f1f9430d43195fc2bf065b94eb6829782c4469d"
+    },
     "ktexteditor": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktexteditor.git",
       "branch": "master",
