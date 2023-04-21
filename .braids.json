@@ -2384,7 +2384,7 @@
     "kmahjongg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmahjongg.git",
       "branch": "master",
-      "revision": "5001603887f8a79630a46a5569361f5e091d9290"
+      "revision": "247db6f74aeb016dee9d9a84621880d77bb43e48"
     },
     "kmail": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmail.git",
