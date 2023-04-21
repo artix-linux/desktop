@@ -5404,7 +5404,7 @@
     "xfce4-mount-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mount-plugin.git",
       "branch": "master",
-      "revision": "d3f58971a2021ea496004f4e0d3df9733e486c28"
+      "revision": "d55c271afff7128c955673a7c672892bfac43828"
     },
     "xfce4-mpc-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mpc-plugin.git",
