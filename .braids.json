@@ -2364,7 +2364,7 @@
     "klettres": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klettres.git",
       "branch": "master",
-      "revision": "8308c7e68bebde511d409187ebb352a317a6e282"
+      "revision": "da587f894dadd6c834bb1b476e5e00327e2560a5"
     },
     "klickety": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klickety.git",
