@@ -2449,7 +2449,7 @@
     "kmymoney": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmymoney.git",
       "branch": "master",
-      "revision": "9bb71823d3ef8b14afde6a30cd6841407b481593"
+      "revision": "301712bdc1702b72f4030cdf32bf96fe7710d583"
     },
     "knavalbattle": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knavalbattle.git",
