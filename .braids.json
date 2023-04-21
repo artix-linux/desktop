@@ -1769,7 +1769,7 @@
     "kate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kate.git",
       "branch": "master",
-      "revision": "4df2ade1aa26f88e5c8378816b8940fd0096d967"
+      "revision": "e7b71decf1c6f526c5d1f29c92a6f72e09a85108"
     },
     "katomic": {
       "url": "gitea@gitea.artixlinux.org:packagesK/katomic.git",
