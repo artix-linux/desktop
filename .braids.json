@@ -2574,7 +2574,7 @@
     "kpat": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpat.git",
       "branch": "master",
-      "revision": "68815e8d96b9c02d4d9e680aa6fcee3dd5625057"
+      "revision": "f51c057abcb541a335e6dc793acf2e159e060159"
     },
     "kpeople": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpeople.git",
