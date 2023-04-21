@@ -2874,7 +2874,7 @@
     "kwordquiz": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwordquiz.git",
       "branch": "master",
-      "revision": "7ab5f6fd79dd6431b8b2a3c1f194a9b6ac65bd5a"
+      "revision": "44367ac095f7499d8a96f60ca24b954ebec246f6"
     },
     "kwrited": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwrited.git",
