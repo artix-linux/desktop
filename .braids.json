@@ -5489,7 +5489,7 @@
     "xfce4-time-out-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-time-out-plugin.git",
       "branch": "master",
-      "revision": "f44e5a87c87b6a044082580cf1263041b93aa627"
+      "revision": "3fa99739eb28edd3005a0b177c3e73884724da1b"
     },
     "xfce4-timer-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-timer-plugin.git",
