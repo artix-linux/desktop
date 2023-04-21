@@ -2669,7 +2669,7 @@
     "kruler": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kruler.git",
       "branch": "master",
-      "revision": "f79609aeaf715de4f62745be7a57dc011dfc3d72"
+      "revision": "1732bb14ca5608b1e701a242c1f2fccea33bfc19"
     },
     "krunner": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krunner.git",
