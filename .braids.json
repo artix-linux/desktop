@@ -1959,7 +1959,7 @@
     "kdegraphics-mobipocket": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-mobipocket.git",
       "branch": "master",
-      "revision": "51ce1d2f240592c500d10429d4e4492dda4447f9"
+      "revision": "96d92a4d576e73d574bc1bf75c85ad33869c54d9"
     },
     "kdegraphics-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdegraphics-thumbnailers.git",
