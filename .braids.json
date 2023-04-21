@@ -2549,7 +2549,7 @@
     "kopete": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kopete.git",
       "branch": "master",
-      "revision": "ee3e8c75c38667a58a3af497e32ab7a64942bff9"
+      "revision": "c0bf72e01e20b8fe3ec4710bd500d28d0a3a16d0"
     },
     "korganizer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/korganizer.git",
