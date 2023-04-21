@@ -2459,7 +2459,7 @@
     "knetwalk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knetwalk.git",
       "branch": "master",
-      "revision": "cf8fafa0d13e48d0c9617f8254e02b08ea5968da"
+      "revision": "50f1bd58601476b949080b07a5b4ec9471b6ab1c"
     },
     "knewstuff": {
       "url": "gitea@gitea.artixlinux.org:packagesK/knewstuff.git",
