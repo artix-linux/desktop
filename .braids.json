@@ -2114,7 +2114,7 @@
     "kfind": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfind.git",
       "branch": "master",
-      "revision": "49aedaf4dd25f88d0388edfc1fb295cd6c163432"
+      "revision": "5c403378ef7a23293f5dcd827d4d831291a3ac85"
     },
     "kfiredragonhelper": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfiredragonhelper.git",
