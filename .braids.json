@@ -1709,7 +1709,7 @@
     "kajongg": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kajongg.git",
       "branch": "master",
-      "revision": "61013cd60c2a33f4785e67e0747e6dd85e61f68a"
+      "revision": "12f669db367c34fd67372819905fe746f110868e"
     },
     "kalarm": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalarm.git",
