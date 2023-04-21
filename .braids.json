@@ -5399,7 +5399,7 @@
     "xfce4-mailwatch-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mailwatch-plugin.git",
       "branch": "master",
-      "revision": "a7d6ff51530cfc7a9c7168b18046d0b069fba503"
+      "revision": "c7c98b78c926a5d32dd34a9374a51e8bb5dfda3c"
     },
     "xfce4-mount-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mount-plugin.git",
