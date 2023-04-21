@@ -1834,7 +1834,7 @@
     "kcalutils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcalutils.git",
       "branch": "master",
-      "revision": "2f709340fc903aaf792536325ecfa6b21d71b3c9"
+      "revision": "6ca45283b6300336b3d1c549389d9fa06f4fa214"
     },
     "kcharselect": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcharselect.git",
