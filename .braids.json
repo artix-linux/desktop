@@ -3184,7 +3184,7 @@
     "libksieve": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksieve.git",
       "branch": "master",
-      "revision": "c95b2f1b10e865bb86ca8ddf1d11b48eb0ac6f2a"
+      "revision": "4224f1c3f0cb6b9a8571589352ed035ea699c663"
     },
     "libksysguard": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libksysguard.git",
