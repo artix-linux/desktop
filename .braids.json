@@ -2599,7 +2599,7 @@
     "kpkpass": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpkpass.git",
       "branch": "master",
-      "revision": "7f1dae131afdec4157482fdd5e6aa6b6b033ae45"
+      "revision": "100ee241842e6a520629db55774740d01a43b714"
     },
     "kplotting": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kplotting.git",
