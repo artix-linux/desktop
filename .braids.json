@@ -5119,7 +5119,7 @@
     "umbrello": {
       "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
       "branch": "master",
-      "revision": "e8f687b6a027a0c5cf8517e0a335b93bce182219"
+      "revision": "327088d5b53c8cca2651abf91c8e7e4c7a7cc3d8"
     },
     "unibilium": {
       "url": "gitea@gitea.artixlinux.org:packagesU/unibilium.git",
