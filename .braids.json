@@ -5509,7 +5509,7 @@
     "xfce4-weather-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-weather-plugin.git",
       "branch": "master",
-      "revision": "76668d73f422cf6ebe6bf9958381404d2cb37082"
+      "revision": "d2d92064627d38084b058b98d968e7b21eda3766"
     },
     "xfce4-whiskermenu-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-whiskermenu-plugin.git",
