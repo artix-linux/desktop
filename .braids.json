@@ -704,7 +704,7 @@
     "dunst": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dunst.git",
       "branch": "master",
-      "revision": "2a03baa1040cc81d2c8b88c72d8ce4608129a46e"
+      "revision": "182ffe61e03168548eb5ce08dfdc0a33e2db7c84"
     },
     "easytag": {
       "url": "gitea@gitea.artixlinux.org:packagesE/easytag.git",
