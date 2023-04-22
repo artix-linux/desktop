@@ -1434,7 +1434,7 @@
     "gtk-layer-shell": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtk-layer-shell.git",
       "branch": "master",
-      "revision": "015927b66c44721a7a2ee0491f90849490a3fcae"
+      "revision": "d29590d40f94f76924f3dbc5523af4bbc72f359d"
     },
     "gtk-vnc": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gtk-vnc.git",
