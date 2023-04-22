@@ -5379,7 +5379,7 @@
     "xfce4-dict": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-dict.git",
       "branch": "master",
-      "revision": "597b7bc1a2d04d15d4af84b15108870a31e1bfb4"
+      "revision": "1542273a6e4ba22d7d77ca3e32b32c3717cac2e0"
     },
     "xfce4-diskperf-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-diskperf-plugin.git",
