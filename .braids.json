@@ -724,7 +724,7 @@
     "edk2": {
       "url": "gitea@gitea.artixlinux.org:packagesE/edk2.git",
       "branch": "master",
-      "revision": "9efb2132d2e393deab7dace14c951b5a0be066f7"
+      "revision": "0b33c20bbb5fb5c432db63af500ee484a9c91149"
     },
     "electron": {
       "url": "gitea@gitea.artixlinux.org:packagesE/electron.git",
