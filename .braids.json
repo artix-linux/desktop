@@ -329,7 +329,7 @@
     "babl": {
       "url": "gitea@gitea.artixlinux.org:packagesB/babl.git",
       "branch": "master",
-      "revision": "6ec523a1027bd906f705336f67ed451b50c6bf56"
+      "revision": "ffdaeed27c1e2a5a4fe82379ba11355c355f7d1d"
     },
     "baloo": {
       "url": "gitea@gitea.artixlinux.org:packagesB/baloo.git",
