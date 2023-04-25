@@ -2924,7 +2924,7 @@
     "libadwaita": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libadwaita.git",
       "branch": "master",
-      "revision": "c246e20f3c986df9be4acf8ef9e9940662103f27"
+      "revision": "22c92f2f4ffc14537c5a2af7cf4ade5acde61ce4"
     },
     "libalkimia": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libalkimia.git",
