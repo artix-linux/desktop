@@ -5519,7 +5519,7 @@
     "xfce4-whiskermenu-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-whiskermenu-plugin.git",
       "branch": "master",
-      "revision": "c3515af0e73a7c8cf5f5879b7fadab580812c5f8"
+      "revision": "48ddd6415d028920d0a80db6066f739b84dd4ed4"
     },
     "xfce4-xkb-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-xkb-plugin.git",
