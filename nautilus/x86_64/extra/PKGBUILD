@@ -7,7 +7,7 @@ pkgname=(
   libnautilus-extension
   libnautilus-extension-docs
 )
-pkgver=43.3
+pkgver=43.4
 pkgrel=1
 pkgdesc="Default file manager for GNOME"
 url="https://wiki.gnome.org/Apps/Files"
@@ -36,7 +36,7 @@ makedepends=(
 )
 checkdepends=(python-gobject)
 options=(debug)
-_commit=001b80c9529ef6da868254b80c76285cb2c086a5  # tags/43.3^0
+_commit=4528b76e2f470e836f79f22a77817ed895bf1d8f  # tags/43.4^0
 source=(
   "git+https://gitlab.gnome.org/GNOME/nautilus.git#commit=$_commit"
   no-tracker-test.diff
