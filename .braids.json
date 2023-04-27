@@ -4464,7 +4464,7 @@
     "power-profiles-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/power-profiles-daemon.git",
       "branch": "master",
-      "revision": "4de418aaf12753720aad4433e79ea5e48ba865ff"
+      "revision": "a3f5eead0da7803fec62492c6cd07b5615ca018e"
     },
     "powerdevil": {
       "url": "gitea@gitea.artixlinux.org:packagesP/powerdevil.git",
