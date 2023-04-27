@@ -4614,7 +4614,7 @@
     "rinutils": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rinutils.git",
       "branch": "master",
-      "revision": "c09674e389490db674ac3da5388f16cc9381156f"
+      "revision": "59e1e8cea68733f5126dd886c76a8ead6fd1fca1"
     },
     "ristretto": {
       "url": "gitea@gitea.artixlinux.org:packagesR/ristretto.git",
