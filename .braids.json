@@ -3329,7 +3329,7 @@
     "libquotient": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquotient.git",
       "branch": "master",
-      "revision": "b1e9faa2fa07ea37b6786c95c57a5b1046c6542b"
+      "revision": "a1cb90b5c822e29313531088d0eb73a26d138e70"
     },
     "libquvi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libquvi.git",
