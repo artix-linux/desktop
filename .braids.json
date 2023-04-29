@@ -3209,7 +3209,7 @@
     "liblouis": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblouis.git",
       "branch": "master",
-      "revision": "f12ef0685a51d1caa7c5cec5fdad8b70b220c184"
+      "revision": "a01ee0321ec301c0be5744572c3d85ef3a9227a9"
     },
     "libluv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libluv.git",
