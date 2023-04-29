@@ -1,9 +1,9 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Jan de Groot <jgc@archlinux.org>
 
 pkgbase=eog
 pkgname=(eog eog-docs)
-pkgver=44.0
+pkgver=44.1
 pkgrel=1
 pkgdesc="Eye of Gnome: An image viewing and cataloging program"
 url="https://wiki.gnome.org/Apps/EyeOfGnome"
@@ -26,8 +26,7 @@ makedepends=(
   meson
   yelp-tools
 )
-options=(debug)
-_commit=5f5790bdbb1077073d3c9ce7b0cd55e1ab6a4da0  # tags/44.0^0
+_commit=d989d8ac5e60b8c9c429cbe67f3c79b26f22d75b  # tags/44.1^0
 source=("git+https://gitlab.gnome.org/GNOME/eog.git#commit=$_commit")
 b2sums=('SKIP')
 
