@@ -1184,7 +1184,7 @@
     "gnome-music": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-music.git",
       "branch": "master",
-      "revision": "30bdcb423a41428c151aa43a0833b8842f06feac"
+      "revision": "36ac441bacf14ca8ec4e970ea4091999ff90ec2a"
     },
     "gnome-nettool": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-nettool.git",
