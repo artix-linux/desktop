@@ -79,7 +79,7 @@
     "alacarte": {
       "url": "gitea@gitea.artixlinux.org:packagesA/alacarte.git",
       "branch": "master",
-      "revision": "f2ca9857c0ccbe4fb5e7440820b65dfc2af1c322"
+      "revision": "f2f6c578fad85acd5d304caae66356e3187be6f9"
     },
     "amtk": {
       "url": "gitea@gitea.artixlinux.org:packagesA/amtk.git",
