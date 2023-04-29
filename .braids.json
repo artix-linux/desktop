@@ -5419,7 +5419,7 @@
     "xfce4-netload-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-netload-plugin.git",
       "branch": "master",
-      "revision": "e48f793241686fccca73bf1f3d856e371cb219a5"
+      "revision": "899075e6226fc2355d3fe40b7ccdfaf7f8cd6936"
     },
     "xfce4-notes-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-notes-plugin.git",
