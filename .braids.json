@@ -1354,7 +1354,7 @@
     "gom": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gom.git",
       "branch": "master",
-      "revision": "12729bab819ed66399a01cf154105a61baba3ae5"
+      "revision": "dd44acd87f0d90588ecb1574cd53e207132d3a79"
     },
     "gparted": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gparted.git",
