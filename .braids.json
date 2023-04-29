@@ -9,7 +9,7 @@
     "accerciser": {
       "url": "gitea@gitea.artixlinux.org:packagesA/accerciser.git",
       "branch": "master",
-      "revision": "04960c5779eb6f0b98fdbb1e39723be5e0e1376d"
+      "revision": "db317461c709fc53a7e0714bae8fa8d4c9d99a1f"
     },
     "accounts-qml-module": {
       "url": "gitea@gitea.artixlinux.org:packagesA/accounts-qml-module.git",
