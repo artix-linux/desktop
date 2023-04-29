@@ -3044,7 +3044,7 @@
     "libgit2-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libgit2-glib.git",
       "branch": "master",
-      "revision": "b2b0941798d9310ff06aebacd9574709bf533140"
+      "revision": "cd345c245dce263e1cc4644cb05a68d5682c252c"
     },
     "libglib-testing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libglib-testing.git",
