@@ -4599,7 +4599,7 @@
     "qutebrowser": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qutebrowser.git",
       "branch": "master",
-      "revision": "f6fdd8df8d811ef8e122030c8a7f55c23c238851"
+      "revision": "80a949088255f0bb3f9af3c296d03532a65b0ffc"
     },
     "recordmydesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesR/recordmydesktop.git",
