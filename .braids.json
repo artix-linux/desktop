@@ -5414,7 +5414,7 @@
     "xfce4-mpc-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-mpc-plugin.git",
       "branch": "master",
-      "revision": "5b25c37eb8963b4e24a2a7f7f23d5d4cc1960793"
+      "revision": "119c2264fa642e7db89ecc087a0bd3a69c222cf8"
     },
     "xfce4-netload-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xfce4-netload-plugin.git",
