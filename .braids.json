@@ -5024,7 +5024,7 @@
     "thunar": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunar.git",
       "branch": "master",
-      "revision": "5fc103d05b9e9a4e2c11ab157cbb23b6beffe82a"
+      "revision": "1514bbb0cdc37a9cedfaae1ed3e6d99a6c482b3b"
     },
     "thunar-archive-plugin": {
       "url": "gitea@gitea.artixlinux.org:packagesT/thunar-archive-plugin.git",
