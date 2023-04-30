@@ -4054,7 +4054,7 @@
     "obs-studio": {
       "url": "gitea@gitea.artixlinux.org:packagesO/obs-studio.git",
       "branch": "master",
-      "revision": "2ef032bf252d4257d48a051b483f1d68d3d460f9"
+      "revision": "55efc9358871a4065dd7f5acaeba3562c9eb0f5f"
     },
     "odt2txt": {
       "url": "gitea@gitea.artixlinux.org:packagesO/odt2txt.git",
