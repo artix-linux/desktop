@@ -5599,7 +5599,7 @@
     "yelp": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yelp.git",
       "branch": "master",
-      "revision": "07abdeb30af0317f18d67c8cab06c3376adaffb9"
+      "revision": "464fd63b489cc9d1b6dc72cb74685bd775cc6c49"
     },
     "zanshin": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
