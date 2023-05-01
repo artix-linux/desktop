@@ -999,7 +999,7 @@
     "gjs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
       "branch": "master",
-      "revision": "50b4d77e7396bf5f438064f2c3354d21937a574e"
+      "revision": "b3a3e409cf97ed105f8bf4177a471d2c4f312be6"
     },
     "gmime": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gmime.git",
