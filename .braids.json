@@ -599,7 +599,7 @@
     "d-spy": {
       "url": "gitea@gitea.artixlinux.org:packagesD/d-spy.git",
       "branch": "master",
-      "revision": "a35dd9ad8b958f285243193d58c214e4a26bc424"
+      "revision": "b9b1f42c673b17e86b827f4bd9aa4294d2b526e9"
     },
     "darktable": {
       "url": "gitea@gitea.artixlinux.org:packagesD/darktable.git",
