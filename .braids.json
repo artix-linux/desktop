@@ -909,7 +909,7 @@
     "gcr": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcr.git",
       "branch": "master",
-      "revision": "786e3e5f4ab918be1c5df00a724929badade9043"
+      "revision": "9c6e582ee7572cc303c1a897da1ee62788c6ae0b"
     },
     "gcr-4": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcr-4.git",
