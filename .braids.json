@@ -1264,7 +1264,7 @@
     "gnome-sound-recorder": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sound-recorder.git",
       "branch": "master",
-      "revision": "bda1aaffb1797586aaea131de6b504b548dde2c4"
+      "revision": "7a69b1e5170542f124c7c0eaff84727ac492c9e9"
     },
     "gnome-sudoku": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-sudoku.git",
