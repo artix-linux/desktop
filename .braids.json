@@ -2986,6 +2986,11 @@
       "branch": "master",
       "revision": "aca442a44a3bdc9092ed5ff721fbac220f92355e"
     },
+    "libdex": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/libdex.git",
+      "branch": "master",
+      "revision": "48b5055337f13831c04bd1821df4ecc3c0c1b42e"
+    },
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
       "branch": "master",
