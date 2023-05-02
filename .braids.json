@@ -1659,7 +1659,7 @@
     "jsonrpc-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/jsonrpc-glib.git",
       "branch": "master",
-      "revision": "2e9f51b1a5f74a378a588fc92cb58ff7400d6255"
+      "revision": "40fb45819ca8033c8395dfbcb1a3e96892799414"
     },
     "juk": {
       "url": "gitea@gitea.artixlinux.org:packagesJ/juk.git",
