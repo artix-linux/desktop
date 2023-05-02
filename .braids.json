@@ -1244,7 +1244,7 @@
     "gnome-settings-daemon": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-settings-daemon.git",
       "branch": "master",
-      "revision": "d80c4c8638bb2773de36a0f663ab98b3904ab7a8"
+      "revision": "5f9e4c05a484498505b3651e45743c8f2834df8f"
     },
     "gnome-shell": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-shell.git",
