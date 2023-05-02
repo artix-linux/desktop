@@ -764,7 +764,7 @@
     "epiphany": {
       "url": "gitea@gitea.artixlinux.org:packagesE/epiphany.git",
       "branch": "master",
-      "revision": "01fce0940aac222f6ff940680528f56033cd30b3"
+      "revision": "ca30165c5c24696a0c10819c2e164f5ca8bc8766"
     },
     "eventviews": {
       "url": "gitea@gitea.artixlinux.org:packagesE/eventviews.git",
