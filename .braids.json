@@ -1069,7 +1069,7 @@
     "gnome-characters": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-characters.git",
       "branch": "master",
-      "revision": "d0834a8d296a356b69a1b713798d1b86989e661a"
+      "revision": "d3fe655d92e6855bc68dbb9caf01737e7dbabce9"
     },
     "gnome-chess": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-chess.git",
