@@ -1199,7 +1199,7 @@
     "gnome-online-accounts": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-accounts.git",
       "branch": "master",
-      "revision": "26470a4e485b1922b0663715d8d8dc175fbf10c9"
+      "revision": "448972a9143fa8f6412bf4005a47729276b480f2"
     },
     "gnome-online-miners": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-miners.git",
