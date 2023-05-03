@@ -4604,7 +4604,7 @@
     "qutebrowser": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qutebrowser.git",
       "branch": "master",
-      "revision": "80a949088255f0bb3f9af3c296d03532a65b0ffc"
+      "revision": "0b3c9ec5226f27249d560db3e1798a6328f7b981"
     },
     "recordmydesktop": {
       "url": "gitea@gitea.artixlinux.org:packagesR/recordmydesktop.git",
