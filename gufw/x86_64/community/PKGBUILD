@@ -1,9 +1,9 @@
-# Maintainer: Levente Polyak <anthraxx[at]archlinux[dot]org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor : Martin Wimpress <code@flexion.org>
 
 pkgname=gufw
 pkgver=22.04
-pkgrel=1
+pkgrel=2
 pkgdesc='Uncomplicated way to manage your Linux firewall'
 url='https://gufw.org/'
 arch=('any')
