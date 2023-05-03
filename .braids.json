@@ -1504,7 +1504,7 @@
     "hexchat": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexchat.git",
       "branch": "master",
-      "revision": "81d112f0dea67c43b6ee6e76cd162e3d0b6b7482"
+      "revision": "9e098d71797fb71fa8fd1163fca356ebadcca82a"
     },
     "hexer-hobu": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
