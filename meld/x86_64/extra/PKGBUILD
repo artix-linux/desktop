@@ -1,11 +1,11 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Nathan <ndowens@artixlinux.org>
 # Contributor: Gaetan Bisson <bisson@archlinux.org>
 # Contributor: Daniel J Griffiths <ghost1227@archlinux.us>
 # Contributor: Douglas Soares de Andrade <douglas@archlinux.org>
 
 pkgname=meld
 pkgver=3.22.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Compare files, directories and working copies"
 url="https://meldmerge.org/"
 license=(GPL)
