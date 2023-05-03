@@ -3,7 +3,7 @@
 
 pkgname=opencolorio
 pkgver=2.2.1
-pkgrel=4
+pkgrel=6
 pkgdesc="A color management framework for visual effects and animation"
 arch=('x86_64')
 url="https://opencolorio.org"
@@ -19,7 +19,14 @@ build() {
   cd OpenColorIO-$pkgver
 
   CXXFLAGS+=" -ffat-lto-objects"
-  artix-cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=lib -DCMAKE_SKIP_INSTALL_RPATH=YES -Wno-dev
+  artix-cmake \
+    -GNinja \
+    -Bbuild \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DCMAKE_INSTALL_LIBDIR=lib \
+    -DCMAKE_SKIP_INSTALL_RPATH=YES \
+    -Wno-dev
   ninja -C build
 }
 
