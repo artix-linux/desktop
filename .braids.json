@@ -1454,7 +1454,7 @@
     "gufw": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gufw.git",
       "branch": "master",
-      "revision": "3a587569b816dec464e8760e68cf72c19fcf70b1"
+      "revision": "d1bc1f2c7e0c7f717898a3bd354eceaccfd96833"
     },
     "gupnp-av": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gupnp-av.git",
