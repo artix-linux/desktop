@@ -1369,7 +1369,7 @@
     "gpsd": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gpsd.git",
       "branch": "master",
-      "revision": "af70d4a308581c5114c7f62d0c4d22b3eb616ba0"
+      "revision": "bcc38a2727f3bf839e74e97d6c0221bab1b0779f"
     },
     "granatier": {
       "url": "gitea@gitea.artixlinux.org:packagesG/granatier.git",
