@@ -3259,7 +3259,7 @@
     "libmsym": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmsym.git",
       "branch": "master",
-      "revision": "0964b2614cea401c4c9a9d869c218b6fb9fdfe95"
+      "revision": "30168bc85395d9e07ce91f10725206132f716cf2"
     },
     "libmythes": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmythes.git",
