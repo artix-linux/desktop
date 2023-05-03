@@ -4904,7 +4904,7 @@
     "system-config-printer": {
       "url": "gitea@gitea.artixlinux.org:packagesS/system-config-printer.git",
       "branch": "master",
-      "revision": "fed1a1abede7aec4bffde32597b1dd0bf8eccd28"
+      "revision": "3890679002d2456753a156f0a81e6afecec9c4e9"
     },
     "systemsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesS/systemsettings.git",
