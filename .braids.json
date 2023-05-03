@@ -1084,7 +1084,7 @@
     "gnome-code-assistance": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-code-assistance.git",
       "branch": "master",
-      "revision": "e06ad7f708fa17b2ef23ca85abdcdf9bd61985c4"
+      "revision": "82bc915954007711ee30d142b8c6131ca47797c1"
     },
     "gnome-color-manager": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-color-manager.git",
