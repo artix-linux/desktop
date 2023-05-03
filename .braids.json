@@ -809,7 +809,7 @@
     "falkon": {
       "url": "gitea@gitea.artixlinux.org:packagesF/falkon.git",
       "branch": "master",
-      "revision": "0bf75ad8113c96adf3a8feb0721386da16927d91"
+      "revision": "8ea99b8145c2d327fb40bc02cf5f362c08d35d73"
     },
     "fceux": {
       "url": "gitea@gitea.artixlinux.org:packagesF/fceux.git",
