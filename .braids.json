@@ -3449,7 +3449,7 @@
     "libytnef": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libytnef.git",
       "branch": "master",
-      "revision": "ef587c65d00d92c0921333f2347168befa9a0819"
+      "revision": "6b8c9ed6ca946455f5b568dd70762f0910ff29c2"
     },
     "libzapojit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libzapojit.git",
