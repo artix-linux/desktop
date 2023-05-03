@@ -4589,7 +4589,7 @@
     "qtqr": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtqr.git",
       "branch": "master",
-      "revision": "a3e7898d533b6a53ed160f25ee4bfcbce2581102"
+      "revision": "224c43415c30e2b0c984c0e901d5747fe179495b"
     },
     "qtxdg-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtxdg-tools.git",
