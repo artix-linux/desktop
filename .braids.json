@@ -1309,7 +1309,7 @@
     "gnome-tweaks": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-tweaks.git",
       "branch": "master",
-      "revision": "0bd84f652665281615504ad400f2363e2c88760c"
+      "revision": "d3c0193d9175dc4f0306a6a318fb118fe6593796"
     },
     "gnome-usage": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-usage.git",
