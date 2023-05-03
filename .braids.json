@@ -4174,7 +4174,7 @@
     "pacmanlogviewer": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pacmanlogviewer.git",
       "branch": "master",
-      "revision": "eb5acaa9b5bb3d5cfa7d371c571298c391aa8676"
+      "revision": "9c47f3163a782e84d49c25a680e9bc79a45676c3"
     },
     "palapeli": {
       "url": "gitea@gitea.artixlinux.org:packagesP/palapeli.git",
