@@ -5124,7 +5124,7 @@
     "udiskie": {
       "url": "gitea@gitea.artixlinux.org:packagesU/udiskie.git",
       "branch": "master",
-      "revision": "4df67437c0db755f731f020e0f666a6cf615b8d4"
+      "revision": "976c53a7b2af3e257fee6b652d564fe61c67b5b4"
     },
     "umbrello": {
       "url": "gitea@gitea.artixlinux.org:packagesU/umbrello.git",
