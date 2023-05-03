@@ -699,7 +699,7 @@
     "dtc": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dtc.git",
       "branch": "master",
-      "revision": "2f6241b1f3fb89f1b4360fb653097bf850763ff6"
+      "revision": "97b665fad9fe60ff5f66fc74dd61e29926b69a2b"
     },
     "dunst": {
       "url": "gitea@gitea.artixlinux.org:packagesD/dunst.git",
