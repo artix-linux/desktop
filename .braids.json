@@ -5626,11 +5626,6 @@
       "branch": "master",
       "revision": "3be9515482626eccf1a4a00a99f800cb0d4367e6"
     },
-    "zeroconf-ioslave": {
-      "url": "gitea@gitea.artixlinux.org:packagesZ/zeroconf-ioslave.git",
-      "branch": "master",
-      "revision": "18b60858744e49da234d5e4625fc4f113ae1c904"
-    },
     "zxing-cpp": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zxing-cpp.git",
       "branch": "master",
