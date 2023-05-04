@@ -2389,7 +2389,7 @@
     "kjsembed": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjsembed.git",
       "branch": "master",
-      "revision": "70f7075efa52245e124c946e64a1cc7d54fc427c"
+      "revision": "81ceb62e512654e982ef9ca4aaccf021128010b7"
     },
     "kjumpingcube": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjumpingcube.git",
