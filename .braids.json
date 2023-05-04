@@ -2924,7 +2924,7 @@
     "kweathercore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kweathercore.git",
       "branch": "master",
-      "revision": "5d1796b55ac362c894d8598b71f4a9c54866830c"
+      "revision": "3e9bb5f94ebe782fa9dae916044cdc48c6b02d62"
     },
     "kwidgetsaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kwidgetsaddons.git",
