@@ -3459,7 +3459,7 @@
     "libzapojit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libzapojit.git",
       "branch": "master",
-      "revision": "71cace44b3749abe95f6c9bea722640a9059087d"
+      "revision": "0ef909223b85ce6a66b7e400dc01e23b7bc2b337"
     },
     "lightdm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lightdm.git",
