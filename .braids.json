@@ -1104,7 +1104,7 @@
     "gnome-contacts": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-contacts.git",
       "branch": "master",
-      "revision": "c1a89724c03910b118ec19f9f611afd7cfff922e"
+      "revision": "9d87963367959afa3fa1a5e1f3cd3273cb3abf36"
     },
     "gnome-control-center": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-control-center.git",
