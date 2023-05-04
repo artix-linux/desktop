@@ -4444,7 +4444,7 @@
     "polari": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polari.git",
       "branch": "master",
-      "revision": "e4e38c9246fe8761e2e893d8be2f3958816bab66"
+      "revision": "442eb927886cbf0aa59a3a53783edcbe373d6e28"
     },
     "polkit-gnome": {
       "url": "gitea@gitea.artixlinux.org:packagesP/polkit-gnome.git",
