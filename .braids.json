@@ -2699,7 +2699,7 @@
     "krecorder": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krecorder.git",
       "branch": "master",
-      "revision": "47925fa8826545c81b35098e72214dddbe8b1ff2"
+      "revision": "a5f1cd3e53c0a9f803c6fb286f1ad10d525e4068"
     },
     "krename": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
