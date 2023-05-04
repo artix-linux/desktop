@@ -5079,7 +5079,7 @@
     "tokodon": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tokodon.git",
       "branch": "master",
-      "revision": "2ff9bf8e4ff16e5fefc40555a5a9a7fe249a59ff"
+      "revision": "cc51b11a9994b3cfff8911293bff13e18d06fd29"
     },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
