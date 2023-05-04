@@ -3224,7 +3224,7 @@
     "libkvkontakte": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libkvkontakte.git",
       "branch": "master",
-      "revision": "329c07a377e9719e7f0ce27f640eb94051ea194d"
+      "revision": "5448b46e7466f3aad44ddee8c3e6c464e68f5d29"
     },
     "liblouis": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblouis.git",
