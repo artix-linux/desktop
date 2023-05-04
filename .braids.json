@@ -2451,11 +2451,6 @@
       "branch": "master",
       "revision": "fbe1995e7bbb5982796f4e44c2842891b797351b"
     },
-    "kmediaplayer": {
-      "url": "gitea@gitea.artixlinux.org:packagesK/kmediaplayer.git",
-      "branch": "master",
-      "revision": "2c082abba44dbce94580008727c2005c50362549"
-    },
     "kmenuedit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmenuedit.git",
       "branch": "master",
