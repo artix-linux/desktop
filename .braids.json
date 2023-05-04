@@ -2921,6 +2921,11 @@
       "branch": "master",
       "revision": "5b77f42b0222bdc1d45b92f07bb289b90bec6f72"
     },
+    "kweather": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kweather.git",
+      "branch": "master",
+      "revision": "055de202ab8aad8bac8cb312f0d44eb08802a22d"
+    },
     "kweathercore": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kweathercore.git",
       "branch": "master",
