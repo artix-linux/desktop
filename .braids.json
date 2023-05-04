@@ -2856,6 +2856,11 @@
       "branch": "master",
       "revision": "28f52e08336d5c1ca96890361190296572ad3987"
     },
+    "ktrip": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/ktrip.git",
+      "branch": "master",
+      "revision": "6eda155356fbaf0b55e0e594d7a4097cbcfbc1a1"
+    },
     "ktuberling": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktuberling.git",
       "branch": "master",
