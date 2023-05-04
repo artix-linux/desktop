@@ -5076,6 +5076,11 @@
       "branch": "master",
       "revision": "a1a7fd626f8537b27809686157527643568c7441"
     },
+    "tokodon": {
+      "url": "gitea@gitea.artixlinux.org:packagesT/tokodon.git",
+      "branch": "master",
+      "revision": "2ff9bf8e4ff16e5fefc40555a5a9a7fe249a59ff"
+    },
     "totem": {
       "url": "gitea@gitea.artixlinux.org:packagesT/totem.git",
       "branch": "master",
