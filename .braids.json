@@ -291,6 +291,11 @@
       "branch": "master",
       "revision": "f6fe9a380c0986d2b4a86ef53789ff37341f71d2"
     },
+    "astyle": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/astyle.git",
+      "branch": "master",
+      "revision": "b0a18b15f9f3b7b17e441da1982d158786544e9b"
+    },
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
       "branch": "master",
