@@ -2146,6 +2146,11 @@
       "branch": "master",
       "revision": "b33a469daf0eae8642952e19414de3dd3b95558e"
     },
+    "keysmith": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/keysmith.git",
+      "branch": "master",
+      "revision": "269c8ddfa02564b1a4c667a233b07d9f03a5cc72"
+    },
     "kfilemetadata": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
       "branch": "master",
