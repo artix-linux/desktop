@@ -1949,7 +1949,7 @@
     "kde-applications-meta": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-applications-meta.git",
       "branch": "master",
-      "revision": "cbb1b3664b3fbc6863c8c61ea2187bb24d5b66fe"
+      "revision": "3eb8d16ffc85cdbecf74960d3e493bdd31f00d9b"
     },
     "kde-cli-tools": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-cli-tools.git",
