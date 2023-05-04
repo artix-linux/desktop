@@ -914,7 +914,7 @@
     "gcr-4": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gcr-4.git",
       "branch": "master",
-      "revision": "7e6e704d378787e4ebef437350d2230d6aef8772"
+      "revision": "b85de3f36a3d4989d859837607954695c00787c8"
     },
     "gdal": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdal.git",
