@@ -321,6 +321,11 @@
       "branch": "master",
       "revision": "2c8eabdb9ad9e9639d979e5c79e50a07fe530cc1"
     },
+    "audiotube": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/audiotube.git",
+      "branch": "master",
+      "revision": "ad48098cb6624c7d2548411e2026829170cd6f14"
+    },
     "avogadro-crystals": {
       "url": "gitea@gitea.artixlinux.org:packagesA/avogadro-crystals.git",
       "branch": "master",
