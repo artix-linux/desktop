@@ -3391,11 +3391,6 @@
       "branch": "master",
       "revision": "dacaa94e55b3b371741eb568b43078d5db707ba6"
     },
-    "libreoffice-extension-texmaths": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-extension-texmaths.git",
-      "branch": "master",
-      "revision": "0c52c610b28227f5141357adb3e497cc3ced417c"
-    },
     "libreoffice-fresh": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-fresh.git",
       "branch": "master",
