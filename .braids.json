@@ -3396,11 +3396,6 @@
       "branch": "master",
       "revision": "0c52c610b28227f5141357adb3e497cc3ced417c"
     },
-    "libreoffice-extension-writer2latex": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-extension-writer2latex.git",
-      "branch": "master",
-      "revision": "3d52f8310bd550fde44e01f7b4b7fd821c553774"
-    },
     "libreoffice-fresh": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-fresh.git",
       "branch": "master",
