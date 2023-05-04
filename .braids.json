@@ -3404,7 +3404,7 @@
     "libreoffice-extension-texmaths": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-extension-texmaths.git",
       "branch": "master",
-      "revision": "eb1f32510e0b4111cef6026913bad49e798aae5c"
+      "revision": "0d95b447feb351e518c1205f2edcb7257fcae96a"
     },
     "libreoffice-extension-writer2latex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libreoffice-extension-writer2latex.git",
