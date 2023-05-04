@@ -1,2 +1,0 @@
-# kdesdk-kioslaves
-
