@@ -81,6 +81,11 @@
       "branch": "master",
       "revision": "3694f3eeb214eece81b76d0876b667a08ab1421a"
     },
+    "alligator": {
+      "url": "gitea@gitea.artixlinux.org:packagesA/alligator.git",
+      "branch": "master",
+      "revision": "9b8fc3d4d1e446d1b2029b746fc3a9d3536d4679"
+    },
     "amtk": {
       "url": "gitea@gitea.artixlinux.org:packagesA/amtk.git",
       "branch": "master",
