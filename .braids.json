@@ -1079,7 +1079,7 @@
     "gnome-clocks": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-clocks.git",
       "branch": "master",
-      "revision": "9940b8804840255c69c9f130c66c9fee127166fc"
+      "revision": "db706cadaf2723b681b3b622274d05f86be80824"
     },
     "gnome-code-assistance": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-code-assistance.git",
