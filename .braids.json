@@ -599,7 +599,7 @@
     "corrosion": {
       "url": "gitea@gitea.artixlinux.org:packagesC/corrosion.git",
       "branch": "master",
-      "revision": "31b476bc6405e822b17285e357e8aaf3d1102d32"
+      "revision": "83a5cdeed5c89e4641f2f8adfd275c6ed2b8851d"
     },
     "ctags": {
       "url": "gitea@gitea.artixlinux.org:packagesC/ctags.git",
