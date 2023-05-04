@@ -2696,6 +2696,11 @@
       "branch": "master",
       "revision": "b56acf544fd0806d813e326e603e542e61264f31"
     },
+    "krecorder": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/krecorder.git",
+      "branch": "master",
+      "revision": "47925fa8826545c81b35098e72214dddbe8b1ff2"
+    },
     "krename": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krename.git",
       "branch": "master",
