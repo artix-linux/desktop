@@ -5604,7 +5604,7 @@
     "yelp": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yelp.git",
       "branch": "master",
-      "revision": "464fd63b489cc9d1b6dc72cb74685bd775cc6c49"
+      "revision": "d1231173c46151ee840d6f74fc59daec8008c54c"
     },
     "zanshin": {
       "url": "gitea@gitea.artixlinux.org:packagesZ/zanshin.git",
