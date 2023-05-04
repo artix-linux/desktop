@@ -1871,6 +1871,11 @@
       "branch": "master",
       "revision": "a5d16ad50f9ce24d887225ddd6bddb53bb0d7506"
     },
+    "kclock": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kclock.git",
+      "branch": "master",
+      "revision": "1c276f22a3844ba70caf9b99655ef564cfe1c5fa"
+    },
     "kcmutils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcmutils.git",
       "branch": "master",
