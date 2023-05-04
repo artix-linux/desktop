@@ -2989,7 +2989,7 @@
     "libdex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdex.git",
       "branch": "master",
-      "revision": "e9c3959dd615ba543f31328dc98fb4926345a148"
+      "revision": "3f79f170a552b36e456f7041928b57125751cd40"
     },
     "libdmapsharing": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdmapsharing.git",
