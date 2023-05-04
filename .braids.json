@@ -2859,7 +2859,7 @@
     "ktrip": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktrip.git",
       "branch": "master",
-      "revision": "6eda155356fbaf0b55e0e594d7a4097cbcfbc1a1"
+      "revision": "eec6defbca002a3e91ed83c754e8b9c9c34bb154"
     },
     "ktuberling": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktuberling.git",
