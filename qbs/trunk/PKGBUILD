@@ -12,11 +12,18 @@ url='https://wiki.qt.io/Qbs'
 license=(LGPL)
 depends=(qt6-5compat)
 makedepends=(cmake)
-source=(https://download.qt.io/official_releases/qbs/$pkgver/qbs-src-$pkgver.tar.gz)
-sha256sums=('d78555691ea732949346860e56f68c7c44e9384011359722b032a49b52dfccfd')
+source=(https://download.qt.io/official_releases/qbs/$pkgver/qbs-src-$pkgver.tar.gz
+        4de3f91a61b78de2097c1f7d7d2e59a78f731cb2.diff)
+sha256sums=('d78555691ea732949346860e56f68c7c44e9384011359722b032a49b52dfccfd'
+            '9a7d127c4a44fe893f7f86728aca8b94c72bee6e7bb473dcee509a2cca379d3a')
+
+prepare() {
+  cd $pkgname-src-$pkgver
+  patch -Np1 -i ../4de3f91a61b78de2097c1f7d7d2e59a78f731cb2.diff
+}
 
 build() {
-  cmake -B build -S $pkgname-src-$pkgver \
+  artix-cmake -B build -S $pkgname-src-$pkgver \
     -DCMAKE_INSTALL_PREFIX=/usr \
     -DWITH_TESTS=OFF \
     -DQBS_LIBEXEC_INSTALL_DIR=lib/qbs

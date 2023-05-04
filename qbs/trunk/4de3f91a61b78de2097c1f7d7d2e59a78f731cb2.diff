@@ -1,0 +1,13 @@
+diff --git a/src/lib/corelib/jsextensions/domxml.cpp b/src/lib/corelib/jsextensions/domxml.cpp
+index 84facc970a..35cff186bd 100644
+--- a/src/lib/corelib/jsextensions/domxml.cpp
++++ b/src/lib/corelib/jsextensions/domxml.cpp
+@@ -369,7 +369,7 @@ template<> XmlDomNode<QDomNode> *XmlDomNode<QDomDocument>::createTextNode(const
+ 
+ template<> bool XmlDomNode<QDomDocument>::setContent(const QString &content)
+ {
+-    return m_value.setContent(content);
++    return static_cast<bool>(m_value.setContent(content));
+ }
+ 
+ template<> QString XmlDomNode<QDomDocument>::toString(int indent)
