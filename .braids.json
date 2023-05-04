@@ -1771,6 +1771,11 @@
       "branch": "master",
       "revision": "643a6d87b45f3f84c58d09c14e908933309ed109"
     },
+    "kasts": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kasts.git",
+      "branch": "master",
+      "revision": "ac0f8b2578c7ddb38feaabb97363a7a69fd1c808"
+    },
     "kate": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kate.git",
       "branch": "master",
