@@ -1189,7 +1189,7 @@
     "gnome-nettool": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-nettool.git",
       "branch": "master",
-      "revision": "989929e3ac55db8febc6d61688f4e5722bfaaf86"
+      "revision": "ca8eeb04933e7f4fedd210aeb47ee1e22d68ffda"
     },
     "gnome-nibbles": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-nibbles.git",
