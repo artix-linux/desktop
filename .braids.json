@@ -3256,11 +3256,6 @@
       "branch": "master",
       "revision": "6cc6b5b855a1c1400ceba9f9083a6ab9c7cc520d"
     },
-    "libmediawiki": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/libmediawiki.git",
-      "branch": "master",
-      "revision": "d2cf14b1dd18fcab7f1e2b7372a1feac0a2bb80c"
-    },
     "libmpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmpack.git",
       "branch": "master",
