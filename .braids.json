@@ -2046,6 +2046,11 @@
       "branch": "master",
       "revision": "2346d2bc21583f03e4977b3f23cbd1c81602211e"
     },
+    "kdesdk-kio": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-kio.git",
+      "branch": "master",
+      "revision": "3be097b39c6abaa43d63bc3ceddb9a74acb865a0"
+    },
     "kdesdk-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-thumbnailers.git",
       "branch": "master",
