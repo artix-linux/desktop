@@ -3284,7 +3284,7 @@
     "libpanel": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpanel.git",
       "branch": "master",
-      "revision": "3ba79fb02e791490f06c15e6b8f85c9bfd842313"
+      "revision": "42d78bf665ffe6cfb5fe5668f6c2f25b789ffd0c"
     },
     "libpeas": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libpeas.git",
