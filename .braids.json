@@ -4529,7 +4529,7 @@
     "qbs": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qbs.git",
       "branch": "master",
-      "revision": "f563155dbf2d512927850cfcc328ef1849bbb4e6"
+      "revision": "9025d263f6f0fb33161b1166ea0e811a1901d091"
     },
     "qca": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qca.git",
