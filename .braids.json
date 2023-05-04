@@ -3259,7 +3259,7 @@
     "libmediawiki": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmediawiki.git",
       "branch": "master",
-      "revision": "80544a9937be85f8bf87f13dd3c11343dd70aef9"
+      "revision": "d2cf14b1dd18fcab7f1e2b7372a1feac0a2bb80c"
     },
     "libmpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libmpack.git",
