@@ -2556,6 +2556,11 @@
       "branch": "master",
       "revision": "f9cfec8fc838a366e918f6cc4d69b44b6f00886d"
     },
+    "kongress": {
+      "url": "gitea@gitea.artixlinux.org:packagesK/kongress.git",
+      "branch": "master",
+      "revision": "746994242e23bf602bc7642e39799dc973488cca"
+    },
     "konqueror": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konqueror.git",
       "branch": "master",
