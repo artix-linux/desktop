@@ -1474,7 +1474,7 @@
     "gvfs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gvfs.git",
       "branch": "master",
-      "revision": "65e69ff89e7ab39f2f139b154b56906df6498e36"
+      "revision": "e0a2cee1c559ad28023e65bfabd9d3f7e6351278"
     },
     "gwenhywfar": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gwenhywfar.git",
