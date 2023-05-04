@@ -294,7 +294,7 @@
     "astyle": {
       "url": "gitea@gitea.artixlinux.org:packagesA/astyle.git",
       "branch": "master",
-      "revision": "b0a18b15f9f3b7b17e441da1982d158786544e9b"
+      "revision": "cc51878ef1df3e35a8cea84cba070125dfecc441"
     },
     "atril": {
       "url": "gitea@gitea.artixlinux.org:packagesA/atril.git",
