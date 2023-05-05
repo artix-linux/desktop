@@ -771,6 +771,11 @@
       "branch": "master",
       "revision": "f2967c3be5bd336e41f445cea06c218a3a8805a2"
     },
+    "endeavour": {
+      "url": "gitea@gitea.artixlinux.org:packagesE/endeavour.git",
+      "branch": "master",
+      "revision": "abb590a0a6642b128d931be9e7b71354d0a0941c"
+    },
     "engrampa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/engrampa.git",
       "branch": "master",
