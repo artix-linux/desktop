@@ -5109,7 +5109,7 @@
     "tracker-miners": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tracker-miners.git",
       "branch": "master",
-      "revision": "872cf9f76d069452827a093cc5e5df0947ae1406"
+      "revision": "f66a1dd928a5ad06e84f61375fecfecfa05c85af"
     },
     "tracker3": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tracker3.git",
