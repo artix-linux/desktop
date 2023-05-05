@@ -1226,11 +1226,6 @@
       "branch": "master",
       "revision": "2c495cfe18c7162455ceee6a727f97a91daf7d45"
     },
-    "gnome-online-miners": {
-      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-miners.git",
-      "branch": "master",
-      "revision": "9ed6dbb84eddc13d25e78189de7cb6bd2e5a71d9"
-    },
     "gnome-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-panel.git",
       "branch": "master",

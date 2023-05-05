@@ -1,2 +1,0 @@
-# gnome-online-miners
-
