@@ -1229,7 +1229,7 @@
     "gnome-online-miners": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-miners.git",
       "branch": "master",
-      "revision": "447c6929621c5fcc8a675d483c2f0711eaa3f30f"
+      "revision": "9ed6dbb84eddc13d25e78189de7cb6bd2e5a71d9"
     },
     "gnome-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-panel.git",
