@@ -4689,7 +4689,7 @@
     "seahorse": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seahorse.git",
       "branch": "master",
-      "revision": "e6629f9da993d99ecebc1956d69c7e437947aee8"
+      "revision": "cd838aa1ffe4225d9b9c260d946913cacd649d72"
     },
     "seatd": {
       "url": "gitea@gitea.artixlinux.org:packagesS/seatd.git",
