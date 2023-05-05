@@ -1,0 +1,49 @@
+# Maintainer: nous <nous@artixlinux.org>
+
+_pkgbase=desktop-presets
+
+pkgname=artix-lxde-presets
+pkgver=0.8+17+g78bda8e
+pkgrel=2
+pkgdesc='Artix LXDE presets'
+arch=('any')
+url="https://gitea.artixlinux.org/artix/desktop-presets"
+license=('GPL')
+provides=('desktop-presets')
+depends=('artix-dark-theme')
+makedepends=('git')
+_commit=78bda8e183215bb03b3dd2a5c1b7e9a9581271dd
+source=("git+$url.git#commit=${_commit}")
+sha256sums=('SKIP')
+
+pkgver() {
+    cd ${_pkgbase}
+    git describe --tags | sed 's/-/+/g'
+}
+
+_inst_dir(){
+    cd ${_pkgbase} #-${pkgver}
+    local profile="$1"
+
+    install -d ${pkgdir}/etc
+    cp -vr $profile/skel ${pkgdir}/etc
+
+    if [[ -d $profile/schemas ]];then
+        install -d ${pkgdir}/usr/share/glib-2.0/schemas
+        cp -v $profile/schemas/*.override ${pkgdir}/usr/share/glib-2.0/schemas
+    fi
+
+    if [[ -d $profile/dconf ]];then
+        install -d ${pkgdir}/etc/dconf
+        cp -vr $profile/dconf/* ${pkgdir}/etc/dconf
+    fi
+
+    if [[ -d $profile/scripts ]];then
+        install -d ${pkgdir}/usr/bin
+        cp -v $profile/scripts/* ${pkgdir}/usr/bin
+    fi
+}
+
+package() {
+    _inst_dir 'lxde'
+}
