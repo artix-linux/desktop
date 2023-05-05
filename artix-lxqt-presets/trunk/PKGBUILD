@@ -1,0 +1,46 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+# Maintainer: nous <nous@artixlinux.org>
+
+_pkgbase=desktop-presets
+
+pkgname=artix-lxqt-presets
+pkgver=0.8+23+g3299339
+pkgrel=2
+pkgdesc='Artix lxqt presets'
+arch=('any')
+url="https://gitea.artixlinux.org/artix/desktop-presets"
+license=('GPL')
+provides=('desktop-presets')
+depends=('artix-desktop-presets' 'qt5-styleplugins')
+optdepends=('qt5ct')
+makedepends=('git')
+_commit=3299339ec138614d10445967bf27aa8e4b1d5ae3
+source=("git+$url.git#commit=${_commit}")
+sha256sums=('SKIP')
+
+pkgver() {
+    cd ${_pkgbase}
+    git describe --tags | sed 's/-/+/g'
+}
+
+_inst_dir(){
+    cd ${_pkgbase} #-${pkgver}
+    local profile="$1"
+
+    install -d ${pkgdir}/etc
+    cp -r $profile/skel ${pkgdir}/etc
+
+    if [[ -d $profile/schemas ]];then
+        install -d ${pkgdir}/usr/share/glib-2.0/schemas
+        cp -r $profile/schemas ${pkgdir}/usr/share/glib-2.0/schemas
+    fi
+
+    if [[ -d $profile/scripts ]];then
+        install -d ${pkgdir}/usr/bin
+        cp -r $profile/scripts ${pkgdir}/usr/bin
+    fi
+}
+
+package() {
+    _inst_dir 'lxqt'
+}
