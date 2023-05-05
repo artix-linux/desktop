@@ -1,2 +1,0 @@
-# artix-lxde-presets
-

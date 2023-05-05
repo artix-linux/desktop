@@ -201,11 +201,6 @@
       "branch": "master",
       "revision": "15d96af401ebccbad95bc3a4bfacb34d50c7b74e"
     },
-    "artix-lxde-presets": {
-      "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxde-presets.git",
-      "branch": "master",
-      "revision": "ba26c22eee35bdaf844bf482f7c846e4679b63a0"
-    },
     "artix-mate-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-mate-presets.git",
       "branch": "master",
