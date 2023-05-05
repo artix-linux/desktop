@@ -204,7 +204,7 @@
     "artix-lxde-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxde-presets.git",
       "branch": "master",
-      "revision": "5f7cfc1215458058a3edcf9fc0e6e98f8b704394"
+      "revision": "2de55c882e4eeb086aeda24cd046bf0c14b4c2f3"
     },
     "artix-lxqt-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxqt-presets.git",
