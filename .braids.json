@@ -4566,11 +4566,6 @@
       "branch": "master",
       "revision": "d4b2cdc79d14a93bdbd28c08903a02d5dc8b6eca"
     },
-    "qtav": {
-      "url": "gitea@gitea.artixlinux.org:packagesQ/qtav.git",
-      "branch": "master",
-      "revision": "34e712c042e9cd27eb252c067ba0928015d34507"
-    },
     "qtcreator": {
       "url": "gitea@gitea.artixlinux.org:packagesQ/qtcreator.git",
       "branch": "master",
