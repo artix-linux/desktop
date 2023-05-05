@@ -1071,11 +1071,6 @@
       "branch": "master",
       "revision": "a54cd333b863c8951cc1d17b6dbe999b54b97f81"
     },
-    "gnome-books": {
-      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-books.git",
-      "branch": "master",
-      "revision": "17747c6c964ea1614a793fc6989e9bdcea487c28"
-    },
     "gnome-boxes": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-boxes.git",
       "branch": "master",
