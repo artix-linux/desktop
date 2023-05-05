@@ -1029,7 +1029,7 @@
     "gmime": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gmime.git",
       "branch": "master",
-      "revision": "ac533100527391278346844a40074829edec246f"
+      "revision": "a02e5f7bd2a6b22bca322f081a59cf74486a8a70"
     },
     "gmime3": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gmime3.git",
