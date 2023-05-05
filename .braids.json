@@ -209,7 +209,7 @@
     "artix-lxqt-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-lxqt-presets.git",
       "branch": "master",
-      "revision": "1f1cd3fa6e728ac4baeb3873ba2c44b68eecd1d6"
+      "revision": "f394777b0c09292f2a830336dd8ba12a746e1a0a"
     },
     "artix-mate-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-mate-presets.git",
