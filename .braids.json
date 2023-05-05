@@ -1031,11 +1031,6 @@
       "branch": "master",
       "revision": "dea2fd59fe803dbd9b57b5e22e812cf7145a0b50"
     },
-    "gn-m87": {
-      "url": "gitea@gitea.artixlinux.org:packagesG/gn-m87.git",
-      "branch": "master",
-      "revision": "5eb1a436158ff5fa7d137449022260364f155ed6"
-    },
     "gnome-applets": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-applets.git",
       "branch": "master",
