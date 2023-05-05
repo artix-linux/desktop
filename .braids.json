@@ -5191,11 +5191,6 @@
       "branch": "master",
       "revision": "60935fa5d2d6f6c9f068bd07cfde6964bb77cd09"
     },
-    "vino": {
-      "url": "gitea@gitea.artixlinux.org:packagesV/vino.git",
-      "branch": "master",
-      "revision": "946d6c8b4ceb368fcb4d4da3457a8a3acbd2a073"
-    },
     "virglrenderer": {
       "url": "gitea@gitea.artixlinux.org:packagesV/virglrenderer.git",
       "branch": "master",
