@@ -214,7 +214,7 @@
     "artix-mate-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-mate-presets.git",
       "branch": "master",
-      "revision": "ae70aa1b612b89a8260edcc58ab75bbc4b35f772"
+      "revision": "b2ce4198fb8506ff5e9e2dddae6d1d6cce1093e2"
     },
     "artix-qt-presets": {
       "url": "gitea@gitea.artixlinux.org:packagesA/artix-qt-presets.git",
