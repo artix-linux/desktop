@@ -1321,11 +1321,6 @@
       "branch": "master",
       "revision": "43b19c240dfa3ad02b9b150ed1ab0a6902494b10"
     },
-    "gnome-todo": {
-      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-todo.git",
-      "branch": "master",
-      "revision": "e2356dbfbfae897f16483aa9aa50ee8a0437923d"
-    },
     "gnome-tweaks": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-tweaks.git",
       "branch": "master",
