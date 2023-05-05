@@ -1004,7 +1004,7 @@
     "gfbgraph": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gfbgraph.git",
       "branch": "master",
-      "revision": "2bf3e124c0ebf6f1e313d3cc935a9223e5520fdd"
+      "revision": "f5346bdba4ec06b1050a338bede45dff1f319a6c"
     },
     "ghex": {
       "url": "gitea@gitea.artixlinux.org:packagesG/ghex.git",
