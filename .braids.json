@@ -1304,7 +1304,7 @@
     "gnome-user-docs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-docs.git",
       "branch": "master",
-      "revision": "879286431881711d12dd264909e0cc504d814ea8"
+      "revision": "2368701d66c5533c8247dc12d6c7f9f286ac8ce8"
     },
     "gnome-user-share": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-share.git",
