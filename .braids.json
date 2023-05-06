@@ -1189,7 +1189,7 @@
     "gnome-nibbles": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-nibbles.git",
       "branch": "master",
-      "revision": "078be2d949d05c8a717466e396fa1447ad661c90"
+      "revision": "3a9bd327c5ab79b72cb94d1ebf3f723d07c76567"
     },
     "gnome-online-accounts": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-accounts.git",
