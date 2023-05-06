@@ -1314,7 +1314,7 @@
     "gnome-video-effects": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-video-effects.git",
       "branch": "master",
-      "revision": "9624d521ef5040cc29b8360178dabf1831a0785b"
+      "revision": "8ae9f35113cddccf1b773f180a4e3b974239d248"
     },
     "gnome-weather": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-weather.git",
