@@ -2,22 +2,23 @@
 # Contributor: Jan de Groot <jgc@archlinux.org>
 
 pkgname=epiphany
-pkgver=43.1
+pkgver=44.2
 pkgrel=1
 pkgdesc="A GNOME web browser based on the WebKit rendering engine"
 url="https://wiki.gnome.org/Apps/Web"
 arch=(x86_64)
 license=(GPL)
 depends=(
-  gcr
+  gcr-4
+  gstreamer
+  gtk4
   icu
+  libadwaita
   json-glib
   libarchive
-  libdazzle
-  libhandy
-  libportal-gtk3
+  libportal-gtk4
   libsoup3
-  webkit2gtk-4.1
+  webkitgtk-6.0
 )
 makedepends=(
   docbook-xml
@@ -38,7 +39,7 @@ checkdepends=(
 )
 groups=(gnome)
 options=(debug)
-_commit=e21c2e68f34fcf23ca560088479e13c9929a4c36  # tags/43.1^0
+_commit=707137ffbd20ed6fc143094f7a46ddf929f603ba  # tags/44.2^0
 source=(
   "git+https://gitlab.gnome.org/GNOME/epiphany.git#commit=$_commit"
   fix-test.diff
@@ -64,11 +65,11 @@ build() {
   meson compile -C build
 }
 
-# skip for now
-#check() {
-#  dbus-run-session xvfb-run -s '-nolisten local' \
-#    meson test -C build --print-errorlogs
-#}
+check() {
+  WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 \
+    dbus-run-session xvfb-run -s '-nolisten local' \
+    meson test -C build --print-errorlogs
+}
 
 package() {
   meson install -C build --destdir "$pkgdir"
