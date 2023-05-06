@@ -1094,7 +1094,7 @@
     "gnome-connections": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-connections.git",
       "branch": "master",
-      "revision": "c9fd39cdc19bf5186360aa1fae46fba754d0e554"
+      "revision": "6c2435ae8197fc4a8385472b533349ce3bb2112c"
     },
     "gnome-contacts": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-contacts.git",
