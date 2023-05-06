@@ -1299,7 +1299,7 @@
     "gnome-usage": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-usage.git",
       "branch": "master",
-      "revision": "6c2ded9e4a82a5c954167863b7d46f2a57546524"
+      "revision": "b4e5cf93ffed74533a9ec8c8084d88eb11dab93b"
     },
     "gnome-user-docs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-user-docs.git",
