@@ -1194,7 +1194,7 @@
     "gnome-online-accounts": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-online-accounts.git",
       "branch": "master",
-      "revision": "2c495cfe18c7162455ceee6a727f97a91daf7d45"
+      "revision": "6ac50c270760a6e7d484ac475963bf0c615a73a8"
     },
     "gnome-panel": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-panel.git",
