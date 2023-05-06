@@ -494,7 +494,7 @@
     "cheese": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cheese.git",
       "branch": "master",
-      "revision": "8c715c5ca78e056f03e8f99c888fa85fede78283"
+      "revision": "8d0469eaf22ca24d752696289bc8deee7783c662"
     },
     "chrono-date": {
       "url": "gitea@gitea.artixlinux.org:packagesC/chrono-date.git",
