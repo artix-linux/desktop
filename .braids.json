@@ -944,7 +944,7 @@
     "gdm": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gdm.git",
       "branch": "master",
-      "revision": "0b15b8ec3bd8912c1772785146d84702b19782cc"
+      "revision": "7c57c56f09ec21a138033197a60ceb4ab13990b8"
     },
     "geany": {
       "url": "gitea@gitea.artixlinux.org:packagesG/geany.git",
