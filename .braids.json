@@ -1129,7 +1129,7 @@
     "gnome-font-viewer": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-font-viewer.git",
       "branch": "master",
-      "revision": "077f38e242dcf2fb1252450cf6b4ad101aad3ced"
+      "revision": "0bb559d59fa58c4d6b345e25f106bccd4f7eb289"
     },
     "gnome-games": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-games.git",
