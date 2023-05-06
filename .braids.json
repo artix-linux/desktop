@@ -389,7 +389,7 @@
     "bogofilter": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bogofilter.git",
       "branch": "master",
-      "revision": "28bf4ef562572c3fd049cc76fa3767046fabbac0"
+      "revision": "cb372f6a0abb72c4a0b31ff353bfa580737b1868"
     },
     "bomber": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bomber.git",
