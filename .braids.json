@@ -1159,7 +1159,7 @@
     "gnome-maps": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-maps.git",
       "branch": "master",
-      "revision": "c8ec7a5a6264198271a00b20cc2fecb8a5859322"
+      "revision": "06e1001683a9551f67be56111ea3c5e0c885dc0a"
     },
     "gnome-menus": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-menus.git",
