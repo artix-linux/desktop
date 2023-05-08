@@ -1596,11 +1596,6 @@
       "branch": "master",
       "revision": "acba44461ddd74db77adee8ea01f62a0d454f639"
     },
-    "iso-flag-png": {
-      "url": "gitea@gitea.artixlinux.org:packagesI/iso-flag-png.git",
-      "branch": "master",
-      "revision": "2be8c0a01c3215e9c2facae757d2f1d598671353"
-    },
     "ispell": {
       "url": "gitea@gitea.artixlinux.org:packagesI/ispell.git",
       "branch": "master",
