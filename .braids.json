@@ -1246,11 +1246,6 @@
       "branch": "master",
       "revision": "b04803db1f557857f502aabfb6c125a3b1a7ca46"
     },
-    "gnome-system-log": {
-      "url": "gitea@gitea.artixlinux.org:packagesG/gnome-system-log.git",
-      "branch": "master",
-      "revision": "5ebc0f04a659933e6de56db2f227a8656b975925"
-    },
     "gnome-system-monitor": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gnome-system-monitor.git",
       "branch": "master",
