@@ -466,11 +466,6 @@
       "branch": "master",
       "revision": "96306a081679bfda75ccbbe2f876fb19ab069ce1"
     },
-    "cameracontrol": {
-      "url": "gitea@gitea.artixlinux.org:packagesC/cameracontrol.git",
-      "branch": "master",
-      "revision": "25ec817daea7c42c5568d438ffa8142bd7f5eb95"
-    },
     "cantor": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cantor.git",
       "branch": "master",
