@@ -4779,7 +4779,7 @@
     "spectrwm": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spectrwm.git",
       "branch": "master",
-      "revision": "ac5643c7e2d1584f8a21b03badbb006d701f57fa"
+      "revision": "ad1037085ad8266f2502da4e5c853c35b887b28c"
     },
     "spglib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
