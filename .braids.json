@@ -5546,11 +5546,6 @@
       "branch": "master",
       "revision": "9248aeb5cb6dfa68ff674ebeddde2af8e3c08d7d"
     },
-    "xplayer": {
-      "url": "gitea@gitea.artixlinux.org:packagesX/xplayer.git",
-      "branch": "master",
-      "revision": "aca5c067c848121d161857251d8f5f3015079768"
-    },
     "xreader": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xreader.git",
       "branch": "master",
