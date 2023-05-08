@@ -5061,11 +5061,6 @@
       "branch": "master",
       "revision": "b75ac318865899f28491025f37d8a86843f4e1f8"
     },
-    "trojita": {
-      "url": "gitea@gitea.artixlinux.org:packagesT/trojita.git",
-      "branch": "master",
-      "revision": "6a2083f8deebd67883a303ab86e073397b093c1f"
-    },
     "ttf-ubuntu-font-family": {
       "url": "gitea@gitea.artixlinux.org:packagesT/ttf-ubuntu-font-family.git",
       "branch": "master",
