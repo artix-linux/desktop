@@ -4771,11 +4771,6 @@
       "branch": "master",
       "revision": "2664e0bc39cd76ba3e7ac30206b0561388af3065"
     },
-    "spectrwm": {
-      "url": "gitea@gitea.artixlinux.org:packagesS/spectrwm.git",
-      "branch": "master",
-      "revision": "ad1037085ad8266f2502da4e5c853c35b887b28c"
-    },
     "spglib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
       "branch": "master",
