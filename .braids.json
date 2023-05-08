@@ -1919,7 +1919,7 @@
     "kde-development-environment-meta": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-development-environment-meta.git",
       "branch": "master",
-      "revision": "ed268294f4972379d8c4c4561c70d5bbfe044201"
+      "revision": "a4a0da1556b8e83f2e4104a1ef27f51c7f6a6eb5"
     },
     "kde-gtk-config": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-gtk-config.git",
