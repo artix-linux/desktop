@@ -5244,7 +5244,7 @@
     "wtf": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wtf.git",
       "branch": "master",
-      "revision": "fbb559176fc5263ada466507facc0ea3c45496c7"
+      "revision": "4cfbea74355748045eede023706df0f59121c7ea"
     },
     "xapian-core": {
       "url": "gitea@gitea.artixlinux.org:packagesX/xapian-core.git",
