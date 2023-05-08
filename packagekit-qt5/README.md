@@ -1,2 +1,0 @@
-# packagekit-qt5
-
