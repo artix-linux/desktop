@@ -5571,11 +5571,6 @@
       "branch": "master",
       "revision": "a96f43de392b507fd59ad27bad647cd432ff7ec9"
     },
-    "xviewer-plugins": {
-      "url": "gitea@gitea.artixlinux.org:packagesX/xviewer-plugins.git",
-      "branch": "master",
-      "revision": "7755da3c6114394bfb600d00f88884fdb20fc008"
-    },
     "yakuake": {
       "url": "gitea@gitea.artixlinux.org:packagesY/yakuake.git",
       "branch": "master",
