@@ -56,7 +56,7 @@ b2sums=('SKIP')
 
 pkgver() {
   cd mutter
-  git describe --tags | sed 's/[^-]*-g/r&/;s/-/+/g'
+  git describe --tags --abbrev=10 | sed 's/[^-]*-g/r&/;s/-/+/g'
 }
 
 prepare() {
