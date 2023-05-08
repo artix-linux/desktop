@@ -579,7 +579,7 @@
     "connman-gtk": {
       "url": "gitea@gitea.artixlinux.org:packagesC/connman-gtk.git",
       "branch": "master",
-      "revision": "9760bf9950733c5ba90b77d0a9bfb4054c81f27e"
+      "revision": "f0053f585796b16b99d09a32f5c4f701f2dff09a"
     },
     "coordgen": {
       "url": "gitea@gitea.artixlinux.org:packagesC/coordgen.git",
