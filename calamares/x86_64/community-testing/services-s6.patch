@@ -1,0 +1,162 @@
+ src/modules/services-s6/main.py          | 101 +++++++++++++++++++++++++++++++
+ src/modules/services-s6/module.desc      |   5 ++
+ src/modules/services-s6/services-s6.conf |  33 ++++++++++
+ 3 files changed, 139 insertions(+)
+
+diff --git a/src/modules/services-s6/main.py b/src/modules/services-s6/main.py
+new file mode 100644
+index 000000000..d1bac8f2f
+--- /dev/null
++++ b/src/modules/services-s6/main.py
+@@ -0,0 +1,101 @@
++#!/usr/bin/env python3
++# -*- coding: utf-8 -*-
++#
++# === This file is part of Calamares - <https://github.com/calamares> ===
++#
++#   Copyright 2018-2019, Adriaan de Groot <groot@kde.org>
++#   Copyright 2019, Artoo <artoo@artixlinux.org>
++#
++#   Calamares is free software: you can redistribute it and/or modify
++#   it under the terms of the GNU General Public License as published by
++#   the Free Software Foundation, either version 3 of the License, or
++#   (at your option) any later version.
++#
++#   Calamares is distributed in the hope that it will be useful,
++#   but WITHOUT ANY WARRANTY; without even the implied warranty of
++#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
++#   GNU General Public License for more details.
++#
++#   You should have received a copy of the GNU General Public License
++#   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
++
++import libcalamares
++
++from libcalamares.utils import target_env_call, warning
++from os.path import exists, join
++
++
++import gettext
++_ = gettext.translation("calamares-python",
++                        localedir=libcalamares.utils.gettext_path(),
++                        languages=libcalamares.utils.gettext_languages(),
++                        fallback=True).gettext
++
++
++def pretty_name():
++    return _("Configure s6 services")
++
++
++class S6Controller:
++    """
++    This is the s6 service controller.
++    All of its state comes from global storage and the job
++    configuration at initialization time.
++    """
++
++    def __init__(self):
++        self.root = libcalamares.globalstorage.value('rootMountPoint')
++
++        self.svDir = libcalamares.job.configuration['svDir']
++        self.dbDir = libcalamares.job.configuration['dbDir']
++        self.defaultBundle = libcalamares.job.configuration['defaultBundle']
++
++        self.services = dict()
++        self.services["add"] = libcalamares.job.configuration.get('services', [])
++        self.services["delete"] = libcalamares.job.configuration.get('disable', [])
++
++
++    def makeBundle(self):
++        """
++        Call s6-rc-bundle with each service listed
++        in services as arg.
++        """
++
++        deleteBundles = self.services.get("delete", [])
++
++        if deleteBundles:
++            ec = target_env_call(["s6-rc-bundle", "-c", self.dbDir, "delete", *deleteBundles])
++            if ec != 0:
++                warning("Cannot delete {}".format(*deleteBundles))
++                warning("s6-rc-bundle returned error code {!s}".format(ec))
++
++        for svc in self.services.get('add', []):
++            ec = target_env_call(["s6-rc-db", "-c", self.dbDir, "type", svc])
++            if ec != 0:
++                warning("Service {} does not exist.".format(svc))
++                warning("s6-rc-db returned error code {!s}".format(ec))
++            else:
++                ec = target_env_call(["s6-service", "add", self.defaultBundle, svc])
++                if ec != 0:
++                    warning("Cannot add service {} to {} bundle".format(svc, self.defaultBundle))
++                    warning("s6-service returned error code {!s}".format(ec))
++
++        ec = target_env_call(["s6-db-reload", "-r"])
++        if ec != 0:
++            warning("Cannot reload service db.")
++            warning("s6-db-reload returned error code {!s}".format(ec))
++
++    def run(self):
++        """Run the controller
++        """
++
++        r = self.makeBundle()
++        if r is not None:
++            return r
++
++def run():
++    """
++    Setup services
++    """
++
++    return S6Controller().run()
+diff --git a/src/modules/services-s6/module.desc b/src/modules/services-s6/module.desc
+new file mode 100644
+index 000000000..0e031e60f
+--- /dev/null
++++ b/src/modules/services-s6/module.desc
+@@ -0,0 +1,5 @@
++---
++type:       "job"
++name:       "services-s6"
++interface:  "python"
++script:     "main.py"
+diff --git a/src/modules/services-s6/services-s6.conf b/src/modules/services-s6/services-s6.conf
+new file mode 100644
+index 000000000..ee612526e
+--- /dev/null
++++ b/src/modules/services-s6/services-s6.conf
+@@ -0,0 +1,33 @@
++# s6 services module to create a services bundle via s6-rc-bundle in the chroot
++#
++# Services can be added to default bundle
++# Handle disable with care and only use it if absolutely necessary.
++#
++# if a service is listed in the conf but is not present/detected on the target system,
++# it will be ignored and skipped; a warning is logged.
++#
++---
++
++# services path
++svDir: /etc/s6/sv
++
++# database path
++dbDir: /etc/s6/rc/compiled
++
++# default bundle name
++defaultBundle: default
++
++# services: a list of services to **add** to the default bundle
++# disable: a list of bundles to **delete**
++#
++# Each entry:
++#   - the name
++# # Example services and disable settings:
++# services:
++#     - foo1
++#     - foo2
++# disable:
++#     - foo3
++#     - foo4
++services: []
++disable: []

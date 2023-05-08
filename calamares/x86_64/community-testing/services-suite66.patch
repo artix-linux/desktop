@@ -1,0 +1,205 @@
+e6c84c546f09888f422cda4811443f2f85e80f5b
+ src/modules/services-suite66/main.py          | 128 ++++++++++++++++++++++++++
+ src/modules/services-suite66/module.desc      |   7 ++
+ src/modules/services-suite66/services-66.conf |  45 +++++++++
+ 3 files changed, 180 insertions(+)
+
+diff --git a/src/modules/services-suite66/main.py b/src/modules/services-suite66/main.py
+new file mode 100644
+index 000000000..5f2577071
+--- /dev/null
++++ b/src/modules/services-suite66/main.py
+@@ -0,0 +1,128 @@
++#!/usr/bin/env python3
++# -*- coding: utf-8 -*-
++#
++# === This file is part of Calamares - <https://calamares.io> ===
++#
++#   SPDX-FileCopyrightText: 2021 Artoo <artoo@artixlinux.org>
++#   SPDX-License-Identifier: GPL-3.0-or-later
++#
++#   Calamares is Free Software: see the License-Identifier above.
++#
++
++import libcalamares
++
++from libcalamares.utils import target_env_call, warning
++from os.path import exists
++
++
++import gettext
++_ = gettext.translation("calamares-python",
++                        localedir=libcalamares.utils.gettext_path(),
++                        languages=libcalamares.utils.gettext_languages(),
++                        fallback=True).gettext
++
++
++def pretty_name():
++    return _("Configure suite66 services")
++
++
++class suite66Controller:
++    """
++    This is the 66 service controller.
++    All of its state comes from global storage and the job
++    configuration at initialization time.
++    """
++
++    def __init__(self):
++        self.root = libcalamares.globalstorage.value('rootMountPoint')
++
++        # Translate the entries in the config to the actions passed to 66
++        self.services = dict()
++        self.services["enable"] = libcalamares.job.configuration.get('services', [])
++        self.services["disable"] = libcalamares.job.configuration.get('disable', [])
++
++        self.svDir = libcalamares.job.configuration['svDir']
++        self.runsvDir = libcalamares.job.configuration['runsvDir']
++
++    def make_failure_description(self, state, name, tree):
++        """
++        Returns a generic "could not <foo>" failure message, specialized
++        for the action @p state and the specific service @p name in @p tree.
++        """
++        if state == "enable":
++            description = _("Cannot enable service {name!s} in tree {tree!s}.")
++        elif state == "disable":
++            description = _("Cannot remove service {name!s} in tree {tree!s}.")
++        else:
++            description = _("Unknown service-action <code>{arg!s}</code> for service {name!s} in tree {tree!s}.")
++
++        return description.format(arg=state, name=name, tree=tree)
++
++    def update(self, state, tree):
++        """
++        Call 66-enable for each service listed
++        in services for the given @p state. 66-enable
++        is called with @p state as the command as well.
++        """
++
++        for svc in self.services.get(state, []):
++            if isinstance(svc, str):
++                name = svc
++                mandatory = False
++            else:
++                name = svc["name"]
++                mandatory = svc.get("mandatory", False)
++
++            service_path = self.root + self.svDir + "/" + name
++            tree_path = self.root + self.runsvDir + "/" + tree
++
++            if exists(service_path):
++                if exists(tree_path):
++                    ec = target_env_call(["66-enable", "-t", tree, name])
++                    if ec != 0:
++                        warning("Cannot {} service {} for {}".format(state, name, tree))
++                        warning("66-enable returned error code {!s}".format(ec))
++                        if mandatory:
++                            title = _("Cannot modify service")
++                            diagnostic = _("<code>66-enable {arg!s}</code> call in chroot returned error code {num!s}.").format(arg=state, num=ec)
++                            return (title,
++                                    self.make_failure_description(state, name, tree) + " " + diagnostic
++                                    )
++                else:
++                    warning("Target tree {} does not exist for {}.".format(tree, name))
++                    if mandatory:
++                        title = _("Target tree does not exist")
++                        diagnostic = _("The path for tree {tree!s} is <code>{path!s}</code>, which does not exist.").format(tree=tree, path=tree_path)
++
++                        return (title,
++                                self.make_failure_description(state, name, tree) + " " + diagnostic
++                                )
++            else:
++                warning("Target service {} does not exist in {}.".format(name, self.svDir))
++                if mandatory:
++                    title = _("Target service does not exist")
++                    diagnostic = _("The path for service {name!s} is <code>{path!s}</code>, which does not exist.").format(name=name, path=service_path)
++                    return (title,
++                            self.make_failure_description(state, name, tree) + " " + diagnostic
++                            )
++
++    def run(self, tree="default"):
++        """Run the controller
++        """
++
++        target_env_call(["66-tree", "-n", "boot"])
++        target_env_call(["66-enable", "-t", "boot", "boot@system"])
++        target_env_call(["66-tree", "-ncE", tree])
++
++        for state in ("enable", "disable"):
++            r = self.update(state, tree)
++            if r is not None:
++                return r
++
++
++def run():
++    """
++    Setup services
++    """
++
++    return suite66Controller().run()
+diff --git a/src/modules/services-suite66/module.desc b/src/modules/services-suite66/module.desc
+new file mode 100644
+index 000000000..6a30e338a
+--- /dev/null
++++ b/src/modules/services-suite66/module.desc
+@@ -0,0 +1,7 @@
++# SPDX-FileCopyrightText: no
++# SPDX-License-Identifier: CC0-1.0
++---
++type:       "job"
++name:       "services-suite66"
++interface:  "python"
++script:     "main.py"
+diff --git a/src/modules/services-suite66/services-66.conf b/src/modules/services-suite66/services-66.conf
+new file mode 100644
+index 000000000..f7b4a7ef5
+--- /dev/null
++++ b/src/modules/services-suite66/services-66.conf
+@@ -0,0 +1,45 @@
++# SPDX-FileCopyrightText: no
++# SPDX-License-Identifier: CC0-1.0
++#
++# suite66 services module to modify service runlevels via 66-enable in the chroot
++#
++# Services can be added or deleted.
++# Handle disable with care and only use it if absolutely necessary.
++#
++# if a service is listed in the conf but is not present/detected on the target system,
++# or a tree does not exist, it will be ignored and skipped; a warning is logged.
++#
++---
++# svDir: holds the 66 service directory location
++svDir: /etc/66/services
++
++# runlevelsDir: holds the runlevels directory location
++runsvDir: /var/lib/66/system
++
++# services: a list of entries to **enable**
++# disable: a list of entries to **disable**
++#
++# Each entry has three fields:
++#   - name: the service name
++#   - (optional) mandatory: if set to true, a failure to modify
++#     the service will result in installation failure, rather than just
++#     a warning. The default is false.
++#
++# an entry may also be a single string, which is interpreted
++# as the name field.
++#
++# # Example services and disable settings:
++# # - add foo1, but it must succeed
++# # - add foo2
++# # - remove foo3
++# # - remove foo4
++# services:
++#     - name: foo1
++#       mandatory: true
++#     - name: foo2
++# disable:
++#     - name: foo3
++#     - foo4
++services: []
++disable: []
++
+
