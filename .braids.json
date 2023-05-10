@@ -124,7 +124,7 @@
     "aqbanking": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aqbanking.git",
       "branch": "master",
-      "revision": "06310e9f893267a94541b4b8de230f83199026e2"
+      "revision": "e8049fa617f50a242a99329633570d33a2bd7731"
     },
     "arc-gtk-theme": {
       "url": "gitea@gitea.artixlinux.org:packagesA/arc-gtk-theme.git",
