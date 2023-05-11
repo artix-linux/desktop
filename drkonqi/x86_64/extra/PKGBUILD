@@ -1,7 +1,9 @@
 # Maintainer: nikolar <nikolar@artixlinux.org>
+# Contributor:Antonio Rojas <arojas@archlinux.org>
 
 pkgname=drkonqi
-pkgver=5.27.4
+pkgver=5.27.5
+_dirver=$(echo $pkgver | cut -d. -f1-3)
 pkgrel=1
 pkgdesc='The KDE crash handler'
 arch=(x86_64)
@@ -10,13 +12,11 @@ license=(GPL2)
 depends=(kidletime syntax-highlighting kirigami2 kitemmodels kuserfeedback kio gdb python-distro python-psutil qt5-tools)
 makedepends=(extra-cmake-modules)
 groups=(plasma)
-source=(https://download.kde.org/stable/plasma/$pkgver/$pkgname-$pkgver.tar.xz{,.sig}
+source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig}
 		no-systemd.patch)
-
-sha256sums=('d63ace5da89cc628e0a411f9636fb067d0478caa1e2e6f32532688aa196f91d1'
+sha256sums=('448daeb23a3c030c872507a29e5eecb23b1cd3b015845d3664ec79fa5db9ac56'
             'SKIP'
 			'b529848e4d4d41675578748e6c8a87bfd875a8ac9af53c988ea5bebcea3de1b5')
-
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
               'D07BD8662C56CB291B316EB2F5675605C74E02CF'  # David Edmundson <davidedmundson@kde.org>
