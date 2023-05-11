@@ -464,7 +464,7 @@
     "calendarsupport": {
       "url": "gitea@gitea.artixlinux.org:packagesC/calendarsupport.git",
       "branch": "master",
-      "revision": "96306a081679bfda75ccbbe2f876fb19ab069ce1"
+      "revision": "0c96a3f424abd2d4dceff5b9a75ee65734fd9b47"
     },
     "cantor": {
       "url": "gitea@gitea.artixlinux.org:packagesC/cantor.git",
