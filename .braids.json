@@ -4729,7 +4729,7 @@
     "spectacle": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spectacle.git",
       "branch": "master",
-      "revision": "2664e0bc39cd76ba3e7ac30206b0561388af3065"
+      "revision": "dc9be2cf39ccbd5b1abf4ea2abe83a206568b2c6"
     },
     "spglib": {
       "url": "gitea@gitea.artixlinux.org:packagesS/spglib.git",
