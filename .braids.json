@@ -2199,7 +2199,7 @@
     "kidentitymanagement": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kidentitymanagement.git",
       "branch": "master",
-      "revision": "8ea802a067d93adedba79e7239fe2c39fa2a23d6"
+      "revision": "82921db053c8d381805f95e43666627931990411"
     },
     "kidletime": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kidletime.git",
