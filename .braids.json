@@ -419,7 +419,7 @@
     "breeze-plymouth": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-plymouth.git",
       "branch": "master",
-      "revision": "8dc538836a6963bca48061f7fe95820aeca34187"
+      "revision": "3ac62a835d80043bb5992609b0f16dceb2a54506"
     },
     "brltty": {
       "url": "gitea@gitea.artixlinux.org:packagesB/brltty.git",
