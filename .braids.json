@@ -2544,7 +2544,7 @@
     "kosmindoormap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kosmindoormap.git",
       "branch": "master",
-      "revision": "01a4f40dd6ea9f460addc909e666b34ec7036360"
+      "revision": "22537f279b0d499d8dfaa221e7677159d315e5c5"
     },
     "kpackage": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kpackage.git",
