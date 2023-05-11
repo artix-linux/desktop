@@ -3189,7 +3189,7 @@
     "libktorrent": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libktorrent.git",
       "branch": "master",
-      "revision": "d1c424df7689b8ca563bfedfe7d47dcae1c2a627"
+      "revision": "792bd4c429212ad1aa0f4c4798e75ee8001a3405"
     },
     "liblouis": {
       "url": "gitea@gitea.artixlinux.org:packagesL/liblouis.git",
