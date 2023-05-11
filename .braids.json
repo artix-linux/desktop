@@ -4121,6 +4121,11 @@
       "branch": "master",
       "revision": "68be25ceae9111af2fb72be5552d3a09065e4172"
     },
+    "packagekit-qt": {
+      "url": "gitea@gitea.artixlinux.org:packagesP/packagekit-qt.git",
+      "branch": "master",
+      "revision": "d7a03dd264116561958b31bfe317515d7a16c5c8"
+    },
     "pacmanlogviewer": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pacmanlogviewer.git",
       "branch": "master",
