@@ -1909,7 +1909,7 @@
     "kde-gtk-config": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-gtk-config.git",
       "branch": "master",
-      "revision": "048491d319a2eb511b2419def55ab2f0a8a0c3cb"
+      "revision": "04d95de2bec580f5fbdaff6034ac2bc3a9d159ce"
     },
     "kde-inotify-survey": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-inotify-survey.git",
