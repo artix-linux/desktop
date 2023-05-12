@@ -1689,7 +1689,7 @@
     "kalk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalk.git",
       "branch": "master",
-      "revision": "b8459bf8336875c83457d8aea7afa051041dace5"
+      "revision": "d7aa8214f0b476e5c6edeeea8e980713d8bee5e8"
     },
     "kalzium": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalzium.git",
