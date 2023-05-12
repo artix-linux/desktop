@@ -2354,7 +2354,7 @@
     "klines": {
       "url": "gitea@gitea.artixlinux.org:packagesK/klines.git",
       "branch": "master",
-      "revision": "315d190cc10c4a4f53dc5fee247082ec3dc944f6"
+      "revision": "de8e947a1638651b94db40dfb3b02cbc421dcc2e"
     },
     "kmag": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmag.git",
