@@ -1809,7 +1809,7 @@
     "kcharselect": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kcharselect.git",
       "branch": "master",
-      "revision": "852fe1b4747eb8ba634d158a85c70e3fd81ab7d0"
+      "revision": "802ddfe6949b0feb6b9958e9842cc030afdf2d4a"
     },
     "kclock": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kclock.git",
