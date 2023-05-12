@@ -2484,7 +2484,7 @@
     "kompare": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kompare.git",
       "branch": "master",
-      "revision": "f9cfec8fc838a366e918f6cc4d69b44b6f00886d"
+      "revision": "9c4d00ca34ae422a06d95f62f0c0fa5e0aa716ae"
     },
     "kongress": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kongress.git",
