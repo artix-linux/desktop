@@ -309,7 +309,7 @@
     "audiotube": {
       "url": "gitea@gitea.artixlinux.org:packagesA/audiotube.git",
       "branch": "master",
-      "revision": "345ddea85f9f708f92cec11aa24f4deace4ef5cb"
+      "revision": "2883753ef778ba1bc4a2b2e90ec4c81a70109f03"
     },
     "avogadro-crystals": {
       "url": "gitea@gitea.artixlinux.org:packagesA/avogadro-crystals.git",
