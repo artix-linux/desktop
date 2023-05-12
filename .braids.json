@@ -2489,7 +2489,7 @@
     "kongress": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kongress.git",
       "branch": "master",
-      "revision": "646910b733e3eb24aab09b02d8c2c132e897d943"
+      "revision": "531fb5522d24ac788e32d53d0462085e8caeb918"
     },
     "konqueror": {
       "url": "gitea@gitea.artixlinux.org:packagesK/konqueror.git",
