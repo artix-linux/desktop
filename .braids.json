@@ -94,7 +94,7 @@
     "analitza": {
       "url": "gitea@gitea.artixlinux.org:packagesA/analitza.git",
       "branch": "master",
-      "revision": "f5f2a67b99b5489a9e1f23509122d52e6367a792"
+      "revision": "2278d03fbdf4a5ea7bfff8b27107820d77c6164c"
     },
     "angelfish": {
       "url": "gitea@gitea.artixlinux.org:packagesA/angelfish.git",
