@@ -2639,7 +2639,7 @@
     "kreversi": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kreversi.git",
       "branch": "master",
-      "revision": "c10923a5a30dc0becedb8e5069627cfe7980b1c7"
+      "revision": "67e43d1a79068a5bd5bd73044738e5312b631f92"
     },
     "krfb": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krfb.git",
