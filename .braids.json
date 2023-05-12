@@ -304,7 +304,7 @@
     "audiocd-kio": {
       "url": "gitea@gitea.artixlinux.org:packagesA/audiocd-kio.git",
       "branch": "master",
-      "revision": "2c8eabdb9ad9e9639d979e5c79e50a07fe530cc1"
+      "revision": "59c7c9d2afed1c149e6a81159352c0674a965721"
     },
     "audiotube": {
       "url": "gitea@gitea.artixlinux.org:packagesA/audiotube.git",
