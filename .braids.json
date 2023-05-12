@@ -1914,7 +1914,7 @@
     "kde-inotify-survey": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-inotify-survey.git",
       "branch": "master",
-      "revision": "96d3b96a674b0f4798ef3e6048607a1a4651e904"
+      "revision": "751f238dc0c4b4570ef6655a71965580eab3b822"
     },
     "kdebugsettings": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdebugsettings.git",
