@@ -744,7 +744,7 @@
     "elisa": {
       "url": "gitea@gitea.artixlinux.org:packagesE/elisa.git",
       "branch": "master",
-      "revision": "0a63eb315f22c1ae5a800877b453e797fa0aeedf"
+      "revision": "06f0d51ac9aefeee66a8a01d14887444877640e2"
     },
     "endeavour": {
       "url": "gitea@gitea.artixlinux.org:packagesE/endeavour.git",
