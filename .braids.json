@@ -2384,7 +2384,7 @@
     "kmbox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmbox.git",
       "branch": "master",
-      "revision": "8ff4cd63136c744d346987020b2e1a913a138527"
+      "revision": "25fdf59bf511d553d05e283cdf2c531503caa14f"
     },
     "kmenuedit": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kmenuedit.git",
