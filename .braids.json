@@ -2704,7 +2704,7 @@
     "ksmtp": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksmtp.git",
       "branch": "master",
-      "revision": "1854385b1294eb2bcdfc0ae13e83291f6c66d217"
+      "revision": "8525465c5f34a4f046dd71aa8109b24388bc9731"
     },
     "ksnakeduel": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ksnakeduel.git",
