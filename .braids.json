@@ -2279,7 +2279,7 @@
     "kio-zeroconf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-zeroconf.git",
       "branch": "master",
-      "revision": "48aeeb70023bec15f5851eb8c5b1c1d87e978bfd"
+      "revision": "88df9dc02e815883e113dd8ca3faa798fc77c6bc"
     },
     "kirigami-gallery": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kirigami-gallery.git",
