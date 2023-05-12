@@ -1899,7 +1899,7 @@
     "kde-dev-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-dev-utils.git",
       "branch": "master",
-      "revision": "d5300712755c8b92e2f92d692d8cfb9512be9dca"
+      "revision": "19e868c2200b3e0b5c2f0dfa1441192dad19a1d9"
     },
     "kde-development-environment-meta": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-development-environment-meta.git",
