@@ -4359,7 +4359,7 @@
     "plasmatube": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasmatube.git",
       "branch": "master",
-      "revision": "f41ae12d8e33d9f03df185502e0cfc98f9c83291"
+      "revision": "7679cec7d047a339f542d8f678c26c7897550149"
     },
     "playerctl": {
       "url": "gitea@gitea.artixlinux.org:packagesP/playerctl.git",
