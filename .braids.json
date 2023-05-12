@@ -374,7 +374,7 @@
     "blinken": {
       "url": "gitea@gitea.artixlinux.org:packagesB/blinken.git",
       "branch": "master",
-      "revision": "b0c30eb03886a89bc97a9e03f39b7a0915308038"
+      "revision": "e5d850bf0e368669b7ef7928e04fd3fdc97bb429"
     },
     "bluedevil": {
       "url": "gitea@gitea.artixlinux.org:packagesB/bluedevil.git",
