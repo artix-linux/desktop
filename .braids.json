@@ -1989,7 +1989,7 @@
     "kdesdk-kio": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-kio.git",
       "branch": "master",
-      "revision": "5324cebf2ab3a35fb5c0a618250e4ef4628a36b0"
+      "revision": "301c33043615d2675d4bccf4f0fb510637c89ab4"
     },
     "kdesdk-thumbnailers": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdesdk-thumbnailers.git",
