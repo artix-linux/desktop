@@ -2094,7 +2094,7 @@
     "keysmith": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keysmith.git",
       "branch": "master",
-      "revision": "fc36e0eb5edd26e26ea4cb19b47d8e3cd07140ad"
+      "revision": "f1ca1b2f3a4f7ce3930a87f0488dbb43cbdb1052"
     },
     "kfilemetadata": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfilemetadata.git",
