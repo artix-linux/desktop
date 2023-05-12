@@ -3429,7 +3429,7 @@
     "lokalize": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lokalize.git",
       "branch": "master",
-      "revision": "9bcc4c23b80126ccd33fab54991e14491856aac7"
+      "revision": "e14241c96553940f21e7940e1eee63b6388bab17"
     },
     "lpeg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lpeg.git",
