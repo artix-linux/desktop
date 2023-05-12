@@ -99,7 +99,7 @@
     "angelfish": {
       "url": "gitea@gitea.artixlinux.org:packagesA/angelfish.git",
       "branch": "master",
-      "revision": "0753616e23b9e9b8dc07deb573a4dea939621a54"
+      "revision": "0c24cb1fb081042b8da3b52776ab7d52299835ce"
     },
     "anthy": {
       "url": "gitea@gitea.artixlinux.org:packagesA/anthy.git",
