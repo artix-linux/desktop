@@ -3964,7 +3964,7 @@
     "neochat": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neochat.git",
       "branch": "master",
-      "revision": "8b4e8e68944f4d96becfddf5a8e45fef6d324d87"
+      "revision": "b4f09e256f78e5ec9ede7c0d9a08648241065f87"
     },
     "neofetch": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neofetch.git",
