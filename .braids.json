@@ -4954,7 +4954,7 @@
     "telly-skout": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telly-skout.git",
       "branch": "master",
-      "revision": "7c828580db25b57a9cb5bec3b6af4ef0034d9d98"
+      "revision": "3dea8d2a7310d212f390bf19c6980c2c1a500ab1"
     },
     "template-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesT/template-glib.git",
