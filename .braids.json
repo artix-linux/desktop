@@ -1684,7 +1684,7 @@
     "kalgebra": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalgebra.git",
       "branch": "master",
-      "revision": "f0a3188761d27bd4a5d3db8767d27b81bd46dd92"
+      "revision": "ca16c8653b8a2245727c34a284d4bbad138193e1"
     },
     "kalk": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kalk.git",
