@@ -1,7 +1,8 @@
 # Maintainer: Cory Sanin <corysanin@artixlinux.org>
+# Contributor: Antonio Rojas <arojas@archlinux.org>
 
 pkgname=koko
-pkgver=23.04.0
+pkgver=23.04.1
 pkgrel=1
 pkgdesc='Image gallery application'
 url='https://apps.kde.org/koko/'
@@ -14,11 +15,11 @@ source=(https://download.kde.org/stable/release-service/$pkgver/src/$pkgname-$pk
         https://download.geonames.org/export/dump/cities1000.zip
         https://download.geonames.org/export/dump/admin1CodesASCII.txt
         https://download.geonames.org/export/dump/admin2Codes.txt)
-sha256sums=('939a6d71bf0a9cfb1e897b8b314b58b352ba4322ca5a57952f16b3886caa67e6'
+sha256sums=('f7a5a9504add173e03a8395e4876218c00bb594d73f381dab8ec03b10acfb06d'
             'SKIP'
-            '76924cc68a5695ffc7cd11777d708cb04290862c971573120f7a3e3afb62644e'
-            '6208ae4b4d6b22ea8857b80019eb5db1e03640e140d953119d1d7de4cf8842ed'
-            'cc85944be54766a24f703a57c2b006375d8a8d86432d3765f8e262be15e19758')
+            'SKIP'
+            'SKIP'
+            'SKIP')
 validpgpkeys=(CA262C6C83DE4D2FB28A332A3A6A4DB839EAA6D7  # Albert Astals Cid <aacid@kde.org>
               F23275E4BF10AFC1DF6914A6DBD2CE893E2D1C87  # Christoph Feck <cfeck@kde.org>
               D81C0CB38EB725EF6691C385BB463350D6EF31EF) # Heiko Becker <heiko.becker@kde.org>
