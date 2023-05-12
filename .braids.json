@@ -2624,7 +2624,7 @@
     "krdc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krdc.git",
       "branch": "master",
-      "revision": "df654334fe98d56de64a2af4f430b60782c50e21"
+      "revision": "cb5ac042c1b82568819e9c4202b3f69432e2066b"
     },
     "krecorder": {
       "url": "gitea@gitea.artixlinux.org:packagesK/krecorder.git",
