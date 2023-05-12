@@ -2104,7 +2104,7 @@
     "kfind": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfind.git",
       "branch": "master",
-      "revision": "e79d5601b56033e29bb262890c78dbc0aa4c06a0"
+      "revision": "0e65b35b425d07a3ea68a33339c629a34be1bf17"
     },
     "kfloppy": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfloppy.git",
