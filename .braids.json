@@ -2464,7 +2464,7 @@
     "koko": {
       "url": "gitea@gitea.artixlinux.org:packagesK/koko.git",
       "branch": "master",
-      "revision": "5714a71af5ad2d49e0b5e0ef3df0180f272799ef"
+      "revision": "00fe03d3a8655012582bb367b5bd786c1b91138a"
     },
     "kolf": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kolf.git",
