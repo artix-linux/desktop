@@ -4679,7 +4679,7 @@
     "skanlite": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanlite.git",
       "branch": "master",
-      "revision": "9be68465451d9c1b14825fdf37bda6611e91cef7"
+      "revision": "17f7a2a3de645beb5300177f65ca096bb2adb97d"
     },
     "skanpage": {
       "url": "gitea@gitea.artixlinux.org:packagesS/skanpage.git",
