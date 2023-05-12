@@ -2109,7 +2109,7 @@
     "kfloppy": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfloppy.git",
       "branch": "master",
-      "revision": "0db9eedde0352c3fbb0d7249d3bcaa9fa5df353e"
+      "revision": "0ac8b17e7d846f2a4637a0e709b4f5cc8ed4ad63"
     },
     "kfourinline": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kfourinline.git",
