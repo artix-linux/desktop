@@ -4564,7 +4564,7 @@
     "ristretto": {
       "url": "gitea@gitea.artixlinux.org:packagesR/ristretto.git",
       "branch": "master",
-      "revision": "74cd18140c2acae2a64dd9bf703ace87467ff432"
+      "revision": "940e24aa9346c0e3434c9fee1f493c52be794511"
     },
     "rocs": {
       "url": "gitea@gitea.artixlinux.org:packagesR/rocs.git",
