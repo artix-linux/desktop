@@ -2179,7 +2179,7 @@
     "khtml": {
       "url": "gitea@gitea.artixlinux.org:packagesK/khtml.git",
       "branch": "master",
-      "revision": "2194839f0324cc4640a14ccca7751821ef57fe42"
+      "revision": "6aa6b7c929f04d25fec0d8d65e90321469dd62db"
     },
     "ki18n": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ki18n.git",
