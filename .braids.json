@@ -2689,7 +2689,7 @@
     "kservice": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kservice.git",
       "branch": "master",
-      "revision": "5b4a1468a7a8f6622427428c1ca63b4cc7ef88e8"
+      "revision": "dcd5db934d78cc3cbe44a0b47091d71b14453094"
     },
     "kshisen": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kshisen.git",
