@@ -2324,7 +2324,7 @@
     "kjs": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjs.git",
       "branch": "master",
-      "revision": "58589d60763a2dd30df6d625d94f95faf009c7da"
+      "revision": "8267d374dc414a503ff0ee380d31b977914b5da6"
     },
     "kjumpingcube": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kjumpingcube.git",
