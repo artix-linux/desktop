@@ -4439,7 +4439,7 @@
     "prison": {
       "url": "gitea@gitea.artixlinux.org:packagesP/prison.git",
       "branch": "master",
-      "revision": "8ba316177cb6be919de7efc50c747c9bb6a1f154"
+      "revision": "e2edbd1e25dd14d6136aee7dda4bb5de94bfe450"
     },
     "pulseaudio-qt": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pulseaudio-qt.git",
