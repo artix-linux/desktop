@@ -779,7 +779,7 @@
     "evince": {
       "url": "gitea@gitea.artixlinux.org:packagesE/evince.git",
       "branch": "master",
-      "revision": "649b7103f4b379349aa840e799ea23466e9cd64c"
+      "revision": "26f6806ee5bf88058de1f2c155ee1c01600f5af5"
     },
     "evolution": {
       "url": "gitea@gitea.artixlinux.org:packagesE/evolution.git",
