@@ -804,7 +804,7 @@
     "extra-cmake-modules": {
       "url": "gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git",
       "branch": "master",
-      "revision": "6df2e16fa85e39f42b8aeb68f6635f5e142d6230"
+      "revision": "da331505a07acfbc493f902f7556c9a859bb0eb5"
     },
     "facile": {
       "url": "gitea@gitea.artixlinux.org:packagesF/facile.git",
