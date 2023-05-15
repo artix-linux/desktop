@@ -2254,7 +2254,7 @@
     "kio": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio.git",
       "branch": "master",
-      "revision": "6e9fb32cdfed9dabecd5d2af59aa0bb7405801eb"
+      "revision": "c6e07889e180fb5a0e676dee20be4b1882e81be9"
     },
     "kio-admin": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kio-admin.git",
