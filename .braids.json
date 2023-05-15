@@ -1879,7 +1879,7 @@
     "kdbusaddons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdbusaddons.git",
       "branch": "master",
-      "revision": "49afdfaa07e6f043f6fb46bc56f8d1493e1768e8"
+      "revision": "92fd972dce02e6750244c7b91b48b49cf822f43c"
     },
     "kde-applications-meta": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kde-applications-meta.git",
