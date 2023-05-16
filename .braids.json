@@ -4254,7 +4254,7 @@
     "pimcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesP/pimcommon.git",
       "branch": "master",
-      "revision": "95ca891bcd7f701f3a72bff597bc154becbad2a9"
+      "revision": "1ce0f9012f226e5c3d7faf8d6a0606b83924584e"
     },
     "plasma-browser-integration": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plasma-browser-integration.git",
