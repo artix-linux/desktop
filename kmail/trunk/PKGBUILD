@@ -4,13 +4,13 @@
 
 pkgname=kmail
 pkgver=23.04.1
-pkgrel=1.1
+pkgrel=1.2
 pkgdesc='KDE mail client'
 arch=(x86_64)
 url='https://apps.kde.org/kmail2/'
 license=(GPL2)
 depends=(kdepim-runtime kmail-account-wizard akonadi-import-wizard mbox-importer
-         pim-data-exporter pim-sieve-editor kontactinterface ktnef ktextaddons)
+         pim-data-exporter pim-sieve-editor kontactinterface ktnef)
 makedepends=(extra-cmake-modules kdoctools)
 optdepends=('kleopatra: mail encryption support' 'kdepim-addons: additional plugins')
 groups=(kde-applications kde-pim)
