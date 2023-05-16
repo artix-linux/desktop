@@ -3,7 +3,7 @@
 
 pkgname=pimcommon
 pkgver=23.04.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='Common libraries for KDE PIM'
 arch=(x86_64)
 url='https://kontact.kde.org'
