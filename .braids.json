@@ -1479,7 +1479,7 @@
     "hexer-hobu": {
       "url": "gitea@gitea.artixlinux.org:packagesH/hexer-hobu.git",
       "branch": "master",
-      "revision": "8737ecbdeee7f885fd756a322f300cf4fbde61d9"
+      "revision": "9428a3237809193229564732c4c22afd8473aff3"
     },
     "highlight": {
       "url": "gitea@gitea.artixlinux.org:packagesH/highlight.git",
