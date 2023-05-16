@@ -5,7 +5,7 @@
 
 pkgname=cantor
 pkgver=23.04.1
-pkgrel=1
+pkgrel=1.1
 pkgdesc='KDE Frontend to Mathematical Software'
 url='https://apps.kde.org/cantor/'
 arch=(x86_64)
