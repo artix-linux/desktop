@@ -2059,7 +2059,7 @@
     "kdoctools": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdoctools.git",
       "branch": "master",
-      "revision": "94d2b9e259621eb239f9a385ef664b40019c064e"
+      "revision": "47f598f715d186fe449164f1f4beb4f4f3d29c25"
     },
     "kdsoap": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kdsoap.git",
