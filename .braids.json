@@ -2769,7 +2769,7 @@
     "ktextwidgets": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktextwidgets.git",
       "branch": "master",
-      "revision": "98f3c17f5a4dcead2c97b63dffb316e07048b84f"
+      "revision": "e1818368198186ecb304bc1395869d5ca9037cf9"
     },
     "ktimer": {
       "url": "gitea@gitea.artixlinux.org:packagesK/ktimer.git",
