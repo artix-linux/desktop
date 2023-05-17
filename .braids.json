@@ -414,7 +414,7 @@
     "breeze-icons": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-icons.git",
       "branch": "master",
-      "revision": "288045151689c83de63c7e689e456f003de03128"
+      "revision": "5e6c4b20daa55e52c7d1acc2beb229a5f17c59ec"
     },
     "breeze-plymouth": {
       "url": "gitea@gitea.artixlinux.org:packagesB/breeze-plymouth.git",
