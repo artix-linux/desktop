@@ -2894,7 +2894,7 @@
     "kxmlgui": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kxmlgui.git",
       "branch": "master",
-      "revision": "0f26c1356d99703babfc5f8cb1cfc17f5184cd78"
+      "revision": "61ed5238e68aa610ba4d1f628f635cebb3d20479"
     },
     "kyotocabinet": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kyotocabinet.git",
