@@ -1719,7 +1719,7 @@
     "kapidox": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapidox.git",
       "branch": "master",
-      "revision": "712a908dd50a5bee95e71ac943fd0c5634273c68"
+      "revision": "e65532d5f705198570b29044365af9bd32d3f0d7"
     },
     "kapman": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kapman.git",
