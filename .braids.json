@@ -2999,7 +2999,7 @@
     "libdwarf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libdwarf.git",
       "branch": "master",
-      "revision": "260405b36b607938a62cbdf728bc5764ab3f3573"
+      "revision": "32f5fdc4007141a8dbcc59f68db68da2f3b1e044"
     },
     "libetebase": {
       "url": "gitea@gitea.artixlinux.org:packagesL/libetebase.git",
