@@ -5044,7 +5044,7 @@
     "tree-sitter": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tree-sitter.git",
       "branch": "master",
-      "revision": "b75ac318865899f28491025f37d8a86843f4e1f8"
+      "revision": "7bf3874e0f47d1ddb7d7e8eba80917203b0fc3cd"
     },
     "ttf-ubuntu-font-family": {
       "url": "gitea@gitea.artixlinux.org:packagesT/ttf-ubuntu-font-family.git",
