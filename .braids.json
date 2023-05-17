@@ -4954,7 +4954,7 @@
     "tellico": {
       "url": "gitea@gitea.artixlinux.org:packagesT/tellico.git",
       "branch": "master",
-      "revision": "f69671769c9617ec9832e75ccbe6b3001025ad36"
+      "revision": "37aef9623fabc608df6fc591352811e2ad10c428"
     },
     "telly-skout": {
       "url": "gitea@gitea.artixlinux.org:packagesT/telly-skout.git",
