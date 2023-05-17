@@ -1,11 +1,12 @@
 # Maintainer: Nathan <ndowens@artixlinux.org>
+# Contributor: Massimiliano Torromeo <massimiliano.torromeo@gmail.com>
 # Contributor: Alain Kalker <a.c.kalker@gmail.com>
 # Contributor: Marti Raudsepp <marti@juffo.org>
 
 pkgname=libdwarf
 epoch=1
 pkgver=0.6.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A library for handling DWARF Debugging Information Format"
 arch=(x86_64)
 license=('GPL' 'LGPL')
