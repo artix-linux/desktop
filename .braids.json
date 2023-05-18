@@ -89,7 +89,7 @@
     "aml": {
       "url": "gitea@gitea.artixlinux.org:packagesA/aml.git",
       "branch": "master",
-      "revision": "da36d95aa6530f9c28fa72bdaa0836f37995a358"
+      "revision": "6c9ad2110d91d24c38ef5d5440ace8d398e6c475"
     },
     "amtk": {
       "url": "gitea@gitea.artixlinux.org:packagesA/amtk.git",
