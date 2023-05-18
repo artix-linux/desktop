@@ -2079,7 +2079,7 @@
     "keepassxc": {
       "url": "gitea@gitea.artixlinux.org:packagesK/keepassxc.git",
       "branch": "master",
-      "revision": "0a262431747be18880146fac42b5a9143459feea"
+      "revision": "719ed4bf4e01e37a748ad2ad4ccfc867cb7743b0"
     },
     "kemoticons": {
       "url": "gitea@gitea.artixlinux.org:packagesK/kemoticons.git",
