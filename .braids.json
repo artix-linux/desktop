@@ -3959,7 +3959,7 @@
     "neatvnc": {
       "url": "gitea@gitea.artixlinux.org:packagesN/neatvnc.git",
       "branch": "master",
-      "revision": "84161b115644884a10bf678d3f5764c29b26afed"
+      "revision": "7f0002120e910bfdf568734c20f0bf81379bb0f6"
     },
     "nemo": {
       "url": "gitea@gitea.artixlinux.org:packagesN/nemo.git",
