@@ -4394,7 +4394,7 @@
     "plymouth-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesP/plymouth-kcm.git",
       "branch": "master",
-      "revision": "a2e8799234e2d9706533a39d830b2c1f1b3d0f11"
+      "revision": "2e708645d13e117b09c9fe4998327d865d30ed0d"
     },
     "podofo": {
       "url": "gitea@gitea.artixlinux.org:packagesP/podofo.git",
