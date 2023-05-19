@@ -1004,7 +1004,7 @@
     "gjs": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gjs.git",
       "branch": "master",
-      "revision": "b4b4430b75b616e697d629e70fc837e363a834b3"
+      "revision": "8ea029e5b1060e1f7938d36bb8c554c92893b5ce"
     },
     "gmime3": {
       "url": "gitea@gitea.artixlinux.org:packagesG/gmime3.git",
