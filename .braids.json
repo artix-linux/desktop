@@ -869,7 +869,7 @@
     "flatpak-kcm": {
       "url": "gitea@gitea.artixlinux.org:packagesF/flatpak-kcm.git",
       "branch": "master",
-      "revision": "59873cd6e5409c3b675381df947cdedf764422e0"
+      "revision": "fba2e9a67ea158f41eebc08cf1d0ec93ed7bc522"
     },
     "folks": {
       "url": "gitea@gitea.artixlinux.org:packagesF/folks.git",
